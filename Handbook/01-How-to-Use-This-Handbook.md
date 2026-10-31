@@ -1,6 +1,6 @@
 # How to Use This Handbook
 
-> **Website and PDF:** this handbook is available as a website at <https://bendigeidfran.github.io/syx-modding-handbook/> and as a PDF. Both are built from the same pages, so they always contain the same information.
+> **Website and PDF:** this handbook is available as a website at <https://bendigeidfran.github.io/Syx-Modding-Handbook/> and as a PDF. Both are built from the same pages, so they always contain the same information.
 >
 > If you found the PDF on Google Drive, download it and open it in your web browser (or any PDF reader) rather than reading it in Drive's preview. Drive's preview doesn't support links within the document, so the contents page and the page titles, which link to each other, won't work there.
 

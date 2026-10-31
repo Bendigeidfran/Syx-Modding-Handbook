@@ -2,7 +2,7 @@
 
 A learning handbook for modding [Songs of Syx](https://songsofsyx.com/), written for v0.71.44.
 
-Read it online at **https://bendigeidfran.github.io/syx-modding-handbook/**.
+Read it online at **https://bendigeidfran.github.io/Syx-Modding-Handbook/**.
 
 The pages live in [`Handbook/`](Handbook/). Its folders mirror the game's own `data/assets` folders.
 
