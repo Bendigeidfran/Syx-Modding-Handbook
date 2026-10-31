@@ -1,0 +1,61 @@
+site_name: Songs of Syx Modding Handbook
+site_description: A learning handbook for modding Songs of Syx v0.71.44.
+site_author: Bendigeidfran
+site_url: https://bendigeidfran.github.io/syx-modding-handbook/
+repo_url: https://github.com/Bendigeidfran/syx-modding-handbook
+repo_name: Bendigeidfran/syx-modding-handbook
+edit_uri: ""
+copyright: >-
+  Songs of Syx Modding Handbook by Bendigeidfran is licensed under
+  <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
+
+docs_dir: Handbook
+site_dir: site
+exclude_docs: |
+  *.pdf
+
+hooks:
+  - site_hooks.py
+
+theme:
+  name: material
+  custom_dir: site_theme
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - search.highlight
+    - content.code.copy
+
+extra_css:
+  - assets/handbook.css
+
+markdown_extensions:
+  - tables
+  - sane_lists
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+
+validation:
+  links:
+    not_found: warn
+    anchors: warn
+    unrecognized_links: warn
+  omitted_files: warn

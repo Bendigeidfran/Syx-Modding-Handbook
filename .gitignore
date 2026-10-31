@@ -1,0 +1,13 @@
+# Only the handbook and the files needed to publish it are tracked.
+# Everything else in this folder is ignored by default.
+/*
+!/.gitignore
+!/LICENSE
+!/README.md
+!/mkdocs.yml
+!/requirements.txt
+!/site_hooks.py
+!/site_theme/
+!/.github/
+!/Handbook/
+/Handbook/**/*.pdf
