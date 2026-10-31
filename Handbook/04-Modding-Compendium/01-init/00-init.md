@@ -16,7 +16,7 @@ Sections are added as they're written. Those not yet available are listed withou
 - [init/disease](04-disease.md)
 - [init/event](05-event/00-event.md)
 - [init/player](06-player/00-player.md)
-- [init/race](07-race/00-race.md) (in progress)
+- [init/race](07-race/00-race.md)
 - init/religion (not yet written)
 - init/resource (not yet written)
 - init/room (not yet written)

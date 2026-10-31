@@ -4,11 +4,11 @@ The `sprite` folder holds the game's images as `.png` files: character and anima
 
 In the game's data, the folder is at `data/assets/sprite`. In a mod, it goes in `V71/assets/sprite`.
 
-*This chapter hasn't been written yet.* Its sections will follow the game's sub-folders:
+*Most of this chapter hasn't been written yet.* Its sections follow the game's sub-folders:
 
 - sprite/animal
 - sprite/font
-- sprite/game
+- [sprite/game](03-game.md)
 - sprite/icon
 - sprite/image
 - sprite/menu

@@ -159,7 +159,7 @@ SPRITE_EXTRA_FILE: Normal,
 
 ### NAMESET_FILE_NOBLE
 
-A [name-set file](#name-set-files) of surnames, used when the game names this race's camps on the world map. A camp's name is a random entry from this file followed by a name from the camp's own list. See [init/race/worldcamp](../00-race.md).
+A [name-set file](#name-set-files) of surnames, used when the game names this race's camps on the world map. A camp's name is taken from the camp's own list of names, with a random surname from this file put in place of `{0}`. See [init/race/worldcamp](../08-worldcamp.md#the-text-file).
 
 Despite the tag's name, these surnames aren't given to nobles in your settlement. Subjects' names, nobles included, come from their type's `NAMESET_FILE_FIRST` and `NAMESET_FILE_SURNAME` (see [Types and faces](02-types-and-faces.md#nameset_file_first-and-nameset_file_surname)).
 

@@ -169,7 +169,7 @@ The attractions tourists of a race look for aren't set here. They're taken from 
 
 ### HOME
 
-The name of the file in [`init/race/home/`](00-race.md) that sets the furniture and floors of this race's homes.
+The name of the file in [`init/race/home/`](04-home.md) that sets the furniture and floors of this race's homes.
 
 | | |
 |---|---|
@@ -260,7 +260,7 @@ TRAITS: {
 },
 ```
 
-The game does read a block named **`TRAIT`** (singular). It gives the chance, from 0 to 1, that a member of this race has each [personality trait](00-race.md), overriding the default chance set in the trait's own file. Vanilla doesn't use it.
+The game does read a block named **`TRAIT`** (singular). It gives the chance, from 0 to 1, that a member of this race has each [personality trait](07-trait.md), overriding the default chance set in the trait's own file. Vanilla doesn't use it.
 
 | | |
 |---|---|

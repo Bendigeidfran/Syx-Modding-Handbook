@@ -247,7 +247,7 @@ Save the file.
 
 ### A note on the `TRAITS` block
 
-While you're in this file, you may see a `TRAITS` block listing `FIGHTER`, `GLUTTON` and `SPRINTER`. You might expect to change these to make the race faster, as the previous edition of this handbook did. In v0.71.44 the game doesn't read this block at all, and those traits no longer exist. Traits are now defined in `init/race/trait`, and each trait file sets how common it is for each race. Changing the `TRAITS` block has no effect, which is why this guide uses a speed boost instead.
+While you're in this file, you may see a `TRAITS` block listing `FIGHTER`, `GLUTTON` and `SPRINTER`. You might expect to change these to make the race faster, as the previous edition of this handbook did. In v0.71.44 the game doesn't read this block at all, and those traits no longer exist. Traits are now defined in [`init/race/trait`](04-Modding-Compendium/01-init/07-race/07-trait.md), and each trait file sets how common it is for each race. Changing the `TRAITS` block has no effect, which is why this guide uses a speed boost instead.
 
 ## Step 5: Edit the appearance file
 
