@@ -92,7 +92,7 @@ DANGER: 0.5,
 
 The icon that represents the species in the interface. The value is a path to an icon, separated by `->`: the icon size folder (`16`, `24` or `32`), then any sub-folders, then the image name, then the number of the icon within that image. The path is relative to `assets/sprite/icon/`.
 
-The example below uses icon `0` from `assets/sprite/icon/32/animal/Auroch.png`.
+For example, `32->animal->Auroch->0` is icon `0` from `assets/sprite/icon/32/animal/Auroch.png`.
 
 | | |
 |---|---|
@@ -108,7 +108,7 @@ ICON: 32->animal->Auroch->0,
 
 The sprite sheet the animal is drawn from: the name of an image in `assets/sprite/animal/`, without `.png`. Several species can share one sheet.
 
-The game cuts the sheet into frames using a fixed layout. Every vanilla animal sheet is 164 × 462 pixels, so the safest way to make a new one is to copy a vanilla sheet and paint over it.
+The image must be exactly 164 pixels wide and at least 462 pixels tall, or the game stops loading with an error. The game cuts it into frames using a fixed layout, so the safest way to make a new sheet is to copy a vanilla one and paint over it.
 
 | | |
 |---|---|
@@ -130,6 +130,7 @@ The game reads and stores this value, but in v0.71.44 nothing uses it: changing 
 | **Type** | Colour (`RED_GREEN_BLUE`) |
 | **Range** | Each part should be 0 to 255. The game doesn't check this, but since the tag has no effect, it doesn't matter. |
 | **Required** | Yes. The tag must be present even though it has no effect. |
+| **Effect** | None |
 
 ```text
 COLOR: 255_255_255,
@@ -243,6 +244,7 @@ The game reads and stores this value, but in v0.71.44 nothing uses it: changing 
 |---|---|
 | **Type** | True/false |
 | **Required** | Yes. The tag must be present even though it has no effect. |
+| **Effect** | None |
 
 ```text
 PACK: true,
@@ -258,6 +260,7 @@ The game reads and stores this value, but in v0.71.44 nothing uses it: changing 
 |---|---|
 | **Type** | True/false |
 | **Required** | Yes. The tag must be present even though it has no effect. |
+| **Effect** | None |
 
 ```text
 GRAZES: true,
@@ -274,6 +277,7 @@ The game reads and stores these values, but in v0.71.44 nothing uses them: chang
 | **Type** | Block of decimals, keyed by damage type |
 | **Range** | Each value 0 to 10000 |
 | **Required** | No |
+| **Effect** | None |
 
 ```text
 DAMAGE: {
@@ -283,7 +287,7 @@ DAMAGE: {
 
 ## The text file
 
-Each species needs a file of the same name in `assets/text/animal/`, holding its name and description:
+Each species needs a file of the same name in `assets/text/animal/`, holding its name and description. Vanilla wraps these tags in an `INFO` block, but they can also be written at the top level of the file. If `NAME` is at the top level, the game reads all of them from there; otherwise it reads them from `INFO`.
 
 ```text
 INFO: {
@@ -293,13 +297,135 @@ INFO: {
 },
 ```
 
-| Tag | Meaning | Required |
-|---|---|---|
-| `NAME` | The singular name. | Yes |
-| `NAMES` | The plural name. | No. If it's missing, `NAME` is used. |
-| `DESC` | The description. | Yes |
+### NAME
 
-The tags can also be written at the top level of the file, without the surrounding `INFO` block.
+The species' singular name, shown in the game's interface.
+
+| | |
+|---|---|
+| **Type** | Text |
+| **Required** | Yes |
+
+```text
+NAME: "Auroch",
+```
+
+### NAMES
+
+The species' plural name.
+
+| | |
+|---|---|
+| **Type** | Text |
+| **Required** | No. If it's missing, `NAME` is used. |
+
+```text
+NAMES: "Aurochs",
+```
+
+### DESC
+
+The species' description.
+
+| | |
+|---|---|
+| **Type** | Text |
+| **Required** | Yes |
+
+```text
+DESC: "Aurochs are giant beasts, found in the north, with a ferocious temperament.",
+```
+
+### WIKI
+
+Adds an article about the species to the in-game wiki. It goes next to `NAME`, so if the file uses an `INFO` block, `WIKI` must be inside it. No vanilla animal has one; rooms and religions do, and the examples for these tags come from the vanilla `text/room/WELL_NORMAL.txt` unless stated otherwise.
+
+The article appears in the wiki's own list. Nothing on an animal's interface links to it.
+
+| | |
+|---|---|
+| **Type** | Block |
+| **Required** | No. Without it, the species has no article. |
+
+```text
+WIKI: {
+	CATEGORY: "Service",
+	NAME: "Well",
+	TEXT: "Can be used to endure hot weather or get clean.",
+	CATEGORIES: [],
+},
+```
+
+### WIKI.NAME
+
+The article's title.
+
+| | |
+|---|---|
+| **Type** | Text |
+| **Required** | Yes, if the `WIKI` block is present. |
+
+```text
+NAME: "Well",
+```
+
+### WIKI.CATEGORY
+
+The category the article is listed under in the wiki. It's free text, so writing a new one creates a new category.
+
+| | |
+|---|---|
+| **Type** | Text |
+| **Required** | Yes, if the `WIKI` block is present. |
+
+```text
+CATEGORY: "Service",
+```
+
+### WIKI.TEXT
+
+The article itself. It can contain two kinds of markup:
+
+- `<a LINK_KEY TEXT>` shows `TEXT` as a link to the article with that `LINK_KEY`.
+- `<c RRR_GGG_BBB TEXT>` shows `TEXT` in that colour.
+
+Don't use `<` for anything else. The game treats it as a mistake and drops it along with the character after it, and only reports this when Debug is on. The game's own error message also mentions `<u TEXT>` for underlined text, but v0.71.44 doesn't support it.
+
+| | |
+|---|---|
+| **Type** | Text |
+| **Required** | Yes, if the `WIKI` block is present. |
+
+```text
+TEXT: "Can be used to endure hot weather or get clean.",
+```
+
+### WIKI.LINK_KEY
+
+A name other articles can use to link to this one with `<a LINK_KEY TEXT>`. Each `LINK_KEY` can be used by only one article: a duplicate is a loading error. This example comes from the vanilla `text/wiki/GUIDE.txt`.
+
+| | |
+|---|---|
+| **Type** | Key |
+| **Required** | No |
+
+```text
+LINK_KEY: ROUND,
+```
+
+### WIKI.CATEGORIES
+
+An empty list that vanilla wiki articles include. The game never reads it, so it can be left out.
+
+| | |
+|---|---|
+| **Type** | List |
+| **Required** | No |
+| **Effect** | Unread |
+
+```text
+CATEGORIES: [],
+```
 
 ## Notes
 
@@ -313,11 +439,7 @@ ANIMAL_CALL_AUROCH: [
 ],
 ```
 
-If a species has no matching entry, the game shows a warning and the animal makes no sound. The format of sound entries is covered in the audio chapter.
-
-### Tags that have no effect
-
-`COLOR`, `PACK`, `GRAZES` and `DAMAGE` are read by the game but not used in v0.71.44. All of them except `DAMAGE` must still be present, or the file won't load. It's simplest to copy them from a vanilla file and leave them alone.
+If a species has no matching entry, the animal makes no sound and the game carries on. The game only logs a warning about it when Debug is on, so a missing call is easy to overlook. The format of sound entries is covered in the audio chapter.
 
 ### Where species are used
 

@@ -26,7 +26,7 @@ Every page follows the same layout:
 
 1. **An overview** of what the files control and where you'll see their effects in game.
 2. **At a glance**: where the files live, what they're called, how other files refer to them, whether you can add new ones, and which other files go with them.
-3. **Tags**: every tag the game reads from the file, one section each.
+3. **Tags**: every tag the game reads from the file, one section each. Closely related tags, such as those inside a block, may share a table instead. A name such as `WIKI.TEXT` means the `TEXT` tag inside the `WIKI` block.
 4. **Notes**: anything that doesn't fit under a single tag, such as rules that span several files or tags that appear in vanilla files but have no effect.
 5. **Related pages**.
 
@@ -39,6 +39,7 @@ Each tag entry describes what the tag does, followed by a short table:
 | **Type** | What kind of value the tag takes. See the list below. |
 | **Range** | The values the game accepts. A value outside this range causes a loading error, with one exception: for integers, the game only checks the minimum. Where the game's code also names a maximum for an integer, the entry mentions it; staying within it is the safe choice, even though exceeding it won't cause an error. |
 | **Required** | Whether the tag must be present. If it's optional, the entry gives the default the game uses when it's missing. |
+| **Effect** | Shown on some tags that do nothing. `None` means the game reads the tag but nothing uses it. `Unread` means the game doesn't read it at all. |
 
 The types you'll see are:
 
@@ -51,6 +52,8 @@ The types you'll see are:
 - **Block**: a group of tags in curly brackets, such as `CLIMATE: { COLD: 0.8, },`. The entry lists which tags the block can contain.
 
 Each entry ends with an example taken from a vanilla file, so you can see the tag as the game itself uses it.
+
+A sentence starting with **Unverified:** hasn't been confirmed in the game's code, so treat it as a best understanding, and test it in game if you depend on it.
 
 ### Spelling
 

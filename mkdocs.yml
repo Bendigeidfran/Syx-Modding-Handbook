@@ -16,6 +16,7 @@ exclude_docs: |
 
 hooks:
   - site_hooks.py
+  - site_toolkit.py
 
 theme:
   name: material
