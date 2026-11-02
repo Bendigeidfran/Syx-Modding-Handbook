@@ -27,7 +27,9 @@ OCCURENCE: {
 
 ### CLIMATE, TERRAIN and RACE
 
-How likely the event is, depending on your settlement's climate, the terrain around it, and the races living in it. Each is a block of weights:
+How likely the event is, depending on your settlement's climate, the terrain around it, and the races living in it.
+
+Each is a block of weights:
 
 - `CLIMATE` is keyed by climate: `COLD`, `TEMPERATE` and `HOT`.
 - `TERRAIN` is keyed by terrain: `OCEAN`, `WET`, `MOUNTAIN`, `FOREST` and `NONE`.

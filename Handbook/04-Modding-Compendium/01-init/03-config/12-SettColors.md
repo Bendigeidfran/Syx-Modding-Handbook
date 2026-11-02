@@ -22,7 +22,7 @@ TREE: {R:58, G:104, B:26,},
 
 ### MINIMAP
 
-The colours used for features on the minimap. The block must contain all six of these colours:
+The colours used for features on the minimap. The block must contain all six.
 
 | Tag | Used for |
 |---|---|

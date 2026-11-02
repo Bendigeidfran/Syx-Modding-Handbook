@@ -292,7 +292,7 @@ Vanilla doesn't use this action.
 
 ### ALTER_SELECTION
 
-Changes the subjects the event has selected. Vanilla doesn't use this action, and in v0.71.44 it doesn't work as intended:
+Changes the subjects the event has selected. Vanilla doesn't use this action, and in v0.71.44 it doesn't work as intended.
 
 | Tag | Meaning | Required |
 |---|---|---|

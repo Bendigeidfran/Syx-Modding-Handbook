@@ -281,6 +281,8 @@ def build(pages, site_url):
             effect = entry["facts"].get("effect")
             if effect not in (None, "None", "Unread"):
                 problems.append(f"{rel}: {entry['paths'][0]}: Effect must be exactly None or Unread")
+            if entry["prose"] and entry["prose"][0].endswith(":"):
+                problems.append(f"{rel}: {entry['paths'][0]}: the first paragraph is shown alone in the toolkit, so it can't end in a colon")
             kind = "text_tags" if entry["section"]["text"] else "tags"
             block = locations.setdefault(location, {"tags": {}, "text_tags": {}})
             for path in entry["paths"]:

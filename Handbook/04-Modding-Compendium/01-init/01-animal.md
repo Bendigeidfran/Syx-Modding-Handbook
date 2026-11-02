@@ -9,7 +9,7 @@ Each file in `init/animal` defines one species of animal: how big and fast it is
 | **Location** | `assets/init/animal/` |
 | **Files** | One `.txt` file per species, e.g. `AUROCH.txt` |
 | **Key** | The file name without `.txt`, e.g. `AUROCH`. Other files use this key to refer to the species. |
-| **Adding new files** | Yes. Every file in the folder is loaded as a species, so a new file adds a new animal. |
+| **Adding new files** | Yes. Every file not starting with `_` is loaded as a species, so a new file adds a new animal. |
 | **Text file** | `assets/text/animal/<KEY>.txt`, which must exist and have the same name. |
 | **Sprite sheet** | `assets/sprite/animal/<name>.png`, named by the `SPRITE` tag. |
 | **Sound** | An `ANIMAL_CALL_<KEY>` entry in a file in `assets/audio/config/mono/`. |
@@ -36,7 +36,9 @@ SPEED: 4,
 
 ### HEIGHT
 
-How tall the animal is. Each individual animal's height varies up to 25% either side of this value. The game uses height in three ways:
+How tall the animal is. Each individual animal's height varies up to 25% either side of this value.
+
+The game uses height in three ways:
 
 - **Shadows.** Taller animals cast longer shadows.
 - **Drawing order.** Taller things are drawn in front of shorter ones.
@@ -54,7 +56,9 @@ HEIGHT: 5,
 
 ### MASS
 
-How heavy the animal is. Each individual animal's weight varies up to 20% either side of this value. Mass affects several things:
+How heavy the animal is. Each individual animal's weight varies up to 20% either side of this value.
+
+Mass affects several things:
 
 - **Resources yielded when butchered.** See `RESOURCE_AMOUNT`.
 - **Pasture capacity.** Heavier animals need more space, so fewer fit in a pasture of the same size.
@@ -384,7 +388,9 @@ CATEGORY: "Service",
 
 ### WIKI.TEXT
 
-The article itself. It can contain two kinds of markup:
+The article itself, which can include links and coloured text.
+
+The markup is:
 
 - `<a LINK_KEY TEXT>` shows `TEXT` as a link to the article with that `LINK_KEY`.
 - `<c RRR_GGG_BBB TEXT>` shows `TEXT` in that colour.

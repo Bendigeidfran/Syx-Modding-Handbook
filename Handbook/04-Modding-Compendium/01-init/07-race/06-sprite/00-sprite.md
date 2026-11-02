@@ -140,7 +140,9 @@ SLEEP_FILE: Blanket,
 
 ### SPRITE_EXTRA_FILE
 
-The image holding the extras drawn with a subject's body in the settlement:
+The image holding the extras drawn with a subject's body in the settlement, such as the tools they hold while working.
+
+It holds:
 
 - the tools they hold while working;
 - the trolley they push when carrying more than 4 units of a resource;

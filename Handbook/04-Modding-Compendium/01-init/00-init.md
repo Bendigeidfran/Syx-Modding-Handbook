@@ -17,7 +17,7 @@ Sections are added as they're written. Those not yet available are listed withou
 - [init/event](05-event/00-event.md)
 - [init/player](06-player/00-player.md)
 - [init/race](07-race/00-race.md)
-- init/religion (not yet written)
+- [init/religion](08-religion.md)
 - init/resource (not yet written)
 - init/room (not yet written)
 - init/script (empty in vanilla; not yet written)

@@ -129,7 +129,7 @@ ON_SPAWN: {
 
 ### CHOICES
 
-Options the player can choose between, shown as buttons in the event's message. Each choice is a block in the list:
+Options the player can choose between, shown as buttons in the event's message. Each choice is a block in the list.
 
 | Tag | Meaning | Required |
 |---|---|---|
