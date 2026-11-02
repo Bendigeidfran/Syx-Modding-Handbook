@@ -13,7 +13,7 @@ Six sub-folders then give some of those resources a further role. A resource bec
 | [`supply/`](06-supply.md) | Defines a supply that armies consume. |
 | [`work/`](07-work.md) | Defines equipment that workers use to boost a room's output. |
 
-So a new resource starts with a file in `init/resource`, then gets a file in each sub-folder that applies. Rooms in `assets/init/room/` are what actually produce resources.
+So a new resource starts with a file in `init/resource`, then gets a file in each sub-folder that applies. Rooms in `assets/init/room/` are what actually produce resources, and [every resource must have a room that can produce it](01-resource-file.md#every-resource-needs-a-producer), or the game crashes.
 
 ## Sections
 

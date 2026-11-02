@@ -9,7 +9,7 @@ Each file directly in `init/resource` defines one resource: its icon, the images
 | **Location** | `assets/init/resource/` |
 | **Files** | One `.txt` file per resource, e.g. `BREAD.txt` |
 | **Key** | The file name without `.txt`, e.g. `BREAD`. Other files use this key to refer to the resource. |
-| **Adding new files** | Yes. Every file not starting with `_` is loaded as a resource, as well as the three required files below. |
+| **Adding new files** | Yes. Every file not starting with `_` is loaded as a resource, as well as the three required files below. Each resource also needs a room that produces it; see the notes. |
 | **Required files** | `_STONE.txt`, `_WOOD.txt` and `_LIVESTOCK.txt`, which the game loads by name. |
 | **Text file** | `assets/text/resource/<KEY>.txt`, which must exist and have the same name |
 | **Images** | In `assets/sprite/resource/` and `assets/sprite/resource/debris/`, named by the `SPRITE` and `SPRITE_DEBRIS` tags. |
@@ -106,7 +106,7 @@ SPRITE_DEBRIS: Wood,
 
 The group the resource is listed in. Resources are ordered by this number throughout the game, and the stockpile's settings and the resource list on the right of the settlement screen separate the groups. Vanilla uses `0` to `4`.
 
-A value of 10 or more crashes the game while loading.
+A value of 10 or more crashes the game while loading. So does having more than 64 resources in one group, or more than 128 in total. These limits count vanilla and every enabled mod together, though a file with the same name in several places counts once.
 
 | | |
 |---|---|
@@ -200,9 +200,19 @@ Adds an article about the resource to the in-game wiki. No vanilla resource has 
 
 ## Notes
 
+### Every resource needs a producer
+
+Every resource must have at least one room that can produce it, or the game crashes while it's running. It doesn't stop with an error when loading, so a new game can start normally before this happens. To count as a producer, a room must meet all of these:
+
+- **It produces the resource at a rate above 0.** Most rooms set this in [`INDUSTRY.OUT`](../10-room/03-production.md#industryout). The rate that counts is `AI_RATE` if it's there, not `PLAYER`.
+- **Its ingredients can be produced too.** Each resource in its `IN` block needs a producer of its own. Resources that only make each other, with nothing to start the chain, don't count. The game only looks 10 passes deep, so a very long chain might not count either.
+- **It isn't a Hunter room.** The game ignores what `HUNTER_` rooms produce here.
+
+There are two ways the crash can happen. With no room producing the resource at all, it happens when an AI faction's stockpile updates. With a room that doesn't meet the other conditions, it happens when the game's advice panel counts your resources.
+
 ### Limits
 
-The game holds at most 128 resources, and at most 64 in any one `CATEGORY_DEFAULT` group. Going over either crashes the game while loading. Vanilla has 42.
+The game holds at most 128 resources, and at most 64 in any one `CATEGORY_DEFAULT` group. Vanilla and every enabled mod count together, and a file with the same name in several places counts once. Going over either limit crashes the game while loading. Vanilla has 42, so keep this in mind if your mod is likely to be used alongside others that add resources.
 
 ### The three required resources
 

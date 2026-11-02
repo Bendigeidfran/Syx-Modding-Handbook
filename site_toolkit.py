@@ -74,6 +74,124 @@ PAGE_MAP = {
         "location": "assets/init/race/sprite/",
         "sections": {"TYPES": "TYPES", "Type tags": "TYPES", "Face parts": "TYPES.FACE", "CHILD": "CHILD"},
     },
+    "01-init/10-room/03-production.md": {
+        "paths": {t: [t, f"INDUSTRIES.{t}"] for t in ("INDUSTRY", "INDUSTRY.IN", "INDUSTRY.OUT", "INDUSTRY.ICON")},
+    },
+    "01-init/10-room/05-food.md": {
+        "sections": {
+            "FARM": {"location": "assets/init/room/FARM_*"},
+            "ORCHARD": {"location": "assets/init/room/ORCHARD_*"},
+            "PASTURE": {"location": "assets/init/room/PASTURE_*"},
+            "FISHERY": {"location": "assets/init/room/FISHERY_*"},
+            "HUNTER": {"location": "assets/init/room/HUNTER_*"},
+            "_CANNIBAL": {"location": "assets/init/room/_CANNIBAL.txt"},
+        },
+    },
+    "01-init/10-room/08-industry.md": {
+        "sections": {
+            "WORKSHOP": {"location": "assets/init/room/WORKSHOP_*"},
+            "REFINER": {"location": "assets/init/room/REFINER_*"},
+            "MINE": {"location": "assets/init/room/MINE_*"},
+            "_WOODCUTTER": {"location": "assets/init/room/_WOODCUTTER.txt"},
+        },
+    },
+    "01-init/10-room/06-health.md": {
+        "sections": {
+            "PHYSICIAN": {"location": "assets/init/room/PHYSICIAN_*"},
+            "_ASYLUM": {"location": "assets/init/room/_ASYLUM.txt"},
+            "_HOSPITAL": {"location": "assets/init/room/_HOSPITAL.txt"},
+        },
+    },
+    "01-init/10-room/07-home.md": {
+        "sections": {
+            "_HOME": {"location": "assets/init/room/_HOME.txt"},
+            "_HOME_CHAMBER": {"location": "assets/init/room/_HOME_CHAMBER.txt"},
+        },
+    },
+    "01-init/10-room/10-knowledge.md": {
+        "sections": {
+            "LABORATORY": {"location": "assets/init/room/LABORATORY_*"},
+            "LIBRARY": {"location": "assets/init/room/LIBRARY_*"},
+            "SCHOOL": {"location": "assets/init/room/SCHOOL_*"},
+            "UNIVERSITY": {"location": "assets/init/room/UNIVERSITY_*"},
+        },
+    },
+    "01-init/10-room/15-water.md": {
+        "sections": {
+            "POOL": {"location": "assets/init/room/POOL_*"},
+            "_WATERCANAL": {"location": "assets/init/room/_WATERCANAL.txt"},
+            "_WATERDRAIN": {"location": "assets/init/room/_WATERDRAIN.txt"},
+            "_WATERPUMP": {"location": "assets/init/room/_WATERPUMP.txt"},
+        },
+    },
+    "01-init/10-room/11-law.md": {
+        "sections": {
+            "_COURT": {"location": "assets/init/room/_COURT.txt"},
+            "_EXECUTION": {"location": "assets/init/room/_EXECUTION.txt"},
+            "_GUARD": {"location": "assets/init/room/_GUARD.txt"},
+            "_POLICE": {"location": "assets/init/room/_POLICE.txt"},
+            "_PRISON": {"location": "assets/init/room/_PRISON.txt"},
+            "_STOCKADE": {"location": "assets/init/room/_STOCKADE.txt"},
+            "_STOCKS": {"location": "assets/init/room/_STOCKS.txt"},
+        },
+    },
+    "01-init/10-room/12-military.md": {
+        "sections": {
+            "ARCHERY": {"location": "assets/init/room/ARCHERY_*"},
+            "BARRACKS": {"location": "assets/init/room/BARRACKS_*"},
+            "ARTILLERY": {"location": "assets/init/room/ARTILLERY_*"},
+            "_MILITARY_SUPPLY": {"location": "assets/init/room/_MILITARY_SUPPLY.txt"},
+        },
+    },
+    "01-init/10-room/13-service.md": {
+        "sections": {
+            "ARENAG": {"location": "assets/init/room/ARENAG_*"},
+            "BARBER": {"location": "assets/init/room/BARBER_*"},
+            "BATH": {"location": "assets/init/room/BATH_*"},
+            "BREEDER": {"location": "assets/init/room/BREEDER_*"},
+            "CANTEEN": {"location": "assets/init/room/CANTEEN_*"},
+            "EATERY": {"location": "assets/init/room/EATERY_*"},
+            "FIGHTPIT": {"location": "assets/init/room/FIGHTPIT_*"},
+            "LAVATORY": {"location": "assets/init/room/LAVATORY_*"},
+            "MARKET": {"location": "assets/init/room/MARKET_*"},
+            "NURSERY": {"location": "assets/init/room/NURSERY_*"},
+            "PLEASURE": {"location": "assets/init/room/PLEASURE_*"},
+            "SPEAKER": {"location": "assets/init/room/SPEAKER_*"},
+            "STAGE": {"location": "assets/init/room/STAGE_*"},
+            "TAVERN": {"location": "assets/init/room/TAVERN_*"},
+            "WELL": {"location": "assets/init/room/WELL_*"},
+            "_HEARTH": {"location": "assets/init/room/_HEARTH.txt"},
+        },
+    },
+    "01-init/10-room/14-spirit.md": {
+        "sections": {
+            "GRAVEYARD": {"location": "assets/init/room/GRAVEYARD_*"},
+            "TOMB": {"location": "assets/init/room/TOMB_*"},
+            "SHRINE": {"location": "assets/init/room/SHRINE_*"},
+            "TEMPLE": {"location": "assets/init/room/TEMPLE_*"},
+            "_DUMP_CORPSE": {"location": "assets/init/room/_DUMP_CORPSE.txt"},
+        },
+    },
+    "01-init/10-room/09-infra.md": {
+        "sections": {
+            "ADMIN": {"location": "assets/init/room/ADMIN_*"},
+            "GATEHOUSE": {"location": "assets/init/room/GATEHOUSE_*"},
+            "MONUMENT": {"location": "assets/init/room/MONUMENT_*"},
+            "RESTHOME": {"location": "assets/init/room/RESTHOME_*"},
+            "_BENCH": {"location": "assets/init/room/_BENCH.txt"},
+            "_BUILDER": {"location": "assets/init/room/_BUILDER.txt"},
+            "_EMBASSY": {"location": "assets/init/room/_EMBASSY.txt"},
+            "_EXPORT": {"location": "assets/init/room/_EXPORT.txt"},
+            "_HAULER": {"location": "assets/init/room/_HAULER.txt"},
+            "_IMPORT": {"location": "assets/init/room/_IMPORT.txt"},
+            "_INN": {"location": "assets/init/room/_INN.txt"},
+            "_JANITOR": {"location": "assets/init/room/_JANITOR.txt"},
+            "_STATION": {"location": "assets/init/room/_STATION.txt"},
+            "_STOCKPILE": {"location": "assets/init/room/_STOCKPILE.txt"},
+            "_THRONE": {"location": "assets/init/room/_THRONE.txt"},
+            "_TRANSPORT": {"location": "assets/init/room/_TRANSPORT.txt"},
+        },
+    },
     "03-sprite/03-game.md": {"sections": {"Sprite entries": ""}},
 }
 
