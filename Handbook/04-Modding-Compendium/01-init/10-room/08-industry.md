@@ -36,6 +36,25 @@ WORK: {
 },
 ```
 
+### INDUSTRIES.INDUSTRY.OUT
+
+What each recipe produces, in the form described on the [production](03-production.md#industryout) page. Every recipe must have an entry, or the game stops loading with an error.
+
+| | |
+|---|---|
+| **Type** | Block, keyed by resource |
+| **Range** | A plain rate is 0 to 10000 |
+| **Required** | Yes |
+
+```text
+OUT: {
+	TOOL: {
+		PLAYER: 2.0,
+	},
+
+},
+```
+
 ### STORAGE
 
 The game never reads this tag for workshops, though every vanilla workshop has it. A workshop's storage holds 31 per tile, fixed in the game's code.
@@ -84,9 +103,9 @@ CHAIR_1X1: [
 
 ## REFINER
 
-Refiners have one or more recipes in `INDUSTRIES`. They have exactly three `ITEMS`, in this order: the machine (at least one per room), the storage (exactly one per room) and an auxiliary machine. They have three statistics, for workers, efficiency and output, which work as they do for workshops.
+Refiners have one or more recipes in `INDUSTRIES`. They have exactly three `ITEMS`, in this order: the machine (at least one per room), the storage (exactly one per room) and an auxiliary machine. They have three statistics, for workers, efficiency and output, which work as they do for workshops. The game names all three itself, so it doesn't read the `NAME` and `DESC` in a refiner's text file `STATS`, but all three blocks must still be there.
 
-The example comes from the vanilla `REFINER_BAKERY.txt`.
+The examples come from the vanilla `REFINER_BAKERY.txt`.
 
 ### WORK
 
@@ -103,6 +122,22 @@ WORK: {
 	SOUND: work->Machine*,
 	FULFILLMENT: 0,
 	ACCIDENTS_PER_YEAR: 0.05,
+},
+```
+
+### INDUSTRIES.INDUSTRY.OUT
+
+What each recipe produces, in the form described on the [production](03-production.md#industryout) page. Every recipe must have an entry, or the game stops loading with an error.
+
+| | |
+|---|---|
+| **Type** | Block, keyed by resource |
+| **Range** | A plain rate is 0 to 10000 |
+| **Required** | Yes |
+
+```text
+OUT: {
+	BREAD: 6,
 },
 ```
 

@@ -68,7 +68,7 @@ AREA_COSTS: [0,0,0,],
 
 ### FLOOR
 
-The floor laid in the room, by its key. It can be a single floor, or a list with one floor for each upgrade level. If the room has more upgrades than floors, the higher upgrades use the last floor. A race's [`ROOM_FLOOR_OVERRIDE`](../07-race/01-race-file.md#room_floor_override) can replace it when you're playing that race. This example comes from the vanilla `WELL_NORMAL.txt`.
+The floor laid in the room, by its key. It can be a single floor, or a list with one floor for each upgrade level. If the room has more upgrades than floors, the higher upgrades use the last floor. A single name that doesn't match a floor stops the game from loading, while one in a list is skipped, and only reported when Debug is on. A race's [`ROOM_FLOOR_OVERRIDE`](../07-race/01-race-file.md#room_floor_override) can replace it when you're playing that race. This example comes from the vanilla `WELL_NORMAL.txt`.
 
 | | |
 |---|---|

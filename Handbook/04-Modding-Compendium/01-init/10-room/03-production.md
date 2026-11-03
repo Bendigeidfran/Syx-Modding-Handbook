@@ -86,13 +86,13 @@ What the recipe produces: each entry names a resource by its key. An entry can b
 
 Every resource needs at least one room producing it at a rate above 0, whose ingredients can also be produced, or the game crashes while it's running. See [Every resource needs a producer](../09-resource/01-resource-file.md#every-resource-needs-a-producer).
 
-Farms and orchards must have an entry here, or the game crashes while loading.
+Whether it's needed depends on the room type. Every recipe in `INDUSTRIES` must have an entry, or the game stops loading with an error. That covers workshops, refiners, pastures and hunters. Farms and orchards must have one too, or the game crashes while loading. Rooms that only consume resources, such as bathhouses, leave it out.
 
 | | |
 |---|---|
 | **Type** | Block, keyed by resource |
 | **Range** | A plain rate is 0 to 10000 |
-| **Required** | No |
+| **Required** | Depends on the room type, as described in this entry. |
 
 ```text
 OUT: {

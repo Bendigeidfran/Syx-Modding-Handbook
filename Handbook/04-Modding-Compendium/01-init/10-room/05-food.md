@@ -328,6 +328,16 @@ Whether the pasture is indoors. An indoor pasture has a storage in place of the 
 INDOORS: true,
 ```
 
+### INDUSTRIES.INDUSTRY.OUT
+
+What each recipe produces, in the form described on the [production](03-production.md#industryout) page. Every recipe must have an entry, or the game stops loading with an error. A pasture's storage only has room for three outputs.
+
+| | |
+|---|---|
+| **Type** | Block, keyed by resource |
+| **Range** | A plain rate is 0 to 10000 |
+| **Required** | Yes |
+
 ### FENCE
 
 The game never reads this tag. A pasture's fence is drawn by its `SPRITES`.
@@ -409,6 +419,22 @@ The images a fishery is drawn with. Each name is a required [sprite entry](../..
 A Hunter room's workers hunt wild animals. Its `INDUSTRIES` recipes set its yield. These recipes don't count towards a resource having a [producer](../09-resource/01-resource-file.md#every-resource-needs-a-producer). It has exactly two `ITEMS`, in this order: the butcher table and the utilities. It has three statistics.
 
 The examples come from the vanilla `HUNTER_NORMAL.txt`.
+
+### INDUSTRIES.INDUSTRY.OUT
+
+What each recipe produces, in the form described on the [production](03-production.md#industryout) page. Every recipe must have an entry, or the game stops loading with an error.
+
+| | |
+|---|---|
+| **Type** | Block, keyed by resource |
+| **Range** | A plain rate is 0 to 10000 |
+| **Required** | Yes |
+
+```text
+OUT: {
+	MEAT: 2.2,
+},
+```
 
 ### MAX_EMPLOYED
 
