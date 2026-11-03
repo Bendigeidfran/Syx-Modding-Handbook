@@ -182,9 +182,13 @@ HOME: HUMAN,
 
 ### TECH
 
-Three vanilla races (`HUMAN`, `GARTHIMI` and `Q_AMEVIA`) have a `TECH` list.
+Three vanilla races (`HUMAN`, `GARTHIMI` and `Q_AMEVIA`) have a `TECH` list, but the game never reads it.
 
-> **TODO:** What this tag does hasn't been confirmed yet.
+| | |
+|---|---|
+| **Type** | List |
+| **Required** | No |
+| **Effect** | Unread |
 
 ```text
 TECH: [

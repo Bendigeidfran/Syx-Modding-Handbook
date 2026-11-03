@@ -91,7 +91,7 @@ DESC: "Used for technologies.",
 
 ### Using a new value
 
-A new value does nothing until something refers to its boost name. In vanilla, an admin room adds to `CIVIC_ADMIN` through its [`BOOST`](../10-room/09-infra.md) tag, and a technology spends it through `COSTS`:
+A new value does nothing until something refers to its boost name. In vanilla, an admin room adds to `CIVIC_ADMIN` through its [`BOOST`](../10-room/09-infra.md) tag, and a technology spends it through [`COSTS`](../14-tech.md#costs):
 
 ```text
 BOOST: CIVIC_ADMIN,

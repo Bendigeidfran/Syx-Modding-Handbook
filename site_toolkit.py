@@ -63,6 +63,14 @@ PAGE_MAP = {
     "01-init/12-settlement/03-floor.md": {
         "sections": {"_DEFAULT_ROAD.txt": {"location": "assets/init/settlement/floor/_DEFAULT_ROAD.txt"}},
     },
+    "01-init/15-world/01-building.md": {
+        "sections": {
+            "Level tags": "LEVELS",
+            "_CAT.txt": {"location": "assets/init/world/building/*/_CAT.txt"},
+            "_GEN.txt": {"location": "assets/init/world/building/*/_GEN.txt", "prefix": "GENS"},
+        },
+    },
+    "01-init/14-tech.md": {"sections": {"Technology tags": "TECHS"}},
     "01-init/13-stats/04-equip/03-ranged.md": {"sections": {"Projectile": "PROJECTILE"}},
     "01-init/07-race/02-preferences.md": {"location": "assets/init/race/", "sections": {"Tags": "PREFERRED"}},
     "01-init/07-race/03-stats.md": {"location": "assets/init/race/", "sections": {"Format": "STATS"}},

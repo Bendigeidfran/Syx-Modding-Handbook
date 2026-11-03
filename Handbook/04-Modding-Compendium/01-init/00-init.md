@@ -23,5 +23,5 @@ Sections are added as they're written. Those not yet available are listed withou
 - [init/script](11-script.md)
 - [init/settlement](12-settlement/00-settlement.md)
 - [init/stats](13-stats/00-stats.md)
-- init/tech (not yet written)
-- init/world (not yet written)
+- [init/tech](14-tech.md)
+- [init/world](15-world/00-world.md)

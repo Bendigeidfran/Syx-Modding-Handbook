@@ -78,7 +78,7 @@ If a name doesn't match anything, the entry is ignored. The first time this happ
 
 ### UNLOCKS_REGION
 
-Things on the world map that stay locked until you reach this level, as a list of names. These are region buildings, named `BUILDING_<category>_<building>_<level>`. Vanilla's lists are all empty.
+Things on the world map that stay locked until you reach this level, as a list of names. These are [region buildings](../15-world/01-building.md), named `BUILDING_<category>_<building>_<level>`. Vanilla's lists are all empty.
 
 The lock only applies to regions you hold.
 
