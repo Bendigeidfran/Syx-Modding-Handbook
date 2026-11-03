@@ -55,3 +55,103 @@
 .md-typeset table:not([class]) thead:not(:has(th:not(:empty))) {
   display: none;
 }
+
+/* Interactive sprite sheets (site_sheets.py, sheets.js). */
+.md-typeset figure.sheet {
+  display: block;
+  position: relative;
+  max-width: 100%;
+  margin: 1.5em auto 1em;
+  /* A checkered backing, so transparent parts of a sheet can be seen. */
+  background: repeating-conic-gradient(#d9d3c7 0% 25%, #f1ece2 0% 50%) 0 0 / 16px 16px;
+  line-height: 0;
+}
+
+[data-md-color-scheme="slate"] .md-typeset figure.sheet {
+  background: repeating-conic-gradient(#2c2820 0% 25%, #3a352b 0% 50%) 0 0 / 16px 16px;
+}
+
+.md-typeset figure.sheet img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-width: none;
+  image-rendering: pixelated;
+}
+
+.md-typeset .sheet-part {
+  position: absolute;
+  display: block;
+  padding: 0;
+  border: 0;
+  background: none;
+  outline: 1px dashed rgba(176, 138, 74, 0.55);
+  outline-offset: -1px;
+  cursor: help;
+}
+
+/* The art is what lifts. The button stays put, so the hover area doesn't move. */
+.md-typeset .sheet-art {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  image-rendering: pixelated;
+  transition: transform 0.12s ease-out, box-shadow 0.12s ease-out;
+}
+
+/* While lifted, the button covers its part of the image, so the art is only drawn once. */
+.md-typeset .sheet-part:hover,
+.md-typeset .sheet-part:focus {
+  z-index: 2;
+  outline: none;
+  background: repeating-conic-gradient(#d9d3c7 0% 25%, #f1ece2 0% 50%) 0 0 / 16px 16px;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .sheet-part:hover,
+[data-md-color-scheme="slate"] .md-typeset .sheet-part:focus {
+  background: repeating-conic-gradient(#2c2820 0% 25%, #3a352b 0% 50%) 0 0 / 16px 16px;
+}
+
+.md-typeset .sheet-part:hover .sheet-art,
+.md-typeset .sheet-part:focus .sheet-art {
+  outline: 2px solid #b08a4a;
+  transform: translateY(-5px) scale(1.04);
+  box-shadow: 0 10px 18px rgba(0, 0, 0, 0.55);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .md-typeset .sheet-art {
+    transition: none;
+  }
+}
+
+.sheet-tip {
+  position: fixed;
+  z-index: 10;
+  max-width: 18rem;
+  padding: 0.5rem 0.7rem;
+  border-left: 3px solid #b08a4a;
+  border-radius: 2px;
+  background: #2a1e10;
+  color: #fbf3e2;
+  font-size: 0.7rem;
+  line-height: 1.4;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.45);
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.sheet-tip.is-open {
+  visibility: visible;
+}
+
+.sheet-tip code {
+  margin-left: 0.5em;
+  color: #d9b26f;
+  font-size: 0.9em;
+}
+
+.sheet-tip span {
+  display: block;
+}

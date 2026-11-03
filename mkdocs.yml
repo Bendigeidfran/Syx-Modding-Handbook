@@ -13,10 +13,12 @@ docs_dir: Handbook
 site_dir: site
 exclude_docs: |
   *.pdf
+  *.sections
 
 hooks:
   - site_hooks.py
   - site_toolkit.py
+  - site_sheets.py
 
 theme:
   name: material
@@ -46,6 +48,9 @@ theme:
 
 extra_css:
   - assets/handbook.css
+
+extra_javascript:
+  - assets/sheets.js
 
 markdown_extensions:
   - tables

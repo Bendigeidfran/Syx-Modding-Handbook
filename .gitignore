@@ -8,7 +8,10 @@
 !/requirements.txt
 !/site_hooks.py
 !/site_toolkit.py
+!/site_sheets.py
 !/site_theme/
 !/.github/
 !/Handbook/
 /Handbook/**/*.pdf
+# Game art stays out of the public repo until the developer gives permission.
+/Handbook/**/*.png
