@@ -64,6 +64,6 @@ Tag names, keys and file names are reproduced exactly as the game spells them, i
 Chapters are added as they're written. Those not yet available are listed without a link.
 
 - [init](01-init/00-init.md)
-- text (not yet written)
+- [text](02-text/00-text.md)
 - sprite (not yet written)
 - audio (not yet written)

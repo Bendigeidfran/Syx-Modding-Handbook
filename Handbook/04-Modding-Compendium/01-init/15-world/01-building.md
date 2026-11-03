@@ -331,6 +331,20 @@ The building's description.
 DESC: "Roads ease the penalty your territories face the further they are from your capital. They also decrease the toll you pay when trading.",
 ```
 
+### CATEGORY
+
+The game never reads this tag here. Some vanilla files have it.
+
+| | |
+|---|---|
+| **Type** | Text |
+| **Required** | No |
+| **Effect** | Unread |
+
+```text
+CATEGORY: "Infrastructure",
+```
+
 ### LEVELS
 
 The name of each level, in order. A level with no entry is called the building's name and a numeral, such as `Roads: II`.

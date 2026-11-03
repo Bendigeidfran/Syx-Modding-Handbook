@@ -63,6 +63,11 @@ PAGE_MAP = {
     "01-init/12-settlement/03-floor.md": {
         "sections": {"_DEFAULT_ROAD.txt": {"location": "assets/init/settlement/floor/_DEFAULT_ROAD.txt"}},
     },
+    "02-text/02-campaign.md": {"location": "assets/text/campaign/", "sections": {"The text file": ""}},
+    "02-text/07-misc/03-serialKiller.md": {"sections": {"_INFO.txt": {"location": "assets/text/misc/serialKiller/_INFO.txt"}}},
+    "02-text/10-race/01-bio.md": {"sections": {"Tags": ""}},
+    "02-text/10-race/03-raider.md": {"sections": {"Name files": {"location": "assets/text/race/raider/name/"}}},
+    "02-text/09-player.md": {"sections": {"noble/_RANKS.txt": {"location": "assets/text/player/noble/_RANKS.txt"}}},
     "01-init/15-world/01-building.md": {
         "sections": {
             "Level tags": "LEVELS",
