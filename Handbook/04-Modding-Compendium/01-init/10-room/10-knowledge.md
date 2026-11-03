@@ -16,6 +16,24 @@ A laboratory's workers build up a value that feeds a boost, which vanilla uses f
 
 The examples come from the vanilla `LABORATORY_NORMAL.txt`.
 
+### WORK
+
+The room's workers, in the form described on the [employment](02-employment.md#work-and-employment) page. This room type uses its workers while loading, so the game crashes without this block. It must be `WORK`, because this room's value tags only work with that block, not `EMPLOYMENT`. This example comes from the vanilla `LABORATORY_NORMAL.txt`.
+
+| | |
+|---|---|
+| **Type** | Block |
+| **Required** | Yes |
+
+```text
+WORK: {
+	SHIFT_OFFSET: 0.375,
+	SOUND: DUMMY,
+	USES_TOOL: true,
+	FULFILLMENT: 0.75,
+},
+```
+
 ### VALUE_PER_WORKER
 
 The value each worker can build up.
@@ -141,6 +159,23 @@ The images a laboratory is drawn with. Each name is a required [sprite entry](..
 A library works like a laboratory, feeding a boost that vanilla uses for knowledge. It has exactly two `ITEMS`, in this order: the shelf (at least one per room) and the carpet. It has three statistics. It also reads [`EXPERIENCE_BONUS`](02-employment.md#experience_bonus).
 
 The examples come from the vanilla `LIBRARY_NORMAL.txt`.
+
+### WORK
+
+The room's workers, in the form described on the [employment](02-employment.md#work-and-employment) page. This room type uses its workers while loading, so the game crashes without this block. It must be `WORK`, because this room's value tags only work with that block, not `EMPLOYMENT`. This example comes from the vanilla `LIBRARY_NORMAL.txt`.
+
+| | |
+|---|---|
+| **Type** | Block |
+| **Required** | Yes |
+
+```text
+WORK: {
+	SHIFT_OFFSET: 0.375,
+	SOUND: work->Paper*,
+	FULFILLMENT: 0.75,
+},
+```
 
 ### VALUE_PER_WORKER
 
@@ -270,6 +305,24 @@ The images a library is drawn with. Each name is a required [sprite entry](../..
 A school teaches children. Its `SERVICE` block only reads `RADIUS`, and its text file only needs `SERVICE.VERB`. Its `INDUSTRY` block has `IN` entries for what it consumes, with no output: vanilla uses `PAPER`. It has exactly three `ITEMS`, in this order: the bench (at least one per room), the shelf and the carpets. It has two statistics.
 
 The examples come from the vanilla `SCHOOL_NORMAL.txt`.
+
+### WORK
+
+The room's workers, in the form described on the [employment](02-employment.md#work-and-employment) page. This room type uses its workers while loading, so the game crashes without this block. This example comes from the vanilla `SCHOOL_NORMAL.txt`.
+
+| | |
+|---|---|
+| **Type** | Block |
+| **Required** | Yes |
+
+```text
+WORK: {
+	SHIFT_OFFSET: 0.125,
+	SOUND: work->Paper*,
+	USES_TOOL: false,
+	FULFILLMENT: 0.5,
+},
+```
 
 ### LEARNING_SPEED
 

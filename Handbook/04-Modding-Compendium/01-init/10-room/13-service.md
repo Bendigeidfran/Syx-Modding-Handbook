@@ -19,6 +19,25 @@ The grand arena. Its `SERVICE` block reads `NEED`. It has exactly one `ITEMS` bl
 
 The examples come from the vanilla `ARENAG_NORMAL.txt`.
 
+### WORK
+
+The room's workers, in the form described on the [employment](02-employment.md#work-and-employment) page. This room type uses its workers while loading, so the game crashes without this block. This example comes from the vanilla `ARENAG_NORMAL.txt`.
+
+| | |
+|---|---|
+| **Type** | Block |
+| **Required** | Yes |
+
+```text
+WORK: {
+	SHIFT_OFFSET: 0.65,
+	SOUND: DUMMY,
+	ACCIDENTS_PER_YEAR: 0.025,
+	FULFILLMENT: 0.75,
+	
+},
+```
+
 ### TYPE
 
 The game never reads this tag here.
@@ -101,6 +120,24 @@ Its `SERVICE` block reads `NEED`. Its `INDUSTRY` block has `IN` entries for what
 
 The examples come from the vanilla `BATH_NORMAL.txt`.
 
+### WORK
+
+The room's workers, in the form described on the [employment](02-employment.md#work-and-employment) page. This room type uses its workers while loading, so the game crashes without this block. This example comes from the vanilla `BATH_NORMAL.txt`.
+
+| | |
+|---|---|
+| **Type** | Block |
+| **Required** | Yes |
+
+```text
+WORK: {
+	SHIFT_OFFSET: 0.65,
+	SOUND: work->Crank*,
+	USES_TOOL: false,
+	FULFILLMENT: 0.25,
+},
+```
+
 ### WATER_COLOR
 
 The colour of the water, written as `RED_GREEN_BLUE`.
@@ -154,6 +191,24 @@ A room where a race breeds new members. Its `INDUSTRY` block must have at least 
 
 The examples come from the vanilla `BREEDER_GARTHIMI.txt`.
 
+### WORK
+
+The room's workers, in the form described on the [employment](02-employment.md#work-and-employment) page. This room type uses its workers while loading, so the game crashes without this block. This example comes from the vanilla `BREEDER_GARTHIMI.txt`.
+
+| | |
+|---|---|
+| **Type** | Block |
+| **Required** | Yes |
+
+```text
+WORK: {
+	SHIFT_OFFSET: 0.125,
+	SOUND: work->Fabric*,
+	USES_TOOL: false,
+	FULFILLMENT: -100.0,
+},
+```
+
 ### RACE
 
 The race this room breeds, by its key.
@@ -203,6 +258,24 @@ The images the room is drawn with. Each name is a required [sprite entry](../../
 ## CANTEEN
 
 Its need is fixed to hunger. Its `INDUSTRY` block has `IN` entries for what it consumes as fuel. It has exactly two `ITEMS`, in this order: the cooking station and the tables. It has three statistics. Vanilla gives it a low `SERVICE.USAGE` of `0.125`, which makes subjects less inclined to eat here.
+
+### WORK
+
+The room's workers, in the form described on the [employment](02-employment.md#work-and-employment) page. This room type uses its workers while loading, so the game crashes without this block. This example comes from the vanilla `CANTEEN_NORMAL.txt`.
+
+| | |
+|---|---|
+| **Type** | Block |
+| **Required** | Yes |
+
+```text
+WORK: {
+	SHIFT_OFFSET: 0.65,
+	SOUND: DUMMY,
+	USES_TOOL: false,
+	FULFILLMENT: 0.5,
+},
+```
 
 ### SPRITES
 
@@ -272,6 +345,24 @@ The images the room is drawn with. Each name is a required [sprite entry](../../
 The fight pit. Its `SERVICE` block reads `NEED`. It has exactly one `ITEMS` block and two statistics.
 
 The examples come from the vanilla `FIGHTPIT_NORMAL.txt`.
+
+### WORK
+
+The room's workers, in the form described on the [employment](02-employment.md#work-and-employment) page. This room type uses its workers while loading, so the game crashes without this block. This example comes from the vanilla `FIGHTPIT_NORMAL.txt`.
+
+| | |
+|---|---|
+| **Type** | Block |
+| **Required** | Yes |
+
+```text
+WORK: {
+	SHIFT_OFFSET: 0.65,
+	SOUND: DUMMY,
+	ACCIDENTS_PER_YEAR: 0.025,
+	FULFILLMENT: 0.5,
+},
+```
 
 ### TYPE
 
@@ -485,6 +576,25 @@ The images the room is drawn with. Each name is a required [sprite entry](../../
 
 Its `SERVICE` block reads `NEED`. It has exactly one `ITEMS` block and two statistics.
 
+### WORK
+
+The room's workers, in the form described on the [employment](02-employment.md#work-and-employment) page. This room type uses its workers while loading, so the game crashes without this block. This example comes from the vanilla `SPEAKER_NORMAL.txt`.
+
+| | |
+|---|---|
+| **Type** | Block |
+| **Required** | Yes |
+
+```text
+WORK: {
+	SHIFT_OFFSET: 0.65,
+	SOUND: DUMMY,
+	USES_TOOL: false,
+	FULFILLMENT: 0.25,
+	NIGHT_SHIFT: true,
+},
+```
+
 ### SPRITES
 
 The images the room is drawn with. Each name is a required [sprite entry](../../03-sprite/03-game.md#sprite-entries) of the kind its name ends with.
@@ -502,6 +612,25 @@ The images the room is drawn with. Each name is a required [sprite entry](../../
 ## STAGE
 
 Its `SERVICE` block reads `NEED`. It has exactly one `ITEMS` block and two statistics.
+
+### WORK
+
+The room's workers, in the form described on the [employment](02-employment.md#work-and-employment) page. This room type uses its workers while loading, so the game crashes without this block. This example comes from the vanilla `STAGE_NORMAL.txt`.
+
+| | |
+|---|---|
+| **Type** | Block |
+| **Required** | Yes |
+
+```text
+WORK: {
+	SHIFT_OFFSET: 0.65,
+	SOUND: DUMMY,
+	USES_TOOL: false,
+	FULFILLMENT: 0.75,
+	NIGHT_SHIFT: true,
+},
+```
 
 ### SPRITES
 

@@ -77,6 +77,25 @@ The images the asylum is drawn with. Each name is a required [sprite entry](../.
 
 The room where the sick are treated. Its `INDUSTRY` block has `IN` entries for what it consumes, with no output: vanilla uses `FABRIC` and `OPIATES`. Each of these gets an unlock named `ROOM_HOSPITAL_USE_<RESOURCE>`. Its `SERVICE` block only reads `RADIUS`, and its text file only needs `SERVICE.VERB`. It has exactly one `ITEMS` block, the beds (at least one per room), and two statistics.
 
+### WORK
+
+The room's workers, in the form described on the [employment](02-employment.md#work-and-employment) page. This room type uses its workers while loading, so the game crashes without this block. This example comes from the vanilla `_HOSPITAL.txt`.
+
+| | |
+|---|---|
+| **Type** | Block |
+| **Required** | Yes |
+
+```text
+WORK: {
+	SHIFT_OFFSET: 0.1,
+	SOUND: work->Fabric*,
+	USES_TOOL: false,
+	NIGHT_SHIFT: true,
+	FULFILLMENT: 0.5,
+},
+```
+
 ### SPRITES
 
 The images the hospital is drawn with. Each name is a required [sprite entry](../../03-sprite/03-game.md#sprite-entries) of the kind its name ends with, unless the table says otherwise.

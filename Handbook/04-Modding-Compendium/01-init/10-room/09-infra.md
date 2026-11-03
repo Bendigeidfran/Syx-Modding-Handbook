@@ -17,6 +17,24 @@ An administration room's workers build up a value that feeds a boost, which vani
 
 The examples come from the vanilla `ADMIN_NORMAL.txt`.
 
+### WORK
+
+The room's workers, in the form described on the [employment](02-employment.md#work-and-employment) page. This room type uses its workers while loading, so the game crashes without this block. It must be `WORK`, because this room's value tags only work with that block, not `EMPLOYMENT`. This example comes from the vanilla `ADMIN_NORMAL.txt`.
+
+| | |
+|---|---|
+| **Type** | Block |
+| **Required** | Yes |
+
+```text
+WORK: {
+	SHIFT_OFFSET: 0.375,
+	SOUND: work->Paper*,
+	USES_TOOL: true,
+	FULFILLMENT: 0.5,
+},
+```
+
 ### VALUE_PER_WORKER
 
 The value each worker can build up.
@@ -343,6 +361,23 @@ The images the room is drawn with.
 An embassy's workers build up a value in the same way as an administration room. Vanilla gives it no `BOOST`, but the game would read one here as it does for `ADMIN`. It has exactly three `ITEMS`, in this order: the workstation, the nicknacks and the carpets. It has two statistics.
 
 The examples come from the vanilla `_EMBASSY.txt`.
+
+### WORK
+
+The room's workers, in the form described on the [employment](02-employment.md#work-and-employment) page. This room type uses its workers while loading, so the game crashes without this block. It must be `WORK`, because this room's value tags only work with that block, not `EMPLOYMENT`. This example comes from the vanilla `_EMBASSY.txt`.
+
+| | |
+|---|---|
+| **Type** | Block |
+| **Required** | Yes |
+
+```text
+WORK: {
+	SHIFT_OFFSET: 0.375,
+	USES_TOOL: false,
+	FULFILLMENT: 0.75,
+},
+```
 
 ### VALUE_PER_WORKER
 

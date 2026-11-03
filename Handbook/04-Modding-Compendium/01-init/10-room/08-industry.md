@@ -18,6 +18,24 @@ Workshops have one or more recipes in `INDUSTRIES`. They have exactly three `ITE
 
 The examples come from the vanilla `WORKSHOP_SMITHY.txt`.
 
+### WORK
+
+The room's workers, in the form described on the [employment](02-employment.md#work-and-employment) page. This room type uses its workers while loading, so the game crashes without this block. This example comes from the vanilla `WORKSHOP_SMITHY.txt`.
+
+| | |
+|---|---|
+| **Type** | Block |
+| **Required** | Yes |
+
+```text
+WORK: {
+	SHIFT_OFFSET: 0.325,
+	SOUND: impact->Metal*,
+	ACCIDENTS_PER_YEAR: 0.025,
+	FULFILLMENT: 0,
+},
+```
+
 ### STORAGE
 
 The game never reads this tag for workshops, though every vanilla workshop has it. A workshop's storage holds 31 per tile, fixed in the game's code.
@@ -69,6 +87,24 @@ CHAIR_1X1: [
 Refiners have one or more recipes in `INDUSTRIES`. They have exactly three `ITEMS`, in this order: the machine (at least one per room), the storage (exactly one per room) and an auxiliary machine. They have three statistics, for workers, efficiency and output, which work as they do for workshops.
 
 The example comes from the vanilla `REFINER_BAKERY.txt`.
+
+### WORK
+
+The room's workers, in the form described on the [employment](02-employment.md#work-and-employment) page. This room type uses its workers while loading, so the game crashes without this block. This example comes from the vanilla `REFINER_BAKERY.txt`.
+
+| | |
+|---|---|
+| **Type** | Block |
+| **Required** | Yes |
+
+```text
+WORK: {
+	SHIFT_OFFSET: 0.125,
+	SOUND: work->Machine*,
+	FULFILLMENT: 0,
+	ACCIDENTS_PER_YEAR: 0.05,
+},
+```
 
 ### STORAGE
 
