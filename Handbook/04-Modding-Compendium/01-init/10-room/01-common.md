@@ -487,7 +487,19 @@ For rooms whose key starts with `_`, the name has a single underscore: `_HOME` g
 
 ### Sound
 
-A room's sounds aren't set in its file. The game looks them up by name in the files in `assets/audio/config/`, using `ROOM_<KEY>`, `ROOM_CLICK_<KEY>`, `ROOM_WORK_<KEY>` and `ROOM_SERVICE_<KEY>`. If an entry is missing, the room is silent, and the game only reports it when Debug is on.
+A room's sounds aren't set in its file. The game looks them up by name in the files in `assets/audio/config/`: `ROOM_<KEY>` in `ambience/`, and `ROOM_CLICK_<KEY>`, `ROOM_WORK_<KEY>` and `ROOM_SERVICE_<KEY>` in `mono/`. Every room looks up the first two, rooms with workers look up `ROOM_WORK_<KEY>`, and service rooms look up `ROOM_SERVICE_<KEY>`.
+
+If an entry is missing, that sound doesn't play and the game carries on. The first missing entry in `mono/` is only reported when Debug is on, and so is the first in `ambience/`. Each one after that is recorded as an error, and the game lists them in an error box when it closes. Animal calls count towards the `mono/` entries.
+
+To give a room no sound without this, add the entry with the value `DUMMY`, as vanilla does. These examples come from the vanilla `Room.txt` and `AA_WORK.txt`:
+
+```text
+ROOM__STOCKPILE: DUMMY,
+```
+
+```text
+ROOM_WORK__STOCKPILE: DUMMY,
+```
 
 ## Related
 

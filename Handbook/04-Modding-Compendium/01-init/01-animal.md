@@ -445,7 +445,7 @@ ANIMAL_CALL_AUROCH: [
 ],
 ```
 
-If a species has no matching entry, the animal makes no sound and the game carries on. The game only logs a warning about it when Debug is on, so a missing call is easy to overlook. The format of sound entries is covered in the audio chapter.
+If a species has no matching entry, the animal makes no sound and the game carries on. The first missing entry in `mono/`, of any kind, is only reported when Debug is on, so a missing call is easy to overlook. Each one after that is recorded as an error, and the game lists them in an error box when it closes. The format of sound entries is covered in the audio chapter.
 
 ### Where species are used
 
