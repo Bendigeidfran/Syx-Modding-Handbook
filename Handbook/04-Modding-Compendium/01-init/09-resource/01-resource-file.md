@@ -22,9 +22,20 @@ The examples below come from the vanilla `BREAD.txt` unless stated otherwise.
 
 The icon that represents the resource in the interface. The value is a path to an icon, separated by `->`: the icon size folder (`16`, `24` or `32`), then any sub-folders, then the image name, then the number of the icon within that image. The path is relative to `assets/sprite/icon/`. Numbers count from `0`, left to right and then top to bottom. A bad path or number doesn't stop the game: it draws a plain orange icon instead, and only reports the problem when Debug is on.
 
+Every vanilla resource uses an icon path, but the game also accepts a block that combines icons, using the tags below, or a list of blocks. A list draws each block's `BG` on top of the last, and ignores the other tags.
+
+| Tag | Meaning | Type and range | Required | Default |
+|---|---|---|---|---|
+| `BG` | The icon at the back. With no `FG`, it's the whole icon. | Icon path | Yes | |
+| `FG` | The icon in front. | Icon path | No | |
+| `COLOR` | The colour `BG` is tinted with. It's only used when there's no `FG`. | Colour (`RED_GREEN_BLUE`) | No | White |
+| `SCALE` | How many times larger to draw the icons. | Integer, 1 or more. The code's maximum of 8 isn't enforced. | No | `1` |
+| `OFFX`, `OFFY` | How far to move the smaller of the two icons, or `FG` if they're the same size. Without `FG`, they're ignored. | Integer, -100 or more. The code's maximum of 100 isn't enforced. | No | `0` |
+| `SHADOW` | Any value other than `0` draws a shadow behind `FG`. The number itself makes no difference. Without `FG`, it's ignored. | Integer, -100 or more. The code's maximum of 100 isn't enforced. | No | `0` |
+
 | | |
 |---|---|
-| **Type** | Icon path |
+| **Type** | Icon path, a block or a list of blocks |
 | **Range** | The first part must be `16`, `24` or `32`. |
 | **Required** | Yes |
 

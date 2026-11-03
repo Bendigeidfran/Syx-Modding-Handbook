@@ -139,9 +139,9 @@ ICON: {
 |---|---|---|---|---|
 | `BG` | The icon at the back. | Icon path | Yes | |
 | `FG` | The icon in front. | Icon path | No | |
-| `COLOR` | The colour the icon is tinted with. | Colour | No | White |
+| `COLOR` | The colour `BG` is tinted with. It's only used when there's no `FG`, so it has no effect in the example above. | Colour | No | White |
 | `SCALE` | How many times larger to draw the icons. | Integer, 1 or more. The code's maximum of 8 isn't enforced. | No | `1` |
-| `OFFX`, `OFFY` | How far to move `FG`. | Integer, -100 or more. The code's maximum of 100 isn't enforced. | No | `0` |
+| `OFFX`, `OFFY` | How far to move the smaller of the two icons, or `FG` if they're the same size. | Integer, -100 or more. The code's maximum of 100 isn't enforced. | No | `0` |
 | `SHADOW` | Any value other than `0` draws a shadow behind the icon in front. The number itself makes no difference. Without `FG`, it's ignored. | Integer, -100 or more. The code's maximum of 100 isn't enforced. | No | `0` |
 
 ### LEVEL_MAX

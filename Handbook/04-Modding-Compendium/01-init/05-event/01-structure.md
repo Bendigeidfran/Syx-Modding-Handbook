@@ -70,8 +70,8 @@ The tags in a block are:
 |---|---|---|
 | `BG` | The background icon, as an icon path. | Yes |
 | `FG` | An icon drawn on top. | No |
-| `SHADOW` | The size of the shadow under `FG`. | No. Default `0`. |
-| `OFFX`, `OFFY` | Moves `FG` sideways or up and down. | No. Default `0`. |
+| `SHADOW` | Any value other than `0` draws a shadow behind `FG`. The number itself makes no difference. | No. Default `0`. |
+| `OFFX`, `OFFY` | Moves the smaller of the two icons sideways or up and down, or `FG` if they're the same size. | No. Default `0`. |
 | `SCALE` | Enlarges both icons. | No. Default `1`. |
 | `COLOR` | A colour applied to `BG`. Only used when there's no `FG`. | No |
 

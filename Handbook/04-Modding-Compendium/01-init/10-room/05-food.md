@@ -37,7 +37,7 @@ GROWABLE: GRAIN,
 
 The farm's icon in the interface, written as an icon path, a block that combines icons, or a list of blocks. Every vanilla farm uses a block, with the background `32->BG->3`, or `32->BG->6` for the indoor mushroom farm, and the crop's resource icon on top. A single icon path such as `24->resource->Grain->0` also works.
 
-An icon path is `SIZE->FOLDERS->IMAGE->NUMBER`, relative to `assets/sprite/icon/`: the size folder (`16`, `24` or `32`), any sub-folders, the image name without `.png`, then the icon's number within that image. Numbers count from `0`, left to right and then top to bottom. A block has `BG`, the background icon path, and `FG`, an icon path drawn on top, and `SHADOW` sets the size of the shadow under `FG`.
+An icon path is `SIZE->FOLDERS->IMAGE->NUMBER`, relative to `assets/sprite/icon/`: the size folder (`16`, `24` or `32`), any sub-folders, the image name without `.png`, then the icon's number within that image. Numbers count from `0`, left to right and then top to bottom. A block has `BG`, the background icon path, and `FG`, an icon path drawn on top, and any `SHADOW` other than `0` draws a shadow behind `FG`.
 
 | | |
 |---|---|
