@@ -427,7 +427,7 @@ EQUIPMENT_ENABLED: [
 ],
 ```
 
-Equipment keys are formed from the files in `assets/init/stats/equip/`, as described under [EQUIPMENT in init/battle/divType](../02-battle/01-divType.md#equipment).
+Equipment keys are formed from the files in [`assets/init/stats/equip/`](../13-stats/04-equip/00-equip.md), as described under [EQUIPMENT in init/battle/divType](../02-battle/01-divType.md#equipment).
 
 ## The text file
 

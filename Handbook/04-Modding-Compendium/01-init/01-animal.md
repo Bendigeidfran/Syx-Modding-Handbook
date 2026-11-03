@@ -272,7 +272,7 @@ GRAZES: true,
 
 ### DAMAGE
 
-Damage values for the animal, keyed by damage type. The damage types are defined in `assets/init/stats/damage/`; vanilla has `PIERCE` and `SLASH`.
+Damage values for the animal, keyed by damage type. The damage types are defined in [`assets/init/stats/damage/`](13-stats/02-damage.md); vanilla has `PIERCE` and `SLASH`.
 
 The game reads and stores these values, but in v0.71.44 nothing uses them: changing them has no effect. When an aggressive animal attacks (see `DANGER`), the damage it deals is based on its weight, not on this block.
 
@@ -452,7 +452,7 @@ If a species has no matching entry, the animal makes no sound and the game carri
 Other files refer to animals by their key. In vanilla:
 
 - **Pastures** name the animal they keep with an `ANIMAL` tag, e.g. `ANIMAL: AUROCH,` in `assets/init/room/PASTURE_AUR.txt`.
-- **Cavalry** names its mount with `MOUNTED_ANIMAL`, e.g. `MOUNTED_ANIMAL: MOUNT,` in `assets/init/stats/equip/battle/MOUNT.txt`.
+- **Cavalry** names its mount with `MOUNTED_ANIMAL`, e.g. `MOUNTED_ANIMAL: MOUNT,` in [`assets/init/stats/equip/battle/MOUNT.txt`](13-stats/04-equip/01-battle.md#mounted_animal).
 
 ### Shared files
 

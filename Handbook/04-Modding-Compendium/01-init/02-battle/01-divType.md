@@ -101,7 +101,7 @@ The equipment sets for this block. Each entry inside the block is one equipment 
 
 The names of the entries don't matter. Vanilla numbers them `0`, `1`, `2` and so on, but they only need to be different from each other.
 
-Each entry is a list of military equipment keys. These are formed from the equipment files in `assets/init/stats/equip/`:
+Each entry is a list of military equipment keys. These are formed from the equipment files in [`assets/init/stats/equip/`](../13-stats/04-equip/00-equip.md):
 
 - a file in `battle/` gives the key `BATTLE_` followed by the file name, such as `BATTLE_ARMOUR_PLATE` or `BATTLE_MOUNT`;
 - a file in `ranged/` gives the key `RANGED_` followed by the file name, such as `RANGED_BOW`.

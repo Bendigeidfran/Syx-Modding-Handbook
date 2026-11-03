@@ -69,7 +69,7 @@ STANDING: {
 
 #### NEED
 
-The need this service satisfies, by a key from `assets/init/stats/need/`. This example comes from the vanilla `_HEARTH.txt`.
+The need this service satisfies, by a key from [`assets/init/stats/need/`](../13-stats/06-need.md). This example comes from the vanilla `_HEARTH.txt`.
 
 | | |
 |---|---|

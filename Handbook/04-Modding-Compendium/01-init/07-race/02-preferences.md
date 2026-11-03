@@ -43,7 +43,7 @@ DRINK: [
 
 ### ROAD
 
-How much the race likes each kind of road floor, from 0 to 1. When a subject walks on a road outside any room, their liking for that road (less if the road is worn) gradually becomes their rating of the roads around them, which is one of their stats. A floor that isn't listed counts as `0`.
+How much the race likes each kind of road floor, from 0 to 1. When a subject walks on a road outside any room, their liking for that road (less if the road is worn) gradually becomes their rating of the roads around them, which is one of their stats. A road that isn't listed keeps its default for the race, set by [`ROAD.PREFERENCE`](../12-settlement/03-floor.md#preference) in its floor file.
 
 | | |
 |---|---|

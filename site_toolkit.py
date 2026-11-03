@@ -60,6 +60,10 @@ PAGE_MAP = {
     "01-init/05-event/02-occurrence.md": {"location": "assets/init/event/", "sections": {"OCCURENCE": "OCCURENCE"}},
     "01-init/05-event/03-actions.md": {"location": "assets/init/event/", "sections": dict.fromkeys(_ACTION_GROUPS, "")},
     "01-init/05-event/04-text.md": {"location": "assets/text/event/"},
+    "01-init/12-settlement/03-floor.md": {
+        "sections": {"_DEFAULT_ROAD.txt": {"location": "assets/init/settlement/floor/_DEFAULT_ROAD.txt"}},
+    },
+    "01-init/13-stats/04-equip/03-ranged.md": {"sections": {"Projectile": "PROJECTILE"}},
     "01-init/07-race/02-preferences.md": {"location": "assets/init/race/", "sections": {"Tags": "PREFERRED"}},
     "01-init/07-race/03-stats.md": {"location": "assets/init/race/", "sections": {"Format": "STATS"}},
     "01-init/07-race/06-sprite/00-sprite.md": {

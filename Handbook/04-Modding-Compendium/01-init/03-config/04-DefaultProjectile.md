@@ -96,7 +96,7 @@ How heavy the projectile is. Mass decides how much force it hits with.
 
 #### DAMAGE
 
-Damage by type, keyed by the damage types in `assets/init/stats/damage/` (vanilla has `PIERCE` and `SLASH`). Vanilla's default projectile leaves this empty, so it does force damage only.
+Damage by type, keyed by the damage types in [`assets/init/stats/damage/`](../13-stats/02-damage.md) (vanilla has `PIERCE` and `SLASH`). Vanilla's default projectile leaves this empty, so it does force damage only.
 
 | | |
 |---|---|
