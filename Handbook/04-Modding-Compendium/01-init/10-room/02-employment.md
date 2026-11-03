@@ -16,10 +16,12 @@ Rooms that employ workers have a `WORK` or `EMPLOYMENT` block, setting when they
 
 How the room employs its workers. Both blocks use the same tags. The examples for these tags come from the vanilla `MINE_COAL.txt` unless stated otherwise.
 
+Whether a room needs one depends on its type, so keep the block if the vanilla room of that type has one. These types use their workers while loading, so the game crashes without it: `ADMIN`, `ARENAG`, `BATH`, `BREEDER`, `CANTEEN`, `FIGHTPIT`, `LABORATORY`, `LIBRARY`, `REFINER`, `SCHOOL`, `SPEAKER`, `STAGE`, `WORKSHOP`, `_EMBASSY` and `_HOSPITAL`. Farms and orchards crash without it later, during play.
+
 | | |
 |---|---|
 | **Type** | Block |
-| **Required** | No. Without either, the room has no workers. |
+| **Required** | No for some room types, such as wells. Many types need it, as listed in this entry. |
 
 ```text
 WORK: {

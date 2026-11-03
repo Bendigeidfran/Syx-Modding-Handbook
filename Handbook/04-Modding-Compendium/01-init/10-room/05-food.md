@@ -44,6 +44,43 @@ Whether the farm must be built indoors. If `false`, it must be outdoors. Vanilla
 INDOORS: false,
 ```
 
+### WORK
+
+The farm's workers, in the form described on the [employment](02-employment.md#work-and-employment) page. A farm can't do without it: the game crashes during play if it's missing.
+
+| | |
+|---|---|
+| **Type** | Block |
+| **Required** | Yes |
+
+```text
+WORK: {
+	SHIFT_OFFSET: 0.125,
+	SOUND: impact->Dig*,
+	USES_TOOL: true,
+	FULFILLMENT: 0,
+},
+```
+
+### INDUSTRY.OUT
+
+What the farm yields, in the form described on the [production](03-production.md#industryout) page. It must have an entry, or the game crashes while loading.
+
+| | |
+|---|---|
+| **Type** | Block, keyed by resource |
+| **Range** | A plain rate is 0 to 10000 |
+| **Required** | Yes |
+
+```text
+OUT: {
+	GRAIN: {
+		PLAYER: 4,
+		AI_RATE: 3.64,
+	},
+},
+```
+
 ## ORCHARD
 
 An orchard grows trees that yield its `INDUSTRY` output. Felling a tree also gives an extra resource. It has exactly two `ITEMS`, in this order: the storage (exactly one per room) and the tree. It has four statistics. Moisture and soil fertility affect its output.
@@ -62,6 +99,25 @@ Whether the orchard must be built indoors. If `false`, it must be outdoors.
 ```text
 INDOORS: false,
 ```
+
+### WORK
+
+The orchard's workers, in the form described on the [employment](02-employment.md#work-and-employment) page. An orchard can't do without it: the game crashes during play if it's missing.
+
+| | |
+|---|---|
+| **Type** | Block |
+| **Required** | Yes |
+
+### INDUSTRY.OUT
+
+What the orchard yields, in the form described on the [production](03-production.md#industryout) page. It must have an entry, or the game crashes while loading.
+
+| | |
+|---|---|
+| **Type** | Block, keyed by resource |
+| **Range** | A plain rate is 0 to 10000 |
+| **Required** | Yes |
 
 ### EXTRA_RESOURCE
 

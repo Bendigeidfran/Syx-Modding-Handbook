@@ -86,6 +86,8 @@ What the recipe produces: each entry names a resource by its key. An entry can b
 
 Every resource needs at least one room producing it at a rate above 0, whose ingredients can also be produced, or the game crashes while it's running. See [Every resource needs a producer](../09-resource/01-resource-file.md#every-resource-needs-a-producer).
 
+Farms and orchards must have an entry here, or the game crashes while loading.
+
 | | |
 |---|---|
 | **Type** | Block, keyed by resource |

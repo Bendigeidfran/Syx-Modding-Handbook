@@ -86,7 +86,7 @@ A pattern that shades the room's colour on the minimap, repeated across the room
 | | |
 |---|---|
 | **Type** | List of text |
-| **Range** | 1 to 31 rows |
+| **Range** | 1 to 32 rows |
 | **Required** | No. Without it, the whole room is one colour. |
 
 ```text
@@ -397,7 +397,7 @@ DESC: "The internal storage for produce.",
 
 ### STATS
 
-The names and descriptions of the room's statistics, as a list of blocks. The game's code fixes how many each room type has. Some are named by the game itself, so vanilla files can have an empty block in their place. The wrong number of blocks is a loading error.
+The names and descriptions of the room's statistics, as a list of blocks. The game's code fixes how many each room type has, and which block goes with which statistic, by position. Some are named by the game itself, so vanilla files can have an empty block in their place. The wrong number of blocks is a loading error.
 
 | | |
 |---|---|
@@ -415,6 +415,32 @@ STATS: [
 		DESC: "Where people can relax afterwards.",
 	},
 ],
+```
+
+#### NAME
+
+The statistic's name. The game ignores this for statistics it names itself, such as workers and efficiency on many rooms.
+
+| | |
+|---|---|
+| **Type** | Text |
+| **Required** | Yes, for statistics the game doesn't name itself |
+
+```text
+NAME: "Baths",
+```
+
+#### DESC
+
+The statistic's description. The game ignores this for statistics it names itself.
+
+| | |
+|---|---|
+| **Type** | Text |
+| **Required** | Yes, for statistics the game doesn't name itself |
+
+```text
+DESC: "Available bathing spots",
 ```
 
 ### UPGRADES
