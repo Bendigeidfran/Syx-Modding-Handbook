@@ -344,7 +344,9 @@ SPRITE_FILE: HUMAN,
 
 ### ICON_SMALL and ICON_BIG
 
-The race's icons, written as icon paths. See [ICON in init/animal](../01-animal.md#icon) for the format. Vanilla uses 24-pixel icons for `ICON_SMALL` and 32-pixel icons for `ICON_BIG`.
+The race's icons, written as icon paths. Vanilla uses 24-pixel icons for `ICON_SMALL` and 32-pixel icons for `ICON_BIG`.
+
+An icon path is `SIZE->FOLDERS->IMAGE->NUMBER`, relative to `assets/sprite/icon/`: the size folder (`16`, `24` or `32`), any sub-folders, the image name without `.png`, then the icon's number within that image. Numbers count from `0`, left to right and then top to bottom.
 
 | | |
 |---|---|

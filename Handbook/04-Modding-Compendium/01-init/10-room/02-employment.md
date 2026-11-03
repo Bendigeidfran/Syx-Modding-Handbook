@@ -259,6 +259,13 @@ The wording for the room's workers.
 | **Type** | Block |
 | **Required** | Yes, if the room file has the block |
 
+```text
+WORK: {
+	TITLE: "Blacksmith",
+	VERB: "Forging",
+},
+```
+
 #### TITLE
 
 The workers' job title.

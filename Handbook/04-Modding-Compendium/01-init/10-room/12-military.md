@@ -55,6 +55,8 @@ DIV_SPRITE: {
 
 The icon, as an icon path.
 
+An icon path is `SIZE->FOLDERS->IMAGE->NUMBER`, relative to `assets/sprite/icon/`: the size folder (`16`, `24` or `32`), any sub-folders, the image name without `.png`, then the icon's number within that image. Numbers count from `0`, left to right and then top to bottom.
+
 | | |
 |---|---|
 | **Type** | Icon path |
@@ -230,6 +232,8 @@ DIV_SPRITE: {
 #### ICON
 
 The icon, as an icon path.
+
+An icon path is `SIZE->FOLDERS->IMAGE->NUMBER`, relative to `assets/sprite/icon/`: the size folder (`16`, `24` or `32`), any sub-folders, the image name without `.png`, then the icon's number within that image. Numbers count from `0`, left to right and then top to bottom.
 
 | | |
 |---|---|

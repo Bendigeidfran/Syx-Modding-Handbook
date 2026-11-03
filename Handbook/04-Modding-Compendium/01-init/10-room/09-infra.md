@@ -734,7 +734,9 @@ Vanilla also writes `RESOURCES`, `AREA_COSTS` and `FLOOR`, which the game doesn'
 
 ### ICON
 
-The throne's icon. The value is an icon path, as described under [`ICON` on the init/animal page](../01-animal.md#icon).
+The throne's icon, written as an icon path.
+
+An icon path is `SIZE->FOLDERS->IMAGE->NUMBER`, relative to `assets/sprite/icon/`: the size folder (`16`, `24` or `32`), any sub-folders, the image name without `.png`, then the icon's number within that image. Numbers count from `0`, left to right and then top to bottom.
 
 | | |
 |---|---|

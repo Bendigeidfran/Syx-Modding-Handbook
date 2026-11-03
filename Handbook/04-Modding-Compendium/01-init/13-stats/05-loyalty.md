@@ -37,7 +37,9 @@ POPULATION_NOBLES: {
 
 ### ICON
 
-Replaces the stat's icon. It's described under [`ICON` on the init/animal page](../01-animal.md#icon).
+Replaces the stat's icon, written as an icon path.
+
+An icon path is `SIZE->FOLDERS->IMAGE->NUMBER`, relative to `assets/sprite/icon/`: the size folder (`16`, `24` or `32`), any sub-folders, the image name without `.png`, then the icon's number within that image. Numbers count from `0`, left to right and then top to bottom.
 
 | | |
 |---|---|

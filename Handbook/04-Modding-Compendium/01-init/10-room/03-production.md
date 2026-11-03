@@ -147,11 +147,13 @@ AI_RECOVERY: 0.5,
 
 ### INDUSTRY.ICON
 
-An icon for the recipe, in the same form as a room's [`ICON`](01-common.md#icon). Without it, the game builds one from the icons of the resources produced. This example comes from the vanilla `WORKSHOP_RATION.txt`.
+An icon for the recipe. Without it, the game builds one from the icons of the resources produced. This example comes from the vanilla `WORKSHOP_RATION.txt`.
+
+It's written like a room's [`ICON`](01-common.md#icon). An icon path is `SIZE->FOLDERS->IMAGE->NUMBER`, relative to `assets/sprite/icon/`: the size folder (`16`, `24` or `32`), any sub-folders, the image name without `.png`, then the icon's number within that image. Numbers count from `0`, left to right and then top to bottom.
 
 | | |
 |---|---|
-| **Type** | Icon path, or a block |
+| **Type** | Icon path, a block or a list of blocks |
 | **Required** | No |
 
 ```text

@@ -126,7 +126,7 @@ How this equipment is drawn in the picture of a division in the interface.
 |---|---|---|---|
 | `X`, `Y` | The picture's position. | Integer, -100 or more. The code's maximum of 100 isn't enforced. | No |
 | `Z` | The order pictures are drawn in. Higher values are drawn on top. | Integer, -100 or more. The code's maximum of 100 isn't enforced. | No |
-| `ICON` | The picture, as described under [`ICON` on the init/animal page](../../01-animal.md#icon). Without it, the game draws its cancel icon. | Icon path, or a block | No |
+| `ICON` | The picture. Without it, the game draws its cancel icon. An icon path is `SIZE->FOLDERS->IMAGE->NUMBER`, relative to `assets/sprite/icon/`: the size folder (`16`, `24` or `32`), any sub-folders, the image name without `.png`, then the icon's number within that image, counting from `0`, left to right and then top to bottom. A block is described under [`ICON` on the event page](../../05-event/01-structure.md#icon). | Icon path, or a block | No |
 | `COLOR` | The colours it's tinted with, as a list. The tint blends along the list as the division carries more. | List of colours | Yes |
 
 ```text

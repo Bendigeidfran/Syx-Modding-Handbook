@@ -22,6 +22,8 @@ The examples below come from the vanilla `CLAY.txt`.
 
 The resource this deposit yields, by its key.
 
+Each file names the one before it, so create them in this order: the [resource](01-resource-file.md), then this deposit, then the [mine](../10-room/08-industry.md#mine) that names it. The game doesn't mind which you write first, as long as they're all there when it loads. A name that doesn't match stops loading with an error listing the available ones.
+
 | | |
 |---|---|
 | **Type** | Key (a resource) |
@@ -113,6 +115,15 @@ The game scales the values so they add up to 1, so only their sizes relative to 
 
 In v0.71.44 these values don't affect the world map. The game means to use them to choose which regions get a prospect for this mine, but because of a fault it multiplies them all by one terrain's share of the region, which gives the same result whatever they are.
 
+Because of the scaling, a small value doesn't make a deposit rare by itself: `MOUNTAIN: 0.1` on its own acts the same as `MOUNTAIN: 1` on its own. Vanilla's values are:
+
+- `CLAY`: `WET` 0.8, `NONE` 0.05
+- `COAL`: `MOUNTAIN` 0.8, `NONE` 0.05
+- `GEM`: `MOUNTAIN` 0.15, `WET` 0.03, `NONE` 0
+- `ORE`: `MOUNTAIN` 0.5, `NONE` 0.05
+- `SITHILON`: `MOUNTAIN` 0.1, `NONE` 0
+- `STONE`: `MOUNTAIN` 0.9, `NONE` 0.2, `FOREST` 0.1
+
 | | |
 |---|---|
 | **Type** | Block of decimals, keyed by terrain |
@@ -128,7 +139,7 @@ TERRAIN: {
 
 ### OCCURENCE
 
-How much of the deposit is placed on your settlement's map, as described under `TERRAIN`. It also sets how many world map regions get a prospect for this mine, compared with other industries. Note the game's spelling. Vanilla doesn't use this tag.
+How much of the deposit is placed on your settlement's map, as described under `TERRAIN`. It also sets how many world map regions get a prospect for this mine, compared with other industries. Note the game's spelling. Vanilla doesn't use this tag, so every vanilla deposit has the default of `1`.
 
 | | |
 |---|---|

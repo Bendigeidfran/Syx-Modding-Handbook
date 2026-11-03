@@ -22,6 +22,8 @@ The examples come from the vanilla `FARM_GRAIN.txt`.
 
 The crop this farm grows, by its key in `assets/init/resource/growable/`.
 
+Each file names the one before it, so create them in this order: the [resource](../09-resource/01-resource-file.md), then the [crop](../09-resource/04-growable.md), then this farm. The game doesn't mind which you write first, as long as they're all there when it loads. A name that doesn't match stops loading with an error listing the available ones.
+
 | | |
 |---|---|
 | **Type** | Key (a crop) |
@@ -29,6 +31,105 @@ The crop this farm grows, by its key in `assets/init/resource/growable/`.
 
 ```text
 GROWABLE: GRAIN,
+```
+
+### ICON
+
+The farm's icon in the interface, written as a block that combines two icons. Vanilla's farms use the background `32->BG->3`, or `32->BG->6` for the indoor mushroom farm, with the crop's resource icon on top.
+
+An icon path is `SIZE->FOLDERS->IMAGE->NUMBER`, relative to `assets/sprite/icon/`: the size folder (`16`, `24` or `32`), any sub-folders, the image name without `.png`, then the icon's number within that image. Numbers count from `0`, left to right and then top to bottom. A block has `BG`, the background icon path, and `FG`, an icon path drawn on top, and `SHADOW` sets the size of the shadow under `FG`.
+
+| | |
+|---|---|
+| **Type** | Icon path, a block or a list of blocks |
+| **Required** | Yes |
+
+```text
+ICON: {
+	BG: 32->BG->3,
+	FG: 24->resource->Grain->0,
+	SHADOW: 2,
+},
+```
+
+### RESOURCES
+
+The resources the farm is built from, as a list of resource keys, in the same order as `AREA_COSTS`. Each vanilla farm lists only the resource it grows.
+
+| | |
+|---|---|
+| **Type** | List of keys (resources) |
+| **Range** | 4 at most |
+| **Required** | No. If it's missing, the farm costs no resources, and `AREA_COSTS` must be an empty list. |
+
+```text
+RESOURCES: [GRAIN,],
+```
+
+### AREA_COSTS
+
+How much of each resource in `RESOURCES` the farm costs for its area, in the same order. Every vanilla farm uses `0.1`.
+
+| | |
+|---|---|
+| **Type** | List of decimals |
+| **Range** | Must have the same number of entries as `RESOURCES` |
+| **Required** | Yes |
+
+```text
+AREA_COSTS: [0.1,],
+```
+
+### MINI_COLOR
+
+The farm's colour on the minimap, written as `RED_GREEN_BLUE`. Vanilla's farms use `74_119_14`, except the cotton farm with `100_119_14`.
+
+| | |
+|---|---|
+| **Type** | Colour (`RED_GREEN_BLUE`) |
+| **Required** | Yes |
+
+```text
+MINI_COLOR: 74_119_14,
+```
+
+### MINI_COLOR_PATTERN
+
+A pattern that shades the farm's colour on the minimap, repeated across the farm. Each string is a row, and each character is a tile. A digit from `0` to `9` shades that tile, from half brightness up to full. All the strings must be the same length. Every vanilla farm uses the pattern in this example.
+
+| | |
+|---|---|
+| **Type** | List of text |
+| **Range** | 1 to 32 rows |
+| **Required** | No. Without it, the whole farm is one colour. |
+
+```text
+MINI_COLOR_PATTERN: [
+	"44444444",
+	"99999999",
+	"00000000",
+	"44444444",
+],
+```
+
+### BONUS
+
+Multiplies the farm's production by climate, as a `CLIMATE` block that can contain `COLD`, `TEMPERATE` and `HOT`, with `*` setting every climate at once. A climate that's missing stays at 1. Vanilla's values run from `0.5` to `2`, and its grain, fruit and vegetable farms have no bonus at all. This example comes from the vanilla `FARM_COTTON.txt`.
+
+| | |
+|---|---|
+| **Type** | Block |
+| **Range** | Each value 0 to 2000 |
+| **Required** | No |
+
+```text
+BONUS: {
+	CLIMATE: {
+		COLD: 0.5,
+		TEMPERATE: 1,
+		HOT: 1.5,
+	},
+},
 ```
 
 ### INDOORS
@@ -65,6 +166,8 @@ WORK: {
 ### INDUSTRY.OUT
 
 What the farm yields, in the form described on the [production](03-production.md#industryout) page. It must have an entry, or the game crashes while loading.
+
+Vanilla's `PLAYER` and `AI_RATE` values are `4` and `3.64` for grain, `3` and `2.86` for cotton, `2.1` and `1.4` for fruit and vegetables, `1.1` and `0.88` for mushrooms, `0.25` and `0.208` for herbs, and `0.25` and `0.25` for `FARM_SPICES`, which grows opiates.
 
 | | |
 |---|---|
@@ -200,6 +303,8 @@ The examples come from the vanilla `PASTURE_AUR.txt` unless stated otherwise.
 ### ANIMAL
 
 The animal this pasture keeps, by its key in `assets/init/animal/`. The animal's `MASS` decides how many fit: the heavier it is, the fewer there are per tile.
+
+Each file names the one before it, so create them in this order: any new [resources](../09-resource/01-resource-file.md) the animal yields, then the [animal](../01-animal.md), then this pasture. The game doesn't mind which you write first, as long as they're all there when it loads. A name that doesn't match stops loading with an error listing the available ones.
 
 | | |
 |---|---|

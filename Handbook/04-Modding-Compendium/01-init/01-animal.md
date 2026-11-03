@@ -22,7 +22,7 @@ The examples below come from the vanilla `AUROCH.txt` unless stated otherwise.
 
 ### SPEED
 
-How fast the animal moves. It sets both the animal's top speed and how quickly it accelerates.
+How fast the animal moves. It sets both the animal's top speed and how quickly it accelerates. Vanilla uses `1` (`BALTICRAWLER`) to `6` (`SMILODON`), and most species have `4` or `5`.
 
 | | |
 |---|---|
@@ -36,7 +36,7 @@ SPEED: 4,
 
 ### HEIGHT
 
-How tall the animal is. Each individual animal's height varies up to 25% either side of this value.
+How tall the animal is. Each individual animal's height varies up to 25% either side of this value. Vanilla uses `4` (`GLOBDIEN`) to `9` (`MOUNT`, `STAGBEAST`).
 
 The game uses height in three ways:
 
@@ -56,7 +56,7 @@ HEIGHT: 5,
 
 ### MASS
 
-How heavy the animal is. Each individual animal's weight varies up to 20% either side of this value.
+How heavy the animal is. Each individual animal's weight varies up to 20% either side of this value. Vanilla uses `35` (`DINORIS`) to `300` (`MOUNT`), and most species are between `35` and `110`.
 
 Mass affects several things:
 
@@ -82,6 +82,8 @@ Because pasture slaughter counts towards the total, keeping a species in a pastu
 
 For example, with `DANGER: 0.5`, the species turns aggressive after eight kills. With `DANGER: 0`, it never does.
 
+Vanilla uses `0` (`BALTICRAWLER`, `GLOBDIEN`), `0.1` (`ONX`), `0.2` (`MOUNT`, `STAGBEAST`), `0.25` (`DINORIS`, `ENTELODONT`), `0.5` (`AUROCH`) and `1.0` (`SMILODON`).
+
 | | |
 |---|---|
 | **Type** | Decimal |
@@ -94,9 +96,9 @@ DANGER: 0.5,
 
 ### ICON
 
-The icon that represents the species in the interface. The value is a path to an icon, separated by `->`: the icon size folder (`16`, `24` or `32`), then any sub-folders, then the image name, then the number of the icon within that image. The path is relative to `assets/sprite/icon/`.
+The icon that represents the species in the interface. The value is a path to an icon, separated by `->`: the icon size folder (`16`, `24` or `32`), then any sub-folders, then the image name, then the number of the icon within that image. The path is relative to `assets/sprite/icon/`. Numbers count from `0`, left to right and then top to bottom.
 
-For example, `32->animal->Auroch->0` is icon `0` from `assets/sprite/icon/32/animal/Auroch.png`.
+For example, `32->animal->Auroch->0` is icon `0` from `assets/sprite/icon/32/animal/Auroch.png`. A bad path or number doesn't stop the game: it draws a plain orange icon instead, and only reports the problem when Debug is on.
 
 | | |
 |---|---|
@@ -142,7 +144,7 @@ COLOR: 255_255_255,
 
 ### LIVES_IN_CAVES
 
-The share of this species that spawns in caves. When the game populates an area with animals, this fraction of the species' animals is placed in caves rather than in the open. `0` means none, `1` means all.
+The share of this species that spawns in caves. When the game populates an area with animals, this fraction of the species' animals is placed in caves rather than in the open. `0` means none, `1` means all. Most vanilla species have `0`. The exceptions are `GLOBDIEN` with `0.2`, `SMILODON` with `0.5` and `BALTICRAWLER` with `0.8`.
 
 | | |
 |---|---|
@@ -156,7 +158,7 @@ LIVES_IN_CAVES: 0,
 
 ### CARAVAN
 
-Whether this species can be drawn as the pack animal for trade caravans and other goods transport. Each time, the game picks one of the species marked `true`.
+Whether this species can be drawn as the pack animal for trade caravans and other goods transport. Each time, the game picks one of the species marked `true`. In vanilla, those are `AUROCH` and `ONX`.
 
 At least one loaded species must have `CARAVAN: true`, or the game stops with an error. Keep this in mind if you use `_IgnoreVanilla.txt` to replace the vanilla animals.
 
@@ -171,7 +173,9 @@ CARAVAN: true,
 
 ### RESOURCES
 
-The resources the animal yields when butchered, as a list of resource keys. The amount of each is set by `RESOURCE_AMOUNT`, in the same order. A key that doesn't match any resource causes a loading error.
+The resources the animal yields when butchered, as a list of resource keys. The amount of each is set by `RESOURCE_AMOUNT`, in the same order. A key that doesn't match any resource causes a loading error, so any new resource named here has to exist when the game loads.
+
+Every vanilla species yields `MEAT`, listed first. All but `BALTICRAWLER` also yield a second resource: `LEATHER`, `EGG` or `COTTON`.
 
 | | |
 |---|---|
@@ -188,6 +192,8 @@ How much of each resource in `RESOURCES` the animal yields, in the same order. T
 
 The yield of each resource is the value given here, multiplied by the individual animal's weight (see `MASS`), multiplied by 0.3, rounded up. For an Auroch of exactly average weight, that's 0.8 × 110 × 0.3 = 26.4, rounded up to 27 meat.
 
+Vanilla's `MEAT` values run from `0.5` to `1.15` (`BALTICRAWLER`), and the second resource's from `0.25` to `0.75`.
+
 | | |
 |---|---|
 | **Type** | List of decimals |
@@ -203,6 +209,8 @@ RESOURCE_AMOUNT: [0.8, 0.5,],
 How common the species is in each climate. The block can contain `COLD`, `TEMPERATE` and `HOT`. Each value is a weight from 0 to 1. A climate that's missing from the block counts as 0, so the species won't spawn there.
 
 `*` sets every climate at once.
+
+Most vanilla species have `1` in the climate they favour and less in the others. `AUROCH` has `COLD` 0.8, `TEMPERATE` 1 and `HOT` 0, for example. `SMILODON` is the exception, reaching only `0.5`.
 
 | | |
 |---|---|
@@ -223,6 +231,8 @@ CLIMATE: {
 How common the species is on each type of terrain. The block can contain `OCEAN`, `WET`, `MOUNTAIN`, `FOREST` and `NONE` (open land). Each value is a weight from 0 to 1, and `*` works as it does in `CLIMATE`.
 
 When the game populates an area, each species' chance of appearing combines the terrain in that area with these weights, multiplied by the species' `CLIMATE` weight for the area's climate.
+
+Vanilla's values run from `0.05` to `1`. Most species have `1` on the terrain they favour, and `SMILODON` reaches only `0.5`. Only `GLOBDIEN` lists `OCEAN`, and only `BALTICRAWLER` and `SMILODON` list `MOUNTAIN`.
 
 | | |
 |---|---|

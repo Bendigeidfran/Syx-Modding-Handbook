@@ -62,7 +62,9 @@ Several tags below contain an `ACTIONS` list: the things that happen at a partic
 
 The icon shown for the event. If it's missing, the game uses its standard event icon.
 
-The value can be a simple icon path, as described under [ICON in init/animal](../01-animal.md#icon), or a block that combines two icons:
+The value can be a simple icon path or a block that combines two icons. An icon path is `SIZE->FOLDERS->IMAGE->NUMBER`, relative to `assets/sprite/icon/`: the size folder (`16`, `24` or `32`), any sub-folders, the image name without `.png`, then the icon's number within that image. Numbers count from `0`, left to right and then top to bottom.
+
+The tags in a block are:
 
 | Tag | Meaning | Required |
 |---|---|---|

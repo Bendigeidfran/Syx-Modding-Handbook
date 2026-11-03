@@ -39,7 +39,7 @@ The examples below come from the vanilla `AMINION.txt` unless stated otherwise.
 
 ### ICON
 
-The icon that represents the religion in the interface. The value is a path to an icon, separated by `->`: the icon size folder (`16`, `24` or `32`), then any sub-folders, then the image name, then the number of the icon within that image. The path is relative to `assets/sprite/icon/`.
+The icon that represents the religion in the interface. The value is a path to an icon, separated by `->`: the icon size folder (`16`, `24` or `32`), then any sub-folders, then the image name, then the number of the icon within that image. The path is relative to `assets/sprite/icon/`. Numbers count from `0`, left to right and then top to bottom.
 
 | | |
 |---|---|

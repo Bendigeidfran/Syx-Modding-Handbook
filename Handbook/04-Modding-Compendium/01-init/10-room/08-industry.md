@@ -152,6 +152,8 @@ The examples come from the vanilla `MINE_CLAY.txt`.
 
 The deposit this mine extracts, by its key in `assets/init/resource/minable/`.
 
+Each file names the one before it, so create them in this order: the [resource](../09-resource/01-resource-file.md), then the [deposit](../09-resource/05-minable.md), then this mine. The game doesn't mind which you write first, as long as they're all there when it loads. A name that doesn't match stops loading with an error listing the available ones.
+
 | | |
 |---|---|
 | **Type** | Key (a deposit) |
@@ -163,7 +165,7 @@ MINABLE: CLAY,
 
 ### FLOOR
 
-The floor laid in the mine. Unlike other rooms, a mine must have one, and it must be a single floor by its key.
+The floor laid in the mine. Unlike other rooms, a mine must have one, and it must be a single floor by its key. Vanilla's mines use `MINE`, except the clay mine with `MINE_MUD`.
 
 | | |
 |---|---|
@@ -177,6 +179,8 @@ FLOOR: MINE_MUD,
 ### YEILD_WORKER_DAILY
 
 How much of the resource each worker extracts per day, before bonuses. Note the game's spelling.
+
+Vanilla uses `0.1` for sithilon, `0.2` for gems, `1.5` for clay and ore, `4.0` for coal and `4.5` for stone.
 
 | | |
 |---|---|
@@ -192,6 +196,8 @@ YEILD_WORKER_DAILY: 1.5,
 
 How much of its output each storage tile can hold.
 
+Vanilla uses `25` for sithilon and gems, `75` for clay and ore, `200` for coal and `225` for stone. Apart from the two slowest, that's 50 times `YEILD_WORKER_DAILY`.
+
 | | |
 |---|---|
 | **Type** | Integer |
@@ -200,6 +206,169 @@ How much of its output each storage tile can hold.
 
 ```text
 STORAGE: 75,
+```
+
+### ICON
+
+The mine's icon in the interface, written as a block that combines two icons. Every vanilla mine uses the background `32->BG->4`, with its resource's icon on top.
+
+An icon path is `SIZE->FOLDERS->IMAGE->NUMBER`, relative to `assets/sprite/icon/`: the size folder (`16`, `24` or `32`), any sub-folders, the image name without `.png`, then the icon's number within that image. Numbers count from `0`, left to right and then top to bottom. A block has `BG`, the background icon path, and `FG`, an icon path drawn on top, and `SHADOW` sets the size of the shadow under `FG`.
+
+| | |
+|---|---|
+| **Type** | Icon path, a block or a list of blocks |
+| **Required** | Yes |
+
+```text
+ICON: {
+	BG: 32->BG->4,
+	FG: 24->resource->Clay->0,
+	SHADOW: 2,
+},
+```
+
+### RESOURCES
+
+The resources the mine is built from, as a list of resource keys. `AREA_COSTS`, `ITEMS.COSTS` and `UPGRADES.RESOURCE_MASK` all follow this list's order. Every vanilla mine uses the list in this example, except the stone mine, which has `WOOD` in place of `STONE`. Here `STONE` means the resource in `_STONE.txt`, because a key starting with `_` also works without it.
+
+| | |
+|---|---|
+| **Type** | List of keys (resources) |
+| **Range** | 4 at most |
+| **Required** | No. If it's missing, the mine costs no resources, and `AREA_COSTS` must be an empty list. |
+
+```text
+RESOURCES: [STONE,FURNITURE,METAL,MACHINERY,],
+```
+
+### AREA_COSTS
+
+How much of each resource in `RESOURCES` the mine costs for its floor area, in the same order. Every vanilla mine uses `0` for all of them, so a mine only costs resources for its items.
+
+| | |
+|---|---|
+| **Type** | List of decimals |
+| **Range** | Must have the same number of entries as `RESOURCES` |
+| **Required** | Yes |
+
+```text
+AREA_COSTS: [0,0,0,0,],
+```
+
+### MINI_COLOR
+
+The mine's colour on the minimap, written as `RED_GREEN_BLUE`. Every vanilla mine uses `80_80_80`.
+
+| | |
+|---|---|
+| **Type** | Colour (`RED_GREEN_BLUE`) |
+| **Required** | Yes |
+
+```text
+MINI_COLOR: 80_80_80,
+```
+
+### WORK
+
+The mine's workers, in the form described on the [employment](02-employment.md#work-and-employment) page.
+
+Every vanilla mine has `SHIFT_OFFSET: 0.125` and `ACCIDENTS_PER_YEAR: 0.075`. `FULFILLMENT` is `-4`, or `-2` for the clay mine. `HEALTH_FACTOR` is `0.5` for coal, `0.65` for ore, `0.75` for gems, sithilon and stone, and `0.85` for clay.
+
+| | |
+|---|---|
+| **Type** | Block |
+| **Required** | Keep it. Unverified: the game doesn't check for it while loading, but a mine's job code expects it, so leaving it out should crash during play. |
+
+```text
+WORK: {
+	SHIFT_OFFSET: 0.125,
+	SOUND: impact->Dig*,
+	FULFILLMENT: -2,
+	HEALTH_FACTOR: 0.85,
+	ACCIDENTS_PER_YEAR: 0.075,
+},
+```
+
+### ITEMS
+
+The furniture the player can place in the mine, as a list of exactly two blocks: the storage, then the auxiliaries. The wrong number is a loading error. Each block has its name and description in the text file.
+
+| | |
+|---|---|
+| **Type** | List of blocks |
+| **Range** | Exactly 2 |
+| **Required** | Yes |
+
+```text
+ITEMS: [
+	{
+		COSTS: [1,1,1,3.75,],
+		STATS: [0,0,0,0,],
+	},
+	{
+		COSTS: [1,1,1,3.75,],
+		STATS: [0,0,2,0,],
+	},
+],
+```
+
+#### COSTS
+
+How much of each resource in `RESOURCES` one of these items costs, in the same order. Items that come in several sizes multiply this by a figure set in the game's code. Every vanilla mine uses `[1,1,1,3.75,]` for both items.
+
+| | |
+|---|---|
+| **Type** | List of decimals |
+| **Range** | Must have the same number of entries as `RESOURCES` |
+| **Required** | Yes |
+
+```text
+COSTS: [1,1,1,3.75,],
+```
+
+#### STATS
+
+What one of these items adds to the mine's four statistics, in this order: workers, deposits, efficiency and output. Only efficiency uses the number written here, because the game calculates the other three from the room. Every vanilla mine uses `[0,0,0,0,]` for the storage and `[0,0,2,0,]` for the auxiliaries.
+
+Efficiency starts at 50% and rises with the total the items add: it's 0.5 + 0.5 × total ÷ workers, up to 100%. A mine's workers are its deposit tiles with no item on them, divided by 1.5 and rounded down.
+
+| | |
+|---|---|
+| **Type** | List of decimals |
+| **Range** | Must have 4 entries |
+| **Required** | Yes |
+
+```text
+STATS: [0,0,2,0,],
+```
+
+### UPGRADES
+
+The mine's upgrade levels, as a list of blocks. The first block is the mine as first built, and each later block is one upgrade. Every vanilla mine has three levels, with the `RESOURCE_MASK` and `BOOST` values in this example. `RESOURCE_MASK` multiplies the costs at that level, one number for each resource in `RESOURCES`, and `0` means the level doesn't use that resource. `BOOST` is the bonus the level gives to production. `AI` has no effect.
+
+| | |
+|---|---|
+| **Type** | List of blocks |
+| **Range** | 1 or more |
+| **Required** | No. Without it, the mine can't be upgraded. |
+
+```text
+UPGRADES: [
+	{
+		RESOURCE_MASK: [3,2.5,0,0,],
+		BOOST: 0,
+	},
+	{
+		RESOURCE_MASK: [3,5.5,6,0,],
+		BOOST: 1.0,
+		AI: 0.8,
+	},
+	{
+		RESOURCE_MASK: [3,5.5,6,1,],
+		BOOST: 2.0,
+		AI: 1.3,
+	},
+],
 ```
 
 ### SPRITE
@@ -237,6 +406,32 @@ The images a mine is drawn with. Each name is a required [sprite entry](../../03
 |---|---|
 | **Type** | Block of sprite entries |
 | **Required** | Yes |
+
+Each name holds a list of sprite entries, and each entry's `FRAMES` names images as `FILE: ROW`. This example is the `WORK_1X1` entry from the vanilla `MINE_CLAY.txt`:
+
+```text
+WORK_1X1: [
+	{
+		ROTATES: false,
+		SHADOW_LENGTH: 2,
+		FRAMES: [
+			STORAGE: 5,
+		],
+	},
+	{
+		ROTATES: false,
+		FPS: 15,
+		SHADOW_LENGTH: 4,
+		CIRCULAR: true,
+		FRAMES: [
+			MECH_WORK: 0,
+			MECH_WORK: 1,
+			MECH_WORK: 2,
+			MECH_WORK: 3,
+		],
+	},
+],
+```
 
 ## _WOODCUTTER
 

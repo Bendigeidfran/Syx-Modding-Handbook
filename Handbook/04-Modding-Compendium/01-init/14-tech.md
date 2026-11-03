@@ -54,7 +54,9 @@ COLOR: 0_205_33,
 
 ### ICON
 
-The icon on the tree's tab. It can be written in any of the forms described under [`ICON` for technologies](#icon_1).
+The icon on the tree's tab, written as an icon path, a block that combines icons, or a list of blocks.
+
+An icon path is `SIZE->FOLDERS->IMAGE->NUMBER`, relative to `assets/sprite/icon/`: the size folder (`16`, `24` or `32`), any sub-folders, the image name without `.png`, then the icon's number within that image. Numbers count from `0`, left to right and then top to bottom. The other forms are described under [`ICON` for technologies](#icon_1).
 
 | | |
 |---|---|
@@ -101,7 +103,7 @@ The technology's icon. Without it, the game builds one from what the technology 
 | **Type** | Icon path, a block or a list of blocks |
 | **Required** | No |
 
-The simplest form is an icon path, as described under [`ICON` on the init/animal page](01-animal.md#icon). A list draws each entry's `BG` on top of the last, with a small shadow behind each one. This example comes from the vanilla `AGRI.txt`:
+The simplest form is an icon path: `SIZE->FOLDERS->IMAGE->NUMBER`, relative to `assets/sprite/icon/`, with the size folder (`16`, `24` or `32`), any sub-folders, the image name without `.png`, then the icon's number within that image. Numbers count from `0`, left to right and then top to bottom. A block is described under [`ICON` on the event page](05-event/01-structure.md#icon). A list draws each entry's `BG` on top of the last, with a small shadow behind each one. This example comes from the vanilla `AGRI.txt`:
 
 ```text
 ICON: [ 

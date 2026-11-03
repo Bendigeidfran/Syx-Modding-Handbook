@@ -20,7 +20,7 @@ The examples below come from the vanilla `BREAD.txt` unless stated otherwise.
 
 ### ICON
 
-The icon that represents the resource in the interface. The value is a path to an icon, separated by `->`: the icon size folder (`16`, `24` or `32`), then any sub-folders, then the image name, then the number of the icon within that image. The path is relative to `assets/sprite/icon/`.
+The icon that represents the resource in the interface. The value is a path to an icon, separated by `->`: the icon size folder (`16`, `24` or `32`), then any sub-folders, then the image name, then the number of the icon within that image. The path is relative to `assets/sprite/icon/`. Numbers count from `0`, left to right and then top to bottom. A bad path or number doesn't stop the game: it draws a plain orange icon instead, and only reports the problem when Debug is on.
 
 | | |
 |---|---|
@@ -35,6 +35,20 @@ ICON: 24->resource->Bread->0,
 ### DEGRADE_RATE
 
 How quickly the resource spoils. The resource's tooltip shows this as the share lost per year, so `1.0` is 100% a year and `0.1` is 10%. The tooltip also shows half that rate, adjusted by your spoilage bonuses, for stored goods. With `0`, the resource never spoils.
+
+No vanilla resource uses `0`. Vanilla's values are:
+
+- `1.0`: `BREAD`, `FISH`
+- `0.75`: `MEAT`
+- `0.5`: `_LIVESTOCK`, `FRUIT`, `VEGETABLE`
+- `0.25`: `MUSHROOM`
+- `0.2`: `ALCO_BEER`, `HERB`, `OPIATES`, `WEAPON_MOUNT`
+- `0.1`: `_WOOD`, `ALCO_WINE`, `ARMOUR_LEATHER`, `ARMOUR_PLATE`, `CLAY`, `CLOTHES`, `EGG`, `GRAIN`, `LEATHER`
+- `0.05`: `BOW`, `COTTON`, `FABRIC`, `MACHINERY`, `METAL`, `PAPER`, `POTTERY`, `RATION`, `STONE_CUT`, `TOOL`, `WEAPON_HAMMER`, `WEAPON_SHIELD`, `WEAPON_SHORT`, `WEAPON_SLASH`, `WEAPON_SPEAR`
+- `0.025`: `SITHILON`
+- `0.02`: `FURNITURE`
+- `0.01`: `_STONE`, `COAL`, `JEWELRY`, `ORE`
+- `0.001`: `GEM`
 
 | | |
 |---|---|
@@ -106,6 +120,14 @@ SPRITE_DEBRIS: Wood,
 
 The group the resource is listed in. Resources are ordered by this number throughout the game, and the stockpile's settings and the resource list on the right of the settlement screen separate the groups. Vanilla uses `0` to `4`.
 
+The game doesn't name the groups, so these descriptions only summarise what vanilla puts in each:
+
+- `0`, food and drink: `ALCO_BEER`, `ALCO_WINE`, `BREAD`, `EGG`, `FISH`, `FRUIT`, `MEAT`, `MUSHROOM`, `RATION`, `VEGETABLE`
+- `1`, raw materials: `_LIVESTOCK`, `_STONE`, `_WOOD`, `CLAY`, `COAL`, `COTTON`, `GEM`, `GRAIN`, `HERB`, `LEATHER`, `OPIATES`, `ORE`, `SITHILON`
+- `2`, processed materials: `FABRIC`, `FURNITURE`, `METAL`, `PAPER`, `POTTERY`, `STONE_CUT`
+- `3`, finished goods: `CLOTHES`, `JEWELRY`, `MACHINERY`, `TOOL`
+- `4`, military gear: `ARMOUR_LEATHER`, `ARMOUR_PLATE`, `BOW`, `WEAPON_HAMMER`, `WEAPON_MOUNT`, `WEAPON_SHIELD`, `WEAPON_SHORT`, `WEAPON_SLASH`, `WEAPON_SPEAR`
+
 A value of 10 or more crashes the game while loading. So does having more than 64 resources in one group, or more than 128 in total. These limits count vanilla and every enabled mod together, though a file with the same name in several places counts once.
 
 | | |
@@ -120,7 +142,7 @@ CATEGORY_DEFAULT: 0,
 
 ### PRICE_MUL
 
-Multiplies the price AI factions ask for this resource. A race's [`RESOURCE_RPICE_MUL`](../07-race/02-preferences.md#resource_rpice_mul-and-resource_rpice_cap) block can override it for factions ruled by that race.
+Multiplies the price AI factions ask for this resource. A race's [`RESOURCE_RPICE_MUL`](../07-race/02-preferences.md#resource_rpice_mul-and-resource_rpice_cap) block can override it for factions ruled by that race. Vanilla only ever writes `1`, the same as the default.
 
 | | |
 |---|---|

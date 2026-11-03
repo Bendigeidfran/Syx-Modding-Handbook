@@ -14,11 +14,15 @@ These tags are used by most rooms, whatever their type: what a room costs, how i
 
 ### ICON
 
-The room's icon in the interface. The value can be an icon path, as described under [`ICON` on the init/animal page](../01-animal.md#icon), or a block that combines icons, as described under [`ICON` on the event page](../05-event/01-structure.md#icon). This example comes from the vanilla `BATH_NORMAL.txt`.
+The room's icon in the interface, written as an icon path, a block that combines icons, or a list of blocks. This example comes from the vanilla `BATH_NORMAL.txt`.
+
+An icon path is `SIZE->FOLDERS->IMAGE->NUMBER`, relative to `assets/sprite/icon/`: the size folder (`16`, `24` or `32`), any sub-folders, the image name without `.png`, then the icon's number within that image. Numbers count from `0`, left to right and then top to bottom. A bad path or number doesn't stop the game: it draws a plain orange icon instead, and only reports the problem when Debug is on.
+
+A block has `BG`, the background icon path, and can have `FG`, an icon path drawn on top. `SHADOW` sets the size of the shadow under `FG`, `OFFX` and `OFFY` move `FG`, and `SCALE` enlarges both icons. `COLOR` tints `BG`, but only when there's no `FG`. A list of blocks draws each block's `BG` on top of the last.
 
 | | |
 |---|---|
-| **Type** | Icon path, or a block |
+| **Type** | Icon path, a block or a list of blocks |
 | **Required** | Yes |
 
 ```text
@@ -140,7 +144,7 @@ COSTS: [0,2,1,],
 
 #### STATS
 
-What one of these items adds to the room's statistics, such as how many workers it fits or how many people it serves. There's one number for each statistic the room type has, in the order of the `STATS` list in the text file. Items that come in several sizes multiply this by a figure set in the game's code.
+What one of these items adds to the room's statistics, such as how many workers it fits or how many people it serves. There's one number for each statistic the room type has, in the order of the `STATS` list in the text file. Items that come in several sizes multiply this by a figure set in the game's code. This example has two numbers because a bathhouse has two statistics, and other room types have their own count.
 
 | | |
 |---|---|
@@ -299,7 +303,7 @@ BOOST: 0,
 
 #### AI
 
-The game reads this value, but in v0.71.44 nothing uses it: changing it has no effect.
+The game reads this value, but in v0.71.44 nothing uses it: changing it has no effect. This example comes from the vanilla `MINE_STONE.txt`.
 
 | | |
 |---|---|
@@ -307,6 +311,10 @@ The game reads this value, but in v0.71.44 nothing uses it: changing it has no e
 | **Range** | 0 to 10000 |
 | **Required** | No |
 | **Effect** | None |
+
+```text
+AI: 1.3,
+```
 
 ## The text file
 
@@ -362,12 +370,25 @@ Adds an article about the room to the in-game wiki, opened from a button in the 
 
 ### ITEMS
 
-The names and descriptions of the room's furniture, as a list of blocks in the same order as `ITEMS` in the room file. It must have the same number of blocks.
+The names and descriptions of the room's furniture, as a list of blocks in the same order as `ITEMS` in the room file. It must have the same number of blocks. This example comes from the vanilla `MINE_CLAY.txt`.
 
 | | |
 |---|---|
 | **Type** | List of blocks |
 | **Required** | Yes, for room types that have items |
+
+```text
+ITEMS: [
+	{
+		NAME: "Storage",
+		DESC: "Necessary for all mines. Bigger increases internal storage capacity.",	
+	},
+	{
+		NAME: "Auxiliaries",
+		DESC: "Improves the performance of the mine.",	
+	},
+],
+```
 
 #### NAME
 

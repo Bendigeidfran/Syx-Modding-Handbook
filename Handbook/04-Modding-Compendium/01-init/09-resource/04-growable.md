@@ -22,6 +22,8 @@ The examples below come from the vanilla `COTTON.txt`.
 
 The resource this crop yields, by its key. Two crops can't yield the same resource: that stops the game from loading with an error.
 
+Each file names the one before it, so create them in this order: the [resource](01-resource-file.md), then this crop, then the [farm](../10-room/05-food.md#farm) that names it. The game doesn't mind which you write first, as long as they're all there when it loads. A name that doesn't match stops loading with an error listing the available ones.
+
 | | |
 |---|---|
 | **Type** | Key (a resource) |
@@ -34,6 +36,8 @@ RESOURCE: COTTON,
 ### SEASONAL_OFFSET
 
 When in the year the crop is harvested, as a share of the year: `0` is the start and `0.5` is halfway through. Farms plant the crop three eighths of a year before this. The same day sets when a world map region delivers the crop.
+
+Vanilla uses `0.375` (`HERB`, `VEGETABLE`), `0.4375` (`FRUIT`), `0.5` (`COTTON`), `0.5625` (`GRAIN`, `OPIATES`) and `0.75` (`MUSHROOM`).
 
 | | |
 |---|---|
@@ -50,6 +54,8 @@ SEASONAL_OFFSET: 0.5,
 How much of this crop grows wild when a new map is created, together with `CLIMATE_BONUS`. The game uses the square root of this value, so `0.25` gives half as much as `1`.
 
 This doesn't affect what farms produce.
+
+Vanilla uses `0.1` (`OPIATES`), `0.3` (`MUSHROOM`), `0.35` (`COTTON`), `0.5` (`FRUIT`, `HERB`, `VEGETABLE`) and `1.0` (`GRAIN`).
 
 | | |
 |---|---|
@@ -80,6 +86,8 @@ MINIMAP_COLOR: 255_127_0,
 How much of this crop grows wild in each climate when a new map is created, multiplied with `GROWTH_VALUE`. The block can contain `COLD`, `TEMPERATE` and `HOT`, and `*` sets every climate at once. A climate that's missing counts as 0.
 
 This doesn't affect what farms produce.
+
+Vanilla's values run from `0.1` to `1.1`. `GRAIN` has `1` in every climate, while `HERB` has `COLD` 1, `TEMPERATE` 0.2 and `HOT` 0.1.
 
 | | |
 |---|---|
@@ -121,7 +129,7 @@ SPRITE: Cotton,
 
 ### SPRITE.WIND_SWAY
 
-How much the plants move in the wind.
+How much the plants move in the wind. Vanilla uses `0` to `1.5`, with `GRAIN` the highest.
 
 | | |
 |---|---|
@@ -135,7 +143,7 @@ WIND_SWAY: 0.5,
 
 ### SPRITE.POLLEN
 
-How much pollen drifts from ripe plants. With `0`, there's none.
+How much pollen drifts from ripe plants. With `0`, there's none. Vanilla uses `0` for every crop except `OPIATES`, which has `1`.
 
 | | |
 |---|---|
@@ -184,7 +192,7 @@ DEAD: 99_76_33,
 
 #### SHADOW_LENGTH
 
-The length of the shadow this part casts.
+The length of the shadow this part casts. Vanilla uses `0` to `6`.
 
 | | |
 |---|---|
@@ -198,7 +206,7 @@ SHADOW_LENGTH: 0,
 
 #### SHADOW_HEIGHT
 
-How far above the ground this part's shadow starts.
+How far above the ground this part's shadow starts. Vanilla uses `0` to `7`.
 
 | | |
 |---|---|

@@ -26,7 +26,7 @@ The three values the damage type creates, each in a block of its own. All three 
 
 | Tag | Meaning | Type and range | Required |
 |---|---|---|---|
-| `ICON` | The value's icon, as described under [`ICON` on the init/animal page](../01-animal.md#icon). | Icon path, or a block | Yes |
+| `ICON` | The value's icon. An icon path is `SIZE->FOLDERS->IMAGE->NUMBER`, relative to `assets/sprite/icon/`: the size folder (`16`, `24` or `32`), any sub-folders, the image name without `.png`, then the icon's number within that image, counting from `0`, left to right and then top to bottom. A block is described under [`ICON` on the event page](../05-event/01-structure.md#icon). | Icon path, or a block | Yes |
 | `DEFAULT_VALUE` | The value everyone starts with, before any boosts. | Decimal, 0 to 100000 | Yes |
 
 ```text

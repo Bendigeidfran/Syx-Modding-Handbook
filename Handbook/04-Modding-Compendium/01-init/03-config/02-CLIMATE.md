@@ -39,7 +39,9 @@ All three blocks are required.
 
 ### ICON
 
-The icon representing the climate in the interface, written as an icon path. See [ICON in init/animal](../01-animal.md#icon) for the format.
+The icon representing the climate in the interface, written as an icon path.
+
+An icon path is `SIZE->FOLDERS->IMAGE->NUMBER`, relative to `assets/sprite/icon/`: the size folder (`16`, `24` or `32`), any sub-folders, the image name without `.png`, then the icon's number within that image. Numbers count from `0`, left to right and then top to bottom.
 
 | | |
 |---|---|
