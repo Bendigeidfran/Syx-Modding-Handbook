@@ -1,0 +1,32 @@
+16->Env->0 | 6, 6, 16, 16 | Icon number 0 in this sheet. Writing 16->Env->0 in a file picks this icon.
+16->Env->1 | 28, 6, 16, 16 | Icon number 1 in this sheet. Writing 16->Env->1 in a file picks this icon.
+16->Env->2 | 50, 6, 16, 16 | Icon number 2 in this sheet. Writing 16->Env->2 in a file picks this icon.
+16->Env->3 | 72, 6, 16, 16 | Icon number 3 in this sheet. Writing 16->Env->3 in a file picks this icon.
+16->Env->4 | 6, 28, 16, 16 | Icon number 4 in this sheet. Writing 16->Env->4 in a file picks this icon.
+16->Env->5 | 28, 28, 16, 16 | Icon number 5 in this sheet. Writing 16->Env->5 in a file picks this icon.
+16->Env->6 | 50, 28, 16, 16 | Icon number 6 in this sheet. Writing 16->Env->6 in a file picks this icon.
+16->Env->7 | 72, 28, 16, 16 | Icon number 7 in this sheet. Writing 16->Env->7 in a file picks this icon.
+16->Env->8 | 6, 50, 16, 16 | Icon number 8 in this sheet. Writing 16->Env->8 in a file picks this icon.
+16->Env->9 | 28, 50, 16, 16 | Icon number 9 in this sheet. Writing 16->Env->9 in a file picks this icon.
+16->Env->10 | 50, 50, 16, 16 | Icon number 10 in this sheet. Writing 16->Env->10 in a file picks this icon.
+16->Env->11 | 72, 50, 16, 16 | Icon number 11 in this sheet. Writing 16->Env->11 in a file picks this icon.
+16->Env->12 | 6, 72, 16, 16 | Icon number 12 in this sheet. Writing 16->Env->12 in a file picks this icon.
+16->Env->13 | 28, 72, 16, 16 | Icon number 13 in this sheet. Writing 16->Env->13 in a file picks this icon.
+16->Env->14 | 50, 72, 16, 16 | Icon number 14 in this sheet. Writing 16->Env->14 in a file picks this icon.
+16->Env->15 | 72, 72, 16, 16 | Icon number 15 in this sheet. Writing 16->Env->15 in a file picks this icon.
+16->Env->0 normal | 100, 6, 16, 16 | The normal map for 16->Env->0.
+16->Env->1 normal | 122, 6, 16, 16 | The normal map for 16->Env->1.
+16->Env->2 normal | 144, 6, 16, 16 | The normal map for 16->Env->2.
+16->Env->3 normal | 166, 6, 16, 16 | The normal map for 16->Env->3.
+16->Env->4 normal | 100, 28, 16, 16 | The normal map for 16->Env->4.
+16->Env->5 normal | 122, 28, 16, 16 | The normal map for 16->Env->5.
+16->Env->6 normal | 144, 28, 16, 16 | The normal map for 16->Env->6.
+16->Env->7 normal | 166, 28, 16, 16 | The normal map for 16->Env->7.
+16->Env->8 normal | 100, 50, 16, 16 | The normal map for 16->Env->8.
+16->Env->9 normal | 122, 50, 16, 16 | The normal map for 16->Env->9.
+16->Env->10 normal | 144, 50, 16, 16 | The normal map for 16->Env->10.
+16->Env->11 normal | 166, 50, 16, 16 | The normal map for 16->Env->11.
+16->Env->12 normal | 100, 72, 16, 16 | The normal map for 16->Env->12.
+16->Env->13 normal | 122, 72, 16, 16 | The normal map for 16->Env->13.
+16->Env->14 normal | 144, 72, 16, 16 | The normal map for 16->Env->14.
+16->Env->15 normal | 166, 72, 16, 16 | The normal map for 16->Env->15.

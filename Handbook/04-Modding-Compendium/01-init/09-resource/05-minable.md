@@ -93,7 +93,7 @@ FERTILITY_INCREASE: 1,
 
 The image the deposit is drawn from: the name of a file in `assets/sprite/resource/minable/`, without `.png`. Several deposits can share one image.
 
-The image must be exactly 364 pixels wide and at least 94 pixels tall, or the game stops loading with an error. If the file doesn't exist, that's also an error. The game cuts it up using a fixed layout, so the safest way to make a new one is to copy a vanilla image and paint over it.
+The image must be exactly 364 pixels wide and at least 94 pixels tall, or the game stops loading with an error. If the file doesn't exist, that's also an error. The game cuts it up using a [fixed layout](../../03-sprite/08-resource.md#minable), so the safest way to make a new one is to copy a vanilla image and paint over it.
 
 | | |
 |---|---|

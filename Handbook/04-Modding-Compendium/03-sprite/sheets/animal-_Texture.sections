@@ -1,0 +1,40 @@
+BLOOD[0] | 6, 6, 32, 32 | The lightest blood, for the least damaged animals. It's used for every direction.
+44, 6, 32, 32 | 44, 6, 32, 32 | The game loads this cell, but only ever draws the left cell of a blood row, whichever way the animal faces.
+BLOOD[1] | 6, 44, 32, 32 | The next level of blood. It's used for every direction.
+44, 44, 32, 32 | 44, 44, 32, 32 | The game loads this cell, but only ever draws the left cell of a blood row, whichever way the animal faces.
+BLOOD[2] | 6, 82, 32, 32 | The next level of blood. It's used for every direction.
+44, 82, 32, 32 | 44, 82, 32, 32 | The game loads this cell, but only ever draws the left cell of a blood row, whichever way the animal faces.
+BLOOD[3] | 6, 120, 32, 32 | The next level of blood. It's used for every direction.
+44, 120, 32, 32 | 44, 120, 32, 32 | The game loads this cell, but only ever draws the left cell of a blood row, whichever way the animal faces.
+BLOOD[4] | 6, 158, 32, 32 | The heaviest blood, for the most damaged animals. It's used for every direction.
+44, 158, 32, 32 | 44, 158, 32, 32 | The game loads this cell, but only ever draws the left cell of a blood row, whichever way the animal faces.
+WATER[0] N | 88, 6, 32, 32 | Frame 1 of 4 of an animal in water. Facing up. The game rotates it clockwise to make E, S and W.
+WATER[0] NE | 126, 6, 32, 32 | Frame 1 of 4 of an animal in water. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+WATER[1] N | 88, 44, 32, 32 | Frame 2 of 4 of an animal in water. Facing up. The game rotates it clockwise to make E, S and W.
+WATER[1] NE | 126, 44, 32, 32 | Frame 2 of 4 of an animal in water. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+WATER[2] N | 88, 82, 32, 32 | Frame 3 of 4 of an animal in water. Facing up. The game rotates it clockwise to make E, S and W.
+WATER[2] NE | 126, 82, 32, 32 | Frame 3 of 4 of an animal in water. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+WATER[3] N | 88, 120, 32, 32 | Frame 4 of 4 of an animal in water. Facing up. The game rotates it clockwise to make E, S and W.
+WATER[3] NE | 126, 120, 32, 32 | Frame 4 of 4 of an animal in water. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+crate N | 88, 158, 32, 32 | The crate on an animal carrying goods in a caravan. Facing up. The game rotates it clockwise to make E, S and W.
+crate NE | 126, 158, 32, 32 | The crate on an animal carrying goods in a caravan. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+BLOOD[0] normal | 170, 6, 32, 32 | The normal map for BLOOD[0].
+208, 6, 32, 32 | 208, 6, 32, 32 | The normal map for the unused cell at 44, 6, 32, 32.
+BLOOD[1] normal | 170, 44, 32, 32 | The normal map for BLOOD[1].
+208, 44, 32, 32 | 208, 44, 32, 32 | The normal map for the unused cell at 44, 44, 32, 32.
+BLOOD[2] normal | 170, 82, 32, 32 | The normal map for BLOOD[2].
+208, 82, 32, 32 | 208, 82, 32, 32 | The normal map for the unused cell at 44, 82, 32, 32.
+BLOOD[3] normal | 170, 120, 32, 32 | The normal map for BLOOD[3].
+208, 120, 32, 32 | 208, 120, 32, 32 | The normal map for the unused cell at 44, 120, 32, 32.
+BLOOD[4] normal | 170, 158, 32, 32 | The normal map for BLOOD[4].
+208, 158, 32, 32 | 208, 158, 32, 32 | The normal map for the unused cell at 44, 158, 32, 32.
+WATER[0] N normal | 252, 6, 32, 32 | The normal map for WATER[0] N.
+WATER[0] NE normal | 290, 6, 32, 32 | The normal map for WATER[0] NE.
+WATER[1] N normal | 252, 44, 32, 32 | The normal map for WATER[1] N.
+WATER[1] NE normal | 290, 44, 32, 32 | The normal map for WATER[1] NE.
+WATER[2] N normal | 252, 82, 32, 32 | The normal map for WATER[2] N.
+WATER[2] NE normal | 290, 82, 32, 32 | The normal map for WATER[2] NE.
+WATER[3] N normal | 252, 120, 32, 32 | The normal map for WATER[3] N.
+WATER[3] NE normal | 290, 120, 32, 32 | The normal map for WATER[3] NE.
+crate N normal | 252, 158, 32, 32 | The normal map for crate N.
+crate NE normal | 290, 158, 32, 32 | The normal map for crate NE.

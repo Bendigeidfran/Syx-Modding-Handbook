@@ -13,5 +13,3 @@
 !/.github/
 !/Handbook/
 /Handbook/**/*.pdf
-# Game art stays out of the public repo until the developer gives permission.
-/Handbook/**/*.png

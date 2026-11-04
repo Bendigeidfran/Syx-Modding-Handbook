@@ -1,0 +1,32 @@
+debris[0] | 6, 6, 16, 16 | A piece of debris. The game also uses it turned 90 degrees, and picks pieces at random.
+debris[1] | 28, 6, 16, 16 | A piece of debris. The game also uses it turned 90 degrees, and picks pieces at random.
+debris[2] | 50, 6, 16, 16 | A piece of debris. The game also uses it turned 90 degrees, and picks pieces at random.
+debris[3] | 72, 6, 16, 16 | A piece of debris. The game also uses it turned 90 degrees, and picks pieces at random.
+debris[4] | 94, 6, 16, 16 | A piece of debris. The game also uses it turned 90 degrees, and picks pieces at random.
+debris[5] | 116, 6, 16, 16 | A piece of debris. The game also uses it turned 90 degrees, and picks pieces at random.
+debris[6] | 138, 6, 16, 16 | A piece of debris. The game also uses it turned 90 degrees, and picks pieces at random.
+debris[7] | 160, 6, 16, 16 | A piece of debris. The game also uses it turned 90 degrees, and picks pieces at random.
+debris[8] | 182, 6, 16, 16 | A piece of debris. The game also uses it turned 90 degrees, and picks pieces at random.
+debris[9] | 204, 6, 16, 16 | A piece of debris. The game also uses it turned 90 degrees, and picks pieces at random.
+debris[10] | 226, 6, 16, 16 | A piece of debris. The game also uses it turned 90 degrees, and picks pieces at random.
+debris[11] | 248, 6, 16, 16 | A piece of debris. The game also uses it turned 90 degrees, and picks pieces at random.
+debris[12] | 270, 6, 16, 16 | A piece of debris. The game also uses it turned 90 degrees, and picks pieces at random.
+debris[13] | 292, 6, 16, 16 | A piece of debris. The game also uses it turned 90 degrees, and picks pieces at random.
+debris[14] | 314, 6, 16, 16 | A piece of debris. The game also uses it turned 90 degrees, and picks pieces at random.
+debris[15] | 336, 6, 16, 16 | A piece of debris. The game also uses it turned 90 degrees, and picks pieces at random.
+debris[0] normal | 364, 6, 16, 16 | The normal map for debris[0].
+debris[1] normal | 386, 6, 16, 16 | The normal map for debris[1].
+debris[2] normal | 408, 6, 16, 16 | The normal map for debris[2].
+debris[3] normal | 430, 6, 16, 16 | The normal map for debris[3].
+debris[4] normal | 452, 6, 16, 16 | The normal map for debris[4].
+debris[5] normal | 474, 6, 16, 16 | The normal map for debris[5].
+debris[6] normal | 496, 6, 16, 16 | The normal map for debris[6].
+debris[7] normal | 518, 6, 16, 16 | The normal map for debris[7].
+debris[8] normal | 540, 6, 16, 16 | The normal map for debris[8].
+debris[9] normal | 562, 6, 16, 16 | The normal map for debris[9].
+debris[10] normal | 584, 6, 16, 16 | The normal map for debris[10].
+debris[11] normal | 606, 6, 16, 16 | The normal map for debris[11].
+debris[12] normal | 628, 6, 16, 16 | The normal map for debris[12].
+debris[13] normal | 650, 6, 16, 16 | The normal map for debris[13].
+debris[14] normal | 672, 6, 16, 16 | The normal map for debris[14].
+debris[15] normal | 694, 6, 16, 16 | The normal map for debris[15].

@@ -125,7 +125,7 @@ ICON: 32->animal->Auroch->0,
 
 The sprite sheet the animal is drawn from: the name of an image in `assets/sprite/animal/`, without `.png`. Several species can share one sheet.
 
-The image must be exactly 164 pixels wide and at least 462 pixels tall, or the game stops loading with an error. The game cuts it into frames using a fixed layout, so the safest way to make a new sheet is to copy a vanilla one and paint over it.
+The image must be exactly 164 pixels wide and at least 462 pixels tall, or the game stops loading with an error. The game cuts it into frames using a [fixed layout](../03-sprite/01-animal.md#a-species-sheet), so the safest way to make a new sheet is to copy a vanilla one and paint over it.
 
 | | |
 |---|---|

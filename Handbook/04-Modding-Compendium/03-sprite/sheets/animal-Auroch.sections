@@ -1,0 +1,48 @@
+bstanding N | 6, 6, 32, 32 | The baby standing still. Babies also use this for anything that isn't walking, such as lying down or eating. Facing up. The game rotates it clockwise to make E, S and W.
+bstanding NE | 44, 6, 32, 32 | The baby standing still. Babies also use this for anything that isn't walking, such as lying down or eating. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+bwalk1 N | 6, 44, 32, 32 | The baby's first walking step. Facing up. The game rotates it clockwise to make E, S and W.
+bwalk1 NE | 44, 44, 32, 32 | The baby's first walking step. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+bwalk2 N | 6, 82, 32, 32 | The baby's second walking step. Facing up. The game rotates it clockwise to make E, S and W.
+bwalk2 NE | 44, 82, 32, 32 | The baby's second walking step. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+standing N | 6, 120, 32, 32 | The adult standing still. It's also a frame of its walk and of eating. Facing up. The game rotates it clockwise to make E, S and W.
+standing NE | 44, 120, 32, 32 | The adult standing still. It's also a frame of its walk and of eating. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+walk1 N | 6, 158, 32, 32 | The adult's first walking step. Facing up. The game rotates it clockwise to make E, S and W.
+walk1 NE | 44, 158, 32, 32 | The adult's first walking step. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+walk2 N | 6, 196, 32, 32 | The adult's second walking step. Facing up. The game rotates it clockwise to make E, S and W.
+walk2 NE | 44, 196, 32, 32 | The adult's second walking step. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+laying N | 6, 234, 32, 32 | The adult lying down, including while it's knocked into the air, when it spins through its directions. A fresh carcass uses this too. Facing up. The game rotates it clockwise to make E, S and W.
+laying NE | 44, 234, 32, 32 | The adult lying down, including while it's knocked into the air, when it spins through its directions. A fresh carcass uses this too. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+eating N | 6, 272, 32, 32 | The adult's second frame while eating, shown in turn with standing. Facing up. The game rotates it clockwise to make E, S and W.
+eating NE | 44, 272, 32, 32 | The adult's second frame while eating, shown in turn with standing. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+bodypart1 N | 6, 310, 32, 32 | One of two versions of the gory remains left when an animal is destroyed, chosen at random. Facing up. The game rotates it clockwise to make E, S and W.
+bodypart1 NE | 44, 310, 32, 32 | One of two versions of the gory remains left when an animal is destroyed, chosen at random. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+bodypart2 N | 6, 348, 32, 32 | The other version of the gory remains. Facing up. The game rotates it clockwise to make E, S and W.
+bodypart2 NE | 44, 348, 32, 32 | The other version of the gory remains. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+rotten N | 6, 386, 32, 32 | A rotting carcass, which the game also tints dark. Facing up. The game rotates it clockwise to make E, S and W.
+rotten NE | 44, 386, 32, 32 | A rotting carcass, which the game also tints dark. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+bones N | 6, 424, 32, 32 | The bones left after the carcass has rotted. Facing up. The game rotates it clockwise to make E, S and W.
+bones NE | 44, 424, 32, 32 | The bones left after the carcass has rotted. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+bstanding N normal | 88, 6, 32, 32 | The normal map for bstanding N.
+bstanding NE normal | 126, 6, 32, 32 | The normal map for bstanding NE.
+bwalk1 N normal | 88, 44, 32, 32 | The normal map for bwalk1 N.
+bwalk1 NE normal | 126, 44, 32, 32 | The normal map for bwalk1 NE.
+bwalk2 N normal | 88, 82, 32, 32 | The normal map for bwalk2 N.
+bwalk2 NE normal | 126, 82, 32, 32 | The normal map for bwalk2 NE.
+standing N normal | 88, 120, 32, 32 | The normal map for standing N.
+standing NE normal | 126, 120, 32, 32 | The normal map for standing NE.
+walk1 N normal | 88, 158, 32, 32 | The normal map for walk1 N.
+walk1 NE normal | 126, 158, 32, 32 | The normal map for walk1 NE.
+walk2 N normal | 88, 196, 32, 32 | The normal map for walk2 N.
+walk2 NE normal | 126, 196, 32, 32 | The normal map for walk2 NE.
+laying N normal | 88, 234, 32, 32 | The normal map for laying N.
+laying NE normal | 126, 234, 32, 32 | The normal map for laying NE.
+eating N normal | 88, 272, 32, 32 | The normal map for eating N.
+eating NE normal | 126, 272, 32, 32 | The normal map for eating NE.
+bodypart1 N normal | 88, 310, 32, 32 | The normal map for bodypart1 N.
+bodypart1 NE normal | 126, 310, 32, 32 | The normal map for bodypart1 NE.
+bodypart2 N normal | 88, 348, 32, 32 | The normal map for bodypart2 N.
+bodypart2 NE normal | 126, 348, 32, 32 | The normal map for bodypart2 NE.
+rotten N normal | 88, 386, 32, 32 | The normal map for rotten N.
+rotten NE normal | 126, 386, 32, 32 | The normal map for rotten NE.
+bones N normal | 88, 424, 32, 32 | The normal map for bones N.
+bones NE normal | 126, 424, 32, 32 | The normal map for bones NE.

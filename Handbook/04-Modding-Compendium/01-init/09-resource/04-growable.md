@@ -116,7 +116,7 @@ How the plants look.
 
 The image the plants are drawn from: the name of a file in `assets/sprite/resource/growable/`, without `.png`. Several crops can share one image.
 
-The image must be exactly 460 pixels wide and at least 34 pixels tall, or the game stops loading with an error. The game cuts it up using a fixed layout, so the safest way to make a new one is to copy a vanilla image and paint over it. The vanilla `_Flower.png` is used for wild flowers, not for a crop.
+The image must be exactly 460 pixels wide and at least 34 pixels tall, or the game stops loading with an error. The game cuts it up using a [fixed layout](../../03-sprite/08-resource.md#growable), so the safest way to make a new one is to copy a vanilla image and paint over it. The vanilla `_Flower.png` is used for wild flowers, not for a crop.
 
 | | |
 |---|---|

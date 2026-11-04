@@ -1,0 +1,64 @@
+growth[0] | 6, 6, 8, 8 | A sprite for the part of the plant set by GROWTH, tinted with that block's colours. The game picks one at random.
+growth[1] | 20, 6, 8, 8 | A sprite for the part of the plant set by GROWTH, tinted with that block's colours. The game picks one at random.
+growth[2] | 34, 6, 8, 8 | A sprite for the part of the plant set by GROWTH, tinted with that block's colours. The game picks one at random.
+growth[3] | 48, 6, 8, 8 | A sprite for the part of the plant set by GROWTH, tinted with that block's colours. The game picks one at random.
+growth[4] | 62, 6, 8, 8 | A sprite for the part of the plant set by GROWTH, tinted with that block's colours. The game picks one at random.
+growth[5] | 76, 6, 8, 8 | A sprite for the part of the plant set by GROWTH, tinted with that block's colours. The game picks one at random.
+growth[6] | 90, 6, 8, 8 | A sprite for the part of the plant set by GROWTH, tinted with that block's colours. The game picks one at random.
+growth[7] | 104, 6, 8, 8 | A sprite for the part of the plant set by GROWTH, tinted with that block's colours. The game picks one at random.
+growth[8] | 118, 6, 8, 8 | A sprite for the part of the plant set by GROWTH, tinted with that block's colours. The game picks one at random.
+growth[9] | 132, 6, 8, 8 | A sprite for the part of the plant set by GROWTH, tinted with that block's colours. The game picks one at random.
+growth[10] | 146, 6, 8, 8 | A sprite for the part of the plant set by GROWTH, tinted with that block's colours. The game picks one at random.
+growth[11] | 160, 6, 8, 8 | A sprite for the part of the plant set by GROWTH, tinted with that block's colours. The game picks one at random.
+growth[12] | 174, 6, 8, 8 | A sprite for the part of the plant set by GROWTH, tinted with that block's colours. The game picks one at random.
+growth[13] | 188, 6, 8, 8 | A sprite for the part of the plant set by GROWTH, tinted with that block's colours. The game picks one at random.
+growth[14] | 202, 6, 8, 8 | A sprite for the part of the plant set by GROWTH, tinted with that block's colours. The game picks one at random.
+growth[15] | 216, 6, 8, 8 | A sprite for the part of the plant set by GROWTH, tinted with that block's colours. The game picks one at random.
+trunk[0] | 6, 20, 8, 8 | A sprite for the part of the plant set by STEM, tinted with that block's colours. The game picks one at random.
+trunk[1] | 20, 20, 8, 8 | A sprite for the part of the plant set by STEM, tinted with that block's colours. The game picks one at random.
+trunk[2] | 34, 20, 8, 8 | A sprite for the part of the plant set by STEM, tinted with that block's colours. The game picks one at random.
+trunk[3] | 48, 20, 8, 8 | A sprite for the part of the plant set by STEM, tinted with that block's colours. The game picks one at random.
+trunk[4] | 62, 20, 8, 8 | A sprite for the part of the plant set by STEM, tinted with that block's colours. The game picks one at random.
+trunk[5] | 76, 20, 8, 8 | A sprite for the part of the plant set by STEM, tinted with that block's colours. The game picks one at random.
+trunk[6] | 90, 20, 8, 8 | A sprite for the part of the plant set by STEM, tinted with that block's colours. The game picks one at random.
+trunk[7] | 104, 20, 8, 8 | A sprite for the part of the plant set by STEM, tinted with that block's colours. The game picks one at random.
+trunk[8] | 118, 20, 8, 8 | A sprite for the part of the plant set by STEM, tinted with that block's colours. The game picks one at random.
+trunk[9] | 132, 20, 8, 8 | A sprite for the part of the plant set by STEM, tinted with that block's colours. The game picks one at random.
+trunk[10] | 146, 20, 8, 8 | A sprite for the part of the plant set by STEM, tinted with that block's colours. The game picks one at random.
+trunk[11] | 160, 20, 8, 8 | A sprite for the part of the plant set by STEM, tinted with that block's colours. The game picks one at random.
+trunk[12] | 174, 20, 8, 8 | A sprite for the part of the plant set by STEM, tinted with that block's colours. The game picks one at random.
+trunk[13] | 188, 20, 8, 8 | A sprite for the part of the plant set by STEM, tinted with that block's colours. The game picks one at random.
+trunk[14] | 202, 20, 8, 8 | A sprite for the part of the plant set by STEM, tinted with that block's colours. The game picks one at random.
+trunk[15] | 216, 20, 8, 8 | A sprite for the part of the plant set by STEM, tinted with that block's colours. The game picks one at random.
+growth[0] normal | 236, 6, 8, 8 | The normal map for growth[0].
+growth[1] normal | 250, 6, 8, 8 | The normal map for growth[1].
+growth[2] normal | 264, 6, 8, 8 | The normal map for growth[2].
+growth[3] normal | 278, 6, 8, 8 | The normal map for growth[3].
+growth[4] normal | 292, 6, 8, 8 | The normal map for growth[4].
+growth[5] normal | 306, 6, 8, 8 | The normal map for growth[5].
+growth[6] normal | 320, 6, 8, 8 | The normal map for growth[6].
+growth[7] normal | 334, 6, 8, 8 | The normal map for growth[7].
+growth[8] normal | 348, 6, 8, 8 | The normal map for growth[8].
+growth[9] normal | 362, 6, 8, 8 | The normal map for growth[9].
+growth[10] normal | 376, 6, 8, 8 | The normal map for growth[10].
+growth[11] normal | 390, 6, 8, 8 | The normal map for growth[11].
+growth[12] normal | 404, 6, 8, 8 | The normal map for growth[12].
+growth[13] normal | 418, 6, 8, 8 | The normal map for growth[13].
+growth[14] normal | 432, 6, 8, 8 | The normal map for growth[14].
+growth[15] normal | 446, 6, 8, 8 | The normal map for growth[15].
+trunk[0] normal | 236, 20, 8, 8 | The normal map for trunk[0].
+trunk[1] normal | 250, 20, 8, 8 | The normal map for trunk[1].
+trunk[2] normal | 264, 20, 8, 8 | The normal map for trunk[2].
+trunk[3] normal | 278, 20, 8, 8 | The normal map for trunk[3].
+trunk[4] normal | 292, 20, 8, 8 | The normal map for trunk[4].
+trunk[5] normal | 306, 20, 8, 8 | The normal map for trunk[5].
+trunk[6] normal | 320, 20, 8, 8 | The normal map for trunk[6].
+trunk[7] normal | 334, 20, 8, 8 | The normal map for trunk[7].
+trunk[8] normal | 348, 20, 8, 8 | The normal map for trunk[8].
+trunk[9] normal | 362, 20, 8, 8 | The normal map for trunk[9].
+trunk[10] normal | 376, 20, 8, 8 | The normal map for trunk[10].
+trunk[11] normal | 390, 20, 8, 8 | The normal map for trunk[11].
+trunk[12] normal | 404, 20, 8, 8 | The normal map for trunk[12].
+trunk[13] normal | 418, 20, 8, 8 | The normal map for trunk[13].
+trunk[14] normal | 432, 20, 8, 8 | The normal map for trunk[14].
+trunk[15] normal | 446, 20, 8, 8 | The normal map for trunk[15].

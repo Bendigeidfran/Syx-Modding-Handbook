@@ -1,0 +1,37 @@
+carry N | 6, 6, 16, 16 | Carried by someone facing up. The game rotates it clockwise to make E, S and W.
+carry NE | 6, 28, 16, 16 | Carried by someone facing diagonally up and right. The game rotates it clockwise to make SE, SW and NW.
+color | 6, 50, 16, 16 | The game samples a colour from this cell, but nothing uses it.
+lay[0] | 34, 6, 16, 16 | One item on the ground. A pile draws one of this row for each item left over after the rows below. The game picks one of this row at random.
+lay[1] | 56, 6, 16, 16 | One item on the ground. A pile draws one of this row for each item left over after the rows below. The game picks one of this row at random.
+lay[2] | 78, 6, 16, 16 | One item on the ground. A pile draws one of this row for each item left over after the rows below. The game picks one of this row at random.
+lay[3] | 100, 6, 16, 16 | One item on the ground. A pile draws one of this row for each item left over after the rows below. The game picks one of this row at random.
+lay[4] | 34, 28, 16, 16 | Four items on the ground. The game picks one of this row at random.
+lay[5] | 56, 28, 16, 16 | Four items on the ground. The game picks one of this row at random.
+lay[6] | 78, 28, 16, 16 | Four items on the ground. The game picks one of this row at random.
+lay[7] | 100, 28, 16, 16 | Four items on the ground. The game picks one of this row at random.
+lay[8] | 34, 50, 16, 16 | Nine items on the ground. The game picks one of this row at random.
+lay[9] | 56, 50, 16, 16 | Nine items on the ground. The game picks one of this row at random.
+lay[10] | 78, 50, 16, 16 | Nine items on the ground. The game picks one of this row at random.
+lay[11] | 100, 50, 16, 16 | Nine items on the ground. The game picks one of this row at random.
+lay[12] | 34, 72, 16, 16 | Sixteen items on the ground. The game picks one of this row at random.
+lay[13] | 56, 72, 16, 16 | Sixteen items on the ground. The game picks one of this row at random.
+lay[14] | 78, 72, 16, 16 | Sixteen items on the ground. The game picks one of this row at random.
+lay[15] | 100, 72, 16, 16 | Sixteen items on the ground. The game picks one of this row at random.
+carry N normal | 128, 6, 16, 16 | The normal map for carry N.
+carry NE normal | 128, 28, 16, 16 | The normal map for carry NE.
+lay[0] normal | 156, 6, 16, 16 | The normal map for lay[0].
+lay[1] normal | 178, 6, 16, 16 | The normal map for lay[1].
+lay[2] normal | 200, 6, 16, 16 | The normal map for lay[2].
+lay[3] normal | 222, 6, 16, 16 | The normal map for lay[3].
+lay[4] normal | 156, 28, 16, 16 | The normal map for lay[4].
+lay[5] normal | 178, 28, 16, 16 | The normal map for lay[5].
+lay[6] normal | 200, 28, 16, 16 | The normal map for lay[6].
+lay[7] normal | 222, 28, 16, 16 | The normal map for lay[7].
+lay[8] normal | 156, 50, 16, 16 | The normal map for lay[8].
+lay[9] normal | 178, 50, 16, 16 | The normal map for lay[9].
+lay[10] normal | 200, 50, 16, 16 | The normal map for lay[10].
+lay[11] normal | 222, 50, 16, 16 | The normal map for lay[11].
+lay[12] normal | 156, 72, 16, 16 | The normal map for lay[12].
+lay[13] normal | 178, 72, 16, 16 | The normal map for lay[13].
+lay[14] normal | 200, 72, 16, 16 | The normal map for lay[14].
+lay[15] normal | 222, 72, 16, 16 | The normal map for lay[15].

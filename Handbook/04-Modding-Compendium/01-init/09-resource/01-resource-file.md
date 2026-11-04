@@ -101,7 +101,7 @@ MINIMAP_COLOR: 10_10_10,
 
 The resource's image: the name of a file in `assets/sprite/resource/`, without `.png`. It holds both how the resource looks when carried and how it looks lying on the ground. Several resources can share one image.
 
-The image must be exactly 244 pixels wide and at least 94 pixels tall, or the game stops loading with an error. The game cuts it up using a fixed layout, so the safest way to make a new one is to copy a vanilla image and paint over it.
+The image must be exactly 244 pixels wide and at least 94 pixels tall, or the game stops loading with an error. The game cuts it up using a [fixed layout](../../03-sprite/08-resource.md#a-resources-sheet), so the safest way to make a new one is to copy a vanilla image and paint over it.
 
 | | |
 |---|---|
@@ -116,7 +116,7 @@ SPRITE: Bread,
 
 The debris drawn when something made of this resource is broken, such as a destroyed wall or room furniture: the name of a file in `assets/sprite/resource/debris/`, without `.png`. Vanilla has `Metal`, `Stone` and `Wood`.
 
-The image must be exactly 716 pixels wide and at least 28 pixels tall, or the game stops loading with an error.
+The image must be exactly 716 pixels wide and at least 28 pixels tall, or the game stops loading with an error. The game cuts it up using a [fixed layout](../../03-sprite/08-resource.md#debris).
 
 | | |
 |---|---|
