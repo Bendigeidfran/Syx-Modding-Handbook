@@ -57,7 +57,7 @@ PROPERTIES: {
 | `CHILD_DAYS` | How many days a child takes to grow up after being a baby. A member of the race is an adult after `BABY_DAYS` plus `CHILD_DAYS`. | Integer |
 | `CORPSE_DECAY` | Whether the race's corpses rot. | True/false |
 | `SLEEPS` | Whether members of the race lie down to sleep in their beds. | True/false |
-| `SLAVE_PRICE` | The worth of a slave of this race in the game's economy, measured in the same units of work the game uses to value goods. | Decimal, 0 or more |
+| `SLAVE_PRICE` | The worth of a slave of this race in the game's economy, measured in the same units of work the game uses to value goods. | Decimal, 0 to 2147483647 |
 | `SLAVE_PRICE_RECOVERY` | How quickly AI factions' stocks of slaves of this race recover after you trade with them. At `0`, they don't recover at all. | Decimal, 0 to 10 |
 | `RAID_MERCINARY` | How likely members of this race are to become raiders and mercenaries, compared with other races. Note the game's spelling. | Decimal, 0 to 100000 |
 
