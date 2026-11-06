@@ -264,7 +264,17 @@ TRAITS: {
 },
 ```
 
-The game does read a block named **`TRAIT`** (singular). It gives the chance, from 0 to 1, that a member of this race has each [personality trait](07-trait.md), overriding the default chance set in the trait's own file. Vanilla doesn't use it.
+| | |
+|---|---|
+| **Type** | Block of decimals |
+| **Required** | No |
+| **Effect** | Unread |
+
+To set trait chances for a race, use [`TRAIT`](#trait) instead.
+
+### TRAIT
+
+The chance, from 0 to 1, that a member of this race has each [personality trait](07-trait.md), overriding the default chance set in the trait's own file. Note the singular name: vanilla's `TRAITS` block is a different, unread tag. Vanilla doesn't use `TRAIT`.
 
 | | |
 |---|---|

@@ -73,7 +73,7 @@ DEFAULT_RACE_OCCURANCE: {
 },
 ```
 
-A race file can override these chances for its own race with a [`TRAIT`](01-race-file.md#traits) block. This is the simplest way to give a new race its own mix of traits without changing the trait files.
+A race file can override these chances for its own race with a [`TRAIT`](01-race-file.md#trait) block. This is the simplest way to give a new race its own mix of traits without changing the trait files.
 
 ### DISABLES_OTHERS
 
