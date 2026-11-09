@@ -161,3 +161,4 @@ The game reads this value, but in v0.71.44 nothing uses it, for this or any othe
 ## Related
 
 - [init/config](00-config.md)
+- [sprite/settlement/projectile](../../03-sprite/10-settlement/04-projectile.md)

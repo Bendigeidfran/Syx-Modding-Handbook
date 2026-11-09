@@ -1,0 +1,4 @@
+sheet[0] N | 6, 6, 16, 16 | The sprite for a projectile flying north. The game turns it 90, 180 and 270 degrees for east, south and west.
+sheet[1] NE | 34, 6, 16, 16 | The sprite for a projectile flying north-east. The game turns it 90, 180 and 270 degrees for south-east, south-west and north-west.
+sheet[0] N normal | 62, 6, 16, 16 | The normal map for sheet[0] N.
+sheet[1] NE normal | 90, 6, 16, 16 | The normal map for sheet[1] NE.

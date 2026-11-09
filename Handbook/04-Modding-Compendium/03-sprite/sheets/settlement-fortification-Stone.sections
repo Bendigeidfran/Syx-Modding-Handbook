@@ -1,0 +1,224 @@
+sheet[0] | 54, 54, 16, 16 | Ordinary wall, set 1 of 2. The game loads this cell, but never draws it as a join. A tile with no connections uses the row of lone tiles instead. This is also the inside corner, drawn where two connected sides meet and the tile between them isn't part of the wall. As painted it's the north-east corner, and the game turns it for the other three.
+sheet[1] | 54, 34, 16, 16 | Ordinary wall, set 1 of 2. The join for a tile that connects north. Turned 180 degrees, it's also a version of the join for a tile that connects south. The game picks one of the four versions at random.
+sheet[2] | 2, 54, 16, 16 | Ordinary wall, set 1 of 2. The join for a tile that connects east. Turned 180 degrees, it's also a version of the join for a tile that connects west. The game picks one of the four versions at random.
+sheet[3] | 2, 34, 16, 16 | Ordinary wall, set 1 of 2. The join for a tile that connects north and east. Turned 180 degrees, it's also a version of the join for a tile that connects south and west. The game picks one of the four versions at random. It's also the lower-left quarter of the wall's icon.
+sheet[4] | 54, 2, 16, 16 | Ordinary wall, set 1 of 2. The join for a tile that connects south. Turned 180 degrees, it's also a version of the join for a tile that connects north. The game picks one of the four versions at random.
+sheet[5] | 54, 18, 16, 16 | Ordinary wall, set 1 of 2. The join for a tile that connects north and south. The game also uses it turned 180 degrees, and picks one of the four versions at random.
+sheet[6] | 2, 2, 16, 16 | Ordinary wall, set 1 of 2. The join for a tile that connects east and south. Turned 180 degrees, it's also a version of the join for a tile that connects north and west. The game picks one of the four versions at random. It's also the upper-left quarter of the wall's icon.
+sheet[7] | 2, 18, 16, 16 | Ordinary wall, set 1 of 2. The join for a tile that connects north, east and south. Turned 180 degrees, it's also a version of the join for a tile that connects north, south and west. The game picks one of the four versions at random.
+sheet[8] | 34, 54, 16, 16 | Ordinary wall, set 1 of 2. The join for a tile that connects west. Turned 180 degrees, it's also a version of the join for a tile that connects east. The game picks one of the four versions at random.
+sheet[9] | 34, 34, 16, 16 | Ordinary wall, set 1 of 2. The join for a tile that connects north and west. Turned 180 degrees, it's also a version of the join for a tile that connects east and south. The game picks one of the four versions at random. It's also the lower-right quarter of the wall's icon.
+sheet[10] | 18, 54, 16, 16 | Ordinary wall, set 1 of 2. The join for a tile that connects east and west. The game also uses it turned 180 degrees, and picks one of the four versions at random.
+sheet[11] | 18, 34, 16, 16 | Ordinary wall, set 1 of 2. The join for a tile that connects north, east and west. Turned 180 degrees, it's also a version of the join for a tile that connects east, south and west. The game picks one of the four versions at random.
+sheet[12] | 34, 2, 16, 16 | Ordinary wall, set 1 of 2. The join for a tile that connects south and west. Turned 180 degrees, it's also a version of the join for a tile that connects north and east. The game picks one of the four versions at random. It's also the upper-right quarter of the wall's icon.
+sheet[13] | 34, 18, 16, 16 | Ordinary wall, set 1 of 2. The join for a tile that connects north, south and west. Turned 180 degrees, it's also a version of the join for a tile that connects north, east and south. The game picks one of the four versions at random.
+sheet[14] | 18, 2, 16, 16 | Ordinary wall, set 1 of 2. The join for a tile that connects east, south and west. Turned 180 degrees, it's also a version of the join for a tile that connects north, east and west. The game picks one of the four versions at random.
+sheet[15] | 18, 18, 16, 16 | Ordinary wall, set 1 of 2. The game loads this cell, but never draws it as a join. A tile connected on all four sides uses the row of full tiles instead.
+sheet[32] | 126, 54, 16, 16 | Ordinary wall, set 2 of 2. The game loads this cell, but never draws it as a join. A tile with no connections uses the row of lone tiles instead.
+sheet[33] | 126, 34, 16, 16 | Ordinary wall, set 2 of 2. The join for a tile that connects north. Turned 180 degrees, it's also a version of the join for a tile that connects south. The game picks one of the four versions at random.
+sheet[34] | 74, 54, 16, 16 | Ordinary wall, set 2 of 2. The join for a tile that connects east. Turned 180 degrees, it's also a version of the join for a tile that connects west. The game picks one of the four versions at random.
+sheet[35] | 74, 34, 16, 16 | Ordinary wall, set 2 of 2. The join for a tile that connects north and east. Turned 180 degrees, it's also a version of the join for a tile that connects south and west. The game picks one of the four versions at random.
+sheet[36] | 126, 2, 16, 16 | Ordinary wall, set 2 of 2. The join for a tile that connects south. Turned 180 degrees, it's also a version of the join for a tile that connects north. The game picks one of the four versions at random.
+sheet[37] | 126, 18, 16, 16 | Ordinary wall, set 2 of 2. The join for a tile that connects north and south. The game also uses it turned 180 degrees, and picks one of the four versions at random.
+sheet[38] | 74, 2, 16, 16 | Ordinary wall, set 2 of 2. The join for a tile that connects east and south. Turned 180 degrees, it's also a version of the join for a tile that connects north and west. The game picks one of the four versions at random.
+sheet[39] | 74, 18, 16, 16 | Ordinary wall, set 2 of 2. The join for a tile that connects north, east and south. Turned 180 degrees, it's also a version of the join for a tile that connects north, south and west. The game picks one of the four versions at random.
+sheet[40] | 106, 54, 16, 16 | Ordinary wall, set 2 of 2. The join for a tile that connects west. Turned 180 degrees, it's also a version of the join for a tile that connects east. The game picks one of the four versions at random.
+sheet[41] | 106, 34, 16, 16 | Ordinary wall, set 2 of 2. The join for a tile that connects north and west. Turned 180 degrees, it's also a version of the join for a tile that connects east and south. The game picks one of the four versions at random.
+sheet[42] | 90, 54, 16, 16 | Ordinary wall, set 2 of 2. The join for a tile that connects east and west. The game also uses it turned 180 degrees, and picks one of the four versions at random.
+sheet[43] | 90, 34, 16, 16 | Ordinary wall, set 2 of 2. The join for a tile that connects north, east and west. Turned 180 degrees, it's also a version of the join for a tile that connects east, south and west. The game picks one of the four versions at random.
+sheet[44] | 106, 2, 16, 16 | Ordinary wall, set 2 of 2. The join for a tile that connects south and west. Turned 180 degrees, it's also a version of the join for a tile that connects north and east. The game picks one of the four versions at random.
+sheet[45] | 106, 18, 16, 16 | Ordinary wall, set 2 of 2. The join for a tile that connects north, south and west. Turned 180 degrees, it's also a version of the join for a tile that connects north, east and south. The game picks one of the four versions at random.
+sheet[46] | 90, 2, 16, 16 | Ordinary wall, set 2 of 2. The join for a tile that connects east, south and west. Turned 180 degrees, it's also a version of the join for a tile that connects north, east and west. The game picks one of the four versions at random.
+sheet[47] | 90, 18, 16, 16 | Ordinary wall, set 2 of 2. The game loads this cell, but never draws it as a join. A tile connected on all four sides uses the row of full tiles instead.
+sheet[64] | 198, 54, 16, 16 | Diagonal wall, set 1 of 2. The game loads this cell, but never draws it as a join. A tile with no connections uses the row of lone tiles instead.
+sheet[65] | 198, 34, 16, 16 | Diagonal wall, set 1 of 2. The join for a tile that connects north. Turned 180 degrees, it's also a version of the join for a tile that connects south. The game picks one of the four versions at random.
+sheet[66] | 146, 54, 16, 16 | Diagonal wall, set 1 of 2. The join for a tile that connects east. Turned 180 degrees, it's also a version of the join for a tile that connects west. The game picks one of the four versions at random.
+sheet[67] | 146, 34, 16, 16 | Diagonal wall, set 1 of 2. The join for a tile that connects north and east. Turned 180 degrees, it's also a version of the join for a tile that connects south and west. The game picks one of the four versions at random.
+sheet[68] | 198, 2, 16, 16 | Diagonal wall, set 1 of 2. The join for a tile that connects south. Turned 180 degrees, it's also a version of the join for a tile that connects north. The game picks one of the four versions at random.
+sheet[69] | 198, 18, 16, 16 | Diagonal wall, set 1 of 2. The join for a tile that connects north and south. The game also uses it turned 180 degrees, and picks one of the four versions at random.
+sheet[70] | 146, 2, 16, 16 | Diagonal wall, set 1 of 2. The join for a tile that connects east and south. Turned 180 degrees, it's also a version of the join for a tile that connects north and west. The game picks one of the four versions at random.
+sheet[71] | 146, 18, 16, 16 | Diagonal wall, set 1 of 2. The join for a tile that connects north, east and south. Turned 180 degrees, it's also a version of the join for a tile that connects north, south and west. The game picks one of the four versions at random.
+sheet[72] | 178, 54, 16, 16 | Diagonal wall, set 1 of 2. The join for a tile that connects west. Turned 180 degrees, it's also a version of the join for a tile that connects east. The game picks one of the four versions at random.
+sheet[73] | 178, 34, 16, 16 | Diagonal wall, set 1 of 2. The join for a tile that connects north and west. Turned 180 degrees, it's also a version of the join for a tile that connects east and south. The game picks one of the four versions at random.
+sheet[74] | 162, 54, 16, 16 | Diagonal wall, set 1 of 2. The join for a tile that connects east and west. The game also uses it turned 180 degrees, and picks one of the four versions at random.
+sheet[75] | 162, 34, 16, 16 | Diagonal wall, set 1 of 2. The join for a tile that connects north, east and west. Turned 180 degrees, it's also a version of the join for a tile that connects east, south and west. The game picks one of the four versions at random.
+sheet[76] | 178, 2, 16, 16 | Diagonal wall, set 1 of 2. The join for a tile that connects south and west. Turned 180 degrees, it's also a version of the join for a tile that connects north and east. The game picks one of the four versions at random.
+sheet[77] | 178, 18, 16, 16 | Diagonal wall, set 1 of 2. The join for a tile that connects north, south and west. Turned 180 degrees, it's also a version of the join for a tile that connects north, east and south. The game picks one of the four versions at random.
+sheet[78] | 162, 2, 16, 16 | Diagonal wall, set 1 of 2. The join for a tile that connects east, south and west. Turned 180 degrees, it's also a version of the join for a tile that connects north, east and west. The game picks one of the four versions at random.
+sheet[79] | 162, 18, 16, 16 | Diagonal wall, set 1 of 2. The game loads this cell, but never draws it as a join. A tile connected on all four sides uses the row of full tiles instead.
+sheet[96] | 270, 54, 16, 16 | Diagonal wall, set 2 of 2. The game loads this cell, but never draws it as a join. A tile with no connections uses the row of lone tiles instead.
+sheet[97] | 270, 34, 16, 16 | Diagonal wall, set 2 of 2. The join for a tile that connects north. Turned 180 degrees, it's also a version of the join for a tile that connects south. The game picks one of the four versions at random.
+sheet[98] | 218, 54, 16, 16 | Diagonal wall, set 2 of 2. The join for a tile that connects east. Turned 180 degrees, it's also a version of the join for a tile that connects west. The game picks one of the four versions at random.
+sheet[99] | 218, 34, 16, 16 | Diagonal wall, set 2 of 2. The join for a tile that connects north and east. Turned 180 degrees, it's also a version of the join for a tile that connects south and west. The game picks one of the four versions at random.
+sheet[100] | 270, 2, 16, 16 | Diagonal wall, set 2 of 2. The join for a tile that connects south. Turned 180 degrees, it's also a version of the join for a tile that connects north. The game picks one of the four versions at random.
+sheet[101] | 270, 18, 16, 16 | Diagonal wall, set 2 of 2. The join for a tile that connects north and south. The game also uses it turned 180 degrees, and picks one of the four versions at random.
+sheet[102] | 218, 2, 16, 16 | Diagonal wall, set 2 of 2. The join for a tile that connects east and south. Turned 180 degrees, it's also a version of the join for a tile that connects north and west. The game picks one of the four versions at random.
+sheet[103] | 218, 18, 16, 16 | Diagonal wall, set 2 of 2. The join for a tile that connects north, east and south. Turned 180 degrees, it's also a version of the join for a tile that connects north, south and west. The game picks one of the four versions at random.
+sheet[104] | 250, 54, 16, 16 | Diagonal wall, set 2 of 2. The join for a tile that connects west. Turned 180 degrees, it's also a version of the join for a tile that connects east. The game picks one of the four versions at random.
+sheet[105] | 250, 34, 16, 16 | Diagonal wall, set 2 of 2. The join for a tile that connects north and west. Turned 180 degrees, it's also a version of the join for a tile that connects east and south. The game picks one of the four versions at random.
+sheet[106] | 234, 54, 16, 16 | Diagonal wall, set 2 of 2. The join for a tile that connects east and west. The game also uses it turned 180 degrees, and picks one of the four versions at random.
+sheet[107] | 234, 34, 16, 16 | Diagonal wall, set 2 of 2. The join for a tile that connects north, east and west. Turned 180 degrees, it's also a version of the join for a tile that connects east, south and west. The game picks one of the four versions at random.
+sheet[108] | 250, 2, 16, 16 | Diagonal wall, set 2 of 2. The join for a tile that connects south and west. Turned 180 degrees, it's also a version of the join for a tile that connects north and east. The game picks one of the four versions at random.
+sheet[109] | 250, 18, 16, 16 | Diagonal wall, set 2 of 2. The join for a tile that connects north, south and west. Turned 180 degrees, it's also a version of the join for a tile that connects north, east and south. The game picks one of the four versions at random.
+sheet[110] | 234, 2, 16, 16 | Diagonal wall, set 2 of 2. The join for a tile that connects east, south and west. Turned 180 degrees, it's also a version of the join for a tile that connects north, east and west. The game picks one of the four versions at random.
+sheet[111] | 234, 18, 16, 16 | Diagonal wall, set 2 of 2. The game loads this cell, but never draws it as a join. A tile connected on all four sides uses the row of full tiles instead.
+sheet[144] | 54, 126, 16, 16 | Broken wall, set 1 of 2. The game loads this cell, but never draws it as a join. A tile with no connections uses the row of lone tiles instead.
+sheet[145] | 54, 106, 16, 16 | Broken wall, set 1 of 2. The join for a tile that connects north. Turned 180 degrees, it's also a version of the join for a tile that connects south. The game picks one of the four versions at random.
+sheet[146] | 2, 126, 16, 16 | Broken wall, set 1 of 2. The join for a tile that connects east. Turned 180 degrees, it's also a version of the join for a tile that connects west. The game picks one of the four versions at random.
+sheet[147] | 2, 106, 16, 16 | Broken wall, set 1 of 2. The join for a tile that connects north and east. Turned 180 degrees, it's also a version of the join for a tile that connects south and west. The game picks one of the four versions at random.
+sheet[148] | 54, 74, 16, 16 | Broken wall, set 1 of 2. The join for a tile that connects south. Turned 180 degrees, it's also a version of the join for a tile that connects north. The game picks one of the four versions at random.
+sheet[149] | 54, 90, 16, 16 | Broken wall, set 1 of 2. The join for a tile that connects north and south. The game also uses it turned 180 degrees, and picks one of the four versions at random.
+sheet[150] | 2, 74, 16, 16 | Broken wall, set 1 of 2. The join for a tile that connects east and south. Turned 180 degrees, it's also a version of the join for a tile that connects north and west. The game picks one of the four versions at random.
+sheet[151] | 2, 90, 16, 16 | Broken wall, set 1 of 2. The join for a tile that connects north, east and south. Turned 180 degrees, it's also a version of the join for a tile that connects north, south and west. The game picks one of the four versions at random.
+sheet[152] | 34, 126, 16, 16 | Broken wall, set 1 of 2. The join for a tile that connects west. Turned 180 degrees, it's also a version of the join for a tile that connects east. The game picks one of the four versions at random.
+sheet[153] | 34, 106, 16, 16 | Broken wall, set 1 of 2. The join for a tile that connects north and west. Turned 180 degrees, it's also a version of the join for a tile that connects east and south. The game picks one of the four versions at random.
+sheet[154] | 18, 126, 16, 16 | Broken wall, set 1 of 2. The join for a tile that connects east and west. The game also uses it turned 180 degrees, and picks one of the four versions at random.
+sheet[155] | 18, 106, 16, 16 | Broken wall, set 1 of 2. The join for a tile that connects north, east and west. Turned 180 degrees, it's also a version of the join for a tile that connects east, south and west. The game picks one of the four versions at random.
+sheet[156] | 34, 74, 16, 16 | Broken wall, set 1 of 2. The join for a tile that connects south and west. Turned 180 degrees, it's also a version of the join for a tile that connects north and east. The game picks one of the four versions at random.
+sheet[157] | 34, 90, 16, 16 | Broken wall, set 1 of 2. The join for a tile that connects north, south and west. Turned 180 degrees, it's also a version of the join for a tile that connects north, east and south. The game picks one of the four versions at random.
+sheet[158] | 18, 74, 16, 16 | Broken wall, set 1 of 2. The join for a tile that connects east, south and west. Turned 180 degrees, it's also a version of the join for a tile that connects north, east and west. The game picks one of the four versions at random.
+sheet[159] | 18, 90, 16, 16 | Broken wall, set 1 of 2. The game loads this cell, but never draws it as a join. A tile connected on all four sides uses the row of full tiles instead.
+sheet[176] | 126, 126, 16, 16 | Broken wall, set 2 of 2. The game loads this cell, but never draws it as a join. A tile with no connections uses the row of lone tiles instead.
+sheet[177] | 126, 106, 16, 16 | Broken wall, set 2 of 2. The join for a tile that connects north. Turned 180 degrees, it's also a version of the join for a tile that connects south. The game picks one of the four versions at random.
+sheet[178] | 74, 126, 16, 16 | Broken wall, set 2 of 2. The join for a tile that connects east. Turned 180 degrees, it's also a version of the join for a tile that connects west. The game picks one of the four versions at random.
+sheet[179] | 74, 106, 16, 16 | Broken wall, set 2 of 2. The join for a tile that connects north and east. Turned 180 degrees, it's also a version of the join for a tile that connects south and west. The game picks one of the four versions at random.
+sheet[180] | 126, 74, 16, 16 | Broken wall, set 2 of 2. The join for a tile that connects south. Turned 180 degrees, it's also a version of the join for a tile that connects north. The game picks one of the four versions at random.
+sheet[181] | 126, 90, 16, 16 | Broken wall, set 2 of 2. The join for a tile that connects north and south. The game also uses it turned 180 degrees, and picks one of the four versions at random.
+sheet[182] | 74, 74, 16, 16 | Broken wall, set 2 of 2. The join for a tile that connects east and south. Turned 180 degrees, it's also a version of the join for a tile that connects north and west. The game picks one of the four versions at random.
+sheet[183] | 74, 90, 16, 16 | Broken wall, set 2 of 2. The join for a tile that connects north, east and south. Turned 180 degrees, it's also a version of the join for a tile that connects north, south and west. The game picks one of the four versions at random.
+sheet[184] | 106, 126, 16, 16 | Broken wall, set 2 of 2. The join for a tile that connects west. Turned 180 degrees, it's also a version of the join for a tile that connects east. The game picks one of the four versions at random.
+sheet[185] | 106, 106, 16, 16 | Broken wall, set 2 of 2. The join for a tile that connects north and west. Turned 180 degrees, it's also a version of the join for a tile that connects east and south. The game picks one of the four versions at random.
+sheet[186] | 90, 126, 16, 16 | Broken wall, set 2 of 2. The join for a tile that connects east and west. The game also uses it turned 180 degrees, and picks one of the four versions at random.
+sheet[187] | 90, 106, 16, 16 | Broken wall, set 2 of 2. The join for a tile that connects north, east and west. Turned 180 degrees, it's also a version of the join for a tile that connects east, south and west. The game picks one of the four versions at random.
+sheet[188] | 106, 74, 16, 16 | Broken wall, set 2 of 2. The join for a tile that connects south and west. Turned 180 degrees, it's also a version of the join for a tile that connects north and east. The game picks one of the four versions at random.
+sheet[189] | 106, 90, 16, 16 | Broken wall, set 2 of 2. The join for a tile that connects north, south and west. Turned 180 degrees, it's also a version of the join for a tile that connects north, east and south. The game picks one of the four versions at random.
+sheet[190] | 90, 74, 16, 16 | Broken wall, set 2 of 2. The join for a tile that connects east, south and west. Turned 180 degrees, it's also a version of the join for a tile that connects north, east and west. The game picks one of the four versions at random.
+sheet[191] | 90, 90, 16, 16 | Broken wall, set 2 of 2. The game loads this cell, but never draws it as a join. A tile connected on all four sides uses the row of full tiles instead.
+sheet[208] | 150, 78, 16, 16 | One of the eight tiles for a wall tile with no connections. The game also uses it turned 180 degrees, and picks one of the sixteen at random. Ordinary, diagonal and broken walls all use it, and a broken wall has a filth texture drawn through it.
+sheet[209] | 166, 78, 16, 16 | One of the eight tiles for a wall tile with no connections. The game also uses it turned 180 degrees, and picks one of the sixteen at random. Ordinary, diagonal and broken walls all use it, and a broken wall has a filth texture drawn through it.
+sheet[210] | 182, 78, 16, 16 | One of the eight tiles for a wall tile with no connections. The game also uses it turned 180 degrees, and picks one of the sixteen at random. Ordinary, diagonal and broken walls all use it, and a broken wall has a filth texture drawn through it.
+sheet[211] | 198, 78, 16, 16 | One of the eight tiles for a wall tile with no connections. The game also uses it turned 180 degrees, and picks one of the sixteen at random. Ordinary, diagonal and broken walls all use it, and a broken wall has a filth texture drawn through it.
+sheet[212] | 214, 78, 16, 16 | One of the eight tiles for a wall tile with no connections. The game also uses it turned 180 degrees, and picks one of the sixteen at random. Ordinary, diagonal and broken walls all use it, and a broken wall has a filth texture drawn through it.
+sheet[213] | 230, 78, 16, 16 | One of the eight tiles for a wall tile with no connections. The game also uses it turned 180 degrees, and picks one of the sixteen at random. Ordinary, diagonal and broken walls all use it, and a broken wall has a filth texture drawn through it.
+sheet[214] | 246, 78, 16, 16 | One of the eight tiles for a wall tile with no connections. The game also uses it turned 180 degrees, and picks one of the sixteen at random. Ordinary, diagonal and broken walls all use it, and a broken wall has a filth texture drawn through it.
+sheet[215] | 262, 78, 16, 16 | One of the eight tiles for a wall tile with no connections. The game also uses it turned 180 degrees, and picks one of the sixteen at random. Ordinary, diagonal and broken walls all use it, and a broken wall has a filth texture drawn through it.
+sheet[224] | 150, 106, 16, 16 | One of the eight tiles for a wall tile connected on all four sides. The game also uses it turned 180 degrees, and picks one of the sixteen at random. Ordinary, diagonal and broken walls all use it, and a broken wall has a filth texture drawn through it.
+sheet[225] | 166, 106, 16, 16 | One of the eight tiles for a wall tile connected on all four sides. The game also uses it turned 180 degrees, and picks one of the sixteen at random. Ordinary, diagonal and broken walls all use it, and a broken wall has a filth texture drawn through it.
+sheet[226] | 182, 106, 16, 16 | One of the eight tiles for a wall tile connected on all four sides. The game also uses it turned 180 degrees, and picks one of the sixteen at random. Ordinary, diagonal and broken walls all use it, and a broken wall has a filth texture drawn through it.
+sheet[227] | 198, 106, 16, 16 | One of the eight tiles for a wall tile connected on all four sides. The game also uses it turned 180 degrees, and picks one of the sixteen at random. Ordinary, diagonal and broken walls all use it, and a broken wall has a filth texture drawn through it.
+sheet[228] | 214, 106, 16, 16 | One of the eight tiles for a wall tile connected on all four sides. The game also uses it turned 180 degrees, and picks one of the sixteen at random. Ordinary, diagonal and broken walls all use it, and a broken wall has a filth texture drawn through it.
+sheet[229] | 230, 106, 16, 16 | One of the eight tiles for a wall tile connected on all four sides. The game also uses it turned 180 degrees, and picks one of the sixteen at random. Ordinary, diagonal and broken walls all use it, and a broken wall has a filth texture drawn through it.
+sheet[230] | 246, 106, 16, 16 | One of the eight tiles for a wall tile connected on all four sides. The game also uses it turned 180 degrees, and picks one of the sixteen at random. Ordinary, diagonal and broken walls all use it, and a broken wall has a filth texture drawn through it.
+sheet[231] | 262, 106, 16, 16 | One of the eight tiles for a wall tile connected on all four sides. The game also uses it turned 180 degrees, and picks one of the sixteen at random. Ordinary, diagonal and broken walls all use it, and a broken wall has a filth texture drawn through it.
+sheet[0] normal | 342, 54, 16, 16 | The normal map for sheet[0].
+sheet[1] normal | 342, 34, 16, 16 | The normal map for sheet[1].
+sheet[2] normal | 290, 54, 16, 16 | The normal map for sheet[2].
+sheet[3] normal | 290, 34, 16, 16 | The normal map for sheet[3].
+sheet[4] normal | 342, 2, 16, 16 | The normal map for sheet[4].
+sheet[5] normal | 342, 18, 16, 16 | The normal map for sheet[5].
+sheet[6] normal | 290, 2, 16, 16 | The normal map for sheet[6].
+sheet[7] normal | 290, 18, 16, 16 | The normal map for sheet[7].
+sheet[8] normal | 322, 54, 16, 16 | The normal map for sheet[8].
+sheet[9] normal | 322, 34, 16, 16 | The normal map for sheet[9].
+sheet[10] normal | 306, 54, 16, 16 | The normal map for sheet[10].
+sheet[11] normal | 306, 34, 16, 16 | The normal map for sheet[11].
+sheet[12] normal | 322, 2, 16, 16 | The normal map for sheet[12].
+sheet[13] normal | 322, 18, 16, 16 | The normal map for sheet[13].
+sheet[14] normal | 306, 2, 16, 16 | The normal map for sheet[14].
+sheet[15] normal | 306, 18, 16, 16 | The normal map for sheet[15].
+sheet[32] normal | 414, 54, 16, 16 | The normal map for sheet[32].
+sheet[33] normal | 414, 34, 16, 16 | The normal map for sheet[33].
+sheet[34] normal | 362, 54, 16, 16 | The normal map for sheet[34].
+sheet[35] normal | 362, 34, 16, 16 | The normal map for sheet[35].
+sheet[36] normal | 414, 2, 16, 16 | The normal map for sheet[36].
+sheet[37] normal | 414, 18, 16, 16 | The normal map for sheet[37].
+sheet[38] normal | 362, 2, 16, 16 | The normal map for sheet[38].
+sheet[39] normal | 362, 18, 16, 16 | The normal map for sheet[39].
+sheet[40] normal | 394, 54, 16, 16 | The normal map for sheet[40].
+sheet[41] normal | 394, 34, 16, 16 | The normal map for sheet[41].
+sheet[42] normal | 378, 54, 16, 16 | The normal map for sheet[42].
+sheet[43] normal | 378, 34, 16, 16 | The normal map for sheet[43].
+sheet[44] normal | 394, 2, 16, 16 | The normal map for sheet[44].
+sheet[45] normal | 394, 18, 16, 16 | The normal map for sheet[45].
+sheet[46] normal | 378, 2, 16, 16 | The normal map for sheet[46].
+sheet[47] normal | 378, 18, 16, 16 | The normal map for sheet[47].
+sheet[64] normal | 486, 54, 16, 16 | The normal map for sheet[64].
+sheet[65] normal | 486, 34, 16, 16 | The normal map for sheet[65].
+sheet[66] normal | 434, 54, 16, 16 | The normal map for sheet[66].
+sheet[67] normal | 434, 34, 16, 16 | The normal map for sheet[67].
+sheet[68] normal | 486, 2, 16, 16 | The normal map for sheet[68].
+sheet[69] normal | 486, 18, 16, 16 | The normal map for sheet[69].
+sheet[70] normal | 434, 2, 16, 16 | The normal map for sheet[70].
+sheet[71] normal | 434, 18, 16, 16 | The normal map for sheet[71].
+sheet[72] normal | 466, 54, 16, 16 | The normal map for sheet[72].
+sheet[73] normal | 466, 34, 16, 16 | The normal map for sheet[73].
+sheet[74] normal | 450, 54, 16, 16 | The normal map for sheet[74].
+sheet[75] normal | 450, 34, 16, 16 | The normal map for sheet[75].
+sheet[76] normal | 466, 2, 16, 16 | The normal map for sheet[76].
+sheet[77] normal | 466, 18, 16, 16 | The normal map for sheet[77].
+sheet[78] normal | 450, 2, 16, 16 | The normal map for sheet[78].
+sheet[79] normal | 450, 18, 16, 16 | The normal map for sheet[79].
+sheet[96] normal | 558, 54, 16, 16 | The normal map for sheet[96].
+sheet[97] normal | 558, 34, 16, 16 | The normal map for sheet[97].
+sheet[98] normal | 506, 54, 16, 16 | The normal map for sheet[98].
+sheet[99] normal | 506, 34, 16, 16 | The normal map for sheet[99].
+sheet[100] normal | 558, 2, 16, 16 | The normal map for sheet[100].
+sheet[101] normal | 558, 18, 16, 16 | The normal map for sheet[101].
+sheet[102] normal | 506, 2, 16, 16 | The normal map for sheet[102].
+sheet[103] normal | 506, 18, 16, 16 | The normal map for sheet[103].
+sheet[104] normal | 538, 54, 16, 16 | The normal map for sheet[104].
+sheet[105] normal | 538, 34, 16, 16 | The normal map for sheet[105].
+sheet[106] normal | 522, 54, 16, 16 | The normal map for sheet[106].
+sheet[107] normal | 522, 34, 16, 16 | The normal map for sheet[107].
+sheet[108] normal | 538, 2, 16, 16 | The normal map for sheet[108].
+sheet[109] normal | 538, 18, 16, 16 | The normal map for sheet[109].
+sheet[110] normal | 522, 2, 16, 16 | The normal map for sheet[110].
+sheet[111] normal | 522, 18, 16, 16 | The normal map for sheet[111].
+sheet[144] normal | 342, 126, 16, 16 | The normal map for sheet[144].
+sheet[145] normal | 342, 106, 16, 16 | The normal map for sheet[145].
+sheet[146] normal | 290, 126, 16, 16 | The normal map for sheet[146].
+sheet[147] normal | 290, 106, 16, 16 | The normal map for sheet[147].
+sheet[148] normal | 342, 74, 16, 16 | The normal map for sheet[148].
+sheet[149] normal | 342, 90, 16, 16 | The normal map for sheet[149].
+sheet[150] normal | 290, 74, 16, 16 | The normal map for sheet[150].
+sheet[151] normal | 290, 90, 16, 16 | The normal map for sheet[151].
+sheet[152] normal | 322, 126, 16, 16 | The normal map for sheet[152].
+sheet[153] normal | 322, 106, 16, 16 | The normal map for sheet[153].
+sheet[154] normal | 306, 126, 16, 16 | The normal map for sheet[154].
+sheet[155] normal | 306, 106, 16, 16 | The normal map for sheet[155].
+sheet[156] normal | 322, 74, 16, 16 | The normal map for sheet[156].
+sheet[157] normal | 322, 90, 16, 16 | The normal map for sheet[157].
+sheet[158] normal | 306, 74, 16, 16 | The normal map for sheet[158].
+sheet[159] normal | 306, 90, 16, 16 | The normal map for sheet[159].
+sheet[176] normal | 414, 126, 16, 16 | The normal map for sheet[176].
+sheet[177] normal | 414, 106, 16, 16 | The normal map for sheet[177].
+sheet[178] normal | 362, 126, 16, 16 | The normal map for sheet[178].
+sheet[179] normal | 362, 106, 16, 16 | The normal map for sheet[179].
+sheet[180] normal | 414, 74, 16, 16 | The normal map for sheet[180].
+sheet[181] normal | 414, 90, 16, 16 | The normal map for sheet[181].
+sheet[182] normal | 362, 74, 16, 16 | The normal map for sheet[182].
+sheet[183] normal | 362, 90, 16, 16 | The normal map for sheet[183].
+sheet[184] normal | 394, 126, 16, 16 | The normal map for sheet[184].
+sheet[185] normal | 394, 106, 16, 16 | The normal map for sheet[185].
+sheet[186] normal | 378, 126, 16, 16 | The normal map for sheet[186].
+sheet[187] normal | 378, 106, 16, 16 | The normal map for sheet[187].
+sheet[188] normal | 394, 74, 16, 16 | The normal map for sheet[188].
+sheet[189] normal | 394, 90, 16, 16 | The normal map for sheet[189].
+sheet[190] normal | 378, 74, 16, 16 | The normal map for sheet[190].
+sheet[191] normal | 378, 90, 16, 16 | The normal map for sheet[191].
+sheet[208] normal | 438, 78, 16, 16 | The normal map for sheet[208].
+sheet[209] normal | 454, 78, 16, 16 | The normal map for sheet[209].
+sheet[210] normal | 470, 78, 16, 16 | The normal map for sheet[210].
+sheet[211] normal | 486, 78, 16, 16 | The normal map for sheet[211].
+sheet[212] normal | 502, 78, 16, 16 | The normal map for sheet[212].
+sheet[213] normal | 518, 78, 16, 16 | The normal map for sheet[213].
+sheet[214] normal | 534, 78, 16, 16 | The normal map for sheet[214].
+sheet[215] normal | 550, 78, 16, 16 | The normal map for sheet[215].
+sheet[224] normal | 438, 106, 16, 16 | The normal map for sheet[224].
+sheet[225] normal | 454, 106, 16, 16 | The normal map for sheet[225].
+sheet[226] normal | 470, 106, 16, 16 | The normal map for sheet[226].
+sheet[227] normal | 486, 106, 16, 16 | The normal map for sheet[227].
+sheet[228] normal | 502, 106, 16, 16 | The normal map for sheet[228].
+sheet[229] normal | 518, 106, 16, 16 | The normal map for sheet[229].
+sheet[230] normal | 534, 106, 16, 16 | The normal map for sheet[230].
+sheet[231] normal | 550, 106, 16, 16 | The normal map for sheet[231].

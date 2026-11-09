@@ -20,7 +20,7 @@ The examples come from the vanilla `STONE.txt`.
 
 ### SPRITE
 
-The name of an image in `assets/sprite/settlement/fortification/`, without its extension. The image must be exactly 576 pixels wide and at least 144 high. Walls can share an image by using the same name. Copy a vanilla image to see the layout.
+The name of an image in `assets/sprite/settlement/fortification/`, without its extension. The image must be exactly 576 pixels wide and at least 144 high. Walls can share an image by using the same name. See [sprite/settlement/fortification](../../03-sprite/10-settlement/02-fortification.md) for the layout.
 
 | | |
 |---|---|
@@ -145,7 +145,7 @@ DESC: "Holds off enemies. Can also be used as a regular wall",
 
 ### Stairs
 
-The game also loads `_Stairs.png` from the same image folder by name. It must be exactly 216 pixels wide and at least 28 high.
+The game also loads `_Stairs.png` from the same image folder by name. It must be exactly 216 pixels wide and at least 28 high. See [sprite/settlement/fortification](../../03-sprite/10-settlement/02-fortification.md#_stairspng) for the layout.
 
 ### Unlocks
 
@@ -154,3 +154,4 @@ Each wall gets an unlock named `FORTIFICATION_<KEY>`.
 ## Related
 
 - [init/settlement](00-settlement.md)
+- [sprite/settlement/fortification](../../03-sprite/10-settlement/02-fortification.md)

@@ -20,7 +20,7 @@ The examples come from the vanilla `WOOD.txt`.
 
 ### SPRITE
 
-The name of an image in `assets/sprite/settlement/structure/`, without its extension. The image must be exactly 576 pixels wide and at least 372 high. Structures can share an image by using the same name. Copy a vanilla image to see the layout.
+The name of an image in `assets/sprite/settlement/structure/`, without its extension. The image must be exactly 576 pixels wide and at least 372 high. Structures can share an image by using the same name. See [sprite/settlement/structure](../../03-sprite/10-settlement/05-structure.md) for the layout.
 
 | | |
 |---|---|
@@ -243,3 +243,4 @@ BONUS: {
 
 - [init/settlement](00-settlement.md)
 - [Race preferences](../07-race/02-preferences.md)
+- [sprite/settlement/structure](../../03-sprite/10-settlement/05-structure.md)

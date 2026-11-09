@@ -17,7 +17,7 @@ This chapter shows one example of each kind of sheet. The images are unmodified 
 - sprite/race
 - [sprite/resource](08-resource.md)
 - sprite/room
-- sprite/settlement
+- [sprite/settlement](10-settlement/00-settlement.md)
 - sprite/textures
 - sprite/ui
 - sprite/world

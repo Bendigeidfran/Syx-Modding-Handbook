@@ -1,0 +1,464 @@
+spriteWall[0] | 54, 54, 16, 16 | Ordinary wall, set 1 of 2. The game loads this cell, but never draws it as a join. A tile with no connections uses the row of lone tiles instead. It's also the inside corner for a wall one tile thick, drawn where two connected sides meet and the tile diagonally between them doesn't join. As painted it's the north-east corner, and the game turns it for the other three.
+spriteWall[1] | 54, 34, 16, 16 | Ordinary wall, set 1 of 2. The join for a tile that connects north. Turned 90 degrees, it's also a version of the join for a tile that connects east. The game picks one of the four versions at random.
+spriteWall[2] | 2, 54, 16, 16 | Ordinary wall, set 1 of 2. The join for a tile that connects east. Turned 90 degrees, it's also a version of the join for a tile that connects south. The game picks one of the four versions at random.
+spriteWall[3] | 2, 34, 16, 16 | Ordinary wall, set 1 of 2. The join for a tile that connects north and east. Turned 90 degrees, it's also a version of the join for a tile that connects east and south. The game picks one of the four versions at random. It's also the lower-left quarter of the wall's icon.
+spriteWall[4] | 54, 2, 16, 16 | Ordinary wall, set 1 of 2. The join for a tile that connects south. Turned 90 degrees, it's also a version of the join for a tile that connects west. The game picks one of the four versions at random.
+spriteWall[5] | 54, 18, 16, 16 | Ordinary wall, set 1 of 2. The join for a tile that connects north and south. Turned 90 degrees, it's also a version of the join for a tile that connects east and west. The game picks one of the four versions at random.
+spriteWall[6] | 2, 2, 16, 16 | Ordinary wall, set 1 of 2. The join for a tile that connects east and south. Turned 90 degrees, it's also a version of the join for a tile that connects south and west. The game picks one of the four versions at random. It's also the upper-left quarter of the wall's icon.
+spriteWall[7] | 2, 18, 16, 16 | Ordinary wall, set 1 of 2. The join for a tile that connects north, east and south. Turned 90 degrees, it's also a version of the join for a tile that connects east, south and west. The game picks one of the four versions at random.
+spriteWall[8] | 34, 54, 16, 16 | Ordinary wall, set 1 of 2. The join for a tile that connects west. Turned 90 degrees, it's also a version of the join for a tile that connects north. The game picks one of the four versions at random.
+spriteWall[9] | 34, 34, 16, 16 | Ordinary wall, set 1 of 2. The join for a tile that connects north and west. Turned 90 degrees, it's also a version of the join for a tile that connects north and east. The game picks one of the four versions at random. It's also the lower-right quarter of the wall's icon.
+spriteWall[10] | 18, 54, 16, 16 | Ordinary wall, set 1 of 2. The join for a tile that connects east and west. Turned 90 degrees, it's also a version of the join for a tile that connects north and south. The game picks one of the four versions at random.
+spriteWall[11] | 18, 34, 16, 16 | Ordinary wall, set 1 of 2. The join for a tile that connects north, east and west. Turned 90 degrees, it's also a version of the join for a tile that connects north, east and south. The game picks one of the four versions at random.
+spriteWall[12] | 34, 2, 16, 16 | Ordinary wall, set 1 of 2. The join for a tile that connects south and west. Turned 90 degrees, it's also a version of the join for a tile that connects north and west. The game picks one of the four versions at random. It's also the upper-right quarter of the wall's icon.
+spriteWall[13] | 34, 18, 16, 16 | Ordinary wall, set 1 of 2. The join for a tile that connects north, south and west. Turned 90 degrees, it's also a version of the join for a tile that connects north, east and west. The game picks one of the four versions at random.
+spriteWall[14] | 18, 2, 16, 16 | Ordinary wall, set 1 of 2. The join for a tile that connects east, south and west. Turned 90 degrees, it's also a version of the join for a tile that connects north, south and west. The game picks one of the four versions at random.
+spriteWall[15] | 18, 18, 16, 16 | Ordinary wall, set 1 of 2. The game loads this cell, but never draws it as a join. A tile connected on all four sides uses the row of top tiles instead.
+spriteWall[32] | 126, 54, 16, 16 | Ordinary wall, set 2 of 2. The game loads this cell, but never draws it as a join. A tile with no connections uses the row of lone tiles instead. It's also the inside corner for a thick wall, drawn where two connected sides meet and the tile diagonally between them doesn't join. As painted it's the north-east corner, and the game turns it for the other three.
+spriteWall[33] | 126, 2, 16, 16 | Ordinary wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects north, and turned 270 degrees, a version of the join for a tile that connects east. The game picks one of the four versions at random.
+spriteWall[34] | 106, 54, 16, 16 | Ordinary wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects east, and turned 270 degrees, a version of the join for a tile that connects south. The game picks one of the four versions at random.
+spriteWall[35] | 106, 2, 16, 16 | Ordinary wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects north and east, and turned 270 degrees, a version of the join for a tile that connects east and south. The game picks one of the four versions at random.
+spriteWall[36] | 126, 34, 16, 16 | Ordinary wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects south, and turned 270 degrees, a version of the join for a tile that connects west. The game picks one of the four versions at random.
+spriteWall[37] | 126, 18, 16, 16 | Ordinary wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects north and south, and turned 270 degrees, a version of the join for a tile that connects east and west. The game picks one of the four versions at random.
+spriteWall[38] | 106, 34, 16, 16 | Ordinary wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects east and south, and turned 270 degrees, a version of the join for a tile that connects south and west. The game picks one of the four versions at random.
+spriteWall[39] | 106, 18, 16, 16 | Ordinary wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects north, east and south, and turned 270 degrees, a version of the join for a tile that connects east, south and west. The game picks one of the four versions at random.
+spriteWall[40] | 74, 54, 16, 16 | Ordinary wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects west, and turned 270 degrees, a version of the join for a tile that connects north. The game picks one of the four versions at random.
+spriteWall[41] | 74, 2, 16, 16 | Ordinary wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects north and west, and turned 270 degrees, a version of the join for a tile that connects north and east. The game picks one of the four versions at random.
+spriteWall[42] | 90, 54, 16, 16 | Ordinary wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects east and west, and turned 270 degrees, a version of the join for a tile that connects north and south. The game picks one of the four versions at random.
+spriteWall[43] | 90, 2, 16, 16 | Ordinary wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects north, east and west, and turned 270 degrees, a version of the join for a tile that connects north, east and south. The game picks one of the four versions at random.
+spriteWall[44] | 74, 34, 16, 16 | Ordinary wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects south and west, and turned 270 degrees, a version of the join for a tile that connects north and west. The game picks one of the four versions at random.
+spriteWall[45] | 74, 18, 16, 16 | Ordinary wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects north, south and west, and turned 270 degrees, a version of the join for a tile that connects north, east and west. The game picks one of the four versions at random.
+spriteWall[46] | 90, 34, 16, 16 | Ordinary wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects east, south and west, and turned 270 degrees, a version of the join for a tile that connects north, south and west. The game picks one of the four versions at random.
+spriteWall[47] | 90, 18, 16, 16 | Ordinary wall, set 2 of 2. The game loads this cell, but never draws it as a join. A tile connected on all four sides uses the row of top tiles instead.
+spriteWall[64] | 198, 54, 16, 16 | Diagonal wall, set 1 of 2. The game loads this cell, but never draws it as a join. A tile with no connections uses the row of lone tiles instead. It's also the inside corner for a diagonal wall one tile thick, drawn where two connected sides meet and the tile diagonally between them doesn't join. As painted it's the north-east corner, and the game turns it for the other three.
+spriteWall[65] | 198, 34, 16, 16 | Diagonal wall, set 1 of 2. The join for a tile that connects north. Turned 90 degrees, it's also a version of the join for a tile that connects east. The game picks one of the four versions at random.
+spriteWall[66] | 146, 54, 16, 16 | Diagonal wall, set 1 of 2. The join for a tile that connects east. Turned 90 degrees, it's also a version of the join for a tile that connects south. The game picks one of the four versions at random.
+spriteWall[67] | 146, 34, 16, 16 | Diagonal wall, set 1 of 2. The join for a tile that connects north and east. Turned 90 degrees, it's also a version of the join for a tile that connects east and south. The game picks one of the four versions at random.
+spriteWall[68] | 198, 2, 16, 16 | Diagonal wall, set 1 of 2. The join for a tile that connects south. Turned 90 degrees, it's also a version of the join for a tile that connects west. The game picks one of the four versions at random.
+spriteWall[69] | 198, 18, 16, 16 | Diagonal wall, set 1 of 2. The join for a tile that connects north and south. Turned 90 degrees, it's also a version of the join for a tile that connects east and west. The game picks one of the four versions at random.
+spriteWall[70] | 146, 2, 16, 16 | Diagonal wall, set 1 of 2. The join for a tile that connects east and south. Turned 90 degrees, it's also a version of the join for a tile that connects south and west. The game picks one of the four versions at random.
+spriteWall[71] | 146, 18, 16, 16 | Diagonal wall, set 1 of 2. The join for a tile that connects north, east and south. Turned 90 degrees, it's also a version of the join for a tile that connects east, south and west. The game picks one of the four versions at random.
+spriteWall[72] | 178, 54, 16, 16 | Diagonal wall, set 1 of 2. The join for a tile that connects west. Turned 90 degrees, it's also a version of the join for a tile that connects north. The game picks one of the four versions at random.
+spriteWall[73] | 178, 34, 16, 16 | Diagonal wall, set 1 of 2. The join for a tile that connects north and west. Turned 90 degrees, it's also a version of the join for a tile that connects north and east. The game picks one of the four versions at random.
+spriteWall[74] | 162, 54, 16, 16 | Diagonal wall, set 1 of 2. The join for a tile that connects east and west. Turned 90 degrees, it's also a version of the join for a tile that connects north and south. The game picks one of the four versions at random.
+spriteWall[75] | 162, 34, 16, 16 | Diagonal wall, set 1 of 2. The join for a tile that connects north, east and west. Turned 90 degrees, it's also a version of the join for a tile that connects north, east and south. The game picks one of the four versions at random.
+spriteWall[76] | 178, 2, 16, 16 | Diagonal wall, set 1 of 2. The join for a tile that connects south and west. Turned 90 degrees, it's also a version of the join for a tile that connects north and west. The game picks one of the four versions at random.
+spriteWall[77] | 178, 18, 16, 16 | Diagonal wall, set 1 of 2. The join for a tile that connects north, south and west. Turned 90 degrees, it's also a version of the join for a tile that connects north, east and west. The game picks one of the four versions at random.
+spriteWall[78] | 162, 2, 16, 16 | Diagonal wall, set 1 of 2. The join for a tile that connects east, south and west. Turned 90 degrees, it's also a version of the join for a tile that connects north, south and west. The game picks one of the four versions at random.
+spriteWall[79] | 162, 18, 16, 16 | Diagonal wall, set 1 of 2. The game loads this cell, but never draws it as a join. A tile connected on all four sides uses the row of top tiles instead.
+spriteWall[96] | 270, 54, 16, 16 | Diagonal wall, set 2 of 2. The game loads this cell, but never draws it as a join. A tile with no connections uses the row of lone tiles instead. It's also the inside corner for a diagonal thick wall, drawn where two connected sides meet and the tile diagonally between them doesn't join. As painted it's the north-east corner, and the game turns it for the other three.
+spriteWall[97] | 270, 2, 16, 16 | Diagonal wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects north, and turned 270 degrees, a version of the join for a tile that connects east. The game picks one of the four versions at random.
+spriteWall[98] | 250, 54, 16, 16 | Diagonal wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects east, and turned 270 degrees, a version of the join for a tile that connects south. The game picks one of the four versions at random.
+spriteWall[99] | 250, 2, 16, 16 | Diagonal wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects north and east, and turned 270 degrees, a version of the join for a tile that connects east and south. The game picks one of the four versions at random.
+spriteWall[100] | 270, 34, 16, 16 | Diagonal wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects south, and turned 270 degrees, a version of the join for a tile that connects west. The game picks one of the four versions at random.
+spriteWall[101] | 270, 18, 16, 16 | Diagonal wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects north and south, and turned 270 degrees, a version of the join for a tile that connects east and west. The game picks one of the four versions at random.
+spriteWall[102] | 250, 34, 16, 16 | Diagonal wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects east and south, and turned 270 degrees, a version of the join for a tile that connects south and west. The game picks one of the four versions at random.
+spriteWall[103] | 250, 18, 16, 16 | Diagonal wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects north, east and south, and turned 270 degrees, a version of the join for a tile that connects east, south and west. The game picks one of the four versions at random.
+spriteWall[104] | 218, 54, 16, 16 | Diagonal wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects west, and turned 270 degrees, a version of the join for a tile that connects north. The game picks one of the four versions at random.
+spriteWall[105] | 218, 2, 16, 16 | Diagonal wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects north and west, and turned 270 degrees, a version of the join for a tile that connects north and east. The game picks one of the four versions at random.
+spriteWall[106] | 234, 54, 16, 16 | Diagonal wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects east and west, and turned 270 degrees, a version of the join for a tile that connects north and south. The game picks one of the four versions at random.
+spriteWall[107] | 234, 2, 16, 16 | Diagonal wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects north, east and west, and turned 270 degrees, a version of the join for a tile that connects north, east and south. The game picks one of the four versions at random.
+spriteWall[108] | 218, 34, 16, 16 | Diagonal wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects south and west, and turned 270 degrees, a version of the join for a tile that connects north and west. The game picks one of the four versions at random.
+spriteWall[109] | 218, 18, 16, 16 | Diagonal wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects north, south and west, and turned 270 degrees, a version of the join for a tile that connects north, east and west. The game picks one of the four versions at random.
+spriteWall[110] | 234, 34, 16, 16 | Diagonal wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects east, south and west, and turned 270 degrees, a version of the join for a tile that connects north, south and west. The game picks one of the four versions at random.
+spriteWall[111] | 234, 18, 16, 16 | Diagonal wall, set 2 of 2. The game loads this cell, but never draws it as a join. A tile connected on all four sides uses the row of top tiles instead.
+spriteWall[128] | 54, 126, 16, 16 | Broken wall, set 1 of 2. The game loads this cell, but never draws it as a join. A tile with no connections uses the row of lone tiles instead.
+spriteWall[129] | 54, 106, 16, 16 | Broken wall, set 1 of 2. The join for a tile that connects north. Turned 90 degrees, it's also a version of the join for a tile that connects east. The game picks one of the four versions at random.
+spriteWall[130] | 2, 126, 16, 16 | Broken wall, set 1 of 2. The join for a tile that connects east. Turned 90 degrees, it's also a version of the join for a tile that connects south. The game picks one of the four versions at random.
+spriteWall[131] | 2, 106, 16, 16 | Broken wall, set 1 of 2. The join for a tile that connects north and east. Turned 90 degrees, it's also a version of the join for a tile that connects east and south. The game picks one of the four versions at random.
+spriteWall[132] | 54, 74, 16, 16 | Broken wall, set 1 of 2. The join for a tile that connects south. Turned 90 degrees, it's also a version of the join for a tile that connects west. The game picks one of the four versions at random.
+spriteWall[133] | 54, 90, 16, 16 | Broken wall, set 1 of 2. The join for a tile that connects north and south. Turned 90 degrees, it's also a version of the join for a tile that connects east and west. The game picks one of the four versions at random.
+spriteWall[134] | 2, 74, 16, 16 | Broken wall, set 1 of 2. The join for a tile that connects east and south. Turned 90 degrees, it's also a version of the join for a tile that connects south and west. The game picks one of the four versions at random.
+spriteWall[135] | 2, 90, 16, 16 | Broken wall, set 1 of 2. The join for a tile that connects north, east and south. Turned 90 degrees, it's also a version of the join for a tile that connects east, south and west. The game picks one of the four versions at random.
+spriteWall[136] | 34, 126, 16, 16 | Broken wall, set 1 of 2. The join for a tile that connects west. Turned 90 degrees, it's also a version of the join for a tile that connects north. The game picks one of the four versions at random.
+spriteWall[137] | 34, 106, 16, 16 | Broken wall, set 1 of 2. The join for a tile that connects north and west. Turned 90 degrees, it's also a version of the join for a tile that connects north and east. The game picks one of the four versions at random.
+spriteWall[138] | 18, 126, 16, 16 | Broken wall, set 1 of 2. The join for a tile that connects east and west. Turned 90 degrees, it's also a version of the join for a tile that connects north and south. The game picks one of the four versions at random.
+spriteWall[139] | 18, 106, 16, 16 | Broken wall, set 1 of 2. The join for a tile that connects north, east and west. Turned 90 degrees, it's also a version of the join for a tile that connects north, east and south. The game picks one of the four versions at random.
+spriteWall[140] | 34, 74, 16, 16 | Broken wall, set 1 of 2. The join for a tile that connects south and west. Turned 90 degrees, it's also a version of the join for a tile that connects north and west. The game picks one of the four versions at random.
+spriteWall[141] | 34, 90, 16, 16 | Broken wall, set 1 of 2. The join for a tile that connects north, south and west. Turned 90 degrees, it's also a version of the join for a tile that connects north, east and west. The game picks one of the four versions at random.
+spriteWall[142] | 18, 74, 16, 16 | Broken wall, set 1 of 2. The join for a tile that connects east, south and west. Turned 90 degrees, it's also a version of the join for a tile that connects north, south and west. The game picks one of the four versions at random.
+spriteWall[143] | 18, 90, 16, 16 | Broken wall, set 1 of 2. The game loads this cell, but never draws it as a join. A tile connected on all four sides uses the row of top tiles instead.
+spriteWall[160] | 126, 126, 16, 16 | Broken wall, set 2 of 2. The game loads this cell, but never draws it as a join. A tile with no connections uses the row of lone tiles instead.
+spriteWall[161] | 126, 74, 16, 16 | Broken wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects north, and turned 270 degrees, a version of the join for a tile that connects east. The game picks one of the four versions at random.
+spriteWall[162] | 106, 126, 16, 16 | Broken wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects east, and turned 270 degrees, a version of the join for a tile that connects south. The game picks one of the four versions at random.
+spriteWall[163] | 106, 74, 16, 16 | Broken wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects north and east, and turned 270 degrees, a version of the join for a tile that connects east and south. The game picks one of the four versions at random.
+spriteWall[164] | 126, 106, 16, 16 | Broken wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects south, and turned 270 degrees, a version of the join for a tile that connects west. The game picks one of the four versions at random.
+spriteWall[165] | 126, 90, 16, 16 | Broken wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects north and south, and turned 270 degrees, a version of the join for a tile that connects east and west. The game picks one of the four versions at random.
+spriteWall[166] | 106, 106, 16, 16 | Broken wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects east and south, and turned 270 degrees, a version of the join for a tile that connects south and west. The game picks one of the four versions at random.
+spriteWall[167] | 106, 90, 16, 16 | Broken wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects north, east and south, and turned 270 degrees, a version of the join for a tile that connects east, south and west. The game picks one of the four versions at random.
+spriteWall[168] | 74, 126, 16, 16 | Broken wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects west, and turned 270 degrees, a version of the join for a tile that connects north. The game picks one of the four versions at random.
+spriteWall[169] | 74, 74, 16, 16 | Broken wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects north and west, and turned 270 degrees, a version of the join for a tile that connects north and east. The game picks one of the four versions at random.
+spriteWall[170] | 90, 126, 16, 16 | Broken wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects east and west, and turned 270 degrees, a version of the join for a tile that connects north and south. The game picks one of the four versions at random.
+spriteWall[171] | 90, 74, 16, 16 | Broken wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects north, east and west, and turned 270 degrees, a version of the join for a tile that connects north, east and south. The game picks one of the four versions at random.
+spriteWall[172] | 74, 106, 16, 16 | Broken wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects south and west, and turned 270 degrees, a version of the join for a tile that connects north and west. The game picks one of the four versions at random.
+spriteWall[173] | 74, 90, 16, 16 | Broken wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects north, south and west, and turned 270 degrees, a version of the join for a tile that connects north, east and west. The game picks one of the four versions at random.
+spriteWall[174] | 90, 106, 16, 16 | Broken wall, set 2 of 2. Never drawn as painted. Turned 180 degrees, it's a version of the join for a tile that connects east, south and west, and turned 270 degrees, a version of the join for a tile that connects north, south and west. The game picks one of the four versions at random.
+spriteWall[175] | 90, 90, 16, 16 | Broken wall, set 2 of 2. The game loads this cell, but never draws it as a join. A tile connected on all four sides uses the row of top tiles instead.
+spriteWall[256] | 6, 150, 16, 16 | One of the four lone tiles for an ordinary wall with no connections, picked at random.
+spriteWall[257] | 22, 150, 16, 16 | One of the four lone tiles for an ordinary wall with no connections, picked at random.
+spriteWall[258] | 38, 150, 16, 16 | One of the four lone tiles for an ordinary wall with no connections, picked at random.
+spriteWall[259] | 54, 150, 16, 16 | One of the four lone tiles for an ordinary wall with no connections, picked at random.
+spriteWall[260] | 70, 150, 16, 16 | One of the four lone tiles for a diagonal wall with no connections, picked at random.
+spriteWall[261] | 86, 150, 16, 16 | One of the four lone tiles for a diagonal wall with no connections, picked at random.
+spriteWall[262] | 102, 150, 16, 16 | One of the four lone tiles for a diagonal wall with no connections, picked at random.
+spriteWall[263] | 118, 150, 16, 16 | One of the four lone tiles for a diagonal wall with no connections, picked at random.
+spriteWall[264] | 134, 150, 16, 16 | One of the four lone tiles for a broken wall with no connections, picked at random.
+spriteWall[265] | 150, 150, 16, 16 | One of the four lone tiles for a broken wall with no connections, picked at random.
+spriteWall[266] | 166, 150, 16, 16 | One of the four lone tiles for a broken wall with no connections, picked at random.
+spriteWall[267] | 182, 150, 16, 16 | One of the four lone tiles for a broken wall with no connections, picked at random.
+spriteWall[268] | 198, 150, 16, 16 | One of the four lone tiles for a broken diagonal wall with no connections, picked at random.
+spriteWall[269] | 214, 150, 16, 16 | One of the four lone tiles for a broken diagonal wall with no connections, picked at random.
+spriteWall[270] | 230, 150, 16, 16 | One of the four lone tiles for a broken diagonal wall with no connections, picked at random.
+spriteWall[271] | 246, 150, 16, 16 | One of the four lone tiles for a broken diagonal wall with no connections, picked at random.
+spriteWall[272] | 6, 178, 16, 16 | One of the eight top tiles for a whole wall connected on all four sides, picked at random.
+spriteWall[273] | 22, 178, 16, 16 | One of the eight top tiles for a whole wall connected on all four sides, picked at random.
+spriteWall[274] | 38, 178, 16, 16 | One of the eight top tiles for a whole wall connected on all four sides, picked at random.
+spriteWall[275] | 54, 178, 16, 16 | One of the eight top tiles for a whole wall connected on all four sides, picked at random.
+spriteWall[276] | 70, 178, 16, 16 | One of the eight top tiles for a whole wall connected on all four sides, picked at random.
+spriteWall[277] | 86, 178, 16, 16 | One of the eight top tiles for a whole wall connected on all four sides, picked at random.
+spriteWall[278] | 102, 178, 16, 16 | One of the eight top tiles for a whole wall connected on all four sides, picked at random.
+spriteWall[279] | 118, 178, 16, 16 | One of the eight top tiles for a whole wall connected on all four sides, picked at random.
+spriteWall[280] | 134, 178, 16, 16 | One of the eight top tiles for a broken wall connected on all four sides, picked at random.
+spriteWall[281] | 150, 178, 16, 16 | One of the eight top tiles for a broken wall connected on all four sides, picked at random.
+spriteWall[282] | 166, 178, 16, 16 | One of the eight top tiles for a broken wall connected on all four sides, picked at random.
+spriteWall[283] | 182, 178, 16, 16 | One of the eight top tiles for a broken wall connected on all four sides, picked at random.
+spriteWall[284] | 198, 178, 16, 16 | One of the eight top tiles for a broken wall connected on all four sides, picked at random.
+spriteWall[285] | 214, 178, 16, 16 | One of the eight top tiles for a broken wall connected on all four sides, picked at random.
+spriteWall[286] | 230, 178, 16, 16 | One of the eight top tiles for a broken wall connected on all four sides, picked at random.
+spriteWall[287] | 246, 178, 16, 16 | One of the eight top tiles for a broken wall connected on all four sides, picked at random.
+spriteOpening[0] | 54, 254, 16, 16 | Opening, set 1 of 2. The game loads this cell, but never draws it as a join. An opening with no connections uses the row of lone tiles instead. It's also the inside corner for a opening one tile thick, drawn where two connected sides meet and the tile diagonally between them doesn't join. As painted it's the north-east corner, and the game turns it for the other three.
+spriteOpening[1] | 54, 234, 16, 16 | Opening, set 1 of 2. The join for a tile that connects north. The game picks one of the two versions at random.
+spriteOpening[2] | 2, 254, 16, 16 | Opening, set 1 of 2. The join for a tile that connects east. The game picks one of the two versions at random.
+spriteOpening[3] | 2, 234, 16, 16 | Opening, set 1 of 2. The join for a tile that connects north and east. The game picks one of the two versions at random. It's also the lower-left quarter of the structure's button icon.
+spriteOpening[4] | 54, 202, 16, 16 | Opening, set 1 of 2. The join for a tile that connects south. The game picks one of the two versions at random.
+spriteOpening[5] | 54, 218, 16, 16 | Opening, set 1 of 2. The join for a tile that connects north and south. The game picks one of the two versions at random.
+spriteOpening[6] | 2, 202, 16, 16 | Opening, set 1 of 2. The join for a tile that connects east and south. The game picks one of the two versions at random. It's also the upper-left quarter of the structure's button icon.
+spriteOpening[7] | 2, 218, 16, 16 | Opening, set 1 of 2. The join for a tile that connects north, east and south. The game picks one of the two versions at random.
+spriteOpening[8] | 34, 254, 16, 16 | Opening, set 1 of 2. The join for a tile that connects west. The game picks one of the two versions at random.
+spriteOpening[9] | 34, 234, 16, 16 | Opening, set 1 of 2. The join for a tile that connects north and west. The game picks one of the two versions at random. It's also the lower-right quarter of the structure's button icon.
+spriteOpening[10] | 18, 254, 16, 16 | Opening, set 1 of 2. The join for a tile that connects east and west. The game picks one of the two versions at random.
+spriteOpening[11] | 18, 234, 16, 16 | Opening, set 1 of 2. The join for a tile that connects north, east and west. The game picks one of the two versions at random.
+spriteOpening[12] | 34, 202, 16, 16 | Opening, set 1 of 2. The join for a tile that connects south and west. The game picks one of the two versions at random. It's also the upper-right quarter of the structure's button icon.
+spriteOpening[13] | 34, 218, 16, 16 | Opening, set 1 of 2. The join for a tile that connects north, south and west. The game picks one of the two versions at random.
+spriteOpening[14] | 18, 202, 16, 16 | Opening, set 1 of 2. The join for a tile that connects east, south and west. The game picks one of the two versions at random.
+spriteOpening[15] | 18, 218, 16, 16 | Opening, set 1 of 2. The game loads this cell, but never draws it. An opening connected on all four sides draws no join.
+spriteOpening[16] | 126, 254, 16, 16 | Opening, set 2 of 2. The game loads this cell, but never draws it as a join. An opening with no connections uses the row of lone tiles instead. It's also the inside corner for a thick opening, drawn where two connected sides meet and the tile diagonally between them doesn't join. As painted it's the north-east corner, and the game turns it for the other three.
+spriteOpening[17] | 126, 234, 16, 16 | Opening, set 2 of 2. The join for a tile that connects north. The game picks one of the two versions at random.
+spriteOpening[18] | 74, 254, 16, 16 | Opening, set 2 of 2. The join for a tile that connects east. The game picks one of the two versions at random.
+spriteOpening[19] | 74, 234, 16, 16 | Opening, set 2 of 2. The join for a tile that connects north and east. The game picks one of the two versions at random.
+spriteOpening[20] | 126, 202, 16, 16 | Opening, set 2 of 2. The join for a tile that connects south. The game picks one of the two versions at random.
+spriteOpening[21] | 126, 218, 16, 16 | Opening, set 2 of 2. The join for a tile that connects north and south. The game picks one of the two versions at random.
+spriteOpening[22] | 74, 202, 16, 16 | Opening, set 2 of 2. The join for a tile that connects east and south. The game picks one of the two versions at random.
+spriteOpening[23] | 74, 218, 16, 16 | Opening, set 2 of 2. The join for a tile that connects north, east and south. The game picks one of the two versions at random.
+spriteOpening[24] | 106, 254, 16, 16 | Opening, set 2 of 2. The join for a tile that connects west. The game picks one of the two versions at random.
+spriteOpening[25] | 106, 234, 16, 16 | Opening, set 2 of 2. The join for a tile that connects north and west. The game picks one of the two versions at random.
+spriteOpening[26] | 90, 254, 16, 16 | Opening, set 2 of 2. The join for a tile that connects east and west. The game picks one of the two versions at random.
+spriteOpening[27] | 90, 234, 16, 16 | Opening, set 2 of 2. The join for a tile that connects north, east and west. The game picks one of the two versions at random.
+spriteOpening[28] | 106, 202, 16, 16 | Opening, set 2 of 2. The join for a tile that connects south and west. The game picks one of the two versions at random.
+spriteOpening[29] | 106, 218, 16, 16 | Opening, set 2 of 2. The join for a tile that connects north, south and west. The game picks one of the two versions at random.
+spriteOpening[30] | 90, 202, 16, 16 | Opening, set 2 of 2. The join for a tile that connects east, south and west. The game picks one of the two versions at random.
+spriteOpening[31] | 90, 218, 16, 16 | Opening, set 2 of 2. The game loads this cell, but never draws it. An opening connected on all four sides draws no join.
+spriteOpening[32] | 198, 254, 16, 16 | Diagonal opening, set 1 of 2. The game loads this cell, but never draws it as a join. An opening with no connections uses the row of lone tiles instead. It's also the inside corner for a diagonal opening one tile thick, drawn where two connected sides meet and the tile diagonally between them doesn't join. As painted it's the north-east corner, and the game turns it for the other three.
+spriteOpening[33] | 198, 234, 16, 16 | Diagonal opening, set 1 of 2. The join for a tile that connects north. The game picks one of the two versions at random.
+spriteOpening[34] | 146, 254, 16, 16 | Diagonal opening, set 1 of 2. The join for a tile that connects east. The game picks one of the two versions at random.
+spriteOpening[35] | 146, 234, 16, 16 | Diagonal opening, set 1 of 2. The join for a tile that connects north and east. The game picks one of the two versions at random.
+spriteOpening[36] | 198, 202, 16, 16 | Diagonal opening, set 1 of 2. The join for a tile that connects south. The game picks one of the two versions at random.
+spriteOpening[37] | 198, 218, 16, 16 | Diagonal opening, set 1 of 2. The join for a tile that connects north and south. The game picks one of the two versions at random.
+spriteOpening[38] | 146, 202, 16, 16 | Diagonal opening, set 1 of 2. The join for a tile that connects east and south. The game picks one of the two versions at random.
+spriteOpening[39] | 146, 218, 16, 16 | Diagonal opening, set 1 of 2. The join for a tile that connects north, east and south. The game picks one of the two versions at random.
+spriteOpening[40] | 178, 254, 16, 16 | Diagonal opening, set 1 of 2. The join for a tile that connects west. The game picks one of the two versions at random.
+spriteOpening[41] | 178, 234, 16, 16 | Diagonal opening, set 1 of 2. The join for a tile that connects north and west. The game picks one of the two versions at random.
+spriteOpening[42] | 162, 254, 16, 16 | Diagonal opening, set 1 of 2. The join for a tile that connects east and west. The game picks one of the two versions at random.
+spriteOpening[43] | 162, 234, 16, 16 | Diagonal opening, set 1 of 2. The join for a tile that connects north, east and west. The game picks one of the two versions at random.
+spriteOpening[44] | 178, 202, 16, 16 | Diagonal opening, set 1 of 2. The join for a tile that connects south and west. The game picks one of the two versions at random.
+spriteOpening[45] | 178, 218, 16, 16 | Diagonal opening, set 1 of 2. The join for a tile that connects north, south and west. The game picks one of the two versions at random.
+spriteOpening[46] | 162, 202, 16, 16 | Diagonal opening, set 1 of 2. The join for a tile that connects east, south and west. The game picks one of the two versions at random.
+spriteOpening[47] | 162, 218, 16, 16 | Diagonal opening, set 1 of 2. The game loads this cell, but never draws it. An opening connected on all four sides draws no join.
+spriteOpening[48] | 270, 254, 16, 16 | Diagonal opening, set 2 of 2. The game loads this cell, but never draws it as a join. An opening with no connections uses the row of lone tiles instead. It's also the inside corner for a diagonal thick opening, drawn where two connected sides meet and the tile diagonally between them doesn't join. As painted it's the north-east corner, and the game turns it for the other three.
+spriteOpening[49] | 270, 234, 16, 16 | Diagonal opening, set 2 of 2. The join for a tile that connects north. The game picks one of the two versions at random.
+spriteOpening[50] | 218, 254, 16, 16 | Diagonal opening, set 2 of 2. The join for a tile that connects east. The game picks one of the two versions at random.
+spriteOpening[51] | 218, 234, 16, 16 | Diagonal opening, set 2 of 2. The join for a tile that connects north and east. The game picks one of the two versions at random.
+spriteOpening[52] | 270, 202, 16, 16 | Diagonal opening, set 2 of 2. The join for a tile that connects south. The game picks one of the two versions at random.
+spriteOpening[53] | 270, 218, 16, 16 | Diagonal opening, set 2 of 2. The join for a tile that connects north and south. The game picks one of the two versions at random.
+spriteOpening[54] | 218, 202, 16, 16 | Diagonal opening, set 2 of 2. The join for a tile that connects east and south. The game picks one of the two versions at random.
+spriteOpening[55] | 218, 218, 16, 16 | Diagonal opening, set 2 of 2. The join for a tile that connects north, east and south. The game picks one of the two versions at random.
+spriteOpening[56] | 250, 254, 16, 16 | Diagonal opening, set 2 of 2. The join for a tile that connects west. The game picks one of the two versions at random.
+spriteOpening[57] | 250, 234, 16, 16 | Diagonal opening, set 2 of 2. The join for a tile that connects north and west. The game picks one of the two versions at random.
+spriteOpening[58] | 234, 254, 16, 16 | Diagonal opening, set 2 of 2. The join for a tile that connects east and west. The game picks one of the two versions at random.
+spriteOpening[59] | 234, 234, 16, 16 | Diagonal opening, set 2 of 2. The join for a tile that connects north, east and west. The game picks one of the two versions at random.
+spriteOpening[60] | 250, 202, 16, 16 | Diagonal opening, set 2 of 2. The join for a tile that connects south and west. The game picks one of the two versions at random.
+spriteOpening[61] | 250, 218, 16, 16 | Diagonal opening, set 2 of 2. The join for a tile that connects north, south and west. The game picks one of the two versions at random.
+spriteOpening[62] | 234, 202, 16, 16 | Diagonal opening, set 2 of 2. The join for a tile that connects east, south and west. The game picks one of the two versions at random.
+spriteOpening[63] | 234, 218, 16, 16 | Diagonal opening, set 2 of 2. The game loads this cell, but never draws it. An opening connected on all four sides draws no join.
+spriteOpening[128] | 6, 278, 16, 16 | One of the eight tiles for an opening with no connections. The game also uses it turned 90 degrees, and picks one of the sixteen at random.
+spriteOpening[129] | 22, 278, 16, 16 | One of the eight tiles for an opening with no connections. The game also uses it turned 90 degrees, and picks one of the sixteen at random.
+spriteOpening[130] | 38, 278, 16, 16 | One of the eight tiles for an opening with no connections. The game also uses it turned 90 degrees, and picks one of the sixteen at random.
+spriteOpening[131] | 54, 278, 16, 16 | One of the eight tiles for an opening with no connections. The game also uses it turned 90 degrees, and picks one of the sixteen at random.
+spriteOpening[132] | 70, 278, 16, 16 | One of the eight tiles for an opening with no connections. The game also uses it turned 90 degrees, and picks one of the sixteen at random.
+spriteOpening[133] | 86, 278, 16, 16 | One of the eight tiles for an opening with no connections. The game also uses it turned 90 degrees, and picks one of the sixteen at random.
+spriteOpening[134] | 102, 278, 16, 16 | One of the eight tiles for an opening with no connections. The game also uses it turned 90 degrees, and picks one of the sixteen at random.
+spriteOpening[135] | 118, 278, 16, 16 | One of the eight tiles for an opening with no connections. The game also uses it turned 90 degrees, and picks one of the sixteen at random.
+spriteCeiling[0] | 54, 354, 16, 16 | The ceiling's corner, drawn where the tile diagonally away is wall-like and the two tiles either side of it aren't. As painted it's the north-east corner, and the game turns it for the other three.
+spriteCeiling[1] | 54, 334, 16, 16 | Ceiling edge, set 1 of 2. The edge for a ceiling tile bordered to the north. Turned 90 degrees, it's also a version of the edge for a ceiling tile bordered to the east. The game picks one of the four versions at random.
+spriteCeiling[2] | 2, 354, 16, 16 | Ceiling edge, set 1 of 2. The edge for a ceiling tile bordered to the east. Turned 90 degrees, it's also a version of the edge for a ceiling tile bordered to the south. The game picks one of the four versions at random.
+spriteCeiling[3] | 2, 334, 16, 16 | Ceiling edge, set 1 of 2. The edge for a ceiling tile bordered to the north and east. Turned 90 degrees, it's also a version of the edge for a ceiling tile bordered to the east and south. The game picks one of the four versions at random. It's also the upper-right quarter of the ceiling's icon.
+spriteCeiling[4] | 54, 302, 16, 16 | Ceiling edge, set 1 of 2. The edge for a ceiling tile bordered to the south. Turned 90 degrees, it's also a version of the edge for a ceiling tile bordered to the west. The game picks one of the four versions at random.
+spriteCeiling[5] | 54, 318, 16, 16 | Ceiling edge, set 1 of 2. The edge for a ceiling tile bordered to the north and south. Turned 90 degrees, it's also a version of the edge for a ceiling tile bordered to the east and west. The game picks one of the four versions at random.
+spriteCeiling[6] | 2, 302, 16, 16 | Ceiling edge, set 1 of 2. The edge for a ceiling tile bordered to the east and south. Turned 90 degrees, it's also a version of the edge for a ceiling tile bordered to the south and west. The game picks one of the four versions at random. It's also the lower-right quarter of the ceiling's icon.
+spriteCeiling[7] | 2, 318, 16, 16 | Ceiling edge, set 1 of 2. The edge for a ceiling tile bordered to the north, east and south. Turned 90 degrees, it's also a version of the edge for a ceiling tile bordered to the east, south and west. The game picks one of the four versions at random.
+spriteCeiling[8] | 34, 354, 16, 16 | Ceiling edge, set 1 of 2. The edge for a ceiling tile bordered to the west. Turned 90 degrees, it's also a version of the edge for a ceiling tile bordered to the north. The game picks one of the four versions at random.
+spriteCeiling[9] | 34, 334, 16, 16 | Ceiling edge, set 1 of 2. The edge for a ceiling tile bordered to the north and west. Turned 90 degrees, it's also a version of the edge for a ceiling tile bordered to the north and east. The game picks one of the four versions at random. It's also the upper-left quarter of the ceiling's icon.
+spriteCeiling[10] | 18, 354, 16, 16 | Ceiling edge, set 1 of 2. The edge for a ceiling tile bordered to the east and west. Turned 90 degrees, it's also a version of the edge for a ceiling tile bordered to the north and south. The game picks one of the four versions at random.
+spriteCeiling[11] | 18, 334, 16, 16 | Ceiling edge, set 1 of 2. The edge for a ceiling tile bordered to the north, east and west. Turned 90 degrees, it's also a version of the edge for a ceiling tile bordered to the north, east and south. The game picks one of the four versions at random.
+spriteCeiling[12] | 34, 302, 16, 16 | Ceiling edge, set 1 of 2. The edge for a ceiling tile bordered to the south and west. Turned 90 degrees, it's also a version of the edge for a ceiling tile bordered to the north and west. The game picks one of the four versions at random. It's also the lower-left quarter of the ceiling's icon.
+spriteCeiling[13] | 34, 318, 16, 16 | Ceiling edge, set 1 of 2. The edge for a ceiling tile bordered to the north, south and west. Turned 90 degrees, it's also a version of the edge for a ceiling tile bordered to the north, east and west. The game picks one of the four versions at random.
+spriteCeiling[14] | 18, 302, 16, 16 | Ceiling edge, set 1 of 2. The edge for a ceiling tile bordered to the east, south and west. Turned 90 degrees, it's also a version of the edge for a ceiling tile bordered to the north, south and west. The game picks one of the four versions at random.
+spriteCeiling[15] | 18, 318, 16, 16 | Ceiling edge, set 1 of 2. The edge for a ceiling tile bordered to the north, east, south and west. The game also uses it turned 90 degrees. The game picks one of the four versions at random.
+spriteCeiling[32] | 126, 354, 16, 16 | The ceiling's shadow. The game only uses this cell for the shadow's shape, and doesn't draw it.
+spriteCeiling[33] | 126, 334, 16, 16 | Ceiling edge, set 2 of 2. The edge for a ceiling tile bordered to the north. Turned 90 degrees, it's also a version of the edge for a ceiling tile bordered to the east. The game picks one of the four versions at random.
+spriteCeiling[34] | 74, 354, 16, 16 | Ceiling edge, set 2 of 2. The edge for a ceiling tile bordered to the east. Turned 90 degrees, it's also a version of the edge for a ceiling tile bordered to the south. The game picks one of the four versions at random.
+spriteCeiling[35] | 74, 334, 16, 16 | Ceiling edge, set 2 of 2. The edge for a ceiling tile bordered to the north and east. Turned 90 degrees, it's also a version of the edge for a ceiling tile bordered to the east and south. The game picks one of the four versions at random.
+spriteCeiling[36] | 126, 302, 16, 16 | Ceiling edge, set 2 of 2. The edge for a ceiling tile bordered to the south. Turned 90 degrees, it's also a version of the edge for a ceiling tile bordered to the west. The game picks one of the four versions at random.
+spriteCeiling[37] | 126, 318, 16, 16 | Ceiling edge, set 2 of 2. The edge for a ceiling tile bordered to the north and south. Turned 90 degrees, it's also a version of the edge for a ceiling tile bordered to the east and west. The game picks one of the four versions at random.
+spriteCeiling[38] | 74, 302, 16, 16 | Ceiling edge, set 2 of 2. The edge for a ceiling tile bordered to the east and south. Turned 90 degrees, it's also a version of the edge for a ceiling tile bordered to the south and west. The game picks one of the four versions at random.
+spriteCeiling[39] | 74, 318, 16, 16 | Ceiling edge, set 2 of 2. The edge for a ceiling tile bordered to the north, east and south. Turned 90 degrees, it's also a version of the edge for a ceiling tile bordered to the east, south and west. The game picks one of the four versions at random.
+spriteCeiling[40] | 106, 354, 16, 16 | Ceiling edge, set 2 of 2. The edge for a ceiling tile bordered to the west. Turned 90 degrees, it's also a version of the edge for a ceiling tile bordered to the north. The game picks one of the four versions at random.
+spriteCeiling[41] | 106, 334, 16, 16 | Ceiling edge, set 2 of 2. The edge for a ceiling tile bordered to the north and west. Turned 90 degrees, it's also a version of the edge for a ceiling tile bordered to the north and east. The game picks one of the four versions at random.
+spriteCeiling[42] | 90, 354, 16, 16 | Ceiling edge, set 2 of 2. The edge for a ceiling tile bordered to the east and west. Turned 90 degrees, it's also a version of the edge for a ceiling tile bordered to the north and south. The game picks one of the four versions at random.
+spriteCeiling[43] | 90, 334, 16, 16 | Ceiling edge, set 2 of 2. The edge for a ceiling tile bordered to the north, east and west. Turned 90 degrees, it's also a version of the edge for a ceiling tile bordered to the north, east and south. The game picks one of the four versions at random.
+spriteCeiling[44] | 106, 302, 16, 16 | Ceiling edge, set 2 of 2. The edge for a ceiling tile bordered to the south and west. Turned 90 degrees, it's also a version of the edge for a ceiling tile bordered to the north and west. The game picks one of the four versions at random.
+spriteCeiling[45] | 106, 318, 16, 16 | Ceiling edge, set 2 of 2. The edge for a ceiling tile bordered to the north, south and west. Turned 90 degrees, it's also a version of the edge for a ceiling tile bordered to the north, east and west. The game picks one of the four versions at random.
+spriteCeiling[46] | 90, 302, 16, 16 | Ceiling edge, set 2 of 2. The edge for a ceiling tile bordered to the east, south and west. Turned 90 degrees, it's also a version of the edge for a ceiling tile bordered to the north, south and west. The game picks one of the four versions at random.
+spriteCeiling[47] | 90, 318, 16, 16 | Ceiling edge, set 2 of 2. The edge for a ceiling tile bordered to the north, east, south and west. The game also uses it turned 90 degrees. The game picks one of the four versions at random.
+spriteWall[0] normal | 342, 54, 16, 16 | The normal map for spriteWall[0].
+spriteWall[1] normal | 342, 34, 16, 16 | The normal map for spriteWall[1].
+spriteWall[2] normal | 290, 54, 16, 16 | The normal map for spriteWall[2].
+spriteWall[3] normal | 290, 34, 16, 16 | The normal map for spriteWall[3].
+spriteWall[4] normal | 342, 2, 16, 16 | The normal map for spriteWall[4].
+spriteWall[5] normal | 342, 18, 16, 16 | The normal map for spriteWall[5].
+spriteWall[6] normal | 290, 2, 16, 16 | The normal map for spriteWall[6].
+spriteWall[7] normal | 290, 18, 16, 16 | The normal map for spriteWall[7].
+spriteWall[8] normal | 322, 54, 16, 16 | The normal map for spriteWall[8].
+spriteWall[9] normal | 322, 34, 16, 16 | The normal map for spriteWall[9].
+spriteWall[10] normal | 306, 54, 16, 16 | The normal map for spriteWall[10].
+spriteWall[11] normal | 306, 34, 16, 16 | The normal map for spriteWall[11].
+spriteWall[12] normal | 322, 2, 16, 16 | The normal map for spriteWall[12].
+spriteWall[13] normal | 322, 18, 16, 16 | The normal map for spriteWall[13].
+spriteWall[14] normal | 306, 2, 16, 16 | The normal map for spriteWall[14].
+spriteWall[15] normal | 306, 18, 16, 16 | The normal map for spriteWall[15].
+spriteWall[32] normal | 414, 54, 16, 16 | The normal map for spriteWall[32].
+spriteWall[33] normal | 414, 2, 16, 16 | The normal map for spriteWall[33].
+spriteWall[34] normal | 394, 54, 16, 16 | The normal map for spriteWall[34].
+spriteWall[35] normal | 394, 2, 16, 16 | The normal map for spriteWall[35].
+spriteWall[36] normal | 414, 34, 16, 16 | The normal map for spriteWall[36].
+spriteWall[37] normal | 414, 18, 16, 16 | The normal map for spriteWall[37].
+spriteWall[38] normal | 394, 34, 16, 16 | The normal map for spriteWall[38].
+spriteWall[39] normal | 394, 18, 16, 16 | The normal map for spriteWall[39].
+spriteWall[40] normal | 362, 54, 16, 16 | The normal map for spriteWall[40].
+spriteWall[41] normal | 362, 2, 16, 16 | The normal map for spriteWall[41].
+spriteWall[42] normal | 378, 54, 16, 16 | The normal map for spriteWall[42].
+spriteWall[43] normal | 378, 2, 16, 16 | The normal map for spriteWall[43].
+spriteWall[44] normal | 362, 34, 16, 16 | The normal map for spriteWall[44].
+spriteWall[45] normal | 362, 18, 16, 16 | The normal map for spriteWall[45].
+spriteWall[46] normal | 378, 34, 16, 16 | The normal map for spriteWall[46].
+spriteWall[47] normal | 378, 18, 16, 16 | The normal map for spriteWall[47].
+spriteWall[64] normal | 486, 54, 16, 16 | The normal map for spriteWall[64].
+spriteWall[65] normal | 486, 34, 16, 16 | The normal map for spriteWall[65].
+spriteWall[66] normal | 434, 54, 16, 16 | The normal map for spriteWall[66].
+spriteWall[67] normal | 434, 34, 16, 16 | The normal map for spriteWall[67].
+spriteWall[68] normal | 486, 2, 16, 16 | The normal map for spriteWall[68].
+spriteWall[69] normal | 486, 18, 16, 16 | The normal map for spriteWall[69].
+spriteWall[70] normal | 434, 2, 16, 16 | The normal map for spriteWall[70].
+spriteWall[71] normal | 434, 18, 16, 16 | The normal map for spriteWall[71].
+spriteWall[72] normal | 466, 54, 16, 16 | The normal map for spriteWall[72].
+spriteWall[73] normal | 466, 34, 16, 16 | The normal map for spriteWall[73].
+spriteWall[74] normal | 450, 54, 16, 16 | The normal map for spriteWall[74].
+spriteWall[75] normal | 450, 34, 16, 16 | The normal map for spriteWall[75].
+spriteWall[76] normal | 466, 2, 16, 16 | The normal map for spriteWall[76].
+spriteWall[77] normal | 466, 18, 16, 16 | The normal map for spriteWall[77].
+spriteWall[78] normal | 450, 2, 16, 16 | The normal map for spriteWall[78].
+spriteWall[79] normal | 450, 18, 16, 16 | The normal map for spriteWall[79].
+spriteWall[96] normal | 558, 54, 16, 16 | The normal map for spriteWall[96].
+spriteWall[97] normal | 558, 2, 16, 16 | The normal map for spriteWall[97].
+spriteWall[98] normal | 538, 54, 16, 16 | The normal map for spriteWall[98].
+spriteWall[99] normal | 538, 2, 16, 16 | The normal map for spriteWall[99].
+spriteWall[100] normal | 558, 34, 16, 16 | The normal map for spriteWall[100].
+spriteWall[101] normal | 558, 18, 16, 16 | The normal map for spriteWall[101].
+spriteWall[102] normal | 538, 34, 16, 16 | The normal map for spriteWall[102].
+spriteWall[103] normal | 538, 18, 16, 16 | The normal map for spriteWall[103].
+spriteWall[104] normal | 506, 54, 16, 16 | The normal map for spriteWall[104].
+spriteWall[105] normal | 506, 2, 16, 16 | The normal map for spriteWall[105].
+spriteWall[106] normal | 522, 54, 16, 16 | The normal map for spriteWall[106].
+spriteWall[107] normal | 522, 2, 16, 16 | The normal map for spriteWall[107].
+spriteWall[108] normal | 506, 34, 16, 16 | The normal map for spriteWall[108].
+spriteWall[109] normal | 506, 18, 16, 16 | The normal map for spriteWall[109].
+spriteWall[110] normal | 522, 34, 16, 16 | The normal map for spriteWall[110].
+spriteWall[111] normal | 522, 18, 16, 16 | The normal map for spriteWall[111].
+spriteWall[128] normal | 342, 126, 16, 16 | The normal map for spriteWall[128].
+spriteWall[129] normal | 342, 106, 16, 16 | The normal map for spriteWall[129].
+spriteWall[130] normal | 290, 126, 16, 16 | The normal map for spriteWall[130].
+spriteWall[131] normal | 290, 106, 16, 16 | The normal map for spriteWall[131].
+spriteWall[132] normal | 342, 74, 16, 16 | The normal map for spriteWall[132].
+spriteWall[133] normal | 342, 90, 16, 16 | The normal map for spriteWall[133].
+spriteWall[134] normal | 290, 74, 16, 16 | The normal map for spriteWall[134].
+spriteWall[135] normal | 290, 90, 16, 16 | The normal map for spriteWall[135].
+spriteWall[136] normal | 322, 126, 16, 16 | The normal map for spriteWall[136].
+spriteWall[137] normal | 322, 106, 16, 16 | The normal map for spriteWall[137].
+spriteWall[138] normal | 306, 126, 16, 16 | The normal map for spriteWall[138].
+spriteWall[139] normal | 306, 106, 16, 16 | The normal map for spriteWall[139].
+spriteWall[140] normal | 322, 74, 16, 16 | The normal map for spriteWall[140].
+spriteWall[141] normal | 322, 90, 16, 16 | The normal map for spriteWall[141].
+spriteWall[142] normal | 306, 74, 16, 16 | The normal map for spriteWall[142].
+spriteWall[143] normal | 306, 90, 16, 16 | The normal map for spriteWall[143].
+spriteWall[160] normal | 414, 126, 16, 16 | The normal map for spriteWall[160].
+spriteWall[161] normal | 414, 74, 16, 16 | The normal map for spriteWall[161].
+spriteWall[162] normal | 394, 126, 16, 16 | The normal map for spriteWall[162].
+spriteWall[163] normal | 394, 74, 16, 16 | The normal map for spriteWall[163].
+spriteWall[164] normal | 414, 106, 16, 16 | The normal map for spriteWall[164].
+spriteWall[165] normal | 414, 90, 16, 16 | The normal map for spriteWall[165].
+spriteWall[166] normal | 394, 106, 16, 16 | The normal map for spriteWall[166].
+spriteWall[167] normal | 394, 90, 16, 16 | The normal map for spriteWall[167].
+spriteWall[168] normal | 362, 126, 16, 16 | The normal map for spriteWall[168].
+spriteWall[169] normal | 362, 74, 16, 16 | The normal map for spriteWall[169].
+spriteWall[170] normal | 378, 126, 16, 16 | The normal map for spriteWall[170].
+spriteWall[171] normal | 378, 74, 16, 16 | The normal map for spriteWall[171].
+spriteWall[172] normal | 362, 106, 16, 16 | The normal map for spriteWall[172].
+spriteWall[173] normal | 362, 90, 16, 16 | The normal map for spriteWall[173].
+spriteWall[174] normal | 378, 106, 16, 16 | The normal map for spriteWall[174].
+spriteWall[175] normal | 378, 90, 16, 16 | The normal map for spriteWall[175].
+spriteWall[256] normal | 294, 150, 16, 16 | The normal map for spriteWall[256].
+spriteWall[257] normal | 310, 150, 16, 16 | The normal map for spriteWall[257].
+spriteWall[258] normal | 326, 150, 16, 16 | The normal map for spriteWall[258].
+spriteWall[259] normal | 342, 150, 16, 16 | The normal map for spriteWall[259].
+spriteWall[260] normal | 358, 150, 16, 16 | The normal map for spriteWall[260].
+spriteWall[261] normal | 374, 150, 16, 16 | The normal map for spriteWall[261].
+spriteWall[262] normal | 390, 150, 16, 16 | The normal map for spriteWall[262].
+spriteWall[263] normal | 406, 150, 16, 16 | The normal map for spriteWall[263].
+spriteWall[264] normal | 422, 150, 16, 16 | The normal map for spriteWall[264].
+spriteWall[265] normal | 438, 150, 16, 16 | The normal map for spriteWall[265].
+spriteWall[266] normal | 454, 150, 16, 16 | The normal map for spriteWall[266].
+spriteWall[267] normal | 470, 150, 16, 16 | The normal map for spriteWall[267].
+spriteWall[268] normal | 486, 150, 16, 16 | The normal map for spriteWall[268].
+spriteWall[269] normal | 502, 150, 16, 16 | The normal map for spriteWall[269].
+spriteWall[270] normal | 518, 150, 16, 16 | The normal map for spriteWall[270].
+spriteWall[271] normal | 534, 150, 16, 16 | The normal map for spriteWall[271].
+spriteWall[272] normal | 294, 178, 16, 16 | The normal map for spriteWall[272].
+spriteWall[273] normal | 310, 178, 16, 16 | The normal map for spriteWall[273].
+spriteWall[274] normal | 326, 178, 16, 16 | The normal map for spriteWall[274].
+spriteWall[275] normal | 342, 178, 16, 16 | The normal map for spriteWall[275].
+spriteWall[276] normal | 358, 178, 16, 16 | The normal map for spriteWall[276].
+spriteWall[277] normal | 374, 178, 16, 16 | The normal map for spriteWall[277].
+spriteWall[278] normal | 390, 178, 16, 16 | The normal map for spriteWall[278].
+spriteWall[279] normal | 406, 178, 16, 16 | The normal map for spriteWall[279].
+spriteWall[280] normal | 422, 178, 16, 16 | The normal map for spriteWall[280].
+spriteWall[281] normal | 438, 178, 16, 16 | The normal map for spriteWall[281].
+spriteWall[282] normal | 454, 178, 16, 16 | The normal map for spriteWall[282].
+spriteWall[283] normal | 470, 178, 16, 16 | The normal map for spriteWall[283].
+spriteWall[284] normal | 486, 178, 16, 16 | The normal map for spriteWall[284].
+spriteWall[285] normal | 502, 178, 16, 16 | The normal map for spriteWall[285].
+spriteWall[286] normal | 518, 178, 16, 16 | The normal map for spriteWall[286].
+spriteWall[287] normal | 534, 178, 16, 16 | The normal map for spriteWall[287].
+spriteOpening[0] normal | 342, 254, 16, 16 | The normal map for spriteOpening[0].
+spriteOpening[1] normal | 342, 234, 16, 16 | The normal map for spriteOpening[1].
+spriteOpening[2] normal | 290, 254, 16, 16 | The normal map for spriteOpening[2].
+spriteOpening[3] normal | 290, 234, 16, 16 | The normal map for spriteOpening[3].
+spriteOpening[4] normal | 342, 202, 16, 16 | The normal map for spriteOpening[4].
+spriteOpening[5] normal | 342, 218, 16, 16 | The normal map for spriteOpening[5].
+spriteOpening[6] normal | 290, 202, 16, 16 | The normal map for spriteOpening[6].
+spriteOpening[7] normal | 290, 218, 16, 16 | The normal map for spriteOpening[7].
+spriteOpening[8] normal | 322, 254, 16, 16 | The normal map for spriteOpening[8].
+spriteOpening[9] normal | 322, 234, 16, 16 | The normal map for spriteOpening[9].
+spriteOpening[10] normal | 306, 254, 16, 16 | The normal map for spriteOpening[10].
+spriteOpening[11] normal | 306, 234, 16, 16 | The normal map for spriteOpening[11].
+spriteOpening[12] normal | 322, 202, 16, 16 | The normal map for spriteOpening[12].
+spriteOpening[13] normal | 322, 218, 16, 16 | The normal map for spriteOpening[13].
+spriteOpening[14] normal | 306, 202, 16, 16 | The normal map for spriteOpening[14].
+spriteOpening[15] normal | 306, 218, 16, 16 | The normal map for spriteOpening[15].
+spriteOpening[16] normal | 414, 254, 16, 16 | The normal map for spriteOpening[16].
+spriteOpening[17] normal | 414, 234, 16, 16 | The normal map for spriteOpening[17].
+spriteOpening[18] normal | 362, 254, 16, 16 | The normal map for spriteOpening[18].
+spriteOpening[19] normal | 362, 234, 16, 16 | The normal map for spriteOpening[19].
+spriteOpening[20] normal | 414, 202, 16, 16 | The normal map for spriteOpening[20].
+spriteOpening[21] normal | 414, 218, 16, 16 | The normal map for spriteOpening[21].
+spriteOpening[22] normal | 362, 202, 16, 16 | The normal map for spriteOpening[22].
+spriteOpening[23] normal | 362, 218, 16, 16 | The normal map for spriteOpening[23].
+spriteOpening[24] normal | 394, 254, 16, 16 | The normal map for spriteOpening[24].
+spriteOpening[25] normal | 394, 234, 16, 16 | The normal map for spriteOpening[25].
+spriteOpening[26] normal | 378, 254, 16, 16 | The normal map for spriteOpening[26].
+spriteOpening[27] normal | 378, 234, 16, 16 | The normal map for spriteOpening[27].
+spriteOpening[28] normal | 394, 202, 16, 16 | The normal map for spriteOpening[28].
+spriteOpening[29] normal | 394, 218, 16, 16 | The normal map for spriteOpening[29].
+spriteOpening[30] normal | 378, 202, 16, 16 | The normal map for spriteOpening[30].
+spriteOpening[31] normal | 378, 218, 16, 16 | The normal map for spriteOpening[31].
+spriteOpening[32] normal | 486, 254, 16, 16 | The normal map for spriteOpening[32].
+spriteOpening[33] normal | 486, 234, 16, 16 | The normal map for spriteOpening[33].
+spriteOpening[34] normal | 434, 254, 16, 16 | The normal map for spriteOpening[34].
+spriteOpening[35] normal | 434, 234, 16, 16 | The normal map for spriteOpening[35].
+spriteOpening[36] normal | 486, 202, 16, 16 | The normal map for spriteOpening[36].
+spriteOpening[37] normal | 486, 218, 16, 16 | The normal map for spriteOpening[37].
+spriteOpening[38] normal | 434, 202, 16, 16 | The normal map for spriteOpening[38].
+spriteOpening[39] normal | 434, 218, 16, 16 | The normal map for spriteOpening[39].
+spriteOpening[40] normal | 466, 254, 16, 16 | The normal map for spriteOpening[40].
+spriteOpening[41] normal | 466, 234, 16, 16 | The normal map for spriteOpening[41].
+spriteOpening[42] normal | 450, 254, 16, 16 | The normal map for spriteOpening[42].
+spriteOpening[43] normal | 450, 234, 16, 16 | The normal map for spriteOpening[43].
+spriteOpening[44] normal | 466, 202, 16, 16 | The normal map for spriteOpening[44].
+spriteOpening[45] normal | 466, 218, 16, 16 | The normal map for spriteOpening[45].
+spriteOpening[46] normal | 450, 202, 16, 16 | The normal map for spriteOpening[46].
+spriteOpening[47] normal | 450, 218, 16, 16 | The normal map for spriteOpening[47].
+spriteOpening[48] normal | 558, 254, 16, 16 | The normal map for spriteOpening[48].
+spriteOpening[49] normal | 558, 234, 16, 16 | The normal map for spriteOpening[49].
+spriteOpening[50] normal | 506, 254, 16, 16 | The normal map for spriteOpening[50].
+spriteOpening[51] normal | 506, 234, 16, 16 | The normal map for spriteOpening[51].
+spriteOpening[52] normal | 558, 202, 16, 16 | The normal map for spriteOpening[52].
+spriteOpening[53] normal | 558, 218, 16, 16 | The normal map for spriteOpening[53].
+spriteOpening[54] normal | 506, 202, 16, 16 | The normal map for spriteOpening[54].
+spriteOpening[55] normal | 506, 218, 16, 16 | The normal map for spriteOpening[55].
+spriteOpening[56] normal | 538, 254, 16, 16 | The normal map for spriteOpening[56].
+spriteOpening[57] normal | 538, 234, 16, 16 | The normal map for spriteOpening[57].
+spriteOpening[58] normal | 522, 254, 16, 16 | The normal map for spriteOpening[58].
+spriteOpening[59] normal | 522, 234, 16, 16 | The normal map for spriteOpening[59].
+spriteOpening[60] normal | 538, 202, 16, 16 | The normal map for spriteOpening[60].
+spriteOpening[61] normal | 538, 218, 16, 16 | The normal map for spriteOpening[61].
+spriteOpening[62] normal | 522, 202, 16, 16 | The normal map for spriteOpening[62].
+spriteOpening[63] normal | 522, 218, 16, 16 | The normal map for spriteOpening[63].
+spriteOpening[128] normal | 294, 278, 16, 16 | The normal map for spriteOpening[128].
+spriteOpening[129] normal | 310, 278, 16, 16 | The normal map for spriteOpening[129].
+spriteOpening[130] normal | 326, 278, 16, 16 | The normal map for spriteOpening[130].
+spriteOpening[131] normal | 342, 278, 16, 16 | The normal map for spriteOpening[131].
+spriteOpening[132] normal | 358, 278, 16, 16 | The normal map for spriteOpening[132].
+spriteOpening[133] normal | 374, 278, 16, 16 | The normal map for spriteOpening[133].
+spriteOpening[134] normal | 390, 278, 16, 16 | The normal map for spriteOpening[134].
+spriteOpening[135] normal | 406, 278, 16, 16 | The normal map for spriteOpening[135].
+spriteCeiling[0] normal | 342, 354, 16, 16 | The normal map for spriteCeiling[0].
+spriteCeiling[1] normal | 342, 334, 16, 16 | The normal map for spriteCeiling[1].
+spriteCeiling[2] normal | 290, 354, 16, 16 | The normal map for spriteCeiling[2].
+spriteCeiling[3] normal | 290, 334, 16, 16 | The normal map for spriteCeiling[3].
+spriteCeiling[4] normal | 342, 302, 16, 16 | The normal map for spriteCeiling[4].
+spriteCeiling[5] normal | 342, 318, 16, 16 | The normal map for spriteCeiling[5].
+spriteCeiling[6] normal | 290, 302, 16, 16 | The normal map for spriteCeiling[6].
+spriteCeiling[7] normal | 290, 318, 16, 16 | The normal map for spriteCeiling[7].
+spriteCeiling[8] normal | 322, 354, 16, 16 | The normal map for spriteCeiling[8].
+spriteCeiling[9] normal | 322, 334, 16, 16 | The normal map for spriteCeiling[9].
+spriteCeiling[10] normal | 306, 354, 16, 16 | The normal map for spriteCeiling[10].
+spriteCeiling[11] normal | 306, 334, 16, 16 | The normal map for spriteCeiling[11].
+spriteCeiling[12] normal | 322, 302, 16, 16 | The normal map for spriteCeiling[12].
+spriteCeiling[13] normal | 322, 318, 16, 16 | The normal map for spriteCeiling[13].
+spriteCeiling[14] normal | 306, 302, 16, 16 | The normal map for spriteCeiling[14].
+spriteCeiling[15] normal | 306, 318, 16, 16 | The normal map for spriteCeiling[15].
+spriteCeiling[32] normal | 414, 354, 16, 16 | The normal map for spriteCeiling[32].
+spriteCeiling[33] normal | 414, 334, 16, 16 | The normal map for spriteCeiling[33].
+spriteCeiling[34] normal | 362, 354, 16, 16 | The normal map for spriteCeiling[34].
+spriteCeiling[35] normal | 362, 334, 16, 16 | The normal map for spriteCeiling[35].
+spriteCeiling[36] normal | 414, 302, 16, 16 | The normal map for spriteCeiling[36].
+spriteCeiling[37] normal | 414, 318, 16, 16 | The normal map for spriteCeiling[37].
+spriteCeiling[38] normal | 362, 302, 16, 16 | The normal map for spriteCeiling[38].
+spriteCeiling[39] normal | 362, 318, 16, 16 | The normal map for spriteCeiling[39].
+spriteCeiling[40] normal | 394, 354, 16, 16 | The normal map for spriteCeiling[40].
+spriteCeiling[41] normal | 394, 334, 16, 16 | The normal map for spriteCeiling[41].
+spriteCeiling[42] normal | 378, 354, 16, 16 | The normal map for spriteCeiling[42].
+spriteCeiling[43] normal | 378, 334, 16, 16 | The normal map for spriteCeiling[43].
+spriteCeiling[44] normal | 394, 302, 16, 16 | The normal map for spriteCeiling[44].
+spriteCeiling[45] normal | 394, 318, 16, 16 | The normal map for spriteCeiling[45].
+spriteCeiling[46] normal | 378, 302, 16, 16 | The normal map for spriteCeiling[46].
+spriteCeiling[47] normal | 378, 318, 16, 16 | The normal map for spriteCeiling[47].

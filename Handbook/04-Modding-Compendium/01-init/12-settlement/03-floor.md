@@ -11,7 +11,7 @@ These files define the floors of the city. A floor with a `ROAD` block is a road
 | **Key** | The file name, e.g. `STONE1` |
 | **Adding new floors** | Yes, up to 62 files, not counting `_DEFAULT_ROAD.txt` and `_MAIN_ROAD.txt`. More stops the game with an error. |
 | **Text file** | `assets/text/settlement/floor/<KEY>.txt`, required for floors with a `ROAD` block |
-| **Sprites** | Images in `assets/sprite/game/texture/`, named by `GAME_TEXTURE` |
+| **Sprites** | Images in `assets/sprite/game/texture/`, named by `GAME_TEXTURE`. All floors also share [`_FloorExtra.png`](../../03-sprite/10-settlement/01-floor.md). |
 
 ## Tags
 
@@ -258,3 +258,4 @@ Each road gets an unlock named `FLOOR_<KEY>`.
 - [Environment effects](01-environment.md)
 - [Race preferences](../07-race/02-preferences.md)
 - [sprite/game](../../03-sprite/03-game.md)
+- [sprite/settlement/floor](../../03-sprite/10-settlement/01-floor.md)
