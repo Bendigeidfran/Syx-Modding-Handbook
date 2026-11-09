@@ -1,0 +1,160 @@
+IFEET_NONE N | 6, 6, 24, 24 | The feet at rest, used when standing still and twice in each walk cycle. Tinted with the leg colour. Facing up. The game rotates it clockwise to make E, S and W.
+IFEET_NONE NE | 36, 6, 24, 24 | The feet at rest, used when standing still and twice in each walk cycle. Tinted with the leg colour. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+IFEET_RIGHT N | 6, 36, 24, 24 | The feet in the first step to one side of the walk cycle, used on the way to IFEET_RIGHT2 and back. Tinted with the leg colour. Facing up. The game rotates it clockwise to make E, S and W.
+IFEET_RIGHT NE | 36, 36, 24, 24 | The feet in the first step to one side of the walk cycle, used on the way to IFEET_RIGHT2 and back. Tinted with the leg colour. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+IFEET_RIGHT2 N | 6, 66, 24, 24 | The feet at the furthest point to one side of the walk cycle. Tinted with the leg colour. Facing up. The game rotates it clockwise to make E, S and W.
+IFEET_RIGHT2 NE | 36, 66, 24, 24 | The feet at the furthest point to one side of the walk cycle. Tinted with the leg colour. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+IFEET_LEFT N | 6, 96, 24, 24 | The feet in the first step to the other side of the walk cycle, used on the way to IFEET_LEFT2 and back. Tinted with the leg colour. Facing up. The game rotates it clockwise to make E, S and W.
+IFEET_LEFT NE | 36, 96, 24, 24 | The feet in the first step to the other side of the walk cycle, used on the way to IFEET_LEFT2 and back. Tinted with the leg colour. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+IFEET_LEFT2 N | 6, 126, 24, 24 | The feet at the furthest point to the other side of the walk cycle. Tinted with the leg colour. Facing up. The game rotates it clockwise to make E, S and W.
+IFEET_LEFT2 NE | 36, 126, 24, 24 | The feet at the furthest point to the other side of the walk cycle. Tinted with the leg colour. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+ITUNIC N | 6, 156, 24, 24 | The clothes, drawn over whichever torso is showing and tinted with the clothes colour. Not drawn on a naked subject. Facing up. The game rotates it clockwise to make E, S and W.
+ITUNIC NE | 36, 156, 24, 24 | The clothes, drawn over whichever torso is showing and tinted with the clothes colour. Not drawn on a naked subject. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+ITORSO_STILL N | 6, 186, 24, 24 | The torso at rest, used when standing and in many animations. Tinted with the skin colour. Facing up. The game rotates it clockwise to make E, S and W.
+ITORSO_STILL NE | 36, 186, 24, 24 | The torso at rest, used when standing and in many animations. Tinted with the skin colour. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+ITORSO_RIGHT N | 6, 216, 24, 24 | The first torso pose to one side, used when walking and in most work and fighting animations. Tinted with the skin colour. Facing up. The game rotates it clockwise to make E, S and W.
+ITORSO_RIGHT NE | 36, 216, 24, 24 | The first torso pose to one side, used when walking and in most work and fighting animations. Tinted with the skin colour. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+ITORSO_RIGHT2 N | 6, 246, 24, 24 | The second torso pose to one side, used when walking and in most work and fighting animations. Tinted with the skin colour. Facing up. The game rotates it clockwise to make E, S and W.
+ITORSO_RIGHT2 NE | 36, 246, 24, 24 | The second torso pose to one side, used when walking and in most work and fighting animations. Tinted with the skin colour. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+ITORSO_RIGHT3 N | 6, 276, 24, 24 | The third torso pose to one side, used only by the BOX, FIST, ARM_RIGHT2 and DANCE_EXTRA animations and for swimming. Tinted with the skin colour. Facing up. The game rotates it clockwise to make E, S and W.
+ITORSO_RIGHT3 NE | 36, 276, 24, 24 | The third torso pose to one side, used only by the BOX, FIST, ARM_RIGHT2 and DANCE_EXTRA animations and for swimming. Tinted with the skin colour. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+ITORSO_LEFT N | 6, 306, 24, 24 | The first torso pose to the other side, used when walking and in several other animations. Tinted with the skin colour. Facing up. The game rotates it clockwise to make E, S and W.
+ITORSO_LEFT NE | 36, 306, 24, 24 | The first torso pose to the other side, used when walking and in several other animations. Tinted with the skin colour. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+ITORSO_LEFT2 N | 6, 336, 24, 24 | The second torso pose to the other side, used when walking and in several other animations. Tinted with the skin colour. Facing up. The game rotates it clockwise to make E, S and W.
+ITORSO_LEFT2 NE | 36, 336, 24, 24 | The second torso pose to the other side, used when walking and in several other animations. Tinted with the skin colour. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+ITORSO_LEFT3 N | 6, 366, 24, 24 | The third torso pose to the other side, used only by the BOX, ARM_LEFT3, DANCE_EXTRA and ARCHER4 animations and for swimming. Tinted with the skin colour. Facing up. The game rotates it clockwise to make E, S and W.
+ITORSO_LEFT3 NE | 36, 366, 24, 24 | The third torso pose to the other side, used only by the BOX, ARM_LEFT3, DANCE_EXTRA and ARCHER4 animations and for swimming. Tinted with the skin colour. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+ITORSO_CARRY N | 6, 396, 24, 24 | The torso of a subject carrying a resource or riding a mount, and in the STAND_BABY animation. Tinted with the skin colour. Facing up. The game rotates it clockwise to make E, S and W.
+ITORSO_CARRY NE | 36, 396, 24, 24 | The torso of a subject carrying a resource or riding a mount, and in the STAND_BABY animation. Tinted with the skin colour. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+ITORSO_OUT N | 6, 426, 24, 24 | A torso pose used only by the WAVE animation. Tinted with the skin colour. Facing up. The game rotates it clockwise to make E, S and W.
+ITORSO_OUT NE | 36, 426, 24, 24 | A torso pose used only by the WAVE animation. Tinted with the skin colour. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+ITORSO_OUT2 N | 6, 456, 24, 24 | A torso pose used by the WAVE and ARMS_OUT animations. Tinted with the skin colour. Facing up. The game rotates it clockwise to make E, S and W.
+ITORSO_OUT2 NE | 36, 456, 24, 24 | A torso pose used by the WAVE and ARMS_OUT animations. Tinted with the skin colour. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+IHEAD N | 6, 486, 24, 24 | The head, tinted with the skin colour. Add-ons with BELOW_HEAD: true are drawn before it, and the others after it. Facing up. The game rotates it clockwise to make E, S and W.
+IHEAD NE | 36, 486, 24, 24 | The head, tinted with the skin colour. Add-ons with BELOW_HEAD: true are drawn before it, and the others after it. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+ISHADOW N | 6, 516, 24, 24 | The subject's shadow. The game only uses this sprite's shape for the shadow, and never draws the sprite itself. Facing up. The game rotates it clockwise to make E, S and W.
+ISHADOW NE | 36, 516, 24, 24 | The subject's shadow. The game only uses this sprite's shape for the shadow, and never draws the sprite itself. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+CLAY.PANTS N | 72, 6, 32, 32 | The legs of a lying subject. Tinted with the leg colour, or the skin colour if naked. Facing up. The game rotates it clockwise to make E, S and W.
+CLAY.PANTS NE | 110, 6, 32, 32 | The legs of a lying subject. Tinted with the leg colour, or the skin colour if naked. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+CLAY.TORSO N | 148, 6, 32, 32 | The body of a lying subject. Tinted with the clothes colour, or the skin colour if naked. Facing up. The game rotates it clockwise to make E, S and W.
+CLAY.TORSO NE | 186, 6, 32, 32 | The body of a lying subject. Tinted with the clothes colour, or the skin colour if naked. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+CLAY.ARMS N | 72, 44, 32, 32 | The arms of a lying subject. Tinted with the skin colour. Facing up. The game rotates it clockwise to make E, S and W.
+CLAY.ARMS NE | 110, 44, 32, 32 | The arms of a lying subject. Tinted with the skin colour. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+CLAY.HEAD N | 148, 44, 32, 32 | The head of a lying subject. Tinted with the skin colour. Facing up. The game rotates it clockwise to make E, S and W.
+CLAY.HEAD NE | 186, 44, 32, 32 | The head of a lying subject. Tinted with the skin colour. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+CLAY.SHADOW N | 72, 82, 32, 32 | The lying subject's shape. The game uses it for the shadow, and draws blood, grit, water and the gore overlay through it. It never draws the sprite itself. Facing up. The game rotates it clockwise to make E, S and W.
+CLAY.SHADOW NE | 110, 82, 32, 32 | The lying subject's shape. The game uses it for the shadow, and draws blood, grit, water and the gore overlay through it. It never draws the sprite itself. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+lay[40] | 148, 82, 32, 32 | The game loads this cell, but never draws it.
+lay[41] | 186, 82, 32, 32 | The game loads this cell, but never draws it.
+sheetStand[0] N | 72, 200, 24, 24 | The add-on with ADDON_INDEX 0, on a standing subject. It's drawn only if the add-on's CONDITIONS pass, and tinted with its COLOR. Facing up. The game rotates it clockwise to make E, S and W.
+sheetStand[0] NE | 102, 200, 24, 24 | The add-on with ADDON_INDEX 0, on a standing subject. It's drawn only if the add-on's CONDITIONS pass, and tinted with its COLOR. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+sheetLay[0] N | 138, 200, 32, 32 | The add-on with ADDON_INDEX 0, on a lying subject. It's drawn only if the add-on's CONDITIONS pass, and tinted with its COLOR. Facing up. The game rotates it clockwise to make E, S and W.
+sheetLay[0] NE | 176, 200, 32, 32 | The add-on with ADDON_INDEX 0, on a lying subject. It's drawn only if the add-on's CONDITIONS pass, and tinted with its COLOR. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+sheetStand[1] N | 72, 244, 24, 24 | The add-on with ADDON_INDEX 1, on a standing subject. It's drawn only if the add-on's CONDITIONS pass, and tinted with its COLOR. Facing up. The game rotates it clockwise to make E, S and W.
+sheetStand[1] NE | 102, 244, 24, 24 | The add-on with ADDON_INDEX 1, on a standing subject. It's drawn only if the add-on's CONDITIONS pass, and tinted with its COLOR. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+sheetLay[1] N | 138, 244, 32, 32 | The add-on with ADDON_INDEX 1, on a lying subject. It's drawn only if the add-on's CONDITIONS pass, and tinted with its COLOR. Facing up. The game rotates it clockwise to make E, S and W.
+sheetLay[1] NE | 176, 244, 32, 32 | The add-on with ADDON_INDEX 1, on a lying subject. It's drawn only if the add-on's CONDITIONS pass, and tinted with its COLOR. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+sheetStand[2] N | 72, 288, 24, 24 | The add-on with ADDON_INDEX 2, on a standing subject. It's drawn only if the add-on's CONDITIONS pass, and tinted with its COLOR. Facing up. The game rotates it clockwise to make E, S and W.
+sheetStand[2] NE | 102, 288, 24, 24 | The add-on with ADDON_INDEX 2, on a standing subject. It's drawn only if the add-on's CONDITIONS pass, and tinted with its COLOR. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+sheetLay[2] N | 138, 288, 32, 32 | The add-on with ADDON_INDEX 2, on a lying subject. It's drawn only if the add-on's CONDITIONS pass, and tinted with its COLOR. Facing up. The game rotates it clockwise to make E, S and W.
+sheetLay[2] NE | 176, 288, 32, 32 | The add-on with ADDON_INDEX 2, on a lying subject. It's drawn only if the add-on's CONDITIONS pass, and tinted with its COLOR. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+sheetStand[3] N | 72, 332, 24, 24 | The add-on with ADDON_INDEX 3, on a standing subject. It's drawn only if the add-on's CONDITIONS pass, and tinted with its COLOR. Facing up. The game rotates it clockwise to make E, S and W.
+sheetStand[3] NE | 102, 332, 24, 24 | The add-on with ADDON_INDEX 3, on a standing subject. It's drawn only if the add-on's CONDITIONS pass, and tinted with its COLOR. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+sheetLay[3] N | 138, 332, 32, 32 | The add-on with ADDON_INDEX 3, on a lying subject. It's drawn only if the add-on's CONDITIONS pass, and tinted with its COLOR. Facing up. The game rotates it clockwise to make E, S and W.
+sheetLay[3] NE | 176, 332, 32, 32 | The add-on with ADDON_INDEX 3, on a lying subject. It's drawn only if the add-on's CONDITIONS pass, and tinted with its COLOR. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+sheetStand[4] N | 72, 376, 24, 24 | The add-on with ADDON_INDEX 4, on a standing subject. It's drawn only if the add-on's CONDITIONS pass, and tinted with its COLOR. Facing up. The game rotates it clockwise to make E, S and W.
+sheetStand[4] NE | 102, 376, 24, 24 | The add-on with ADDON_INDEX 4, on a standing subject. It's drawn only if the add-on's CONDITIONS pass, and tinted with its COLOR. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+sheetLay[4] N | 138, 376, 32, 32 | The add-on with ADDON_INDEX 4, on a lying subject. It's drawn only if the add-on's CONDITIONS pass, and tinted with its COLOR. Facing up. The game rotates it clockwise to make E, S and W.
+sheetLay[4] NE | 176, 376, 32, 32 | The add-on with ADDON_INDEX 4, on a lying subject. It's drawn only if the add-on's CONDITIONS pass, and tinted with its COLOR. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+sheetStand[5] N | 72, 420, 24, 24 | The add-on with ADDON_INDEX 5, on a standing subject. It's drawn only if the add-on's CONDITIONS pass, and tinted with its COLOR. Facing up. The game rotates it clockwise to make E, S and W.
+sheetStand[5] NE | 102, 420, 24, 24 | The add-on with ADDON_INDEX 5, on a standing subject. It's drawn only if the add-on's CONDITIONS pass, and tinted with its COLOR. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+sheetLay[5] N | 138, 420, 32, 32 | The add-on with ADDON_INDEX 5, on a lying subject. It's drawn only if the add-on's CONDITIONS pass, and tinted with its COLOR. Facing up. The game rotates it clockwise to make E, S and W.
+sheetLay[5] NE | 176, 420, 32, 32 | The add-on with ADDON_INDEX 5, on a lying subject. It's drawn only if the add-on's CONDITIONS pass, and tinted with its COLOR. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+sheetStand[6] N | 72, 464, 24, 24 | The add-on with ADDON_INDEX 6, on a standing subject. It's drawn only if the add-on's CONDITIONS pass, and tinted with its COLOR. Facing up. The game rotates it clockwise to make E, S and W.
+sheetStand[6] NE | 102, 464, 24, 24 | The add-on with ADDON_INDEX 6, on a standing subject. It's drawn only if the add-on's CONDITIONS pass, and tinted with its COLOR. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+sheetLay[6] N | 138, 464, 32, 32 | The add-on with ADDON_INDEX 6, on a lying subject. It's drawn only if the add-on's CONDITIONS pass, and tinted with its COLOR. Facing up. The game rotates it clockwise to make E, S and W.
+sheetLay[6] NE | 176, 464, 32, 32 | The add-on with ADDON_INDEX 6, on a lying subject. It's drawn only if the add-on's CONDITIONS pass, and tinted with its COLOR. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+sheetStand[7] N | 72, 508, 24, 24 | The add-on with ADDON_INDEX 7, on a standing subject. It's drawn only if the add-on's CONDITIONS pass, and tinted with its COLOR. Facing up. The game rotates it clockwise to make E, S and W.
+sheetStand[7] NE | 102, 508, 24, 24 | The add-on with ADDON_INDEX 7, on a standing subject. It's drawn only if the add-on's CONDITIONS pass, and tinted with its COLOR. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+sheetLay[7] N | 138, 508, 32, 32 | The add-on with ADDON_INDEX 7, on a lying subject. It's drawn only if the add-on's CONDITIONS pass, and tinted with its COLOR. Facing up. The game rotates it clockwise to make E, S and W.
+sheetLay[7] NE | 176, 508, 32, 32 | The add-on with ADDON_INDEX 7, on a lying subject. It's drawn only if the add-on's CONDITIONS pass, and tinted with its COLOR. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+IFEET_NONE N normal | 230, 6, 24, 24 | The normal map for IFEET_NONE N.
+IFEET_NONE NE normal | 260, 6, 24, 24 | The normal map for IFEET_NONE NE.
+IFEET_RIGHT N normal | 230, 36, 24, 24 | The normal map for IFEET_RIGHT N.
+IFEET_RIGHT NE normal | 260, 36, 24, 24 | The normal map for IFEET_RIGHT NE.
+IFEET_RIGHT2 N normal | 230, 66, 24, 24 | The normal map for IFEET_RIGHT2 N.
+IFEET_RIGHT2 NE normal | 260, 66, 24, 24 | The normal map for IFEET_RIGHT2 NE.
+IFEET_LEFT N normal | 230, 96, 24, 24 | The normal map for IFEET_LEFT N.
+IFEET_LEFT NE normal | 260, 96, 24, 24 | The normal map for IFEET_LEFT NE.
+IFEET_LEFT2 N normal | 230, 126, 24, 24 | The normal map for IFEET_LEFT2 N.
+IFEET_LEFT2 NE normal | 260, 126, 24, 24 | The normal map for IFEET_LEFT2 NE.
+ITUNIC N normal | 230, 156, 24, 24 | The normal map for ITUNIC N.
+ITUNIC NE normal | 260, 156, 24, 24 | The normal map for ITUNIC NE.
+ITORSO_STILL N normal | 230, 186, 24, 24 | The normal map for ITORSO_STILL N.
+ITORSO_STILL NE normal | 260, 186, 24, 24 | The normal map for ITORSO_STILL NE.
+ITORSO_RIGHT N normal | 230, 216, 24, 24 | The normal map for ITORSO_RIGHT N.
+ITORSO_RIGHT NE normal | 260, 216, 24, 24 | The normal map for ITORSO_RIGHT NE.
+ITORSO_RIGHT2 N normal | 230, 246, 24, 24 | The normal map for ITORSO_RIGHT2 N.
+ITORSO_RIGHT2 NE normal | 260, 246, 24, 24 | The normal map for ITORSO_RIGHT2 NE.
+ITORSO_RIGHT3 N normal | 230, 276, 24, 24 | The normal map for ITORSO_RIGHT3 N.
+ITORSO_RIGHT3 NE normal | 260, 276, 24, 24 | The normal map for ITORSO_RIGHT3 NE.
+ITORSO_LEFT N normal | 230, 306, 24, 24 | The normal map for ITORSO_LEFT N.
+ITORSO_LEFT NE normal | 260, 306, 24, 24 | The normal map for ITORSO_LEFT NE.
+ITORSO_LEFT2 N normal | 230, 336, 24, 24 | The normal map for ITORSO_LEFT2 N.
+ITORSO_LEFT2 NE normal | 260, 336, 24, 24 | The normal map for ITORSO_LEFT2 NE.
+ITORSO_LEFT3 N normal | 230, 366, 24, 24 | The normal map for ITORSO_LEFT3 N.
+ITORSO_LEFT3 NE normal | 260, 366, 24, 24 | The normal map for ITORSO_LEFT3 NE.
+ITORSO_CARRY N normal | 230, 396, 24, 24 | The normal map for ITORSO_CARRY N.
+ITORSO_CARRY NE normal | 260, 396, 24, 24 | The normal map for ITORSO_CARRY NE.
+ITORSO_OUT N normal | 230, 426, 24, 24 | The normal map for ITORSO_OUT N.
+ITORSO_OUT NE normal | 260, 426, 24, 24 | The normal map for ITORSO_OUT NE.
+ITORSO_OUT2 N normal | 230, 456, 24, 24 | The normal map for ITORSO_OUT2 N.
+ITORSO_OUT2 NE normal | 260, 456, 24, 24 | The normal map for ITORSO_OUT2 NE.
+IHEAD N normal | 230, 486, 24, 24 | The normal map for IHEAD N.
+IHEAD NE normal | 260, 486, 24, 24 | The normal map for IHEAD NE.
+ISHADOW N normal | 230, 516, 24, 24 | The normal map for ISHADOW N.
+ISHADOW NE normal | 260, 516, 24, 24 | The normal map for ISHADOW NE.
+CLAY.PANTS N normal | 296, 6, 32, 32 | The normal map for CLAY.PANTS N.
+CLAY.PANTS NE normal | 334, 6, 32, 32 | The normal map for CLAY.PANTS NE.
+CLAY.TORSO N normal | 372, 6, 32, 32 | The normal map for CLAY.TORSO N.
+CLAY.TORSO NE normal | 410, 6, 32, 32 | The normal map for CLAY.TORSO NE.
+CLAY.ARMS N normal | 296, 44, 32, 32 | The normal map for CLAY.ARMS N.
+CLAY.ARMS NE normal | 334, 44, 32, 32 | The normal map for CLAY.ARMS NE.
+CLAY.HEAD N normal | 372, 44, 32, 32 | The normal map for CLAY.HEAD N.
+CLAY.HEAD NE normal | 410, 44, 32, 32 | The normal map for CLAY.HEAD NE.
+CLAY.SHADOW N normal | 296, 82, 32, 32 | The normal map for CLAY.SHADOW N.
+CLAY.SHADOW NE normal | 334, 82, 32, 32 | The normal map for CLAY.SHADOW NE.
+lay[40] normal | 372, 82, 32, 32 | The normal map for lay[40].
+lay[41] normal | 410, 82, 32, 32 | The normal map for lay[41].
+sheetStand[0] N normal | 296, 200, 24, 24 | The normal map for sheetStand[0] N.
+sheetStand[0] NE normal | 326, 200, 24, 24 | The normal map for sheetStand[0] NE.
+sheetLay[0] N normal | 362, 200, 32, 32 | The normal map for sheetLay[0] N.
+sheetLay[0] NE normal | 400, 200, 32, 32 | The normal map for sheetLay[0] NE.
+sheetStand[1] N normal | 296, 244, 24, 24 | The normal map for sheetStand[1] N.
+sheetStand[1] NE normal | 326, 244, 24, 24 | The normal map for sheetStand[1] NE.
+sheetLay[1] N normal | 362, 244, 32, 32 | The normal map for sheetLay[1] N.
+sheetLay[1] NE normal | 400, 244, 32, 32 | The normal map for sheetLay[1] NE.
+sheetStand[2] N normal | 296, 288, 24, 24 | The normal map for sheetStand[2] N.
+sheetStand[2] NE normal | 326, 288, 24, 24 | The normal map for sheetStand[2] NE.
+sheetLay[2] N normal | 362, 288, 32, 32 | The normal map for sheetLay[2] N.
+sheetLay[2] NE normal | 400, 288, 32, 32 | The normal map for sheetLay[2] NE.
+sheetStand[3] N normal | 296, 332, 24, 24 | The normal map for sheetStand[3] N.
+sheetStand[3] NE normal | 326, 332, 24, 24 | The normal map for sheetStand[3] NE.
+sheetLay[3] N normal | 362, 332, 32, 32 | The normal map for sheetLay[3] N.
+sheetLay[3] NE normal | 400, 332, 32, 32 | The normal map for sheetLay[3] NE.
+sheetStand[4] N normal | 296, 376, 24, 24 | The normal map for sheetStand[4] N.
+sheetStand[4] NE normal | 326, 376, 24, 24 | The normal map for sheetStand[4] NE.
+sheetLay[4] N normal | 362, 376, 32, 32 | The normal map for sheetLay[4] N.
+sheetLay[4] NE normal | 400, 376, 32, 32 | The normal map for sheetLay[4] NE.
+sheetStand[5] N normal | 296, 420, 24, 24 | The normal map for sheetStand[5] N.
+sheetStand[5] NE normal | 326, 420, 24, 24 | The normal map for sheetStand[5] NE.
+sheetLay[5] N normal | 362, 420, 32, 32 | The normal map for sheetLay[5] N.
+sheetLay[5] NE normal | 400, 420, 32, 32 | The normal map for sheetLay[5] NE.
+sheetStand[6] N normal | 296, 464, 24, 24 | The normal map for sheetStand[6] N.
+sheetStand[6] NE normal | 326, 464, 24, 24 | The normal map for sheetStand[6] NE.
+sheetLay[6] N normal | 362, 464, 32, 32 | The normal map for sheetLay[6] N.
+sheetLay[6] NE normal | 400, 464, 32, 32 | The normal map for sheetLay[6] NE.
+sheetStand[7] N normal | 296, 508, 24, 24 | The normal map for sheetStand[7] N.
+sheetStand[7] NE normal | 326, 508, 24, 24 | The normal map for sheetStand[7] NE.
+sheetLay[7] N normal | 362, 508, 32, 32 | The normal map for sheetLay[7] N.
+sheetLay[7] NE normal | 400, 508, 32, 32 | The normal map for sheetLay[7] NE.

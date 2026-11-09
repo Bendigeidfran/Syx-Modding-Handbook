@@ -1,0 +1,8 @@
+sleep[0] N | 6, 6, 32, 32 | Blanket version 1 of 2, drawn over a sleeping subject. Each subject always uses the same version. Not tinted. Facing up. The game rotates it clockwise to make E, S and W.
+sleep[1] NE | 44, 6, 32, 32 | Blanket version 1 of 2, drawn over a sleeping subject. Each subject always uses the same version. Not tinted. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+sleep[8] N | 6, 44, 32, 32 | Blanket version 2 of 2, drawn over a sleeping subject. Each subject always uses the same version. Not tinted. Facing up. The game rotates it clockwise to make E, S and W.
+sleep[9] NE | 44, 44, 32, 32 | Blanket version 2 of 2, drawn over a sleeping subject. Each subject always uses the same version. Not tinted. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+sleep[0] N normal | 88, 6, 32, 32 | The normal map for sleep[0] N.
+sleep[1] NE normal | 126, 6, 32, 32 | The normal map for sleep[1] NE.
+sleep[8] N normal | 88, 44, 32, 32 | The normal map for sleep[8] N.
+sleep[9] NE normal | 126, 44, 32, 32 | The normal map for sleep[9] NE.

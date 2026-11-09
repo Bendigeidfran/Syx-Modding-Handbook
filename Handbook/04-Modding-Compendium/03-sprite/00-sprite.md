@@ -14,7 +14,7 @@ This chapter shows one example of each kind of sheet. The images are unmodified 
 - [sprite/icon](04-icon.md)
 - sprite/image
 - sprite/menu
-- sprite/race
+- [sprite/race](07-race/00-race.md)
 - [sprite/resource](08-resource.md)
 - sprite/room
 - [sprite/settlement](10-settlement/00-settlement.md)

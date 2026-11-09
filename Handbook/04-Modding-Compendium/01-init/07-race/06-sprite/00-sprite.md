@@ -71,7 +71,7 @@ The sprite file refers to images by file name, without `.png`. Each kind of imag
 | `TERRAIN` in `WORLD` | `assets/sprite/world/centre/terrain/` | 152 | 76 |
 | `FARM` in `WORLD` | `assets/sprite/world/centre/farm/` | 364 | 50 |
 
-The layout inside each image is fixed by the game. The simplest way to make a new one is to copy a vanilla image of the same kind from `base/data.zip` and paint over it.
+The layout inside each image is fixed by the game, and [sprite/race](../../../03-sprite/07-race/00-race.md) describes the ones in `assets/sprite/race/`. The simplest way to make a new one is to copy a vanilla image of the same kind from `base/data.zip` and paint over it.
 
 ## Writing colours
 
@@ -256,3 +256,4 @@ A sprite file in your mod with the same name as a vanilla one is [laid over it](
 
 - [init/race](../00-race.md)
 - [The race file](../01-race-file.md)
+- [sprite/race](../../../03-sprite/07-race/00-race.md)

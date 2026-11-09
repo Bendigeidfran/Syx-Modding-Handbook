@@ -1,0 +1,128 @@
+blood[0] | 6, 6, 24, 24 | Blood on a standing subject, drawn through the torso and tinted with the race's COLOR_BLOOD, level 1 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+blood[1] | 36, 6, 24, 24 | Blood on a standing subject, drawn through the torso and tinted with the race's COLOR_BLOOD, level 1 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+blood[8] | 6, 36, 24, 24 | Blood on a standing subject, drawn through the torso and tinted with the race's COLOR_BLOOD, level 2 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+blood[9] | 36, 36, 24, 24 | Blood on a standing subject, drawn through the torso and tinted with the race's COLOR_BLOOD, level 2 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+blood[16] | 6, 66, 24, 24 | Blood on a standing subject, drawn through the torso and tinted with the race's COLOR_BLOOD, level 3 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+blood[17] | 36, 66, 24, 24 | Blood on a standing subject, drawn through the torso and tinted with the race's COLOR_BLOOD, level 3 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+blood[24] | 6, 96, 24, 24 | Blood on a standing subject, drawn through the torso and tinted with the race's COLOR_BLOOD, level 4 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+blood[25] | 36, 96, 24, 24 | Blood on a standing subject, drawn through the torso and tinted with the race's COLOR_BLOOD, level 4 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+blood[32] | 6, 126, 24, 24 | Blood on a standing subject, drawn through the torso and tinted with the race's COLOR_BLOOD, level 5 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+blood[33] | 36, 126, 24, 24 | Blood on a standing subject, drawn through the torso and tinted with the race's COLOR_BLOOD, level 5 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+blood[40] | 6, 156, 24, 24 | Blood on a standing subject, drawn through the torso and tinted with the race's COLOR_BLOOD, level 6 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+blood[41] | 36, 156, 24, 24 | Blood on a standing subject, drawn through the torso and tinted with the race's COLOR_BLOOD, level 6 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+blood[48] | 6, 186, 24, 24 | Blood on a standing subject, drawn through the torso and tinted with the race's COLOR_BLOOD, level 7 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+blood[49] | 36, 186, 24, 24 | Blood on a standing subject, drawn through the torso and tinted with the race's COLOR_BLOOD, level 7 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+blood[56] | 6, 216, 24, 24 | Blood on a standing subject, drawn through the torso and tinted with the race's COLOR_BLOOD, level 8 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+blood[57] | 36, 216, 24, 24 | Blood on a standing subject, drawn through the torso and tinted with the race's COLOR_BLOOD, level 8 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+grit[0] | 6, 246, 24, 24 | Grit on a standing subject, drawn through the torso, level 1 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+grit[1] | 36, 246, 24, 24 | Grit on a standing subject, drawn through the torso, level 1 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+grit[8] | 6, 276, 24, 24 | Grit on a standing subject, drawn through the torso, level 2 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+grit[9] | 36, 276, 24, 24 | Grit on a standing subject, drawn through the torso, level 2 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+grit[16] | 6, 306, 24, 24 | Grit on a standing subject, drawn through the torso, level 3 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+grit[17] | 36, 306, 24, 24 | Grit on a standing subject, drawn through the torso, level 3 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+grit[24] | 6, 336, 24, 24 | Grit on a standing subject, drawn through the torso, level 4 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+grit[25] | 36, 336, 24, 24 | Grit on a standing subject, drawn through the torso, level 4 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+grit[32] | 6, 366, 24, 24 | Grit on a standing subject, drawn through the torso, level 5 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+grit[33] | 36, 366, 24, 24 | Grit on a standing subject, drawn through the torso, level 5 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+grit[40] | 6, 396, 24, 24 | Grit on a standing subject, drawn through the torso, level 6 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+grit[41] | 36, 396, 24, 24 | Grit on a standing subject, drawn through the torso, level 6 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+grit[48] | 6, 426, 24, 24 | Grit on a standing subject, drawn through the torso, level 7 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+grit[49] | 36, 426, 24, 24 | Grit on a standing subject, drawn through the torso, level 7 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+grit[56] | 6, 456, 24, 24 | Grit on a standing subject, drawn through the torso, level 8 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+grit[57] | 36, 456, 24, 24 | Grit on a standing subject, drawn through the torso, level 8 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+Lblood[0] | 72, 6, 32, 32 | Blood on a lying subject, drawn through CLAY.SHADOW and tinted with the race's COLOR_BLOOD, level 1 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+Lblood[1] | 110, 6, 32, 32 | Blood on a lying subject, drawn through CLAY.SHADOW and tinted with the race's COLOR_BLOOD, level 1 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+Lblood[8] | 72, 44, 32, 32 | Blood on a lying subject, drawn through CLAY.SHADOW and tinted with the race's COLOR_BLOOD, level 2 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+Lblood[9] | 110, 44, 32, 32 | Blood on a lying subject, drawn through CLAY.SHADOW and tinted with the race's COLOR_BLOOD, level 2 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+Lblood[16] | 72, 82, 32, 32 | Blood on a lying subject, drawn through CLAY.SHADOW and tinted with the race's COLOR_BLOOD, level 3 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+Lblood[17] | 110, 82, 32, 32 | Blood on a lying subject, drawn through CLAY.SHADOW and tinted with the race's COLOR_BLOOD, level 3 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+Lblood[24] | 72, 120, 32, 32 | Blood on a lying subject, drawn through CLAY.SHADOW and tinted with the race's COLOR_BLOOD, level 4 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+Lblood[25] | 110, 120, 32, 32 | Blood on a lying subject, drawn through CLAY.SHADOW and tinted with the race's COLOR_BLOOD, level 4 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+Lblood[32] | 72, 158, 32, 32 | Blood on a lying subject, drawn through CLAY.SHADOW and tinted with the race's COLOR_BLOOD, level 5 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+Lblood[33] | 110, 158, 32, 32 | Blood on a lying subject, drawn through CLAY.SHADOW and tinted with the race's COLOR_BLOOD, level 5 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+Lblood[40] | 72, 196, 32, 32 | Blood on a lying subject, drawn through CLAY.SHADOW and tinted with the race's COLOR_BLOOD, level 6 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+Lblood[41] | 110, 196, 32, 32 | Blood on a lying subject, drawn through CLAY.SHADOW and tinted with the race's COLOR_BLOOD, level 6 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+Lblood[48] | 72, 234, 32, 32 | Blood on a lying subject, drawn through CLAY.SHADOW and tinted with the race's COLOR_BLOOD, level 7 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+Lblood[49] | 110, 234, 32, 32 | Blood on a lying subject, drawn through CLAY.SHADOW and tinted with the race's COLOR_BLOOD, level 7 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+Lblood[56] | 72, 272, 32, 32 | Blood on a lying subject, drawn through CLAY.SHADOW and tinted with the race's COLOR_BLOOD, level 8 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+Lblood[57] | 110, 272, 32, 32 | Blood on a lying subject, drawn through CLAY.SHADOW and tinted with the race's COLOR_BLOOD, level 8 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+Lgrit[0] | 154, 6, 32, 32 | Grit on a lying subject, drawn through CLAY.SHADOW, level 1 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+Lgrit[1] | 192, 6, 32, 32 | Grit on a lying subject, drawn through CLAY.SHADOW, level 1 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+Lgrit[8] | 154, 44, 32, 32 | Grit on a lying subject, drawn through CLAY.SHADOW, level 2 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+Lgrit[9] | 192, 44, 32, 32 | Grit on a lying subject, drawn through CLAY.SHADOW, level 2 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+Lgrit[16] | 154, 82, 32, 32 | Grit on a lying subject, drawn through CLAY.SHADOW, level 3 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+Lgrit[17] | 192, 82, 32, 32 | Grit on a lying subject, drawn through CLAY.SHADOW, level 3 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+Lgrit[24] | 154, 120, 32, 32 | Grit on a lying subject, drawn through CLAY.SHADOW, level 4 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+Lgrit[25] | 192, 120, 32, 32 | Grit on a lying subject, drawn through CLAY.SHADOW, level 4 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+Lgrit[32] | 154, 158, 32, 32 | Grit on a lying subject, drawn through CLAY.SHADOW, level 5 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+Lgrit[33] | 192, 158, 32, 32 | Grit on a lying subject, drawn through CLAY.SHADOW, level 5 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+Lgrit[40] | 154, 196, 32, 32 | Grit on a lying subject, drawn through CLAY.SHADOW, level 6 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+Lgrit[41] | 192, 196, 32, 32 | Grit on a lying subject, drawn through CLAY.SHADOW, level 6 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+Lgrit[48] | 154, 234, 32, 32 | Grit on a lying subject, drawn through CLAY.SHADOW, level 7 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+Lgrit[49] | 192, 234, 32, 32 | Grit on a lying subject, drawn through CLAY.SHADOW, level 7 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+Lgrit[56] | 154, 272, 32, 32 | Grit on a lying subject, drawn through CLAY.SHADOW, level 8 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+Lgrit[57] | 192, 272, 32, 32 | Grit on a lying subject, drawn through CLAY.SHADOW, level 8 of 8. The game turns the pair to get eight versions, and picks one for each subject, whichever way they face.
+blood[0] normal | 236, 6, 24, 24 | The normal map for blood[0].
+blood[1] normal | 266, 6, 24, 24 | The normal map for blood[1].
+blood[8] normal | 236, 36, 24, 24 | The normal map for blood[8].
+blood[9] normal | 266, 36, 24, 24 | The normal map for blood[9].
+blood[16] normal | 236, 66, 24, 24 | The normal map for blood[16].
+blood[17] normal | 266, 66, 24, 24 | The normal map for blood[17].
+blood[24] normal | 236, 96, 24, 24 | The normal map for blood[24].
+blood[25] normal | 266, 96, 24, 24 | The normal map for blood[25].
+blood[32] normal | 236, 126, 24, 24 | The normal map for blood[32].
+blood[33] normal | 266, 126, 24, 24 | The normal map for blood[33].
+blood[40] normal | 236, 156, 24, 24 | The normal map for blood[40].
+blood[41] normal | 266, 156, 24, 24 | The normal map for blood[41].
+blood[48] normal | 236, 186, 24, 24 | The normal map for blood[48].
+blood[49] normal | 266, 186, 24, 24 | The normal map for blood[49].
+blood[56] normal | 236, 216, 24, 24 | The normal map for blood[56].
+blood[57] normal | 266, 216, 24, 24 | The normal map for blood[57].
+grit[0] normal | 236, 246, 24, 24 | The normal map for grit[0].
+grit[1] normal | 266, 246, 24, 24 | The normal map for grit[1].
+grit[8] normal | 236, 276, 24, 24 | The normal map for grit[8].
+grit[9] normal | 266, 276, 24, 24 | The normal map for grit[9].
+grit[16] normal | 236, 306, 24, 24 | The normal map for grit[16].
+grit[17] normal | 266, 306, 24, 24 | The normal map for grit[17].
+grit[24] normal | 236, 336, 24, 24 | The normal map for grit[24].
+grit[25] normal | 266, 336, 24, 24 | The normal map for grit[25].
+grit[32] normal | 236, 366, 24, 24 | The normal map for grit[32].
+grit[33] normal | 266, 366, 24, 24 | The normal map for grit[33].
+grit[40] normal | 236, 396, 24, 24 | The normal map for grit[40].
+grit[41] normal | 266, 396, 24, 24 | The normal map for grit[41].
+grit[48] normal | 236, 426, 24, 24 | The normal map for grit[48].
+grit[49] normal | 266, 426, 24, 24 | The normal map for grit[49].
+grit[56] normal | 236, 456, 24, 24 | The normal map for grit[56].
+grit[57] normal | 266, 456, 24, 24 | The normal map for grit[57].
+Lblood[0] normal | 302, 6, 32, 32 | The normal map for Lblood[0].
+Lblood[1] normal | 340, 6, 32, 32 | The normal map for Lblood[1].
+Lblood[8] normal | 302, 44, 32, 32 | The normal map for Lblood[8].
+Lblood[9] normal | 340, 44, 32, 32 | The normal map for Lblood[9].
+Lblood[16] normal | 302, 82, 32, 32 | The normal map for Lblood[16].
+Lblood[17] normal | 340, 82, 32, 32 | The normal map for Lblood[17].
+Lblood[24] normal | 302, 120, 32, 32 | The normal map for Lblood[24].
+Lblood[25] normal | 340, 120, 32, 32 | The normal map for Lblood[25].
+Lblood[32] normal | 302, 158, 32, 32 | The normal map for Lblood[32].
+Lblood[33] normal | 340, 158, 32, 32 | The normal map for Lblood[33].
+Lblood[40] normal | 302, 196, 32, 32 | The normal map for Lblood[40].
+Lblood[41] normal | 340, 196, 32, 32 | The normal map for Lblood[41].
+Lblood[48] normal | 302, 234, 32, 32 | The normal map for Lblood[48].
+Lblood[49] normal | 340, 234, 32, 32 | The normal map for Lblood[49].
+Lblood[56] normal | 302, 272, 32, 32 | The normal map for Lblood[56].
+Lblood[57] normal | 340, 272, 32, 32 | The normal map for Lblood[57].
+Lgrit[0] normal | 384, 6, 32, 32 | The normal map for Lgrit[0].
+Lgrit[1] normal | 422, 6, 32, 32 | The normal map for Lgrit[1].
+Lgrit[8] normal | 384, 44, 32, 32 | The normal map for Lgrit[8].
+Lgrit[9] normal | 422, 44, 32, 32 | The normal map for Lgrit[9].
+Lgrit[16] normal | 384, 82, 32, 32 | The normal map for Lgrit[16].
+Lgrit[17] normal | 422, 82, 32, 32 | The normal map for Lgrit[17].
+Lgrit[24] normal | 384, 120, 32, 32 | The normal map for Lgrit[24].
+Lgrit[25] normal | 422, 120, 32, 32 | The normal map for Lgrit[25].
+Lgrit[32] normal | 384, 158, 32, 32 | The normal map for Lgrit[32].
+Lgrit[33] normal | 422, 158, 32, 32 | The normal map for Lgrit[33].
+Lgrit[40] normal | 384, 196, 32, 32 | The normal map for Lgrit[40].
+Lgrit[41] normal | 422, 196, 32, 32 | The normal map for Lgrit[41].
+Lgrit[48] normal | 384, 234, 32, 32 | The normal map for Lgrit[48].
+Lgrit[49] normal | 422, 234, 32, 32 | The normal map for Lgrit[49].
+Lgrit[56] normal | 384, 272, 32, 32 | The normal map for Lgrit[56].
+Lgrit[57] normal | 422, 272, 32, 32 | The normal map for Lgrit[57].

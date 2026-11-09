@@ -494,3 +494,5 @@ If two things on your race seem to go together more often than they should, this
 - [Colours and extras](01-colours-and-extras.md)
 - [Occurrence and conditions](../../05-event/02-occurrence.md)
 - [The race file](../01-race-file.md)
+- [Body sheets](../../../03-sprite/07-race/01-body.md)
+- [sprite/race/face](../../../03-sprite/07-race/04-face.md)

@@ -1,0 +1,4 @@
+sheet[0] N | 6, 6, 24, 24 | The equipment on a subject in the settlement, tinted through the colours in the equipment's SPRITE block by how much of it the subject carries. Facing up. The game rotates it clockwise to make E, S and W.
+sheet[1] NE | 36, 6, 24, 24 | The equipment on a subject in the settlement, tinted through the colours in the equipment's SPRITE block by how much of it the subject carries. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+sheet[0] N normal | 72, 6, 24, 24 | The normal map for sheet[0] N.
+sheet[1] NE normal | 102, 6, 24, 24 | The normal map for sheet[1] NE.

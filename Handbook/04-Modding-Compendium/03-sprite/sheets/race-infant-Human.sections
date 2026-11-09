@@ -1,0 +1,16 @@
+infant[28] NW | 3, 3, 16, 16 | Frame 1 of 4 of the baby. Facing up and to the left. The game rotates it clockwise to make NE, SE and SW.
+infant[29] NW | 25, 3, 16, 16 | Frame 2 of 4 of the baby. Facing up and to the left. The game rotates it clockwise to make NE, SE and SW.
+infant[30] NW | 47, 3, 16, 16 | Frame 3 of 4 of the baby. Facing up and to the left. The game rotates it clockwise to make NE, SE and SW.
+infant[31] NW | 69, 3, 16, 16 | Frame 4 of 4 of the baby. Facing up and to the left. The game rotates it clockwise to make NE, SE and SW.
+infant[0] N | 91, 3, 16, 16 | Frame 1 of 4 of the baby. Facing up. The game rotates it clockwise to make E, S and W.
+infant[1] N | 113, 3, 16, 16 | Frame 2 of 4 of the baby. Facing up. The game rotates it clockwise to make E, S and W.
+infant[2] N | 135, 3, 16, 16 | Frame 3 of 4 of the baby. Facing up. The game rotates it clockwise to make E, S and W.
+infant[3] N | 157, 3, 16, 16 | Frame 4 of 4 of the baby. Facing up. The game rotates it clockwise to make E, S and W.
+infant[28] NW normal | 179, 3, 16, 16 | The normal map for infant[28] NW.
+infant[29] NW normal | 201, 3, 16, 16 | The normal map for infant[29] NW.
+infant[30] NW normal | 223, 3, 16, 16 | The normal map for infant[30] NW.
+infant[31] NW normal | 245, 3, 16, 16 | The normal map for infant[31] NW.
+infant[0] N normal | 267, 3, 16, 16 | The normal map for infant[0] N.
+infant[1] N normal | 289, 3, 16, 16 | The normal map for infant[1] N.
+infant[2] N normal | 311, 3, 16, 16 | The normal map for infant[2] N.
+infant[3] N normal | 333, 3, 16, 16 | The normal map for infant[3] N.

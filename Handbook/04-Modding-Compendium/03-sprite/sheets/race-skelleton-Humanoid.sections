@@ -1,0 +1,24 @@
+sheet_skelleton[0] N | 6, 6, 32, 32 | Skeleton base 1 of 2. The game picks one for each skeleton. Facing up. The game rotates it clockwise to make E, S and W.
+sheet_skelleton[1] NE | 44, 6, 32, 32 | Skeleton base 1 of 2. The game picks one for each skeleton. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+sheet_skelleton[8] N | 82, 6, 32, 32 | Skeleton base 2 of 2. The game picks one for each skeleton. Facing up. The game rotates it clockwise to make E, S and W.
+sheet_skelleton[9] NE | 120, 6, 32, 32 | Skeleton base 2 of 2. The game picks one for each skeleton. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+sheet_skelleton[16] N | 6, 44, 32, 32 | Skeleton top 1 of 4, drawn over the base. The game picks one for each skeleton. Facing up. The game rotates it clockwise to make E, S and W.
+sheet_skelleton[17] NE | 44, 44, 32, 32 | Skeleton top 1 of 4, drawn over the base. The game picks one for each skeleton. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+sheet_skelleton[24] N | 82, 44, 32, 32 | Skeleton top 2 of 4, drawn over the base. The game picks one for each skeleton. Facing up. The game rotates it clockwise to make E, S and W.
+sheet_skelleton[25] NE | 120, 44, 32, 32 | Skeleton top 2 of 4, drawn over the base. The game picks one for each skeleton. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+sheet_skelleton[32] N | 6, 82, 32, 32 | Skeleton top 3 of 4, drawn over the base. The game picks one for each skeleton. Facing up. The game rotates it clockwise to make E, S and W.
+sheet_skelleton[33] NE | 44, 82, 32, 32 | Skeleton top 3 of 4, drawn over the base. The game picks one for each skeleton. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+sheet_skelleton[40] N | 82, 82, 32, 32 | Skeleton top 4 of 4, drawn over the base. The game picks one for each skeleton. Facing up. The game rotates it clockwise to make E, S and W.
+sheet_skelleton[41] NE | 120, 82, 32, 32 | Skeleton top 4 of 4, drawn over the base. The game picks one for each skeleton. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+sheet_skelleton[0] N normal | 164, 6, 32, 32 | The normal map for sheet_skelleton[0] N.
+sheet_skelleton[1] NE normal | 202, 6, 32, 32 | The normal map for sheet_skelleton[1] NE.
+sheet_skelleton[8] N normal | 240, 6, 32, 32 | The normal map for sheet_skelleton[8] N.
+sheet_skelleton[9] NE normal | 278, 6, 32, 32 | The normal map for sheet_skelleton[9] NE.
+sheet_skelleton[16] N normal | 164, 44, 32, 32 | The normal map for sheet_skelleton[16] N.
+sheet_skelleton[17] NE normal | 202, 44, 32, 32 | The normal map for sheet_skelleton[17] NE.
+sheet_skelleton[24] N normal | 240, 44, 32, 32 | The normal map for sheet_skelleton[24] N.
+sheet_skelleton[25] NE normal | 278, 44, 32, 32 | The normal map for sheet_skelleton[25] NE.
+sheet_skelleton[32] N normal | 164, 82, 32, 32 | The normal map for sheet_skelleton[32] N.
+sheet_skelleton[33] NE normal | 202, 82, 32, 32 | The normal map for sheet_skelleton[33] NE.
+sheet_skelleton[40] N normal | 240, 82, 32, 32 | The normal map for sheet_skelleton[40] N.
+sheet_skelleton[41] NE normal | 278, 82, 32, 32 | The normal map for sheet_skelleton[41] NE.

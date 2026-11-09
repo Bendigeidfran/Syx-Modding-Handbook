@@ -1,0 +1,72 @@
+tool[0] N | 6, 6, 24, 24 | Tool position 0, drawn under the torso while working, when the torso is ITORSO_RIGHT2. Facing up. The game rotates it clockwise to make E, S and W.
+tool[1] NE | 36, 6, 24, 24 | Tool position 0, drawn under the torso while working, when the torso is ITORSO_RIGHT2. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+tool[8] N | 6, 36, 24, 24 | Tool position 1, drawn under the torso while working, when the torso is ITORSO_RIGHT. Facing up. The game rotates it clockwise to make E, S and W.
+tool[9] NE | 36, 36, 24, 24 | Tool position 1, drawn under the torso while working, when the torso is ITORSO_RIGHT. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+tool[16] N | 6, 66, 24, 24 | Tool position 2, drawn under the torso while working, when the torso is ITORSO_STILL. Facing up. The game rotates it clockwise to make E, S and W.
+tool[17] NE | 36, 66, 24, 24 | Tool position 2, drawn under the torso while working, when the torso is ITORSO_STILL. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+tool[24] | 6, 96, 24, 24 | The game loads this cell, but never draws it.
+tool[25] | 36, 96, 24, 24 | The game loads this cell, but never draws it.
+tool[32] | 6, 126, 24, 24 | The game loads this cell, but never draws it.
+tool[33] | 36, 126, 24, 24 | The game loads this cell, but never draws it.
+tool[40] | 6, 156, 24, 24 | The game loads this cell, but never draws it.
+tool[41] | 36, 156, 24, 24 | The game loads this cell, but never draws it.
+water[0] N | 72, 6, 24, 24 | Water frame 1 of 4 for a subject swimming, drawn through the torso. The frame is picked by time. Facing up. The game rotates it clockwise to make E, S and W.
+water[1] NE | 102, 6, 24, 24 | Water frame 1 of 4 for a subject swimming, drawn through the torso. The frame is picked by time. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+water[8] N | 72, 36, 24, 24 | Water frame 2 of 4 for a subject swimming, drawn through the torso. The frame is picked by time. Facing up. The game rotates it clockwise to make E, S and W.
+water[9] NE | 102, 36, 24, 24 | Water frame 2 of 4 for a subject swimming, drawn through the torso. The frame is picked by time. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+water[16] N | 72, 66, 24, 24 | Water frame 3 of 4 for a subject swimming, drawn through the torso. The frame is picked by time. Facing up. The game rotates it clockwise to make E, S and W.
+water[17] NE | 102, 66, 24, 24 | Water frame 3 of 4 for a subject swimming, drawn through the torso. The frame is picked by time. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+water[24] N | 72, 96, 24, 24 | Water frame 4 of 4 for a subject swimming, drawn through the torso. The frame is picked by time. Facing up. The game rotates it clockwise to make E, S and W.
+water[25] NE | 102, 96, 24, 24 | Water frame 4 of 4 for a subject swimming, drawn through the torso. The frame is picked by time. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+trolly[0] N | 72, 126, 24, 24 | Trolley frame 1 of 4, for a subject carrying more than 4 of a resource. The frame is picked by time. Not tinted, and casts a shadow. Facing up. The game rotates it clockwise to make E, S and W.
+trolly[1] NE | 102, 126, 24, 24 | Trolley frame 1 of 4, for a subject carrying more than 4 of a resource. The frame is picked by time. Not tinted, and casts a shadow. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+trolly[8] N | 72, 156, 24, 24 | Trolley frame 2 of 4, for a subject carrying more than 4 of a resource. The frame is picked by time. Not tinted, and casts a shadow. Facing up. The game rotates it clockwise to make E, S and W.
+trolly[9] NE | 102, 156, 24, 24 | Trolley frame 2 of 4, for a subject carrying more than 4 of a resource. The frame is picked by time. Not tinted, and casts a shadow. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+trolly[16] N | 72, 186, 24, 24 | Trolley frame 3 of 4, for a subject carrying more than 4 of a resource. The frame is picked by time. Not tinted, and casts a shadow. Facing up. The game rotates it clockwise to make E, S and W.
+trolly[17] NE | 102, 186, 24, 24 | Trolley frame 3 of 4, for a subject carrying more than 4 of a resource. The frame is picked by time. Not tinted, and casts a shadow. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+trolly[24] N | 72, 216, 24, 24 | Trolley frame 4 of 4, for a subject carrying more than 4 of a resource. The frame is picked by time. Not tinted, and casts a shadow. Facing up. The game rotates it clockwise to make E, S and W.
+trolly[25] NE | 102, 216, 24, 24 | Trolley frame 4 of 4, for a subject carrying more than 4 of a resource. The frame is picked by time. Not tinted, and casts a shadow. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+Lwater[0] N | 138, 6, 32, 32 | Water frame 1 of 4 for a lying subject or corpse in water, drawn through CLAY.SHADOW. The frame is picked by time. Facing up. The game rotates it clockwise to make E, S and W.
+Lwater[1] NE | 176, 6, 32, 32 | Water frame 1 of 4 for a lying subject or corpse in water, drawn through CLAY.SHADOW. The frame is picked by time. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+Lwater[8] N | 138, 44, 32, 32 | Water frame 2 of 4 for a lying subject or corpse in water, drawn through CLAY.SHADOW. The frame is picked by time. Facing up. The game rotates it clockwise to make E, S and W.
+Lwater[9] NE | 176, 44, 32, 32 | Water frame 2 of 4 for a lying subject or corpse in water, drawn through CLAY.SHADOW. The frame is picked by time. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+Lwater[16] N | 138, 82, 32, 32 | Water frame 3 of 4 for a lying subject or corpse in water, drawn through CLAY.SHADOW. The frame is picked by time. Facing up. The game rotates it clockwise to make E, S and W.
+Lwater[17] NE | 176, 82, 32, 32 | Water frame 3 of 4 for a lying subject or corpse in water, drawn through CLAY.SHADOW. The frame is picked by time. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+Lwater[24] N | 138, 120, 32, 32 | Water frame 4 of 4 for a lying subject or corpse in water, drawn through CLAY.SHADOW. The frame is picked by time. Facing up. The game rotates it clockwise to make E, S and W.
+Lwater[25] NE | 176, 120, 32, 32 | Water frame 4 of 4 for a lying subject or corpse in water, drawn through CLAY.SHADOW. The frame is picked by time. Facing up and to the right. The game rotates it clockwise to make SE, SW and NW.
+tool[0] N normal | 220, 6, 24, 24 | The normal map for tool[0] N.
+tool[1] NE normal | 250, 6, 24, 24 | The normal map for tool[1] NE.
+tool[8] N normal | 220, 36, 24, 24 | The normal map for tool[8] N.
+tool[9] NE normal | 250, 36, 24, 24 | The normal map for tool[9] NE.
+tool[16] N normal | 220, 66, 24, 24 | The normal map for tool[16] N.
+tool[17] NE normal | 250, 66, 24, 24 | The normal map for tool[17] NE.
+tool[24] normal | 220, 96, 24, 24 | The normal map for tool[24].
+tool[25] normal | 250, 96, 24, 24 | The normal map for tool[25].
+tool[32] normal | 220, 126, 24, 24 | The normal map for tool[32].
+tool[33] normal | 250, 126, 24, 24 | The normal map for tool[33].
+tool[40] normal | 220, 156, 24, 24 | The normal map for tool[40].
+tool[41] normal | 250, 156, 24, 24 | The normal map for tool[41].
+water[0] N normal | 286, 6, 24, 24 | The normal map for water[0] N.
+water[1] NE normal | 316, 6, 24, 24 | The normal map for water[1] NE.
+water[8] N normal | 286, 36, 24, 24 | The normal map for water[8] N.
+water[9] NE normal | 316, 36, 24, 24 | The normal map for water[9] NE.
+water[16] N normal | 286, 66, 24, 24 | The normal map for water[16] N.
+water[17] NE normal | 316, 66, 24, 24 | The normal map for water[17] NE.
+water[24] N normal | 286, 96, 24, 24 | The normal map for water[24] N.
+water[25] NE normal | 316, 96, 24, 24 | The normal map for water[25] NE.
+trolly[0] N normal | 286, 126, 24, 24 | The normal map for trolly[0] N.
+trolly[1] NE normal | 316, 126, 24, 24 | The normal map for trolly[1] NE.
+trolly[8] N normal | 286, 156, 24, 24 | The normal map for trolly[8] N.
+trolly[9] NE normal | 316, 156, 24, 24 | The normal map for trolly[9] NE.
+trolly[16] N normal | 286, 186, 24, 24 | The normal map for trolly[16] N.
+trolly[17] NE normal | 316, 186, 24, 24 | The normal map for trolly[17] NE.
+trolly[24] N normal | 286, 216, 24, 24 | The normal map for trolly[24] N.
+trolly[25] NE normal | 316, 216, 24, 24 | The normal map for trolly[25] NE.
+Lwater[0] N normal | 352, 6, 32, 32 | The normal map for Lwater[0] N.
+Lwater[1] NE normal | 390, 6, 32, 32 | The normal map for Lwater[1] NE.
+Lwater[8] N normal | 352, 44, 32, 32 | The normal map for Lwater[8] N.
+Lwater[9] NE normal | 390, 44, 32, 32 | The normal map for Lwater[9] NE.
+Lwater[16] N normal | 352, 82, 32, 32 | The normal map for Lwater[16] N.
+Lwater[17] NE normal | 390, 82, 32, 32 | The normal map for Lwater[17] NE.
+Lwater[24] N normal | 352, 120, 32, 32 | The normal map for Lwater[24] N.
+Lwater[25] NE normal | 390, 120, 32, 32 | The normal map for Lwater[25] NE.

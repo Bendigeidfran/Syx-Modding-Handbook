@@ -1,0 +1,16 @@
+sheet[0] | 6, 6, 24, 24 | A camp of size exactly 0, which in practice never happens because a camp's size is random. The game also turns it 90, 180 and 270 degrees and picks one of the four at random.
+sheet[1] | 36, 6, 24, 24 | The game loads this cell, but never draws it.
+sheet[2] | 6, 36, 24, 24 | A camp in the smallest third of sizes. The game also turns it 90, 180 and 270 degrees and picks one of the four at random.
+sheet[3] | 36, 36, 24, 24 | The game loads this cell, but never draws it.
+sheet[4] | 6, 66, 24, 24 | A camp in the middle third of sizes. The game also turns it 90, 180 and 270 degrees and picks one of the four at random.
+sheet[5] | 36, 66, 24, 24 | The game loads this cell, but never draws it.
+sheet[6] | 6, 96, 24, 24 | A camp in the largest third of sizes. The game also turns it 90, 180 and 270 degrees and picks one of the four at random.
+sheet[7] | 36, 96, 24, 24 | The game loads this cell, but never draws it.
+sheet[0] normal | 72, 6, 24, 24 | The normal map for sheet[0].
+sheet[1] normal | 102, 6, 24, 24 | The normal map for sheet[1].
+sheet[2] normal | 72, 36, 24, 24 | The normal map for sheet[2].
+sheet[3] normal | 102, 36, 24, 24 | The normal map for sheet[3].
+sheet[4] normal | 72, 66, 24, 24 | The normal map for sheet[4].
+sheet[5] normal | 102, 66, 24, 24 | The normal map for sheet[5].
+sheet[6] normal | 72, 96, 24, 24 | The normal map for sheet[6].
+sheet[7] normal | 102, 96, 24, 24 | The normal map for sheet[7].

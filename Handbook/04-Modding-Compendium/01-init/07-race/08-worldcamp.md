@@ -49,7 +49,7 @@ A race key that doesn't exist stops the game from loading with an error that lis
 
 ### SPRITE
 
-The image used for the camp on the world map, by the name of a file in `assets/sprite/race/worldcamp/`. The image must be exactly 132 pixels wide and at least 126 tall. It holds pictures for camps of different sizes, and the game picks one by the camp's size. The simplest way to make one is to copy a vanilla image and paint over it.
+The image used for the camp on the world map, by the name of a file in `assets/sprite/race/worldcamp/`. The image must be exactly 132 pixels wide and at least 126 tall. It holds pictures for camps of different sizes, and the game picks one by the camp's size. The simplest way to make one is to copy a vanilla image and paint over it. See [sprite/race/worldcamp](../../03-sprite/07-race/09-worldcamp.md).
 
 | | |
 |---|---|

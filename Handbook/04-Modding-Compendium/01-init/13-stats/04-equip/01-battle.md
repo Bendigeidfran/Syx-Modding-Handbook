@@ -223,7 +223,7 @@ How this equipment is drawn on the soldier on the battlefield. Without this bloc
 
 | Tag | Meaning | Type and range | Required |
 |---|---|---|---|
-| `FILE` | The name of an image in `assets/sprite/race/battle/`, without `.png`. It must be exactly 132 pixels wide and at least 36 high. Copy a vanilla image for the layout. | Text | Yes |
+| `FILE` | The name of an image in `assets/sprite/race/battle/`, without `.png`. It must be exactly 132 pixels wide and at least 36 high. Copy a vanilla image for the layout, described in [sprite/race/battle](../../../03-sprite/07-race/02-battle.md). | Text | Yes |
 | `OFFSET_X`, `OFFSET_Y` | Where the image is drawn, relative to the soldier. The distance scales with the size of the soldier's race. | Decimal, -100 to 100 | Yes |
 | `ANIMATION_DX`, `ANIMATION_DY` | How far the image moves with the soldier's animation. | Decimal, -100 to 100 | Yes |
 | `COLOR` | The colours it's tinted with, as a list. The tint blends along the list as the soldier carries more. | List of colours | Yes |

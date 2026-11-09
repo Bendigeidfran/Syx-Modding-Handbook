@@ -1,0 +1,16 @@
+grit[0] | 6, 6, 40, 48 | Grit on a portrait, level 1 of 4, shown from 25% grime. It's drawn through each face part that has STAINS.
+blood[0] | 6, 66, 40, 48 | Blood on a portrait, level 1 of 4, shown from 25% injury. It's drawn through each face part that has STAINS, tinted with the race's COLOR_BLOOD.
+grit[1] | 58, 6, 40, 48 | Grit on a portrait, level 2 of 4, shown from 50% grime. It's drawn through each face part that has STAINS.
+blood[1] | 58, 66, 40, 48 | Blood on a portrait, level 2 of 4, shown from 50% injury. It's drawn through each face part that has STAINS, tinted with the race's COLOR_BLOOD.
+grit[2] | 110, 6, 40, 48 | Grit on a portrait, level 3 of 4, shown from 75% grime. It's drawn through each face part that has STAINS.
+blood[2] | 110, 66, 40, 48 | Blood on a portrait, level 3 of 4, shown from 75% injury. It's drawn through each face part that has STAINS, tinted with the race's COLOR_BLOOD.
+grit[3] | 162, 6, 40, 48 | Grit on a portrait, level 4 of 4, shown from 100% grime. It's drawn through each face part that has STAINS.
+blood[3] | 162, 66, 40, 48 | Blood on a portrait, level 4 of 4, shown from 100% injury. It's drawn through each face part that has STAINS, tinted with the race's COLOR_BLOOD.
+grit[0] normal | 214, 6, 40, 48 | The normal map for grit[0].
+blood[0] normal | 214, 66, 40, 48 | The normal map for blood[0].
+grit[1] normal | 266, 6, 40, 48 | The normal map for grit[1].
+blood[1] normal | 266, 66, 40, 48 | The normal map for blood[1].
+grit[2] normal | 318, 6, 40, 48 | The normal map for grit[2].
+blood[2] normal | 318, 66, 40, 48 | The normal map for blood[2].
+grit[3] normal | 370, 6, 40, 48 | The normal map for grit[3].
+blood[3] normal | 370, 66, 40, 48 | The normal map for blood[3].

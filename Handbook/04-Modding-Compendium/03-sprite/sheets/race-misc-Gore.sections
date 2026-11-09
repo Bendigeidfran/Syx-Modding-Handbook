@@ -1,0 +1,32 @@
+gore_stencil[0] | 6, 6, 32, 32 | Gore shape 1 of 8. It cuts the shape of the body's legs, arms, head, torso and any add-ons drawn above the head (BELOW_HEAD: false) when a subject is reduced to gore. One subject always uses the same number here and in gore_overlay.
+gore_stencil[1] | 44, 6, 32, 32 | Gore shape 2 of 8. It cuts the shape of the body's legs, arms, head, torso and any add-ons drawn above the head (BELOW_HEAD: false) when a subject is reduced to gore. One subject always uses the same number here and in gore_overlay.
+gore_stencil[2] | 82, 6, 32, 32 | Gore shape 3 of 8. It cuts the shape of the body's legs, arms, head, torso and any add-ons drawn above the head (BELOW_HEAD: false) when a subject is reduced to gore. One subject always uses the same number here and in gore_overlay.
+gore_stencil[3] | 120, 6, 32, 32 | Gore shape 4 of 8. It cuts the shape of the body's legs, arms, head, torso and any add-ons drawn above the head (BELOW_HEAD: false) when a subject is reduced to gore. One subject always uses the same number here and in gore_overlay.
+gore_stencil[4] | 6, 44, 32, 32 | Gore shape 5 of 8. It cuts the shape of the body's legs, arms, head, torso and any add-ons drawn above the head (BELOW_HEAD: false) when a subject is reduced to gore. One subject always uses the same number here and in gore_overlay.
+gore_stencil[5] | 44, 44, 32, 32 | Gore shape 6 of 8. It cuts the shape of the body's legs, arms, head, torso and any add-ons drawn above the head (BELOW_HEAD: false) when a subject is reduced to gore. One subject always uses the same number here and in gore_overlay.
+gore_stencil[6] | 82, 44, 32, 32 | Gore shape 7 of 8. It cuts the shape of the body's legs, arms, head, torso and any add-ons drawn above the head (BELOW_HEAD: false) when a subject is reduced to gore. One subject always uses the same number here and in gore_overlay.
+gore_stencil[7] | 120, 44, 32, 32 | Gore shape 8 of 8. It cuts the shape of the body's legs, arms, head, torso and any add-ons drawn above the head (BELOW_HEAD: false) when a subject is reduced to gore. One subject always uses the same number here and in gore_overlay.
+gore_overlay[0] | 6, 82, 32, 32 | Gore overlay 1 of 8. It's drawn through CLAY.SHADOW, tinted with the race's COLOR_BLOOD. One subject always uses the same number here and in gore_stencil.
+gore_overlay[1] | 44, 82, 32, 32 | Gore overlay 2 of 8. It's drawn through CLAY.SHADOW, tinted with the race's COLOR_BLOOD. One subject always uses the same number here and in gore_stencil.
+gore_overlay[2] | 82, 82, 32, 32 | Gore overlay 3 of 8. It's drawn through CLAY.SHADOW, tinted with the race's COLOR_BLOOD. One subject always uses the same number here and in gore_stencil.
+gore_overlay[3] | 120, 82, 32, 32 | Gore overlay 4 of 8. It's drawn through CLAY.SHADOW, tinted with the race's COLOR_BLOOD. One subject always uses the same number here and in gore_stencil.
+gore_overlay[4] | 6, 120, 32, 32 | Gore overlay 5 of 8. It's drawn through CLAY.SHADOW, tinted with the race's COLOR_BLOOD. One subject always uses the same number here and in gore_stencil.
+gore_overlay[5] | 44, 120, 32, 32 | Gore overlay 6 of 8. It's drawn through CLAY.SHADOW, tinted with the race's COLOR_BLOOD. One subject always uses the same number here and in gore_stencil.
+gore_overlay[6] | 82, 120, 32, 32 | Gore overlay 7 of 8. It's drawn through CLAY.SHADOW, tinted with the race's COLOR_BLOOD. One subject always uses the same number here and in gore_stencil.
+gore_overlay[7] | 120, 120, 32, 32 | Gore overlay 8 of 8. It's drawn through CLAY.SHADOW, tinted with the race's COLOR_BLOOD. One subject always uses the same number here and in gore_stencil.
+gore_stencil[0] normal | 164, 6, 32, 32 | The normal map for gore_stencil[0].
+gore_stencil[1] normal | 202, 6, 32, 32 | The normal map for gore_stencil[1].
+gore_stencil[2] normal | 240, 6, 32, 32 | The normal map for gore_stencil[2].
+gore_stencil[3] normal | 278, 6, 32, 32 | The normal map for gore_stencil[3].
+gore_stencil[4] normal | 164, 44, 32, 32 | The normal map for gore_stencil[4].
+gore_stencil[5] normal | 202, 44, 32, 32 | The normal map for gore_stencil[5].
+gore_stencil[6] normal | 240, 44, 32, 32 | The normal map for gore_stencil[6].
+gore_stencil[7] normal | 278, 44, 32, 32 | The normal map for gore_stencil[7].
+gore_overlay[0] normal | 164, 82, 32, 32 | The normal map for gore_overlay[0].
+gore_overlay[1] normal | 202, 82, 32, 32 | The normal map for gore_overlay[1].
+gore_overlay[2] normal | 240, 82, 32, 32 | The normal map for gore_overlay[2].
+gore_overlay[3] normal | 278, 82, 32, 32 | The normal map for gore_overlay[3].
+gore_overlay[4] normal | 164, 120, 32, 32 | The normal map for gore_overlay[4].
+gore_overlay[5] normal | 202, 120, 32, 32 | The normal map for gore_overlay[5].
+gore_overlay[6] normal | 240, 120, 32, 32 | The normal map for gore_overlay[6].
+gore_overlay[7] normal | 278, 120, 32, 32 | The normal map for gore_overlay[7].

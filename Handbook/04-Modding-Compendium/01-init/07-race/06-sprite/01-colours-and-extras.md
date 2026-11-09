@@ -278,3 +278,4 @@ This affects vanilla Humans: `ARMOUR_LEATHER` is their 8th collection, so only t
 - [init/race/sprite](00-sprite.md)
 - [Types and faces](02-types-and-faces.md)
 - [init/race](../00-race.md)
+- [sprite/race/face](../../../03-sprite/07-race/04-face.md#faceaddon)

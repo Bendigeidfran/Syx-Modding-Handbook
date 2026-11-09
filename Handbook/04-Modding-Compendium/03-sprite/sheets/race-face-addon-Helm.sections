@@ -1,0 +1,16 @@
+FRAMES[0] | 6, 6, 40, 24 | Variant 1 of this image, drawn over a portrait.
+FRAMES[1] | 6, 42, 40, 24 | Variant 2 of this image, drawn over a portrait.
+FRAMES[2] | 6, 78, 40, 24 | Variant 3 of this image, drawn over a portrait.
+FRAMES[3] | 6, 114, 40, 24 | Variant 4 of this image, drawn over a portrait.
+FRAMES[4] | 6, 150, 40, 24 | Variant 5 of this image, drawn over a portrait.
+FRAMES[5] | 6, 186, 40, 24 | Variant 6 of this image, drawn over a portrait.
+FRAMES[6] | 6, 222, 40, 24 | Variant 7 of this image, drawn over a portrait.
+FRAMES[7] | 6, 258, 40, 24 | Variant 8 of this image, drawn over a portrait.
+FRAMES[0] normal | 58, 6, 40, 24 | The normal map for FRAMES[0].
+FRAMES[1] normal | 58, 42, 40, 24 | The normal map for FRAMES[1].
+FRAMES[2] normal | 58, 78, 40, 24 | The normal map for FRAMES[2].
+FRAMES[3] normal | 58, 114, 40, 24 | The normal map for FRAMES[3].
+FRAMES[4] normal | 58, 150, 40, 24 | The normal map for FRAMES[4].
+FRAMES[5] normal | 58, 186, 40, 24 | The normal map for FRAMES[5].
+FRAMES[6] normal | 58, 222, 40, 24 | The normal map for FRAMES[6].
+FRAMES[7] normal | 58, 258, 40, 24 | The normal map for FRAMES[7].
