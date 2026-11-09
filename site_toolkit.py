@@ -81,7 +81,6 @@ PAGE_MAP = {
     "01-init/07-race/02-preferences.md": {
         "location": "assets/init/race/",
         "sections": {"Tags": "PREFERRED"},
-        "paths": {t: f"*.{t}" for t in ("FREEDOM", "LAW")},
     },
     "01-init/07-race/03-stats.md": {"location": "assets/init/race/", "sections": {"Format": "STATS"}},
     "01-init/07-race/06-sprite/00-sprite.md": {
