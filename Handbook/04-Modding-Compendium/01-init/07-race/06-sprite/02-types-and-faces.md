@@ -393,12 +393,22 @@ The values checked are the subject's own. Vanilla uses, among others:
 
 ## CHILD
 
-A single type for the race's children. While a subject is a child, including a child slave, their body in the settlement and their portrait come from this block. It has the same tags as the blocks in `TYPES`, plus `INFANT_FILE`, but some of them don't work the same way:
+A single type for the race's children. While a subject is a child, including a child slave, their body in the settlement and their portrait come from this block.
 
-- `OCCURRENCE` has no effect, since there's only one child type.
-- `NAMESET_FILE_FIRST` and `NAMESET_FILE_SURNAME` are required and must name existing files, but children's names come from the type in `TYPES` they'll grow up into.
-- In v0.71.44, `ADDONS` here are loaded but never drawn. Children are drawn with the add-ons of the type they'll grow up into, so that type's conditions decide which of its add-ons a child shows.
-- `COLOR_SKIN` and `COLOR_LEG` colour free children's bodies. A child slave's body takes its skin and leg colours from their type in `TYPES` instead.
+| | |
+|---|---|
+| **Type** | Type block |
+| **Required** | Yes |
+
+It has the same tags as the blocks in `TYPES`, plus `INFANT_FILE`, but some of them don't work the same way.
+
+| Tag | What's different | Effect |
+|---|---|---|
+| `OCCURRENCE` | There's only one child type, so nothing is chosen with this. | None |
+| `NAMESET_FILE_FIRST`, `NAMESET_FILE_SURNAME` | Required, and must name existing files, but children's names come from the type in `TYPES` they'll grow up into. | None |
+| `ADDONS` | In v0.71.44, these are loaded but never drawn. Children are drawn with the add-ons of the type they'll grow up into, so that type's conditions decide which of its add-ons a child shows. | None |
+
+`COLOR_SKIN` and `COLOR_LEG` colour free children's bodies. A child slave's body takes its skin and leg colours from their type in `TYPES` instead.
 
 Vanilla's Human children (shortened):
 

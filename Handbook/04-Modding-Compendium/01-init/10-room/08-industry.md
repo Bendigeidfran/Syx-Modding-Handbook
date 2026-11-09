@@ -312,7 +312,7 @@ Every vanilla mine has `SHIFT_OFFSET: 0.125` and `ACCIDENTS_PER_YEAR: 0.075`. `F
 | | |
 |---|---|
 | **Type** | Block |
-| **Required** | Keep it. Unverified: the game doesn't check for it while loading, but a mine's job code expects it, so leaving it out should crash during play. |
+| **Required** | Yes. The game doesn't check for it while loading, but it crashes during play if a mine has neither this block nor `EMPLOYMENT`. |
 
 ```text
 WORK: {

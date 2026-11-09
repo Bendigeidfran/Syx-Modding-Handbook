@@ -211,6 +211,11 @@ The race's own views on each crime, overriding the defaults set in [`init/config
 | **Range** | `FREEDOM` and `LAW` each 0 to 1 |
 | **Required** | No |
 
+| Tag | Meaning | Type and range | Required |
+|---|---|---|---|
+| `FREEDOM` | How much this race resents the crime being punished, as described under [`FREEDOM` in `LAW.txt`](../03-config/07-LAW.md#freedom). | Decimal, 0 to 1 | No. The default is the crime's own value in `LAW.txt`. |
+| `LAW` | How much punishing the crime strengthens the law for this race, as described under [`LAW` in `LAW.txt`](../03-config/07-LAW.md#law). | Decimal, 0 to 1 | No. The default is the crime's own value in `LAW.txt`. |
+
 From `CRETONIAN.txt`:
 
 ```text

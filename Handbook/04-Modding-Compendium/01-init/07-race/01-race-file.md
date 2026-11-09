@@ -457,9 +457,10 @@ Each race needs a file of the same name in `assets/text/race/`. It holds the rac
 | `DESC_LONG` | The long description. | Yes |
 | `CHALLENGE` | How difficult the race is to play, such as `"Medium"`. | No |
 | `PROS`, `CONS` | Lists of the race's strengths and weaknesses. | No |
-| `PRONOUN_HE`, `PRONOUN_HIM`, `PRONOUN_HIS`, `PRONOUN_HIMSELF`, `PRONOUN_CHILD` | Pronouns, as lists: the first entry is used for males and the second for females. Each also needs a capitalised version with `C` added to the key, such as `PRONOUN_HEC`. | Yes |
+| `PRONOUN_HE`, `PRONOUN_HIM`, `PRONOUN_HIS`, `PRONOUN_HIMSELF`, `PRONOUN_CHILD`, `PRONOUN_HEC`, `PRONOUN_HIMC`, `PRONOUN_HISC`, `PRONOUN_HIMSELFC`, `PRONOUN_CHILDC` | Pronouns, as lists: the first entry is used for males and the second for females. A name ending in `C` is the capitalised version. | Yes |
 | `ARMY_NAMES` | Names for the race's armies. At least 1 and at most 255. | Yes |
 | `HELLO`, `GOODBYE`, `CURSE`, `INSULT`, `INSULTING`, `LORD`, `CITY`, `OTHERS`, `SELVES`, `SELF`, `CHILDREN` | Lists of words and phrases members of the race use when they speak. | Yes |
+| `WIKI` | An article about the race in the in-game wiki, in the format described under [`WIKI` in init/animal](../01-animal.md#wiki). | No |
 
 From `HUMAN.txt` in `assets/text/race/` (shortened):
 

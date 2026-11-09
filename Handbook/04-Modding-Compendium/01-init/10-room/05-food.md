@@ -328,6 +328,25 @@ Whether the pasture is indoors. An indoor pasture has a storage in place of the 
 INDOORS: true,
 ```
 
+### WORK
+
+The pasture's workers, in the form described on the [employment](02-employment.md#work-and-employment) page. A pasture can't do without workers: the game crashes during play if it has neither this block nor `EMPLOYMENT`. All six vanilla pastures use `WORK`. This example comes from the vanilla `PASTURE_AUR.txt`.
+
+| | |
+|---|---|
+| **Type** | Block |
+| **Required** | Yes |
+
+```text
+WORK: {
+	SHIFT_OFFSET: 0.125,
+	SOUND: impact->Dig*,
+	USES_TOOL: true,
+	FULFILLMENT: 0,
+	ACCIDENTS_PER_YEAR: 0.02,
+},
+```
+
 ### INDUSTRIES.INDUSTRY.OUT
 
 What each recipe produces, in the form described on the [production](03-production.md#industryout) page. Every recipe must have an entry, or the game stops loading with an error. A pasture's storage only has room for three outputs.

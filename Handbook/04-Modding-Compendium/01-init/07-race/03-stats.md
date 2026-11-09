@@ -25,6 +25,7 @@ Each entry in the block names a stat and contains these tags:
 | Tag | Meaning | Type and range | Default |
 |---|---|---|---|
 | `CITIZEN`, `SLAVE`, `NOBLE` | The most the stat can add for that class. | Decimal, 0 to 1000000 | `0` |
+| `OTHER` | The same value for the game's fourth class, which holds prisoners, tourists, enemies, rioters, the deranged and children. Vanilla never uses it. A value above 0 gives this class permission for the stat's service or grave type. | Decimal, 0 to 1000000 | `0` |
 | `MULTIPLIER` | Multiplies the stat's value before it's used. Values above 1 make the stat easier to satisfy fully. | Decimal, 0 to 100000 | `1` |
 | `EXPONENT` | Applied to the value after `MULTIPLIER`. Above 1, the stat is harder to satisfy; below 1, easier. | Decimal, 0.01 to 10 | `1` |
 | `INVERTED` | If `true`, the stat counts against the race: a value of 0 gives the full amount and a value of 1 gives nothing. | True/false | `false` |

@@ -454,7 +454,7 @@ The statistic's name. The game ignores this for statistics it names itself, such
 | | |
 |---|---|
 | **Type** | Text |
-| **Required** | Yes, for statistics the game doesn't name itself |
+| **Required** | Yes, if the game doesn't name the statistic itself |
 
 ```text
 NAME: "Baths",
@@ -467,7 +467,7 @@ The statistic's description. The game ignores this for statistics it names itsel
 | | |
 |---|---|
 | **Type** | Text |
-| **Required** | Yes, for statistics the game doesn't name itself |
+| **Required** | Yes, if the game doesn't name the statistic itself |
 
 ```text
 DESC: "Available bathing spots",

@@ -35,7 +35,13 @@ NOBLE: { ... },
 SLAVE: { ... },
 ```
 
-All three are required. Each block holds the tags below. The examples come from the vanilla `HUMAN.txt`.
+| Tag | Meaning | Required |
+|---|---|---|
+| `CITIZEN` | The homes of citizens, called Plebeians in game. | Yes |
+| `NOBLE` | The homes of nobles. | Yes |
+| `SLAVE` | The homes of slaves. | Yes |
+
+Each block holds the tags below. The examples come from the vanilla `HUMAN.txt`.
 
 ### Furniture
 
@@ -60,6 +66,12 @@ Each piece of furniture is a list of versions, and each version is a [sprite ent
 The `FRAMES` in each version must point at images of the right kind: a `1x1` piece can only use images from `sprite/game/1x1/`, for example.
 
 Chambers can only be lived in by nobles, so `BED_MASTER_2x2` and `STATUE_2x2` are only used in the `NOBLE` block. Vanilla's `NOBLE` blocks hold only `FLOORS`, `BED_MASTER_2x2` and `STATUE_2x2`.
+
+One more name appears in a vanilla file, though the game never draws it:
+
+| Tag | Meaning |
+|---|---|
+| `CARPET_2x2` | An empty list in the `SLAVE` block of vanilla `TILAPI.txt`. The game never draws it, but any versions listed in it still count towards the class's resources, as explained under [Every list counts towards the resources](#every-list-counts-towards-the-resources). |
 
 From the `CITIZEN` block, the first two of four versions of the bed's top tile:
 

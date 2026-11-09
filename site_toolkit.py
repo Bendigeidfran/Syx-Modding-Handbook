@@ -29,7 +29,8 @@ SCHEMA = 1
 # paths inside the Compendium. Each can set:
 #   location: the file or folder, for a page with no Location row of its own
 #   sections: "## heading" -> a path prefix for its tags ("" for none), or a dict
-#             with any of prefix, location, and text (true for text file tags)
+#             with any of prefix, location, text (true for text file tags), and
+#             block (true if the section also describes the block at its prefix)
 #   paths:    tag name in a heading or table -> the full path, or a list of paths
 #   flatten:  true if #### tags leave out their ### parent, because it repeats
 #             the same tags under different names (such as the seasons)
@@ -77,7 +78,11 @@ PAGE_MAP = {
     },
     "01-init/14-tech.md": {"sections": {"Technology tags": "TECHS"}},
     "01-init/13-stats/04-equip/03-ranged.md": {"sections": {"Projectile": "PROJECTILE"}},
-    "01-init/07-race/02-preferences.md": {"location": "assets/init/race/", "sections": {"Tags": "PREFERRED"}},
+    "01-init/07-race/02-preferences.md": {
+        "location": "assets/init/race/",
+        "sections": {"Tags": "PREFERRED"},
+        "paths": {t: f"*.{t}" for t in ("FREEDOM", "LAW")},
+    },
     "01-init/07-race/03-stats.md": {"location": "assets/init/race/", "sections": {"Format": "STATS"}},
     "01-init/07-race/06-sprite/00-sprite.md": {
         "sections": {"Name-set files": {"location": "assets/text/names/nameset/"}},
@@ -89,7 +94,12 @@ PAGE_MAP = {
     },
     "01-init/07-race/06-sprite/02-types-and-faces.md": {
         "location": "assets/init/race/sprite/",
-        "sections": {"TYPES": "TYPES", "Type tags": "TYPES", "Face parts": "TYPES.FACE", "CHILD": "CHILD"},
+        "sections": {
+            "TYPES": {"prefix": "TYPES", "block": True},
+            "Type tags": "TYPES",
+            "Face parts": "TYPES.FACE",
+            "CHILD": {"prefix": "CHILD", "block": True},
+        },
     },
     "01-init/10-room/03-production.md": {
         "paths": {t: [t, f"INDUSTRIES.{t}"] for t in ("INDUSTRY", "INDUSTRY.IN", "INDUSTRY.OUT", "INDUSTRY.ICON")},
@@ -286,6 +296,8 @@ class _Page:
             found = {"prefix": found} if isinstance(found, str) else found
             self.section = {"prefix": found.get("prefix", ""), "text": found.get("text", False),
                             "location": found.get("location") or self.location}
+            if found.get("block"):
+                self.current = self._new([self.section["prefix"]])
         elif self.section and level in (3, 4):
             if not TAG_HEADING.match(title):
                 # A prose heading: its text isn't a tag's, but its tables may hold tags.

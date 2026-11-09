@@ -190,7 +190,10 @@ Each tag names an image, and each has a matching `_COLOR` tag that tints it:
 | `TERRAIN` | The ground beneath a region's centre. |
 | `FARM` | The fields round a region's centre and beside villages. |
 
-`FARM_COLOR` is a [list of colours](#a-list-of-colours) rather than a single one: each field picks one from the list. All the other `_COLOR` tags take a [single colour](#a-single-colour).
+| Tag | Meaning | Type | Required |
+|---|---|---|---|
+| `TOWN_COLOR`, `VILLAGE_COLOR`, `OVERLAY_COLOR`, `WALL_COLOR`, `WALL_VILLAGE_COLOR`, `TERRAIN_COLOR` | The tint for the image named by the tag without `_COLOR`. | A [single colour](#a-single-colour) | Yes |
+| `FARM_COLOR` | The tints for `FARM`. Each field picks one from the list. | A [list of colours](#a-list-of-colours) | Yes |
 
 ```text
 WORLD: {
