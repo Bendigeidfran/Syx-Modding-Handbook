@@ -1,0 +1,128 @@
+moss[0] | 6, 6, 24, 24 | Moss under a roof, one of 16 picked at random. Every tile uses this row unless its grass would use row 7 of Grass.png.
+moss[1] | 30, 6, 24, 24 | Moss under a roof, one of 16 picked at random. Every tile uses this row unless its grass would use row 7 of Grass.png.
+moss[2] | 54, 6, 24, 24 | Moss under a roof, one of 16 picked at random. Every tile uses this row unless its grass would use row 7 of Grass.png.
+moss[3] | 78, 6, 24, 24 | Moss under a roof, one of 16 picked at random. Every tile uses this row unless its grass would use row 7 of Grass.png.
+moss[4] | 102, 6, 24, 24 | Moss under a roof, one of 16 picked at random. Every tile uses this row unless its grass would use row 7 of Grass.png.
+moss[5] | 126, 6, 24, 24 | Moss under a roof, one of 16 picked at random. Every tile uses this row unless its grass would use row 7 of Grass.png.
+moss[6] | 150, 6, 24, 24 | Moss under a roof, one of 16 picked at random. Every tile uses this row unless its grass would use row 7 of Grass.png.
+moss[7] | 174, 6, 24, 24 | Moss under a roof, one of 16 picked at random. Every tile uses this row unless its grass would use row 7 of Grass.png.
+moss[8] | 198, 6, 24, 24 | Moss under a roof, one of 16 picked at random. Every tile uses this row unless its grass would use row 7 of Grass.png.
+moss[9] | 222, 6, 24, 24 | Moss under a roof, one of 16 picked at random. Every tile uses this row unless its grass would use row 7 of Grass.png.
+moss[10] | 246, 6, 24, 24 | Moss under a roof, one of 16 picked at random. Every tile uses this row unless its grass would use row 7 of Grass.png.
+moss[11] | 270, 6, 24, 24 | Moss under a roof, one of 16 picked at random. Every tile uses this row unless its grass would use row 7 of Grass.png.
+moss[12] | 294, 6, 24, 24 | Moss under a roof, one of 16 picked at random. Every tile uses this row unless its grass would use row 7 of Grass.png.
+moss[13] | 318, 6, 24, 24 | Moss under a roof, one of 16 picked at random. Every tile uses this row unless its grass would use row 7 of Grass.png.
+moss[14] | 342, 6, 24, 24 | Moss under a roof, one of 16 picked at random. Every tile uses this row unless its grass would use row 7 of Grass.png.
+moss[15] | 366, 6, 24, 24 | Moss under a roof, one of 16 picked at random. Every tile uses this row unless its grass would use row 7 of Grass.png.
+moss[16] | 6, 30, 24, 24 | Moss under a roof, one of 16 picked at random. Only grass that would use row 7 of Grass.png uses this row, which means levels 14 and 15 with no minerals lowering the row.
+moss[17] | 30, 30, 24, 24 | Moss under a roof, one of 16 picked at random. Only grass that would use row 7 of Grass.png uses this row, which means levels 14 and 15 with no minerals lowering the row.
+moss[18] | 54, 30, 24, 24 | Moss under a roof, one of 16 picked at random. Only grass that would use row 7 of Grass.png uses this row, which means levels 14 and 15 with no minerals lowering the row.
+moss[19] | 78, 30, 24, 24 | Moss under a roof, one of 16 picked at random. Only grass that would use row 7 of Grass.png uses this row, which means levels 14 and 15 with no minerals lowering the row.
+moss[20] | 102, 30, 24, 24 | Moss under a roof, one of 16 picked at random. Only grass that would use row 7 of Grass.png uses this row, which means levels 14 and 15 with no minerals lowering the row.
+moss[21] | 126, 30, 24, 24 | Moss under a roof, one of 16 picked at random. Only grass that would use row 7 of Grass.png uses this row, which means levels 14 and 15 with no minerals lowering the row.
+moss[22] | 150, 30, 24, 24 | Moss under a roof, one of 16 picked at random. Only grass that would use row 7 of Grass.png uses this row, which means levels 14 and 15 with no minerals lowering the row.
+moss[23] | 174, 30, 24, 24 | Moss under a roof, one of 16 picked at random. Only grass that would use row 7 of Grass.png uses this row, which means levels 14 and 15 with no minerals lowering the row.
+moss[24] | 198, 30, 24, 24 | Moss under a roof, one of 16 picked at random. Only grass that would use row 7 of Grass.png uses this row, which means levels 14 and 15 with no minerals lowering the row.
+moss[25] | 222, 30, 24, 24 | Moss under a roof, one of 16 picked at random. Only grass that would use row 7 of Grass.png uses this row, which means levels 14 and 15 with no minerals lowering the row.
+moss[26] | 246, 30, 24, 24 | Moss under a roof, one of 16 picked at random. Only grass that would use row 7 of Grass.png uses this row, which means levels 14 and 15 with no minerals lowering the row.
+moss[27] | 270, 30, 24, 24 | Moss under a roof, one of 16 picked at random. Only grass that would use row 7 of Grass.png uses this row, which means levels 14 and 15 with no minerals lowering the row.
+moss[28] | 294, 30, 24, 24 | Moss under a roof, one of 16 picked at random. Only grass that would use row 7 of Grass.png uses this row, which means levels 14 and 15 with no minerals lowering the row.
+moss[29] | 318, 30, 24, 24 | Moss under a roof, one of 16 picked at random. Only grass that would use row 7 of Grass.png uses this row, which means levels 14 and 15 with no minerals lowering the row.
+moss[30] | 342, 30, 24, 24 | Moss under a roof, one of 16 picked at random. Only grass that would use row 7 of Grass.png uses this row, which means levels 14 and 15 with no minerals lowering the row.
+moss[31] | 366, 30, 24, 24 | Moss under a roof, one of 16 picked at random. Only grass that would use row 7 of Grass.png uses this row, which means levels 14 and 15 with no minerals lowering the row.
+moss[32] | 6, 54, 24, 24 | Loaded, but never drawn.
+moss[33] | 30, 54, 24, 24 | Loaded, but never drawn.
+moss[34] | 54, 54, 24, 24 | Loaded, but never drawn.
+moss[35] | 78, 54, 24, 24 | Loaded, but never drawn.
+moss[36] | 102, 54, 24, 24 | Loaded, but never drawn.
+moss[37] | 126, 54, 24, 24 | Loaded, but never drawn.
+moss[38] | 150, 54, 24, 24 | Loaded, but never drawn.
+moss[39] | 174, 54, 24, 24 | Loaded, but never drawn.
+moss[40] | 198, 54, 24, 24 | Loaded, but never drawn.
+moss[41] | 222, 54, 24, 24 | Loaded, but never drawn.
+moss[42] | 246, 54, 24, 24 | Loaded, but never drawn.
+moss[43] | 270, 54, 24, 24 | Loaded, but never drawn.
+moss[44] | 294, 54, 24, 24 | Loaded, but never drawn.
+moss[45] | 318, 54, 24, 24 | Loaded, but never drawn.
+moss[46] | 342, 54, 24, 24 | Loaded, but never drawn.
+moss[47] | 366, 54, 24, 24 | Loaded, but never drawn.
+moss[48] | 6, 78, 24, 24 | Loaded, but never drawn.
+moss[49] | 30, 78, 24, 24 | Loaded, but never drawn.
+moss[50] | 54, 78, 24, 24 | Loaded, but never drawn.
+moss[51] | 78, 78, 24, 24 | Loaded, but never drawn.
+moss[52] | 102, 78, 24, 24 | Loaded, but never drawn.
+moss[53] | 126, 78, 24, 24 | Loaded, but never drawn.
+moss[54] | 150, 78, 24, 24 | Loaded, but never drawn.
+moss[55] | 174, 78, 24, 24 | Loaded, but never drawn.
+moss[56] | 198, 78, 24, 24 | Loaded, but never drawn.
+moss[57] | 222, 78, 24, 24 | Loaded, but never drawn.
+moss[58] | 246, 78, 24, 24 | Loaded, but never drawn.
+moss[59] | 270, 78, 24, 24 | Loaded, but never drawn.
+moss[60] | 294, 78, 24, 24 | Loaded, but never drawn.
+moss[61] | 318, 78, 24, 24 | Loaded, but never drawn.
+moss[62] | 342, 78, 24, 24 | Loaded, but never drawn.
+moss[63] | 366, 78, 24, 24 | Loaded, but never drawn.
+moss[0] normal | 402, 6, 24, 24 | The normal map for moss[0].
+moss[1] normal | 426, 6, 24, 24 | The normal map for moss[1].
+moss[2] normal | 450, 6, 24, 24 | The normal map for moss[2].
+moss[3] normal | 474, 6, 24, 24 | The normal map for moss[3].
+moss[4] normal | 498, 6, 24, 24 | The normal map for moss[4].
+moss[5] normal | 522, 6, 24, 24 | The normal map for moss[5].
+moss[6] normal | 546, 6, 24, 24 | The normal map for moss[6].
+moss[7] normal | 570, 6, 24, 24 | The normal map for moss[7].
+moss[8] normal | 594, 6, 24, 24 | The normal map for moss[8].
+moss[9] normal | 618, 6, 24, 24 | The normal map for moss[9].
+moss[10] normal | 642, 6, 24, 24 | The normal map for moss[10].
+moss[11] normal | 666, 6, 24, 24 | The normal map for moss[11].
+moss[12] normal | 690, 6, 24, 24 | The normal map for moss[12].
+moss[13] normal | 714, 6, 24, 24 | The normal map for moss[13].
+moss[14] normal | 738, 6, 24, 24 | The normal map for moss[14].
+moss[15] normal | 762, 6, 24, 24 | The normal map for moss[15].
+moss[16] normal | 402, 30, 24, 24 | The normal map for moss[16].
+moss[17] normal | 426, 30, 24, 24 | The normal map for moss[17].
+moss[18] normal | 450, 30, 24, 24 | The normal map for moss[18].
+moss[19] normal | 474, 30, 24, 24 | The normal map for moss[19].
+moss[20] normal | 498, 30, 24, 24 | The normal map for moss[20].
+moss[21] normal | 522, 30, 24, 24 | The normal map for moss[21].
+moss[22] normal | 546, 30, 24, 24 | The normal map for moss[22].
+moss[23] normal | 570, 30, 24, 24 | The normal map for moss[23].
+moss[24] normal | 594, 30, 24, 24 | The normal map for moss[24].
+moss[25] normal | 618, 30, 24, 24 | The normal map for moss[25].
+moss[26] normal | 642, 30, 24, 24 | The normal map for moss[26].
+moss[27] normal | 666, 30, 24, 24 | The normal map for moss[27].
+moss[28] normal | 690, 30, 24, 24 | The normal map for moss[28].
+moss[29] normal | 714, 30, 24, 24 | The normal map for moss[29].
+moss[30] normal | 738, 30, 24, 24 | The normal map for moss[30].
+moss[31] normal | 762, 30, 24, 24 | The normal map for moss[31].
+moss[32] normal | 402, 54, 24, 24 | The normal map for moss[32].
+moss[33] normal | 426, 54, 24, 24 | The normal map for moss[33].
+moss[34] normal | 450, 54, 24, 24 | The normal map for moss[34].
+moss[35] normal | 474, 54, 24, 24 | The normal map for moss[35].
+moss[36] normal | 498, 54, 24, 24 | The normal map for moss[36].
+moss[37] normal | 522, 54, 24, 24 | The normal map for moss[37].
+moss[38] normal | 546, 54, 24, 24 | The normal map for moss[38].
+moss[39] normal | 570, 54, 24, 24 | The normal map for moss[39].
+moss[40] normal | 594, 54, 24, 24 | The normal map for moss[40].
+moss[41] normal | 618, 54, 24, 24 | The normal map for moss[41].
+moss[42] normal | 642, 54, 24, 24 | The normal map for moss[42].
+moss[43] normal | 666, 54, 24, 24 | The normal map for moss[43].
+moss[44] normal | 690, 54, 24, 24 | The normal map for moss[44].
+moss[45] normal | 714, 54, 24, 24 | The normal map for moss[45].
+moss[46] normal | 738, 54, 24, 24 | The normal map for moss[46].
+moss[47] normal | 762, 54, 24, 24 | The normal map for moss[47].
+moss[48] normal | 402, 78, 24, 24 | The normal map for moss[48].
+moss[49] normal | 426, 78, 24, 24 | The normal map for moss[49].
+moss[50] normal | 450, 78, 24, 24 | The normal map for moss[50].
+moss[51] normal | 474, 78, 24, 24 | The normal map for moss[51].
+moss[52] normal | 498, 78, 24, 24 | The normal map for moss[52].
+moss[53] normal | 522, 78, 24, 24 | The normal map for moss[53].
+moss[54] normal | 546, 78, 24, 24 | The normal map for moss[54].
+moss[55] normal | 570, 78, 24, 24 | The normal map for moss[55].
+moss[56] normal | 594, 78, 24, 24 | The normal map for moss[56].
+moss[57] normal | 618, 78, 24, 24 | The normal map for moss[57].
+moss[58] normal | 642, 78, 24, 24 | The normal map for moss[58].
+moss[59] normal | 666, 78, 24, 24 | The normal map for moss[59].
+moss[60] normal | 690, 78, 24, 24 | The normal map for moss[60].
+moss[61] normal | 714, 78, 24, 24 | The normal map for moss[61].
+moss[62] normal | 738, 78, 24, 24 | The normal map for moss[62].
+moss[63] normal | 762, 78, 24, 24 | The normal map for moss[63].

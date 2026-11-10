@@ -1,0 +1,128 @@
+sheet[0] | 6, 6, 24, 24 | A patch of snow, one of 16 picked at random. This row is for the shallowest snow, and is one of the two rows that can appear on rooms, floors and minerals.
+sheet[1] | 36, 6, 24, 24 | A patch of snow, one of 16 picked at random. This row is for the shallowest snow, and is one of the two rows that can appear on rooms, floors and minerals.
+sheet[2] | 66, 6, 24, 24 | A patch of snow, one of 16 picked at random. This row is for the shallowest snow, and is one of the two rows that can appear on rooms, floors and minerals.
+sheet[3] | 96, 6, 24, 24 | A patch of snow, one of 16 picked at random. This row is for the shallowest snow, and is one of the two rows that can appear on rooms, floors and minerals.
+sheet[4] | 126, 6, 24, 24 | A patch of snow, one of 16 picked at random. This row is for the shallowest snow, and is one of the two rows that can appear on rooms, floors and minerals.
+sheet[5] | 156, 6, 24, 24 | A patch of snow, one of 16 picked at random. This row is for the shallowest snow, and is one of the two rows that can appear on rooms, floors and minerals.
+sheet[6] | 186, 6, 24, 24 | A patch of snow, one of 16 picked at random. This row is for the shallowest snow, and is one of the two rows that can appear on rooms, floors and minerals.
+sheet[7] | 216, 6, 24, 24 | A patch of snow, one of 16 picked at random. This row is for the shallowest snow, and is one of the two rows that can appear on rooms, floors and minerals.
+sheet[8] | 246, 6, 24, 24 | A patch of snow, one of 16 picked at random. This row is for the shallowest snow, and is one of the two rows that can appear on rooms, floors and minerals.
+sheet[9] | 276, 6, 24, 24 | A patch of snow, one of 16 picked at random. This row is for the shallowest snow, and is one of the two rows that can appear on rooms, floors and minerals.
+sheet[10] | 306, 6, 24, 24 | A patch of snow, one of 16 picked at random. This row is for the shallowest snow, and is one of the two rows that can appear on rooms, floors and minerals.
+sheet[11] | 336, 6, 24, 24 | A patch of snow, one of 16 picked at random. This row is for the shallowest snow, and is one of the two rows that can appear on rooms, floors and minerals.
+sheet[12] | 366, 6, 24, 24 | A patch of snow, one of 16 picked at random. This row is for the shallowest snow, and is one of the two rows that can appear on rooms, floors and minerals.
+sheet[13] | 396, 6, 24, 24 | A patch of snow, one of 16 picked at random. This row is for the shallowest snow, and is one of the two rows that can appear on rooms, floors and minerals.
+sheet[14] | 426, 6, 24, 24 | A patch of snow, one of 16 picked at random. This row is for the shallowest snow, and is one of the two rows that can appear on rooms, floors and minerals.
+sheet[15] | 456, 6, 24, 24 | A patch of snow, one of 16 picked at random. This row is for the shallowest snow, and is one of the two rows that can appear on rooms, floors and minerals.
+sheet[16] | 6, 36, 24, 24 | A patch of snow, one of 16 picked at random. This row is the deepest that can appear on rooms, floors and minerals.
+sheet[17] | 36, 36, 24, 24 | A patch of snow, one of 16 picked at random. This row is the deepest that can appear on rooms, floors and minerals.
+sheet[18] | 66, 36, 24, 24 | A patch of snow, one of 16 picked at random. This row is the deepest that can appear on rooms, floors and minerals.
+sheet[19] | 96, 36, 24, 24 | A patch of snow, one of 16 picked at random. This row is the deepest that can appear on rooms, floors and minerals.
+sheet[20] | 126, 36, 24, 24 | A patch of snow, one of 16 picked at random. This row is the deepest that can appear on rooms, floors and minerals.
+sheet[21] | 156, 36, 24, 24 | A patch of snow, one of 16 picked at random. This row is the deepest that can appear on rooms, floors and minerals.
+sheet[22] | 186, 36, 24, 24 | A patch of snow, one of 16 picked at random. This row is the deepest that can appear on rooms, floors and minerals.
+sheet[23] | 216, 36, 24, 24 | A patch of snow, one of 16 picked at random. This row is the deepest that can appear on rooms, floors and minerals.
+sheet[24] | 246, 36, 24, 24 | A patch of snow, one of 16 picked at random. This row is the deepest that can appear on rooms, floors and minerals.
+sheet[25] | 276, 36, 24, 24 | A patch of snow, one of 16 picked at random. This row is the deepest that can appear on rooms, floors and minerals.
+sheet[26] | 306, 36, 24, 24 | A patch of snow, one of 16 picked at random. This row is the deepest that can appear on rooms, floors and minerals.
+sheet[27] | 336, 36, 24, 24 | A patch of snow, one of 16 picked at random. This row is the deepest that can appear on rooms, floors and minerals.
+sheet[28] | 366, 36, 24, 24 | A patch of snow, one of 16 picked at random. This row is the deepest that can appear on rooms, floors and minerals.
+sheet[29] | 396, 36, 24, 24 | A patch of snow, one of 16 picked at random. This row is the deepest that can appear on rooms, floors and minerals.
+sheet[30] | 426, 36, 24, 24 | A patch of snow, one of 16 picked at random. This row is the deepest that can appear on rooms, floors and minerals.
+sheet[31] | 456, 36, 24, 24 | A patch of snow, one of 16 picked at random. This row is the deepest that can appear on rooms, floors and minerals.
+sheet[32] | 6, 66, 24, 24 | A patch of snow, one of 16 picked at random. This row is for deeper snow, and doesn't appear on rooms, floors or minerals.
+sheet[33] | 36, 66, 24, 24 | A patch of snow, one of 16 picked at random. This row is for deeper snow, and doesn't appear on rooms, floors or minerals.
+sheet[34] | 66, 66, 24, 24 | A patch of snow, one of 16 picked at random. This row is for deeper snow, and doesn't appear on rooms, floors or minerals.
+sheet[35] | 96, 66, 24, 24 | A patch of snow, one of 16 picked at random. This row is for deeper snow, and doesn't appear on rooms, floors or minerals.
+sheet[36] | 126, 66, 24, 24 | A patch of snow, one of 16 picked at random. This row is for deeper snow, and doesn't appear on rooms, floors or minerals.
+sheet[37] | 156, 66, 24, 24 | A patch of snow, one of 16 picked at random. This row is for deeper snow, and doesn't appear on rooms, floors or minerals.
+sheet[38] | 186, 66, 24, 24 | A patch of snow, one of 16 picked at random. This row is for deeper snow, and doesn't appear on rooms, floors or minerals.
+sheet[39] | 216, 66, 24, 24 | A patch of snow, one of 16 picked at random. This row is for deeper snow, and doesn't appear on rooms, floors or minerals.
+sheet[40] | 246, 66, 24, 24 | A patch of snow, one of 16 picked at random. This row is for deeper snow, and doesn't appear on rooms, floors or minerals.
+sheet[41] | 276, 66, 24, 24 | A patch of snow, one of 16 picked at random. This row is for deeper snow, and doesn't appear on rooms, floors or minerals.
+sheet[42] | 306, 66, 24, 24 | A patch of snow, one of 16 picked at random. This row is for deeper snow, and doesn't appear on rooms, floors or minerals.
+sheet[43] | 336, 66, 24, 24 | A patch of snow, one of 16 picked at random. This row is for deeper snow, and doesn't appear on rooms, floors or minerals.
+sheet[44] | 366, 66, 24, 24 | A patch of snow, one of 16 picked at random. This row is for deeper snow, and doesn't appear on rooms, floors or minerals.
+sheet[45] | 396, 66, 24, 24 | A patch of snow, one of 16 picked at random. This row is for deeper snow, and doesn't appear on rooms, floors or minerals.
+sheet[46] | 426, 66, 24, 24 | A patch of snow, one of 16 picked at random. This row is for deeper snow, and doesn't appear on rooms, floors or minerals.
+sheet[47] | 456, 66, 24, 24 | A patch of snow, one of 16 picked at random. This row is for deeper snow, and doesn't appear on rooms, floors or minerals.
+sheet[48] | 6, 96, 24, 24 | A patch of snow, one of 16 picked at random. This row is for the deepest snow, and doesn't appear on rooms, floors or minerals.
+sheet[49] | 36, 96, 24, 24 | A patch of snow, one of 16 picked at random. This row is for the deepest snow, and doesn't appear on rooms, floors or minerals.
+sheet[50] | 66, 96, 24, 24 | A patch of snow, one of 16 picked at random. This row is for the deepest snow, and doesn't appear on rooms, floors or minerals.
+sheet[51] | 96, 96, 24, 24 | A patch of snow, one of 16 picked at random. This row is for the deepest snow, and doesn't appear on rooms, floors or minerals.
+sheet[52] | 126, 96, 24, 24 | A patch of snow, one of 16 picked at random. This row is for the deepest snow, and doesn't appear on rooms, floors or minerals.
+sheet[53] | 156, 96, 24, 24 | A patch of snow, one of 16 picked at random. This row is for the deepest snow, and doesn't appear on rooms, floors or minerals.
+sheet[54] | 186, 96, 24, 24 | A patch of snow, one of 16 picked at random. This row is for the deepest snow, and doesn't appear on rooms, floors or minerals.
+sheet[55] | 216, 96, 24, 24 | A patch of snow, one of 16 picked at random. This row is for the deepest snow, and doesn't appear on rooms, floors or minerals.
+sheet[56] | 246, 96, 24, 24 | A patch of snow, one of 16 picked at random. This row is for the deepest snow, and doesn't appear on rooms, floors or minerals.
+sheet[57] | 276, 96, 24, 24 | A patch of snow, one of 16 picked at random. This row is for the deepest snow, and doesn't appear on rooms, floors or minerals.
+sheet[58] | 306, 96, 24, 24 | A patch of snow, one of 16 picked at random. This row is for the deepest snow, and doesn't appear on rooms, floors or minerals.
+sheet[59] | 336, 96, 24, 24 | A patch of snow, one of 16 picked at random. This row is for the deepest snow, and doesn't appear on rooms, floors or minerals.
+sheet[60] | 366, 96, 24, 24 | A patch of snow, one of 16 picked at random. This row is for the deepest snow, and doesn't appear on rooms, floors or minerals.
+sheet[61] | 396, 96, 24, 24 | A patch of snow, one of 16 picked at random. This row is for the deepest snow, and doesn't appear on rooms, floors or minerals.
+sheet[62] | 426, 96, 24, 24 | A patch of snow, one of 16 picked at random. This row is for the deepest snow, and doesn't appear on rooms, floors or minerals.
+sheet[63] | 456, 96, 24, 24 | A patch of snow, one of 16 picked at random. This row is for the deepest snow, and doesn't appear on rooms, floors or minerals.
+sheet[0] normal | 492, 6, 24, 24 | The normal map for sheet[0].
+sheet[1] normal | 522, 6, 24, 24 | The normal map for sheet[1].
+sheet[2] normal | 552, 6, 24, 24 | The normal map for sheet[2].
+sheet[3] normal | 582, 6, 24, 24 | The normal map for sheet[3].
+sheet[4] normal | 612, 6, 24, 24 | The normal map for sheet[4].
+sheet[5] normal | 642, 6, 24, 24 | The normal map for sheet[5].
+sheet[6] normal | 672, 6, 24, 24 | The normal map for sheet[6].
+sheet[7] normal | 702, 6, 24, 24 | The normal map for sheet[7].
+sheet[8] normal | 732, 6, 24, 24 | The normal map for sheet[8].
+sheet[9] normal | 762, 6, 24, 24 | The normal map for sheet[9].
+sheet[10] normal | 792, 6, 24, 24 | The normal map for sheet[10].
+sheet[11] normal | 822, 6, 24, 24 | The normal map for sheet[11].
+sheet[12] normal | 852, 6, 24, 24 | The normal map for sheet[12].
+sheet[13] normal | 882, 6, 24, 24 | The normal map for sheet[13].
+sheet[14] normal | 912, 6, 24, 24 | The normal map for sheet[14].
+sheet[15] normal | 942, 6, 24, 24 | The normal map for sheet[15].
+sheet[16] normal | 492, 36, 24, 24 | The normal map for sheet[16].
+sheet[17] normal | 522, 36, 24, 24 | The normal map for sheet[17].
+sheet[18] normal | 552, 36, 24, 24 | The normal map for sheet[18].
+sheet[19] normal | 582, 36, 24, 24 | The normal map for sheet[19].
+sheet[20] normal | 612, 36, 24, 24 | The normal map for sheet[20].
+sheet[21] normal | 642, 36, 24, 24 | The normal map for sheet[21].
+sheet[22] normal | 672, 36, 24, 24 | The normal map for sheet[22].
+sheet[23] normal | 702, 36, 24, 24 | The normal map for sheet[23].
+sheet[24] normal | 732, 36, 24, 24 | The normal map for sheet[24].
+sheet[25] normal | 762, 36, 24, 24 | The normal map for sheet[25].
+sheet[26] normal | 792, 36, 24, 24 | The normal map for sheet[26].
+sheet[27] normal | 822, 36, 24, 24 | The normal map for sheet[27].
+sheet[28] normal | 852, 36, 24, 24 | The normal map for sheet[28].
+sheet[29] normal | 882, 36, 24, 24 | The normal map for sheet[29].
+sheet[30] normal | 912, 36, 24, 24 | The normal map for sheet[30].
+sheet[31] normal | 942, 36, 24, 24 | The normal map for sheet[31].
+sheet[32] normal | 492, 66, 24, 24 | The normal map for sheet[32].
+sheet[33] normal | 522, 66, 24, 24 | The normal map for sheet[33].
+sheet[34] normal | 552, 66, 24, 24 | The normal map for sheet[34].
+sheet[35] normal | 582, 66, 24, 24 | The normal map for sheet[35].
+sheet[36] normal | 612, 66, 24, 24 | The normal map for sheet[36].
+sheet[37] normal | 642, 66, 24, 24 | The normal map for sheet[37].
+sheet[38] normal | 672, 66, 24, 24 | The normal map for sheet[38].
+sheet[39] normal | 702, 66, 24, 24 | The normal map for sheet[39].
+sheet[40] normal | 732, 66, 24, 24 | The normal map for sheet[40].
+sheet[41] normal | 762, 66, 24, 24 | The normal map for sheet[41].
+sheet[42] normal | 792, 66, 24, 24 | The normal map for sheet[42].
+sheet[43] normal | 822, 66, 24, 24 | The normal map for sheet[43].
+sheet[44] normal | 852, 66, 24, 24 | The normal map for sheet[44].
+sheet[45] normal | 882, 66, 24, 24 | The normal map for sheet[45].
+sheet[46] normal | 912, 66, 24, 24 | The normal map for sheet[46].
+sheet[47] normal | 942, 66, 24, 24 | The normal map for sheet[47].
+sheet[48] normal | 492, 96, 24, 24 | The normal map for sheet[48].
+sheet[49] normal | 522, 96, 24, 24 | The normal map for sheet[49].
+sheet[50] normal | 552, 96, 24, 24 | The normal map for sheet[50].
+sheet[51] normal | 582, 96, 24, 24 | The normal map for sheet[51].
+sheet[52] normal | 612, 96, 24, 24 | The normal map for sheet[52].
+sheet[53] normal | 642, 96, 24, 24 | The normal map for sheet[53].
+sheet[54] normal | 672, 96, 24, 24 | The normal map for sheet[54].
+sheet[55] normal | 702, 96, 24, 24 | The normal map for sheet[55].
+sheet[56] normal | 732, 96, 24, 24 | The normal map for sheet[56].
+sheet[57] normal | 762, 96, 24, 24 | The normal map for sheet[57].
+sheet[58] normal | 792, 96, 24, 24 | The normal map for sheet[58].
+sheet[59] normal | 822, 96, 24, 24 | The normal map for sheet[59].
+sheet[60] normal | 852, 96, 24, 24 | The normal map for sheet[60].
+sheet[61] normal | 882, 96, 24, 24 | The normal map for sheet[61].
+sheet[62] normal | 912, 96, 24, 24 | The normal map for sheet[62].
+sheet[63] normal | 942, 96, 24, 24 | The normal map for sheet[63].

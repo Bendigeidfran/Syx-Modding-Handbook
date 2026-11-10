@@ -1,0 +1,128 @@
+sheet[0] | 6, 6, 16, 16 | A bush in row 0, one of 16 picked at random. Every bush can use this row. A bush with two or fewer bushes or trees around it uses only this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[1] | 28, 6, 16, 16 | A bush in row 0, one of 16 picked at random. Every bush can use this row. A bush with two or fewer bushes or trees around it uses only this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[2] | 50, 6, 16, 16 | A bush in row 0, one of 16 picked at random. Every bush can use this row. A bush with two or fewer bushes or trees around it uses only this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[3] | 72, 6, 16, 16 | A bush in row 0, one of 16 picked at random. Every bush can use this row. A bush with two or fewer bushes or trees around it uses only this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[4] | 94, 6, 16, 16 | A bush in row 0, one of 16 picked at random. Every bush can use this row. A bush with two or fewer bushes or trees around it uses only this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[5] | 116, 6, 16, 16 | A bush in row 0, one of 16 picked at random. Every bush can use this row. A bush with two or fewer bushes or trees around it uses only this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[6] | 138, 6, 16, 16 | A bush in row 0, one of 16 picked at random. Every bush can use this row. A bush with two or fewer bushes or trees around it uses only this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[7] | 160, 6, 16, 16 | A bush in row 0, one of 16 picked at random. Every bush can use this row. A bush with two or fewer bushes or trees around it uses only this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[8] | 182, 6, 16, 16 | A bush in row 0, one of 16 picked at random. Every bush can use this row. A bush with two or fewer bushes or trees around it uses only this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[9] | 204, 6, 16, 16 | A bush in row 0, one of 16 picked at random. Every bush can use this row. A bush with two or fewer bushes or trees around it uses only this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[10] | 226, 6, 16, 16 | A bush in row 0, one of 16 picked at random. Every bush can use this row. A bush with two or fewer bushes or trees around it uses only this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[11] | 248, 6, 16, 16 | A bush in row 0, one of 16 picked at random. Every bush can use this row. A bush with two or fewer bushes or trees around it uses only this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[12] | 270, 6, 16, 16 | A bush in row 0, one of 16 picked at random. Every bush can use this row. A bush with two or fewer bushes or trees around it uses only this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[13] | 292, 6, 16, 16 | A bush in row 0, one of 16 picked at random. Every bush can use this row. A bush with two or fewer bushes or trees around it uses only this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[14] | 314, 6, 16, 16 | A bush in row 0, one of 16 picked at random. Every bush can use this row. A bush with two or fewer bushes or trees around it uses only this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[15] | 336, 6, 16, 16 | A bush in row 0, one of 16 picked at random. Every bush can use this row. A bush with two or fewer bushes or trees around it uses only this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[16] | 6, 28, 16, 16 | A bush in row 1, one of 16 picked at random. A bush needs at least three bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[17] | 28, 28, 16, 16 | A bush in row 1, one of 16 picked at random. A bush needs at least three bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[18] | 50, 28, 16, 16 | A bush in row 1, one of 16 picked at random. A bush needs at least three bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[19] | 72, 28, 16, 16 | A bush in row 1, one of 16 picked at random. A bush needs at least three bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[20] | 94, 28, 16, 16 | A bush in row 1, one of 16 picked at random. A bush needs at least three bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[21] | 116, 28, 16, 16 | A bush in row 1, one of 16 picked at random. A bush needs at least three bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[22] | 138, 28, 16, 16 | A bush in row 1, one of 16 picked at random. A bush needs at least three bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[23] | 160, 28, 16, 16 | A bush in row 1, one of 16 picked at random. A bush needs at least three bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[24] | 182, 28, 16, 16 | A bush in row 1, one of 16 picked at random. A bush needs at least three bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[25] | 204, 28, 16, 16 | A bush in row 1, one of 16 picked at random. A bush needs at least three bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[26] | 226, 28, 16, 16 | A bush in row 1, one of 16 picked at random. A bush needs at least three bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[27] | 248, 28, 16, 16 | A bush in row 1, one of 16 picked at random. A bush needs at least three bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[28] | 270, 28, 16, 16 | A bush in row 1, one of 16 picked at random. A bush needs at least three bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[29] | 292, 28, 16, 16 | A bush in row 1, one of 16 picked at random. A bush needs at least three bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[30] | 314, 28, 16, 16 | A bush in row 1, one of 16 picked at random. A bush needs at least three bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[31] | 336, 28, 16, 16 | A bush in row 1, one of 16 picked at random. A bush needs at least three bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[32] | 6, 50, 16, 16 | A bush in row 2, one of 16 picked at random. A bush needs at least five bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[33] | 28, 50, 16, 16 | A bush in row 2, one of 16 picked at random. A bush needs at least five bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[34] | 50, 50, 16, 16 | A bush in row 2, one of 16 picked at random. A bush needs at least five bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[35] | 72, 50, 16, 16 | A bush in row 2, one of 16 picked at random. A bush needs at least five bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[36] | 94, 50, 16, 16 | A bush in row 2, one of 16 picked at random. A bush needs at least five bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[37] | 116, 50, 16, 16 | A bush in row 2, one of 16 picked at random. A bush needs at least five bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[38] | 138, 50, 16, 16 | A bush in row 2, one of 16 picked at random. A bush needs at least five bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[39] | 160, 50, 16, 16 | A bush in row 2, one of 16 picked at random. A bush needs at least five bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[40] | 182, 50, 16, 16 | A bush in row 2, one of 16 picked at random. A bush needs at least five bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[41] | 204, 50, 16, 16 | A bush in row 2, one of 16 picked at random. A bush needs at least five bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[42] | 226, 50, 16, 16 | A bush in row 2, one of 16 picked at random. A bush needs at least five bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[43] | 248, 50, 16, 16 | A bush in row 2, one of 16 picked at random. A bush needs at least five bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[44] | 270, 50, 16, 16 | A bush in row 2, one of 16 picked at random. A bush needs at least five bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[45] | 292, 50, 16, 16 | A bush in row 2, one of 16 picked at random. A bush needs at least five bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[46] | 314, 50, 16, 16 | A bush in row 2, one of 16 picked at random. A bush needs at least five bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[47] | 336, 50, 16, 16 | A bush in row 2, one of 16 picked at random. A bush needs at least five bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[48] | 6, 72, 16, 16 | A bush in row 3, one of 16 picked at random. A bush needs at least seven bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[49] | 28, 72, 16, 16 | A bush in row 3, one of 16 picked at random. A bush needs at least seven bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[50] | 50, 72, 16, 16 | A bush in row 3, one of 16 picked at random. A bush needs at least seven bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[51] | 72, 72, 16, 16 | A bush in row 3, one of 16 picked at random. A bush needs at least seven bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[52] | 94, 72, 16, 16 | A bush in row 3, one of 16 picked at random. A bush needs at least seven bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[53] | 116, 72, 16, 16 | A bush in row 3, one of 16 picked at random. A bush needs at least seven bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[54] | 138, 72, 16, 16 | A bush in row 3, one of 16 picked at random. A bush needs at least seven bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[55] | 160, 72, 16, 16 | A bush in row 3, one of 16 picked at random. A bush needs at least seven bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[56] | 182, 72, 16, 16 | A bush in row 3, one of 16 picked at random. A bush needs at least seven bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[57] | 204, 72, 16, 16 | A bush in row 3, one of 16 picked at random. A bush needs at least seven bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[58] | 226, 72, 16, 16 | A bush in row 3, one of 16 picked at random. A bush needs at least seven bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[59] | 248, 72, 16, 16 | A bush in row 3, one of 16 picked at random. A bush needs at least seven bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[60] | 270, 72, 16, 16 | A bush in row 3, one of 16 picked at random. A bush needs at least seven bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[61] | 292, 72, 16, 16 | A bush in row 3, one of 16 picked at random. A bush needs at least seven bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[62] | 314, 72, 16, 16 | A bush in row 3, one of 16 picked at random. A bush needs at least seven bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[63] | 336, 72, 16, 16 | A bush in row 3, one of 16 picked at random. A bush needs at least seven bushes or trees around it to use this row. Wetter weather favours higher rows, up to that limit. A bush drawn under a medium or large tree can use any row.
+sheet[0] normal | 364, 6, 16, 16 | The normal map for sheet[0].
+sheet[1] normal | 386, 6, 16, 16 | The normal map for sheet[1].
+sheet[2] normal | 408, 6, 16, 16 | The normal map for sheet[2].
+sheet[3] normal | 430, 6, 16, 16 | The normal map for sheet[3].
+sheet[4] normal | 452, 6, 16, 16 | The normal map for sheet[4].
+sheet[5] normal | 474, 6, 16, 16 | The normal map for sheet[5].
+sheet[6] normal | 496, 6, 16, 16 | The normal map for sheet[6].
+sheet[7] normal | 518, 6, 16, 16 | The normal map for sheet[7].
+sheet[8] normal | 540, 6, 16, 16 | The normal map for sheet[8].
+sheet[9] normal | 562, 6, 16, 16 | The normal map for sheet[9].
+sheet[10] normal | 584, 6, 16, 16 | The normal map for sheet[10].
+sheet[11] normal | 606, 6, 16, 16 | The normal map for sheet[11].
+sheet[12] normal | 628, 6, 16, 16 | The normal map for sheet[12].
+sheet[13] normal | 650, 6, 16, 16 | The normal map for sheet[13].
+sheet[14] normal | 672, 6, 16, 16 | The normal map for sheet[14].
+sheet[15] normal | 694, 6, 16, 16 | The normal map for sheet[15].
+sheet[16] normal | 364, 28, 16, 16 | The normal map for sheet[16].
+sheet[17] normal | 386, 28, 16, 16 | The normal map for sheet[17].
+sheet[18] normal | 408, 28, 16, 16 | The normal map for sheet[18].
+sheet[19] normal | 430, 28, 16, 16 | The normal map for sheet[19].
+sheet[20] normal | 452, 28, 16, 16 | The normal map for sheet[20].
+sheet[21] normal | 474, 28, 16, 16 | The normal map for sheet[21].
+sheet[22] normal | 496, 28, 16, 16 | The normal map for sheet[22].
+sheet[23] normal | 518, 28, 16, 16 | The normal map for sheet[23].
+sheet[24] normal | 540, 28, 16, 16 | The normal map for sheet[24].
+sheet[25] normal | 562, 28, 16, 16 | The normal map for sheet[25].
+sheet[26] normal | 584, 28, 16, 16 | The normal map for sheet[26].
+sheet[27] normal | 606, 28, 16, 16 | The normal map for sheet[27].
+sheet[28] normal | 628, 28, 16, 16 | The normal map for sheet[28].
+sheet[29] normal | 650, 28, 16, 16 | The normal map for sheet[29].
+sheet[30] normal | 672, 28, 16, 16 | The normal map for sheet[30].
+sheet[31] normal | 694, 28, 16, 16 | The normal map for sheet[31].
+sheet[32] normal | 364, 50, 16, 16 | The normal map for sheet[32].
+sheet[33] normal | 386, 50, 16, 16 | The normal map for sheet[33].
+sheet[34] normal | 408, 50, 16, 16 | The normal map for sheet[34].
+sheet[35] normal | 430, 50, 16, 16 | The normal map for sheet[35].
+sheet[36] normal | 452, 50, 16, 16 | The normal map for sheet[36].
+sheet[37] normal | 474, 50, 16, 16 | The normal map for sheet[37].
+sheet[38] normal | 496, 50, 16, 16 | The normal map for sheet[38].
+sheet[39] normal | 518, 50, 16, 16 | The normal map for sheet[39].
+sheet[40] normal | 540, 50, 16, 16 | The normal map for sheet[40].
+sheet[41] normal | 562, 50, 16, 16 | The normal map for sheet[41].
+sheet[42] normal | 584, 50, 16, 16 | The normal map for sheet[42].
+sheet[43] normal | 606, 50, 16, 16 | The normal map for sheet[43].
+sheet[44] normal | 628, 50, 16, 16 | The normal map for sheet[44].
+sheet[45] normal | 650, 50, 16, 16 | The normal map for sheet[45].
+sheet[46] normal | 672, 50, 16, 16 | The normal map for sheet[46].
+sheet[47] normal | 694, 50, 16, 16 | The normal map for sheet[47].
+sheet[48] normal | 364, 72, 16, 16 | The normal map for sheet[48].
+sheet[49] normal | 386, 72, 16, 16 | The normal map for sheet[49].
+sheet[50] normal | 408, 72, 16, 16 | The normal map for sheet[50].
+sheet[51] normal | 430, 72, 16, 16 | The normal map for sheet[51].
+sheet[52] normal | 452, 72, 16, 16 | The normal map for sheet[52].
+sheet[53] normal | 474, 72, 16, 16 | The normal map for sheet[53].
+sheet[54] normal | 496, 72, 16, 16 | The normal map for sheet[54].
+sheet[55] normal | 518, 72, 16, 16 | The normal map for sheet[55].
+sheet[56] normal | 540, 72, 16, 16 | The normal map for sheet[56].
+sheet[57] normal | 562, 72, 16, 16 | The normal map for sheet[57].
+sheet[58] normal | 584, 72, 16, 16 | The normal map for sheet[58].
+sheet[59] normal | 606, 72, 16, 16 | The normal map for sheet[59].
+sheet[60] normal | 628, 72, 16, 16 | The normal map for sheet[60].
+sheet[61] normal | 650, 72, 16, 16 | The normal map for sheet[61].
+sheet[62] normal | 672, 72, 16, 16 | The normal map for sheet[62].
+sheet[63] normal | 694, 72, 16, 16 | The normal map for sheet[63].

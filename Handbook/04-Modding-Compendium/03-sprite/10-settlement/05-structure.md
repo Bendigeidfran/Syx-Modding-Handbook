@@ -97,7 +97,7 @@ A broken wall uses these same corners, chosen the same way.
 
 Whole walls block movement, and broken walls don't.
 
-Where a wall's north or west side joins another wall-like tile, such as the wall of a different structure, the game also draws a seam from `WallMerge.png` in `sprite/settlement/map`.
+Where a wall's north or west side joins another wall-like tile, such as the wall of a different structure, the game also draws a seam from [`WallMerge.png`](03-map/13-wallmerge.md) in `sprite/settlement/map`.
 
 The wall's icon is made from four pieces of the first block: south and east, south and west, north and east, and north and west. Structures that share an image also share this icon, and the two below.
 

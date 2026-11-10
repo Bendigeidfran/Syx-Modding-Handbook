@@ -1,0 +1,8 @@
+wall_merge[0] | 6, 6, 16, 16 | A seam on a tile's north side. The tile's west side and north-west corner decide whether the game draws this or wall_merge[2]. Turned 270 degrees, it's a seam on a west side, chosen the same way by the south side and south-west corner.
+wall_merge[1] | 22, 6, 16, 16 | A seam on a tile's north side. The tile's east side and north-east corner decide whether the game draws this or wall_merge[3]. Turned 270 degrees, it's a seam on a west side, chosen the same way by the north side and north-west corner.
+wall_merge[2] | 38, 6, 16, 16 | A seam on a tile's north side. The tile's west side and north-west corner decide whether the game draws this or wall_merge[0]. Turned 270 degrees, it's a seam on a west side, chosen the same way by the south side and south-west corner.
+wall_merge[3] | 54, 6, 16, 16 | A seam on a tile's north side. The tile's east side and north-east corner decide whether the game draws this or wall_merge[1]. Turned 270 degrees, it's a seam on a west side, chosen the same way by the north side and north-west corner.
+wall_merge[0] normal | 82, 6, 16, 16 | The normal map for wall_merge[0].
+wall_merge[1] normal | 98, 6, 16, 16 | The normal map for wall_merge[1].
+wall_merge[2] normal | 114, 6, 16, 16 | The normal map for wall_merge[2].
+wall_merge[3] normal | 130, 6, 16, 16 | The normal map for wall_merge[3].

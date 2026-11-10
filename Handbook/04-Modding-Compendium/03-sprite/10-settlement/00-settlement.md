@@ -12,7 +12,7 @@ A sheet is loaded when a tag names it, or when the game asks for that file name.
 
 - [sprite/settlement/floor](01-floor.md): `_FloorExtra.png`, the sheet drawn with floors and roads. It holds the shapes their texture is drawn through, their edges, the marks of wear, and the icon.
 - [sprite/settlement/fortification](02-fortification.md): the sheets named by [`SPRITE`](../../01-init/12-settlement/04-fortification.md#sprite) in a fortification file, and `_Stairs.png`, which the game loads by name.
-- sprite/settlement/map: terrain the game loads by file name, such as grass, water, trees and mountains.
+- [sprite/settlement/map](03-map/00-map.md): terrain the game loads by file name, such as grass, water, trees and mountains.
 - [sprite/settlement/projectile](04-projectile.md): the sheet a projectile names with [`SPRITE_FILE`](../../01-init/03-config/04-DefaultProjectile.md#sprite_file). Vanilla's file is `_CATAPULT.png`.
 - [sprite/settlement/structure](05-structure.md): the sheets named by [`SPRITE`](../../01-init/12-settlement/05-structure.md#sprite) in a structure file.
 - sprite/settlement/thing: carts, caravans, the dinghy, gore, fire and other objects the game loads by file name.

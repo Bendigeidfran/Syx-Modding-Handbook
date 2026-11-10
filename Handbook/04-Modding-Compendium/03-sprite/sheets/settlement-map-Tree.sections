@@ -1,0 +1,96 @@
+ssmall[0] | 6, 6, 16, 16 | A small tree, one tile in size. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+ssmall[1] | 28, 6, 16, 16 | A small tree, one tile in size. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+ssmall[2] | 50, 6, 16, 16 | A small tree, one tile in size. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+ssmall[3] | 72, 6, 16, 16 | A small tree, one tile in size. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+ssmall[4] | 94, 6, 16, 16 | A small tree, one tile in size. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+ssmall[5] | 116, 6, 16, 16 | A small tree, one tile in size. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+ssmall[6] | 138, 6, 16, 16 | A small tree, one tile in size. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+ssmall[7] | 160, 6, 16, 16 | A small tree, one tile in size. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+ssmall[8] | 182, 6, 16, 16 | A small tree, one tile in size. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+ssmall[9] | 204, 6, 16, 16 | A small tree, one tile in size. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+ssmall[10] | 226, 6, 16, 16 | A small tree, one tile in size. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+ssmall[11] | 248, 6, 16, 16 | A small tree, one tile in size. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+ssmall[12] | 270, 6, 16, 16 | A small tree, one tile in size. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+ssmall[13] | 292, 6, 16, 16 | A small tree, one tile in size. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+ssmall[14] | 314, 6, 16, 16 | A small tree, one tile in size. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+ssmall[15] | 336, 6, 16, 16 | A small tree, one tile in size. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+smedium[0] | 6, 34, 32, 32 | A medium tree, 2 by 2 tiles. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+smedium[8] | 50, 34, 32, 32 | A medium tree, 2 by 2 tiles. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+smedium[16] | 94, 34, 32, 32 | A medium tree, 2 by 2 tiles. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+smedium[24] | 138, 34, 32, 32 | A medium tree, 2 by 2 tiles. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+smedium[32] | 182, 34, 32, 32 | A medium tree, 2 by 2 tiles. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+smedium[40] | 226, 34, 32, 32 | A medium tree, 2 by 2 tiles. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+smedium[48] | 270, 34, 32, 32 | A medium tree, 2 by 2 tiles. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+smedium[56] | 314, 34, 32, 32 | A medium tree, 2 by 2 tiles. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+smedium[64] | 6, 78, 32, 32 | A medium tree, 2 by 2 tiles. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+smedium[72] | 50, 78, 32, 32 | A medium tree, 2 by 2 tiles. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+smedium[80] | 94, 78, 32, 32 | A medium tree, 2 by 2 tiles. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+smedium[88] | 138, 78, 32, 32 | A medium tree, 2 by 2 tiles. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+smedium[96] | 182, 78, 32, 32 | A medium tree, 2 by 2 tiles. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+smedium[104] | 226, 78, 32, 32 | A medium tree, 2 by 2 tiles. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+smedium[112] | 270, 78, 32, 32 | A medium tree, 2 by 2 tiles. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+smedium[120] | 314, 78, 32, 32 | A medium tree, 2 by 2 tiles. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+large[0] | 6, 122, 48, 48 | A large tree, 3 by 3 tiles. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+large[18] | 66, 122, 48, 48 | A large tree, 3 by 3 tiles. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+large[36] | 126, 122, 48, 48 | A large tree, 3 by 3 tiles. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+large[54] | 186, 122, 48, 48 | A large tree, 3 by 3 tiles. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+large[72] | 246, 122, 48, 48 | A large tree, 3 by 3 tiles. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+large[90] | 306, 122, 48, 48 | A large tree, 3 by 3 tiles. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+large[108] | 6, 182, 48, 48 | A large tree, 3 by 3 tiles. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+large[126] | 66, 182, 48, 48 | A large tree, 3 by 3 tiles. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+large[144] | 126, 182, 48, 48 | A large tree, 3 by 3 tiles. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+large[162] | 186, 182, 48, 48 | A large tree, 3 by 3 tiles. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+large[180] | 246, 182, 48, 48 | A large tree, 3 by 3 tiles. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+large[198] | 306, 182, 48, 48 | A large tree, 3 by 3 tiles. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+large[216] | 6, 242, 48, 48 | A large tree, 3 by 3 tiles. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+large[234] | 66, 242, 48, 48 | A large tree, 3 by 3 tiles. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+large[252] | 126, 242, 48, 48 | A large tree, 3 by 3 tiles. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+large[270] | 186, 242, 48, 48 | A large tree, 3 by 3 tiles. The game also uses it turned 90 degrees, and picks one of the 32 versions at random.
+ssmall[0] normal | 366, 6, 16, 16 | The normal map for ssmall[0].
+ssmall[1] normal | 388, 6, 16, 16 | The normal map for ssmall[1].
+ssmall[2] normal | 410, 6, 16, 16 | The normal map for ssmall[2].
+ssmall[3] normal | 432, 6, 16, 16 | The normal map for ssmall[3].
+ssmall[4] normal | 454, 6, 16, 16 | The normal map for ssmall[4].
+ssmall[5] normal | 476, 6, 16, 16 | The normal map for ssmall[5].
+ssmall[6] normal | 498, 6, 16, 16 | The normal map for ssmall[6].
+ssmall[7] normal | 520, 6, 16, 16 | The normal map for ssmall[7].
+ssmall[8] normal | 542, 6, 16, 16 | The normal map for ssmall[8].
+ssmall[9] normal | 564, 6, 16, 16 | The normal map for ssmall[9].
+ssmall[10] normal | 586, 6, 16, 16 | The normal map for ssmall[10].
+ssmall[11] normal | 608, 6, 16, 16 | The normal map for ssmall[11].
+ssmall[12] normal | 630, 6, 16, 16 | The normal map for ssmall[12].
+ssmall[13] normal | 652, 6, 16, 16 | The normal map for ssmall[13].
+ssmall[14] normal | 674, 6, 16, 16 | The normal map for ssmall[14].
+ssmall[15] normal | 696, 6, 16, 16 | The normal map for ssmall[15].
+smedium[0] normal | 366, 34, 32, 32 | The normal map for smedium[0].
+smedium[8] normal | 410, 34, 32, 32 | The normal map for smedium[8].
+smedium[16] normal | 454, 34, 32, 32 | The normal map for smedium[16].
+smedium[24] normal | 498, 34, 32, 32 | The normal map for smedium[24].
+smedium[32] normal | 542, 34, 32, 32 | The normal map for smedium[32].
+smedium[40] normal | 586, 34, 32, 32 | The normal map for smedium[40].
+smedium[48] normal | 630, 34, 32, 32 | The normal map for smedium[48].
+smedium[56] normal | 674, 34, 32, 32 | The normal map for smedium[56].
+smedium[64] normal | 366, 78, 32, 32 | The normal map for smedium[64].
+smedium[72] normal | 410, 78, 32, 32 | The normal map for smedium[72].
+smedium[80] normal | 454, 78, 32, 32 | The normal map for smedium[80].
+smedium[88] normal | 498, 78, 32, 32 | The normal map for smedium[88].
+smedium[96] normal | 542, 78, 32, 32 | The normal map for smedium[96].
+smedium[104] normal | 586, 78, 32, 32 | The normal map for smedium[104].
+smedium[112] normal | 630, 78, 32, 32 | The normal map for smedium[112].
+smedium[120] normal | 674, 78, 32, 32 | The normal map for smedium[120].
+large[0] normal | 366, 122, 48, 48 | The normal map for large[0].
+large[18] normal | 426, 122, 48, 48 | The normal map for large[18].
+large[36] normal | 486, 122, 48, 48 | The normal map for large[36].
+large[54] normal | 546, 122, 48, 48 | The normal map for large[54].
+large[72] normal | 606, 122, 48, 48 | The normal map for large[72].
+large[90] normal | 666, 122, 48, 48 | The normal map for large[90].
+large[108] normal | 366, 182, 48, 48 | The normal map for large[108].
+large[126] normal | 426, 182, 48, 48 | The normal map for large[126].
+large[144] normal | 486, 182, 48, 48 | The normal map for large[144].
+large[162] normal | 546, 182, 48, 48 | The normal map for large[162].
+large[180] normal | 606, 182, 48, 48 | The normal map for large[180].
+large[198] normal | 666, 182, 48, 48 | The normal map for large[198].
+large[216] normal | 366, 242, 48, 48 | The normal map for large[216].
+large[234] normal | 426, 242, 48, 48 | The normal map for large[234].
+large[252] normal | 486, 242, 48, 48 | The normal map for large[252].
+large[270] normal | 546, 242, 48, 48 | The normal map for large[270].

@@ -1,0 +1,292 @@
+fertile | 6, 6, 24, 24 | The colour taller grass moves towards. From level 7 up, grass blends away from infertile towards this, getting 90 percent of the way at level 15. The game reads only this square's top-left pixel.
+infertile | 30, 6, 24, 24 | The colour of short grass, at levels 1 to 6. Taller grass blends away from it towards fertile. The game reads only this square's top-left pixel.
+dry | 54, 6, 24, 24 | The colour grass moves towards when the weather is dry. The game reads only this square's top-left pixel.
+winter | 78, 6, 24, 24 | The colour grass moves towards in winter, up to 75 percent of the way. The game reads only this square's top-left pixel.
+sheetMask[0] | 6, 42, 24, 24 | Loaded, but never drawn.
+sheetMask[1] | 30, 42, 24, 24 | Loaded, but never drawn.
+sheetMask[2] | 54, 42, 24, 24 | Loaded, but never drawn.
+sheetMask[3] | 78, 42, 24, 24 | Loaded, but never drawn.
+sheetMask[4] | 6, 66, 24, 24 | Loaded, but never drawn.
+sheetMask[5] | 30, 66, 24, 24 | Loaded, but never drawn.
+sheetMask[6] | 54, 66, 24, 24 | Loaded, but never drawn.
+sheetMask[7] | 78, 66, 24, 24 | Loaded, but never drawn.
+sheetMask[8] | 6, 90, 24, 24 | Loaded, but never drawn.
+sheetMask[9] | 30, 90, 24, 24 | Loaded, but never drawn.
+sheetMask[10] | 54, 90, 24, 24 | Loaded, but never drawn.
+sheetMask[11] | 78, 90, 24, 24 | Loaded, but never drawn.
+sheetMask[12] | 6, 114, 24, 24 | Loaded, but never drawn.
+sheetMask[13] | 30, 114, 24, 24 | Loaded, but never drawn.
+sheetMask[14] | 54, 114, 24, 24 | Loaded, but never drawn.
+sheetMask[15] | 78, 114, 24, 24 | Loaded, but never drawn.
+sheet[0] | 6, 150, 24, 24 | A grass tuft in row 0, one of 16 picked at random. Row 0 is for grass levels 1 and 2, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[1] | 36, 150, 24, 24 | A grass tuft in row 0, one of 16 picked at random. Row 0 is for grass levels 1 and 2, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[2] | 66, 150, 24, 24 | A grass tuft in row 0, one of 16 picked at random. Row 0 is for grass levels 1 and 2, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[3] | 96, 150, 24, 24 | A grass tuft in row 0, one of 16 picked at random. Row 0 is for grass levels 1 and 2, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[4] | 126, 150, 24, 24 | A grass tuft in row 0, one of 16 picked at random. Row 0 is for grass levels 1 and 2, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[5] | 156, 150, 24, 24 | A grass tuft in row 0, one of 16 picked at random. Row 0 is for grass levels 1 and 2, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[6] | 186, 150, 24, 24 | A grass tuft in row 0, one of 16 picked at random. Row 0 is for grass levels 1 and 2, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[7] | 216, 150, 24, 24 | A grass tuft in row 0, one of 16 picked at random. Row 0 is for grass levels 1 and 2, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[8] | 246, 150, 24, 24 | A grass tuft in row 0, one of 16 picked at random. Row 0 is for grass levels 1 and 2, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[9] | 276, 150, 24, 24 | A grass tuft in row 0, one of 16 picked at random. Row 0 is for grass levels 1 and 2, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[10] | 306, 150, 24, 24 | A grass tuft in row 0, one of 16 picked at random. Row 0 is for grass levels 1 and 2, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[11] | 336, 150, 24, 24 | A grass tuft in row 0, one of 16 picked at random. Row 0 is for grass levels 1 and 2, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[12] | 366, 150, 24, 24 | A grass tuft in row 0, one of 16 picked at random. Row 0 is for grass levels 1 and 2, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[13] | 396, 150, 24, 24 | A grass tuft in row 0, one of 16 picked at random. Row 0 is for grass levels 1 and 2, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[14] | 426, 150, 24, 24 | A grass tuft in row 0, one of 16 picked at random. Row 0 is for grass levels 1 and 2, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[15] | 456, 150, 24, 24 | A grass tuft in row 0, one of 16 picked at random. Row 0 is for grass levels 1 and 2, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[16] | 6, 180, 24, 24 | A grass tuft in row 1, one of 16 picked at random. Row 1 is for grass levels 3 and 4, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[17] | 36, 180, 24, 24 | A grass tuft in row 1, one of 16 picked at random. Row 1 is for grass levels 3 and 4, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[18] | 66, 180, 24, 24 | A grass tuft in row 1, one of 16 picked at random. Row 1 is for grass levels 3 and 4, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[19] | 96, 180, 24, 24 | A grass tuft in row 1, one of 16 picked at random. Row 1 is for grass levels 3 and 4, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[20] | 126, 180, 24, 24 | A grass tuft in row 1, one of 16 picked at random. Row 1 is for grass levels 3 and 4, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[21] | 156, 180, 24, 24 | A grass tuft in row 1, one of 16 picked at random. Row 1 is for grass levels 3 and 4, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[22] | 186, 180, 24, 24 | A grass tuft in row 1, one of 16 picked at random. Row 1 is for grass levels 3 and 4, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[23] | 216, 180, 24, 24 | A grass tuft in row 1, one of 16 picked at random. Row 1 is for grass levels 3 and 4, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[24] | 246, 180, 24, 24 | A grass tuft in row 1, one of 16 picked at random. Row 1 is for grass levels 3 and 4, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[25] | 276, 180, 24, 24 | A grass tuft in row 1, one of 16 picked at random. Row 1 is for grass levels 3 and 4, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[26] | 306, 180, 24, 24 | A grass tuft in row 1, one of 16 picked at random. Row 1 is for grass levels 3 and 4, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[27] | 336, 180, 24, 24 | A grass tuft in row 1, one of 16 picked at random. Row 1 is for grass levels 3 and 4, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[28] | 366, 180, 24, 24 | A grass tuft in row 1, one of 16 picked at random. Row 1 is for grass levels 3 and 4, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[29] | 396, 180, 24, 24 | A grass tuft in row 1, one of 16 picked at random. Row 1 is for grass levels 3 and 4, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[30] | 426, 180, 24, 24 | A grass tuft in row 1, one of 16 picked at random. Row 1 is for grass levels 3 and 4, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[31] | 456, 180, 24, 24 | A grass tuft in row 1, one of 16 picked at random. Row 1 is for grass levels 3 and 4, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[32] | 6, 210, 24, 24 | A grass tuft in row 2, one of 16 picked at random. Row 2 is for grass levels 5 and 6, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[33] | 36, 210, 24, 24 | A grass tuft in row 2, one of 16 picked at random. Row 2 is for grass levels 5 and 6, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[34] | 66, 210, 24, 24 | A grass tuft in row 2, one of 16 picked at random. Row 2 is for grass levels 5 and 6, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[35] | 96, 210, 24, 24 | A grass tuft in row 2, one of 16 picked at random. Row 2 is for grass levels 5 and 6, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[36] | 126, 210, 24, 24 | A grass tuft in row 2, one of 16 picked at random. Row 2 is for grass levels 5 and 6, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[37] | 156, 210, 24, 24 | A grass tuft in row 2, one of 16 picked at random. Row 2 is for grass levels 5 and 6, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[38] | 186, 210, 24, 24 | A grass tuft in row 2, one of 16 picked at random. Row 2 is for grass levels 5 and 6, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[39] | 216, 210, 24, 24 | A grass tuft in row 2, one of 16 picked at random. Row 2 is for grass levels 5 and 6, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[40] | 246, 210, 24, 24 | A grass tuft in row 2, one of 16 picked at random. Row 2 is for grass levels 5 and 6, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[41] | 276, 210, 24, 24 | A grass tuft in row 2, one of 16 picked at random. Row 2 is for grass levels 5 and 6, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[42] | 306, 210, 24, 24 | A grass tuft in row 2, one of 16 picked at random. Row 2 is for grass levels 5 and 6, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[43] | 336, 210, 24, 24 | A grass tuft in row 2, one of 16 picked at random. Row 2 is for grass levels 5 and 6, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[44] | 366, 210, 24, 24 | A grass tuft in row 2, one of 16 picked at random. Row 2 is for grass levels 5 and 6, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[45] | 396, 210, 24, 24 | A grass tuft in row 2, one of 16 picked at random. Row 2 is for grass levels 5 and 6, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[46] | 426, 210, 24, 24 | A grass tuft in row 2, one of 16 picked at random. Row 2 is for grass levels 5 and 6, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[47] | 456, 210, 24, 24 | A grass tuft in row 2, one of 16 picked at random. Row 2 is for grass levels 5 and 6, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[48] | 6, 240, 24, 24 | A grass tuft in row 3, one of 16 picked at random. Row 3 is for grass levels 7 and 8, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[49] | 36, 240, 24, 24 | A grass tuft in row 3, one of 16 picked at random. Row 3 is for grass levels 7 and 8, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[50] | 66, 240, 24, 24 | A grass tuft in row 3, one of 16 picked at random. Row 3 is for grass levels 7 and 8, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[51] | 96, 240, 24, 24 | A grass tuft in row 3, one of 16 picked at random. Row 3 is for grass levels 7 and 8, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[52] | 126, 240, 24, 24 | A grass tuft in row 3, one of 16 picked at random. Row 3 is for grass levels 7 and 8, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[53] | 156, 240, 24, 24 | A grass tuft in row 3, one of 16 picked at random. Row 3 is for grass levels 7 and 8, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[54] | 186, 240, 24, 24 | A grass tuft in row 3, one of 16 picked at random. Row 3 is for grass levels 7 and 8, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[55] | 216, 240, 24, 24 | A grass tuft in row 3, one of 16 picked at random. Row 3 is for grass levels 7 and 8, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[56] | 246, 240, 24, 24 | A grass tuft in row 3, one of 16 picked at random. Row 3 is for grass levels 7 and 8, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[57] | 276, 240, 24, 24 | A grass tuft in row 3, one of 16 picked at random. Row 3 is for grass levels 7 and 8, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[58] | 306, 240, 24, 24 | A grass tuft in row 3, one of 16 picked at random. Row 3 is for grass levels 7 and 8, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[59] | 336, 240, 24, 24 | A grass tuft in row 3, one of 16 picked at random. Row 3 is for grass levels 7 and 8, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[60] | 366, 240, 24, 24 | A grass tuft in row 3, one of 16 picked at random. Row 3 is for grass levels 7 and 8, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[61] | 396, 240, 24, 24 | A grass tuft in row 3, one of 16 picked at random. Row 3 is for grass levels 7 and 8, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[62] | 426, 240, 24, 24 | A grass tuft in row 3, one of 16 picked at random. Row 3 is for grass levels 7 and 8, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[63] | 456, 240, 24, 24 | A grass tuft in row 3, one of 16 picked at random. Row 3 is for grass levels 7 and 8, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[64] | 6, 270, 24, 24 | A grass tuft in row 4, one of 16 picked at random. Row 4 is for grass levels 9 and 10, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[65] | 36, 270, 24, 24 | A grass tuft in row 4, one of 16 picked at random. Row 4 is for grass levels 9 and 10, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[66] | 66, 270, 24, 24 | A grass tuft in row 4, one of 16 picked at random. Row 4 is for grass levels 9 and 10, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[67] | 96, 270, 24, 24 | A grass tuft in row 4, one of 16 picked at random. Row 4 is for grass levels 9 and 10, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[68] | 126, 270, 24, 24 | A grass tuft in row 4, one of 16 picked at random. Row 4 is for grass levels 9 and 10, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[69] | 156, 270, 24, 24 | A grass tuft in row 4, one of 16 picked at random. Row 4 is for grass levels 9 and 10, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[70] | 186, 270, 24, 24 | A grass tuft in row 4, one of 16 picked at random. Row 4 is for grass levels 9 and 10, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[71] | 216, 270, 24, 24 | A grass tuft in row 4, one of 16 picked at random. Row 4 is for grass levels 9 and 10, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[72] | 246, 270, 24, 24 | A grass tuft in row 4, one of 16 picked at random. Row 4 is for grass levels 9 and 10, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[73] | 276, 270, 24, 24 | A grass tuft in row 4, one of 16 picked at random. Row 4 is for grass levels 9 and 10, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[74] | 306, 270, 24, 24 | A grass tuft in row 4, one of 16 picked at random. Row 4 is for grass levels 9 and 10, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[75] | 336, 270, 24, 24 | A grass tuft in row 4, one of 16 picked at random. Row 4 is for grass levels 9 and 10, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[76] | 366, 270, 24, 24 | A grass tuft in row 4, one of 16 picked at random. Row 4 is for grass levels 9 and 10, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[77] | 396, 270, 24, 24 | A grass tuft in row 4, one of 16 picked at random. Row 4 is for grass levels 9 and 10, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[78] | 426, 270, 24, 24 | A grass tuft in row 4, one of 16 picked at random. Row 4 is for grass levels 9 and 10, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[79] | 456, 270, 24, 24 | A grass tuft in row 4, one of 16 picked at random. Row 4 is for grass levels 9 and 10, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[80] | 6, 300, 24, 24 | A grass tuft in row 5, one of 16 picked at random. Row 5 is for grass levels 11 and 12, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[81] | 36, 300, 24, 24 | A grass tuft in row 5, one of 16 picked at random. Row 5 is for grass levels 11 and 12, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[82] | 66, 300, 24, 24 | A grass tuft in row 5, one of 16 picked at random. Row 5 is for grass levels 11 and 12, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[83] | 96, 300, 24, 24 | A grass tuft in row 5, one of 16 picked at random. Row 5 is for grass levels 11 and 12, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[84] | 126, 300, 24, 24 | A grass tuft in row 5, one of 16 picked at random. Row 5 is for grass levels 11 and 12, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[85] | 156, 300, 24, 24 | A grass tuft in row 5, one of 16 picked at random. Row 5 is for grass levels 11 and 12, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[86] | 186, 300, 24, 24 | A grass tuft in row 5, one of 16 picked at random. Row 5 is for grass levels 11 and 12, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[87] | 216, 300, 24, 24 | A grass tuft in row 5, one of 16 picked at random. Row 5 is for grass levels 11 and 12, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[88] | 246, 300, 24, 24 | A grass tuft in row 5, one of 16 picked at random. Row 5 is for grass levels 11 and 12, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[89] | 276, 300, 24, 24 | A grass tuft in row 5, one of 16 picked at random. Row 5 is for grass levels 11 and 12, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[90] | 306, 300, 24, 24 | A grass tuft in row 5, one of 16 picked at random. Row 5 is for grass levels 11 and 12, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[91] | 336, 300, 24, 24 | A grass tuft in row 5, one of 16 picked at random. Row 5 is for grass levels 11 and 12, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[92] | 366, 300, 24, 24 | A grass tuft in row 5, one of 16 picked at random. Row 5 is for grass levels 11 and 12, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[93] | 396, 300, 24, 24 | A grass tuft in row 5, one of 16 picked at random. Row 5 is for grass levels 11 and 12, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[94] | 426, 300, 24, 24 | A grass tuft in row 5, one of 16 picked at random. Row 5 is for grass levels 11 and 12, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[95] | 456, 300, 24, 24 | A grass tuft in row 5, one of 16 picked at random. Row 5 is for grass levels 11 and 12, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[96] | 6, 330, 24, 24 | A grass tuft in row 6, one of 16 picked at random. Row 6 is for grass levels 13, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[97] | 36, 330, 24, 24 | A grass tuft in row 6, one of 16 picked at random. Row 6 is for grass levels 13, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[98] | 66, 330, 24, 24 | A grass tuft in row 6, one of 16 picked at random. Row 6 is for grass levels 13, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[99] | 96, 330, 24, 24 | A grass tuft in row 6, one of 16 picked at random. Row 6 is for grass levels 13, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[100] | 126, 330, 24, 24 | A grass tuft in row 6, one of 16 picked at random. Row 6 is for grass levels 13, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[101] | 156, 330, 24, 24 | A grass tuft in row 6, one of 16 picked at random. Row 6 is for grass levels 13, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[102] | 186, 330, 24, 24 | A grass tuft in row 6, one of 16 picked at random. Row 6 is for grass levels 13, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[103] | 216, 330, 24, 24 | A grass tuft in row 6, one of 16 picked at random. Row 6 is for grass levels 13, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[104] | 246, 330, 24, 24 | A grass tuft in row 6, one of 16 picked at random. Row 6 is for grass levels 13, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[105] | 276, 330, 24, 24 | A grass tuft in row 6, one of 16 picked at random. Row 6 is for grass levels 13, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[106] | 306, 330, 24, 24 | A grass tuft in row 6, one of 16 picked at random. Row 6 is for grass levels 13, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[107] | 336, 330, 24, 24 | A grass tuft in row 6, one of 16 picked at random. Row 6 is for grass levels 13, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[108] | 366, 330, 24, 24 | A grass tuft in row 6, one of 16 picked at random. Row 6 is for grass levels 13, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[109] | 396, 330, 24, 24 | A grass tuft in row 6, one of 16 picked at random. Row 6 is for grass levels 13, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[110] | 426, 330, 24, 24 | A grass tuft in row 6, one of 16 picked at random. Row 6 is for grass levels 13, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[111] | 456, 330, 24, 24 | A grass tuft in row 6, one of 16 picked at random. Row 6 is for grass levels 13, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[112] | 6, 360, 24, 24 | A grass tuft in row 7, one of 16 picked at random. Row 7 is for grass levels 14 and 15, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[113] | 36, 360, 24, 24 | A grass tuft in row 7, one of 16 picked at random. Row 7 is for grass levels 14 and 15, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[114] | 66, 360, 24, 24 | A grass tuft in row 7, one of 16 picked at random. Row 7 is for grass levels 14 and 15, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[115] | 96, 360, 24, 24 | A grass tuft in row 7, one of 16 picked at random. Row 7 is for grass levels 14 and 15, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[116] | 126, 360, 24, 24 | A grass tuft in row 7, one of 16 picked at random. Row 7 is for grass levels 14 and 15, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[117] | 156, 360, 24, 24 | A grass tuft in row 7, one of 16 picked at random. Row 7 is for grass levels 14 and 15, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[118] | 186, 360, 24, 24 | A grass tuft in row 7, one of 16 picked at random. Row 7 is for grass levels 14 and 15, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[119] | 216, 360, 24, 24 | A grass tuft in row 7, one of 16 picked at random. Row 7 is for grass levels 14 and 15, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[120] | 246, 360, 24, 24 | A grass tuft in row 7, one of 16 picked at random. Row 7 is for grass levels 14 and 15, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[121] | 276, 360, 24, 24 | A grass tuft in row 7, one of 16 picked at random. Row 7 is for grass levels 14 and 15, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[122] | 306, 360, 24, 24 | A grass tuft in row 7, one of 16 picked at random. Row 7 is for grass levels 14 and 15, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[123] | 336, 360, 24, 24 | A grass tuft in row 7, one of 16 picked at random. Row 7 is for grass levels 14 and 15, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[124] | 366, 360, 24, 24 | A grass tuft in row 7, one of 16 picked at random. Row 7 is for grass levels 14 and 15, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[125] | 396, 360, 24, 24 | A grass tuft in row 7, one of 16 picked at random. Row 7 is for grass levels 14 and 15, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[126] | 426, 360, 24, 24 | A grass tuft in row 7, one of 16 picked at random. Row 7 is for grass levels 14 and 15, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheet[127] | 456, 360, 24, 24 | A grass tuft in row 7, one of 16 picked at random. Row 7 is for grass levels 14 and 15, though the lowest levels sometimes drop a row, and minerals in the ground lower it.
+sheetMask[0] normal | 492, 42, 24, 24 | The normal map for sheetMask[0].
+sheetMask[1] normal | 516, 42, 24, 24 | The normal map for sheetMask[1].
+sheetMask[2] normal | 540, 42, 24, 24 | The normal map for sheetMask[2].
+sheetMask[3] normal | 564, 42, 24, 24 | The normal map for sheetMask[3].
+sheetMask[4] normal | 492, 66, 24, 24 | The normal map for sheetMask[4].
+sheetMask[5] normal | 516, 66, 24, 24 | The normal map for sheetMask[5].
+sheetMask[6] normal | 540, 66, 24, 24 | The normal map for sheetMask[6].
+sheetMask[7] normal | 564, 66, 24, 24 | The normal map for sheetMask[7].
+sheetMask[8] normal | 492, 90, 24, 24 | The normal map for sheetMask[8].
+sheetMask[9] normal | 516, 90, 24, 24 | The normal map for sheetMask[9].
+sheetMask[10] normal | 540, 90, 24, 24 | The normal map for sheetMask[10].
+sheetMask[11] normal | 564, 90, 24, 24 | The normal map for sheetMask[11].
+sheetMask[12] normal | 492, 114, 24, 24 | The normal map for sheetMask[12].
+sheetMask[13] normal | 516, 114, 24, 24 | The normal map for sheetMask[13].
+sheetMask[14] normal | 540, 114, 24, 24 | The normal map for sheetMask[14].
+sheetMask[15] normal | 564, 114, 24, 24 | The normal map for sheetMask[15].
+sheet[0] normal | 492, 150, 24, 24 | The normal map for sheet[0].
+sheet[1] normal | 522, 150, 24, 24 | The normal map for sheet[1].
+sheet[2] normal | 552, 150, 24, 24 | The normal map for sheet[2].
+sheet[3] normal | 582, 150, 24, 24 | The normal map for sheet[3].
+sheet[4] normal | 612, 150, 24, 24 | The normal map for sheet[4].
+sheet[5] normal | 642, 150, 24, 24 | The normal map for sheet[5].
+sheet[6] normal | 672, 150, 24, 24 | The normal map for sheet[6].
+sheet[7] normal | 702, 150, 24, 24 | The normal map for sheet[7].
+sheet[8] normal | 732, 150, 24, 24 | The normal map for sheet[8].
+sheet[9] normal | 762, 150, 24, 24 | The normal map for sheet[9].
+sheet[10] normal | 792, 150, 24, 24 | The normal map for sheet[10].
+sheet[11] normal | 822, 150, 24, 24 | The normal map for sheet[11].
+sheet[12] normal | 852, 150, 24, 24 | The normal map for sheet[12].
+sheet[13] normal | 882, 150, 24, 24 | The normal map for sheet[13].
+sheet[14] normal | 912, 150, 24, 24 | The normal map for sheet[14].
+sheet[15] normal | 942, 150, 24, 24 | The normal map for sheet[15].
+sheet[16] normal | 492, 180, 24, 24 | The normal map for sheet[16].
+sheet[17] normal | 522, 180, 24, 24 | The normal map for sheet[17].
+sheet[18] normal | 552, 180, 24, 24 | The normal map for sheet[18].
+sheet[19] normal | 582, 180, 24, 24 | The normal map for sheet[19].
+sheet[20] normal | 612, 180, 24, 24 | The normal map for sheet[20].
+sheet[21] normal | 642, 180, 24, 24 | The normal map for sheet[21].
+sheet[22] normal | 672, 180, 24, 24 | The normal map for sheet[22].
+sheet[23] normal | 702, 180, 24, 24 | The normal map for sheet[23].
+sheet[24] normal | 732, 180, 24, 24 | The normal map for sheet[24].
+sheet[25] normal | 762, 180, 24, 24 | The normal map for sheet[25].
+sheet[26] normal | 792, 180, 24, 24 | The normal map for sheet[26].
+sheet[27] normal | 822, 180, 24, 24 | The normal map for sheet[27].
+sheet[28] normal | 852, 180, 24, 24 | The normal map for sheet[28].
+sheet[29] normal | 882, 180, 24, 24 | The normal map for sheet[29].
+sheet[30] normal | 912, 180, 24, 24 | The normal map for sheet[30].
+sheet[31] normal | 942, 180, 24, 24 | The normal map for sheet[31].
+sheet[32] normal | 492, 210, 24, 24 | The normal map for sheet[32].
+sheet[33] normal | 522, 210, 24, 24 | The normal map for sheet[33].
+sheet[34] normal | 552, 210, 24, 24 | The normal map for sheet[34].
+sheet[35] normal | 582, 210, 24, 24 | The normal map for sheet[35].
+sheet[36] normal | 612, 210, 24, 24 | The normal map for sheet[36].
+sheet[37] normal | 642, 210, 24, 24 | The normal map for sheet[37].
+sheet[38] normal | 672, 210, 24, 24 | The normal map for sheet[38].
+sheet[39] normal | 702, 210, 24, 24 | The normal map for sheet[39].
+sheet[40] normal | 732, 210, 24, 24 | The normal map for sheet[40].
+sheet[41] normal | 762, 210, 24, 24 | The normal map for sheet[41].
+sheet[42] normal | 792, 210, 24, 24 | The normal map for sheet[42].
+sheet[43] normal | 822, 210, 24, 24 | The normal map for sheet[43].
+sheet[44] normal | 852, 210, 24, 24 | The normal map for sheet[44].
+sheet[45] normal | 882, 210, 24, 24 | The normal map for sheet[45].
+sheet[46] normal | 912, 210, 24, 24 | The normal map for sheet[46].
+sheet[47] normal | 942, 210, 24, 24 | The normal map for sheet[47].
+sheet[48] normal | 492, 240, 24, 24 | The normal map for sheet[48].
+sheet[49] normal | 522, 240, 24, 24 | The normal map for sheet[49].
+sheet[50] normal | 552, 240, 24, 24 | The normal map for sheet[50].
+sheet[51] normal | 582, 240, 24, 24 | The normal map for sheet[51].
+sheet[52] normal | 612, 240, 24, 24 | The normal map for sheet[52].
+sheet[53] normal | 642, 240, 24, 24 | The normal map for sheet[53].
+sheet[54] normal | 672, 240, 24, 24 | The normal map for sheet[54].
+sheet[55] normal | 702, 240, 24, 24 | The normal map for sheet[55].
+sheet[56] normal | 732, 240, 24, 24 | The normal map for sheet[56].
+sheet[57] normal | 762, 240, 24, 24 | The normal map for sheet[57].
+sheet[58] normal | 792, 240, 24, 24 | The normal map for sheet[58].
+sheet[59] normal | 822, 240, 24, 24 | The normal map for sheet[59].
+sheet[60] normal | 852, 240, 24, 24 | The normal map for sheet[60].
+sheet[61] normal | 882, 240, 24, 24 | The normal map for sheet[61].
+sheet[62] normal | 912, 240, 24, 24 | The normal map for sheet[62].
+sheet[63] normal | 942, 240, 24, 24 | The normal map for sheet[63].
+sheet[64] normal | 492, 270, 24, 24 | The normal map for sheet[64].
+sheet[65] normal | 522, 270, 24, 24 | The normal map for sheet[65].
+sheet[66] normal | 552, 270, 24, 24 | The normal map for sheet[66].
+sheet[67] normal | 582, 270, 24, 24 | The normal map for sheet[67].
+sheet[68] normal | 612, 270, 24, 24 | The normal map for sheet[68].
+sheet[69] normal | 642, 270, 24, 24 | The normal map for sheet[69].
+sheet[70] normal | 672, 270, 24, 24 | The normal map for sheet[70].
+sheet[71] normal | 702, 270, 24, 24 | The normal map for sheet[71].
+sheet[72] normal | 732, 270, 24, 24 | The normal map for sheet[72].
+sheet[73] normal | 762, 270, 24, 24 | The normal map for sheet[73].
+sheet[74] normal | 792, 270, 24, 24 | The normal map for sheet[74].
+sheet[75] normal | 822, 270, 24, 24 | The normal map for sheet[75].
+sheet[76] normal | 852, 270, 24, 24 | The normal map for sheet[76].
+sheet[77] normal | 882, 270, 24, 24 | The normal map for sheet[77].
+sheet[78] normal | 912, 270, 24, 24 | The normal map for sheet[78].
+sheet[79] normal | 942, 270, 24, 24 | The normal map for sheet[79].
+sheet[80] normal | 492, 300, 24, 24 | The normal map for sheet[80].
+sheet[81] normal | 522, 300, 24, 24 | The normal map for sheet[81].
+sheet[82] normal | 552, 300, 24, 24 | The normal map for sheet[82].
+sheet[83] normal | 582, 300, 24, 24 | The normal map for sheet[83].
+sheet[84] normal | 612, 300, 24, 24 | The normal map for sheet[84].
+sheet[85] normal | 642, 300, 24, 24 | The normal map for sheet[85].
+sheet[86] normal | 672, 300, 24, 24 | The normal map for sheet[86].
+sheet[87] normal | 702, 300, 24, 24 | The normal map for sheet[87].
+sheet[88] normal | 732, 300, 24, 24 | The normal map for sheet[88].
+sheet[89] normal | 762, 300, 24, 24 | The normal map for sheet[89].
+sheet[90] normal | 792, 300, 24, 24 | The normal map for sheet[90].
+sheet[91] normal | 822, 300, 24, 24 | The normal map for sheet[91].
+sheet[92] normal | 852, 300, 24, 24 | The normal map for sheet[92].
+sheet[93] normal | 882, 300, 24, 24 | The normal map for sheet[93].
+sheet[94] normal | 912, 300, 24, 24 | The normal map for sheet[94].
+sheet[95] normal | 942, 300, 24, 24 | The normal map for sheet[95].
+sheet[96] normal | 492, 330, 24, 24 | The normal map for sheet[96].
+sheet[97] normal | 522, 330, 24, 24 | The normal map for sheet[97].
+sheet[98] normal | 552, 330, 24, 24 | The normal map for sheet[98].
+sheet[99] normal | 582, 330, 24, 24 | The normal map for sheet[99].
+sheet[100] normal | 612, 330, 24, 24 | The normal map for sheet[100].
+sheet[101] normal | 642, 330, 24, 24 | The normal map for sheet[101].
+sheet[102] normal | 672, 330, 24, 24 | The normal map for sheet[102].
+sheet[103] normal | 702, 330, 24, 24 | The normal map for sheet[103].
+sheet[104] normal | 732, 330, 24, 24 | The normal map for sheet[104].
+sheet[105] normal | 762, 330, 24, 24 | The normal map for sheet[105].
+sheet[106] normal | 792, 330, 24, 24 | The normal map for sheet[106].
+sheet[107] normal | 822, 330, 24, 24 | The normal map for sheet[107].
+sheet[108] normal | 852, 330, 24, 24 | The normal map for sheet[108].
+sheet[109] normal | 882, 330, 24, 24 | The normal map for sheet[109].
+sheet[110] normal | 912, 330, 24, 24 | The normal map for sheet[110].
+sheet[111] normal | 942, 330, 24, 24 | The normal map for sheet[111].
+sheet[112] normal | 492, 360, 24, 24 | The normal map for sheet[112].
+sheet[113] normal | 522, 360, 24, 24 | The normal map for sheet[113].
+sheet[114] normal | 552, 360, 24, 24 | The normal map for sheet[114].
+sheet[115] normal | 582, 360, 24, 24 | The normal map for sheet[115].
+sheet[116] normal | 612, 360, 24, 24 | The normal map for sheet[116].
+sheet[117] normal | 642, 360, 24, 24 | The normal map for sheet[117].
+sheet[118] normal | 672, 360, 24, 24 | The normal map for sheet[118].
+sheet[119] normal | 702, 360, 24, 24 | The normal map for sheet[119].
+sheet[120] normal | 732, 360, 24, 24 | The normal map for sheet[120].
+sheet[121] normal | 762, 360, 24, 24 | The normal map for sheet[121].
+sheet[122] normal | 792, 360, 24, 24 | The normal map for sheet[122].
+sheet[123] normal | 822, 360, 24, 24 | The normal map for sheet[123].
+sheet[124] normal | 852, 360, 24, 24 | The normal map for sheet[124].
+sheet[125] normal | 882, 360, 24, 24 | The normal map for sheet[125].
+sheet[126] normal | 912, 360, 24, 24 | The normal map for sheet[126].
+sheet[127] normal | 942, 360, 24, 24 | The normal map for sheet[127].

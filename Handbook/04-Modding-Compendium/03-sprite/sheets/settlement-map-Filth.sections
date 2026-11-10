@@ -1,0 +1,256 @@
+sheet[0] | 6, 6, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 0, used when the amount of filth is at least 0 sevenths and less than 1 sevenths.
+sheet[1] | 22, 6, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 0, used when the amount of filth is at least 0 sevenths and less than 1 sevenths.
+sheet[2] | 38, 6, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 0, used when the amount of filth is at least 0 sevenths and less than 1 sevenths.
+sheet[3] | 54, 6, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 0, used when the amount of filth is at least 0 sevenths and less than 1 sevenths.
+sheet[4] | 70, 6, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 0, used when the amount of filth is at least 0 sevenths and less than 1 sevenths.
+sheet[5] | 86, 6, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 0, used when the amount of filth is at least 0 sevenths and less than 1 sevenths.
+sheet[6] | 102, 6, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 0, used when the amount of filth is at least 0 sevenths and less than 1 sevenths.
+sheet[7] | 118, 6, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 0, used when the amount of filth is at least 0 sevenths and less than 1 sevenths.
+sheet[8] | 134, 6, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 0, used when the amount of filth is at least 0 sevenths and less than 1 sevenths.
+sheet[9] | 150, 6, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 0, used when the amount of filth is at least 0 sevenths and less than 1 sevenths.
+sheet[10] | 166, 6, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 0, used when the amount of filth is at least 0 sevenths and less than 1 sevenths.
+sheet[11] | 182, 6, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 0, used when the amount of filth is at least 0 sevenths and less than 1 sevenths.
+sheet[12] | 198, 6, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 0, used when the amount of filth is at least 0 sevenths and less than 1 sevenths.
+sheet[13] | 214, 6, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 0, used when the amount of filth is at least 0 sevenths and less than 1 sevenths.
+sheet[14] | 230, 6, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 0, used when the amount of filth is at least 0 sevenths and less than 1 sevenths.
+sheet[15] | 246, 6, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 0, used when the amount of filth is at least 0 sevenths and less than 1 sevenths.
+sheet[16] | 6, 22, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 1, used when the amount of filth is at least 1 sevenths and less than 2 sevenths.
+sheet[17] | 22, 22, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 1, used when the amount of filth is at least 1 sevenths and less than 2 sevenths.
+sheet[18] | 38, 22, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 1, used when the amount of filth is at least 1 sevenths and less than 2 sevenths.
+sheet[19] | 54, 22, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 1, used when the amount of filth is at least 1 sevenths and less than 2 sevenths.
+sheet[20] | 70, 22, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 1, used when the amount of filth is at least 1 sevenths and less than 2 sevenths.
+sheet[21] | 86, 22, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 1, used when the amount of filth is at least 1 sevenths and less than 2 sevenths.
+sheet[22] | 102, 22, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 1, used when the amount of filth is at least 1 sevenths and less than 2 sevenths.
+sheet[23] | 118, 22, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 1, used when the amount of filth is at least 1 sevenths and less than 2 sevenths.
+sheet[24] | 134, 22, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 1, used when the amount of filth is at least 1 sevenths and less than 2 sevenths.
+sheet[25] | 150, 22, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 1, used when the amount of filth is at least 1 sevenths and less than 2 sevenths.
+sheet[26] | 166, 22, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 1, used when the amount of filth is at least 1 sevenths and less than 2 sevenths.
+sheet[27] | 182, 22, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 1, used when the amount of filth is at least 1 sevenths and less than 2 sevenths.
+sheet[28] | 198, 22, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 1, used when the amount of filth is at least 1 sevenths and less than 2 sevenths.
+sheet[29] | 214, 22, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 1, used when the amount of filth is at least 1 sevenths and less than 2 sevenths.
+sheet[30] | 230, 22, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 1, used when the amount of filth is at least 1 sevenths and less than 2 sevenths.
+sheet[31] | 246, 22, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 1, used when the amount of filth is at least 1 sevenths and less than 2 sevenths.
+sheet[32] | 6, 38, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 2, used when the amount of filth is at least 2 sevenths and less than 3 sevenths.
+sheet[33] | 22, 38, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 2, used when the amount of filth is at least 2 sevenths and less than 3 sevenths.
+sheet[34] | 38, 38, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 2, used when the amount of filth is at least 2 sevenths and less than 3 sevenths.
+sheet[35] | 54, 38, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 2, used when the amount of filth is at least 2 sevenths and less than 3 sevenths.
+sheet[36] | 70, 38, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 2, used when the amount of filth is at least 2 sevenths and less than 3 sevenths.
+sheet[37] | 86, 38, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 2, used when the amount of filth is at least 2 sevenths and less than 3 sevenths.
+sheet[38] | 102, 38, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 2, used when the amount of filth is at least 2 sevenths and less than 3 sevenths.
+sheet[39] | 118, 38, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 2, used when the amount of filth is at least 2 sevenths and less than 3 sevenths.
+sheet[40] | 134, 38, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 2, used when the amount of filth is at least 2 sevenths and less than 3 sevenths.
+sheet[41] | 150, 38, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 2, used when the amount of filth is at least 2 sevenths and less than 3 sevenths.
+sheet[42] | 166, 38, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 2, used when the amount of filth is at least 2 sevenths and less than 3 sevenths.
+sheet[43] | 182, 38, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 2, used when the amount of filth is at least 2 sevenths and less than 3 sevenths.
+sheet[44] | 198, 38, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 2, used when the amount of filth is at least 2 sevenths and less than 3 sevenths.
+sheet[45] | 214, 38, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 2, used when the amount of filth is at least 2 sevenths and less than 3 sevenths.
+sheet[46] | 230, 38, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 2, used when the amount of filth is at least 2 sevenths and less than 3 sevenths.
+sheet[47] | 246, 38, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 2, used when the amount of filth is at least 2 sevenths and less than 3 sevenths.
+sheet[48] | 6, 54, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 3, used when the amount of filth is at least 3 sevenths and less than 4 sevenths.
+sheet[49] | 22, 54, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 3, used when the amount of filth is at least 3 sevenths and less than 4 sevenths.
+sheet[50] | 38, 54, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 3, used when the amount of filth is at least 3 sevenths and less than 4 sevenths.
+sheet[51] | 54, 54, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 3, used when the amount of filth is at least 3 sevenths and less than 4 sevenths.
+sheet[52] | 70, 54, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 3, used when the amount of filth is at least 3 sevenths and less than 4 sevenths.
+sheet[53] | 86, 54, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 3, used when the amount of filth is at least 3 sevenths and less than 4 sevenths.
+sheet[54] | 102, 54, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 3, used when the amount of filth is at least 3 sevenths and less than 4 sevenths.
+sheet[55] | 118, 54, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 3, used when the amount of filth is at least 3 sevenths and less than 4 sevenths.
+sheet[56] | 134, 54, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 3, used when the amount of filth is at least 3 sevenths and less than 4 sevenths.
+sheet[57] | 150, 54, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 3, used when the amount of filth is at least 3 sevenths and less than 4 sevenths.
+sheet[58] | 166, 54, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 3, used when the amount of filth is at least 3 sevenths and less than 4 sevenths.
+sheet[59] | 182, 54, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 3, used when the amount of filth is at least 3 sevenths and less than 4 sevenths.
+sheet[60] | 198, 54, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 3, used when the amount of filth is at least 3 sevenths and less than 4 sevenths.
+sheet[61] | 214, 54, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 3, used when the amount of filth is at least 3 sevenths and less than 4 sevenths.
+sheet[62] | 230, 54, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 3, used when the amount of filth is at least 3 sevenths and less than 4 sevenths.
+sheet[63] | 246, 54, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 3, used when the amount of filth is at least 3 sevenths and less than 4 sevenths.
+sheet[64] | 6, 70, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 4, used when the amount of filth is at least 4 sevenths and less than 5 sevenths.
+sheet[65] | 22, 70, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 4, used when the amount of filth is at least 4 sevenths and less than 5 sevenths.
+sheet[66] | 38, 70, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 4, used when the amount of filth is at least 4 sevenths and less than 5 sevenths.
+sheet[67] | 54, 70, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 4, used when the amount of filth is at least 4 sevenths and less than 5 sevenths.
+sheet[68] | 70, 70, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 4, used when the amount of filth is at least 4 sevenths and less than 5 sevenths.
+sheet[69] | 86, 70, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 4, used when the amount of filth is at least 4 sevenths and less than 5 sevenths.
+sheet[70] | 102, 70, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 4, used when the amount of filth is at least 4 sevenths and less than 5 sevenths.
+sheet[71] | 118, 70, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 4, used when the amount of filth is at least 4 sevenths and less than 5 sevenths.
+sheet[72] | 134, 70, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 4, used when the amount of filth is at least 4 sevenths and less than 5 sevenths.
+sheet[73] | 150, 70, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 4, used when the amount of filth is at least 4 sevenths and less than 5 sevenths.
+sheet[74] | 166, 70, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 4, used when the amount of filth is at least 4 sevenths and less than 5 sevenths.
+sheet[75] | 182, 70, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 4, used when the amount of filth is at least 4 sevenths and less than 5 sevenths.
+sheet[76] | 198, 70, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 4, used when the amount of filth is at least 4 sevenths and less than 5 sevenths.
+sheet[77] | 214, 70, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 4, used when the amount of filth is at least 4 sevenths and less than 5 sevenths.
+sheet[78] | 230, 70, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 4, used when the amount of filth is at least 4 sevenths and less than 5 sevenths.
+sheet[79] | 246, 70, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 4, used when the amount of filth is at least 4 sevenths and less than 5 sevenths.
+sheet[80] | 6, 86, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 5, used when the amount of filth is at least 5 sevenths and less than 6 sevenths. Broken fortification walls always use this row.
+sheet[81] | 22, 86, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 5, used when the amount of filth is at least 5 sevenths and less than 6 sevenths. Broken fortification walls always use this row.
+sheet[82] | 38, 86, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 5, used when the amount of filth is at least 5 sevenths and less than 6 sevenths. Broken fortification walls always use this row.
+sheet[83] | 54, 86, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 5, used when the amount of filth is at least 5 sevenths and less than 6 sevenths. Broken fortification walls always use this row.
+sheet[84] | 70, 86, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 5, used when the amount of filth is at least 5 sevenths and less than 6 sevenths. Broken fortification walls always use this row.
+sheet[85] | 86, 86, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 5, used when the amount of filth is at least 5 sevenths and less than 6 sevenths. Broken fortification walls always use this row.
+sheet[86] | 102, 86, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 5, used when the amount of filth is at least 5 sevenths and less than 6 sevenths. Broken fortification walls always use this row.
+sheet[87] | 118, 86, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 5, used when the amount of filth is at least 5 sevenths and less than 6 sevenths. Broken fortification walls always use this row.
+sheet[88] | 134, 86, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 5, used when the amount of filth is at least 5 sevenths and less than 6 sevenths. Broken fortification walls always use this row.
+sheet[89] | 150, 86, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 5, used when the amount of filth is at least 5 sevenths and less than 6 sevenths. Broken fortification walls always use this row.
+sheet[90] | 166, 86, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 5, used when the amount of filth is at least 5 sevenths and less than 6 sevenths. Broken fortification walls always use this row.
+sheet[91] | 182, 86, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 5, used when the amount of filth is at least 5 sevenths and less than 6 sevenths. Broken fortification walls always use this row.
+sheet[92] | 198, 86, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 5, used when the amount of filth is at least 5 sevenths and less than 6 sevenths. Broken fortification walls always use this row.
+sheet[93] | 214, 86, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 5, used when the amount of filth is at least 5 sevenths and less than 6 sevenths. Broken fortification walls always use this row.
+sheet[94] | 230, 86, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 5, used when the amount of filth is at least 5 sevenths and less than 6 sevenths. Broken fortification walls always use this row.
+sheet[95] | 246, 86, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 5, used when the amount of filth is at least 5 sevenths and less than 6 sevenths. Broken fortification walls always use this row.
+sheet[96] | 6, 102, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 6, used when the amount of filth is at least 6 sevenths and less than 7 sevenths.
+sheet[97] | 22, 102, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 6, used when the amount of filth is at least 6 sevenths and less than 7 sevenths.
+sheet[98] | 38, 102, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 6, used when the amount of filth is at least 6 sevenths and less than 7 sevenths.
+sheet[99] | 54, 102, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 6, used when the amount of filth is at least 6 sevenths and less than 7 sevenths.
+sheet[100] | 70, 102, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 6, used when the amount of filth is at least 6 sevenths and less than 7 sevenths.
+sheet[101] | 86, 102, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 6, used when the amount of filth is at least 6 sevenths and less than 7 sevenths.
+sheet[102] | 102, 102, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 6, used when the amount of filth is at least 6 sevenths and less than 7 sevenths.
+sheet[103] | 118, 102, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 6, used when the amount of filth is at least 6 sevenths and less than 7 sevenths.
+sheet[104] | 134, 102, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 6, used when the amount of filth is at least 6 sevenths and less than 7 sevenths.
+sheet[105] | 150, 102, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 6, used when the amount of filth is at least 6 sevenths and less than 7 sevenths.
+sheet[106] | 166, 102, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 6, used when the amount of filth is at least 6 sevenths and less than 7 sevenths.
+sheet[107] | 182, 102, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 6, used when the amount of filth is at least 6 sevenths and less than 7 sevenths.
+sheet[108] | 198, 102, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 6, used when the amount of filth is at least 6 sevenths and less than 7 sevenths.
+sheet[109] | 214, 102, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 6, used when the amount of filth is at least 6 sevenths and less than 7 sevenths.
+sheet[110] | 230, 102, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 6, used when the amount of filth is at least 6 sevenths and less than 7 sevenths.
+sheet[111] | 246, 102, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 6, used when the amount of filth is at least 6 sevenths and less than 7 sevenths.
+sheet[112] | 6, 118, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 7, used when the amount of filth is at least 7 sevenths, which means only at the full amount.
+sheet[113] | 22, 118, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 7, used when the amount of filth is at least 7 sevenths, which means only at the full amount.
+sheet[114] | 38, 118, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 7, used when the amount of filth is at least 7 sevenths, which means only at the full amount.
+sheet[115] | 54, 118, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 7, used when the amount of filth is at least 7 sevenths, which means only at the full amount.
+sheet[116] | 70, 118, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 7, used when the amount of filth is at least 7 sevenths, which means only at the full amount.
+sheet[117] | 86, 118, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 7, used when the amount of filth is at least 7 sevenths, which means only at the full amount.
+sheet[118] | 102, 118, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 7, used when the amount of filth is at least 7 sevenths, which means only at the full amount.
+sheet[119] | 118, 118, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 7, used when the amount of filth is at least 7 sevenths, which means only at the full amount.
+sheet[120] | 134, 118, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 7, used when the amount of filth is at least 7 sevenths, which means only at the full amount.
+sheet[121] | 150, 118, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 7, used when the amount of filth is at least 7 sevenths, which means only at the full amount.
+sheet[122] | 166, 118, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 7, used when the amount of filth is at least 7 sevenths, which means only at the full amount.
+sheet[123] | 182, 118, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 7, used when the amount of filth is at least 7 sevenths, which means only at the full amount.
+sheet[124] | 198, 118, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 7, used when the amount of filth is at least 7 sevenths, which means only at the full amount.
+sheet[125] | 214, 118, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 7, used when the amount of filth is at least 7 sevenths, which means only at the full amount.
+sheet[126] | 230, 118, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 7, used when the amount of filth is at least 7 sevenths, which means only at the full amount.
+sheet[127] | 246, 118, 16, 16 | A filth texture, one of 16 picked at random. It's never drawn alone, only through the shape of another sprite. Row 7, used when the amount of filth is at least 7 sevenths, which means only at the full amount.
+sheet[0] normal | 274, 6, 16, 16 | The normal map for sheet[0].
+sheet[1] normal | 290, 6, 16, 16 | The normal map for sheet[1].
+sheet[2] normal | 306, 6, 16, 16 | The normal map for sheet[2].
+sheet[3] normal | 322, 6, 16, 16 | The normal map for sheet[3].
+sheet[4] normal | 338, 6, 16, 16 | The normal map for sheet[4].
+sheet[5] normal | 354, 6, 16, 16 | The normal map for sheet[5].
+sheet[6] normal | 370, 6, 16, 16 | The normal map for sheet[6].
+sheet[7] normal | 386, 6, 16, 16 | The normal map for sheet[7].
+sheet[8] normal | 402, 6, 16, 16 | The normal map for sheet[8].
+sheet[9] normal | 418, 6, 16, 16 | The normal map for sheet[9].
+sheet[10] normal | 434, 6, 16, 16 | The normal map for sheet[10].
+sheet[11] normal | 450, 6, 16, 16 | The normal map for sheet[11].
+sheet[12] normal | 466, 6, 16, 16 | The normal map for sheet[12].
+sheet[13] normal | 482, 6, 16, 16 | The normal map for sheet[13].
+sheet[14] normal | 498, 6, 16, 16 | The normal map for sheet[14].
+sheet[15] normal | 514, 6, 16, 16 | The normal map for sheet[15].
+sheet[16] normal | 274, 22, 16, 16 | The normal map for sheet[16].
+sheet[17] normal | 290, 22, 16, 16 | The normal map for sheet[17].
+sheet[18] normal | 306, 22, 16, 16 | The normal map for sheet[18].
+sheet[19] normal | 322, 22, 16, 16 | The normal map for sheet[19].
+sheet[20] normal | 338, 22, 16, 16 | The normal map for sheet[20].
+sheet[21] normal | 354, 22, 16, 16 | The normal map for sheet[21].
+sheet[22] normal | 370, 22, 16, 16 | The normal map for sheet[22].
+sheet[23] normal | 386, 22, 16, 16 | The normal map for sheet[23].
+sheet[24] normal | 402, 22, 16, 16 | The normal map for sheet[24].
+sheet[25] normal | 418, 22, 16, 16 | The normal map for sheet[25].
+sheet[26] normal | 434, 22, 16, 16 | The normal map for sheet[26].
+sheet[27] normal | 450, 22, 16, 16 | The normal map for sheet[27].
+sheet[28] normal | 466, 22, 16, 16 | The normal map for sheet[28].
+sheet[29] normal | 482, 22, 16, 16 | The normal map for sheet[29].
+sheet[30] normal | 498, 22, 16, 16 | The normal map for sheet[30].
+sheet[31] normal | 514, 22, 16, 16 | The normal map for sheet[31].
+sheet[32] normal | 274, 38, 16, 16 | The normal map for sheet[32].
+sheet[33] normal | 290, 38, 16, 16 | The normal map for sheet[33].
+sheet[34] normal | 306, 38, 16, 16 | The normal map for sheet[34].
+sheet[35] normal | 322, 38, 16, 16 | The normal map for sheet[35].
+sheet[36] normal | 338, 38, 16, 16 | The normal map for sheet[36].
+sheet[37] normal | 354, 38, 16, 16 | The normal map for sheet[37].
+sheet[38] normal | 370, 38, 16, 16 | The normal map for sheet[38].
+sheet[39] normal | 386, 38, 16, 16 | The normal map for sheet[39].
+sheet[40] normal | 402, 38, 16, 16 | The normal map for sheet[40].
+sheet[41] normal | 418, 38, 16, 16 | The normal map for sheet[41].
+sheet[42] normal | 434, 38, 16, 16 | The normal map for sheet[42].
+sheet[43] normal | 450, 38, 16, 16 | The normal map for sheet[43].
+sheet[44] normal | 466, 38, 16, 16 | The normal map for sheet[44].
+sheet[45] normal | 482, 38, 16, 16 | The normal map for sheet[45].
+sheet[46] normal | 498, 38, 16, 16 | The normal map for sheet[46].
+sheet[47] normal | 514, 38, 16, 16 | The normal map for sheet[47].
+sheet[48] normal | 274, 54, 16, 16 | The normal map for sheet[48].
+sheet[49] normal | 290, 54, 16, 16 | The normal map for sheet[49].
+sheet[50] normal | 306, 54, 16, 16 | The normal map for sheet[50].
+sheet[51] normal | 322, 54, 16, 16 | The normal map for sheet[51].
+sheet[52] normal | 338, 54, 16, 16 | The normal map for sheet[52].
+sheet[53] normal | 354, 54, 16, 16 | The normal map for sheet[53].
+sheet[54] normal | 370, 54, 16, 16 | The normal map for sheet[54].
+sheet[55] normal | 386, 54, 16, 16 | The normal map for sheet[55].
+sheet[56] normal | 402, 54, 16, 16 | The normal map for sheet[56].
+sheet[57] normal | 418, 54, 16, 16 | The normal map for sheet[57].
+sheet[58] normal | 434, 54, 16, 16 | The normal map for sheet[58].
+sheet[59] normal | 450, 54, 16, 16 | The normal map for sheet[59].
+sheet[60] normal | 466, 54, 16, 16 | The normal map for sheet[60].
+sheet[61] normal | 482, 54, 16, 16 | The normal map for sheet[61].
+sheet[62] normal | 498, 54, 16, 16 | The normal map for sheet[62].
+sheet[63] normal | 514, 54, 16, 16 | The normal map for sheet[63].
+sheet[64] normal | 274, 70, 16, 16 | The normal map for sheet[64].
+sheet[65] normal | 290, 70, 16, 16 | The normal map for sheet[65].
+sheet[66] normal | 306, 70, 16, 16 | The normal map for sheet[66].
+sheet[67] normal | 322, 70, 16, 16 | The normal map for sheet[67].
+sheet[68] normal | 338, 70, 16, 16 | The normal map for sheet[68].
+sheet[69] normal | 354, 70, 16, 16 | The normal map for sheet[69].
+sheet[70] normal | 370, 70, 16, 16 | The normal map for sheet[70].
+sheet[71] normal | 386, 70, 16, 16 | The normal map for sheet[71].
+sheet[72] normal | 402, 70, 16, 16 | The normal map for sheet[72].
+sheet[73] normal | 418, 70, 16, 16 | The normal map for sheet[73].
+sheet[74] normal | 434, 70, 16, 16 | The normal map for sheet[74].
+sheet[75] normal | 450, 70, 16, 16 | The normal map for sheet[75].
+sheet[76] normal | 466, 70, 16, 16 | The normal map for sheet[76].
+sheet[77] normal | 482, 70, 16, 16 | The normal map for sheet[77].
+sheet[78] normal | 498, 70, 16, 16 | The normal map for sheet[78].
+sheet[79] normal | 514, 70, 16, 16 | The normal map for sheet[79].
+sheet[80] normal | 274, 86, 16, 16 | The normal map for sheet[80].
+sheet[81] normal | 290, 86, 16, 16 | The normal map for sheet[81].
+sheet[82] normal | 306, 86, 16, 16 | The normal map for sheet[82].
+sheet[83] normal | 322, 86, 16, 16 | The normal map for sheet[83].
+sheet[84] normal | 338, 86, 16, 16 | The normal map for sheet[84].
+sheet[85] normal | 354, 86, 16, 16 | The normal map for sheet[85].
+sheet[86] normal | 370, 86, 16, 16 | The normal map for sheet[86].
+sheet[87] normal | 386, 86, 16, 16 | The normal map for sheet[87].
+sheet[88] normal | 402, 86, 16, 16 | The normal map for sheet[88].
+sheet[89] normal | 418, 86, 16, 16 | The normal map for sheet[89].
+sheet[90] normal | 434, 86, 16, 16 | The normal map for sheet[90].
+sheet[91] normal | 450, 86, 16, 16 | The normal map for sheet[91].
+sheet[92] normal | 466, 86, 16, 16 | The normal map for sheet[92].
+sheet[93] normal | 482, 86, 16, 16 | The normal map for sheet[93].
+sheet[94] normal | 498, 86, 16, 16 | The normal map for sheet[94].
+sheet[95] normal | 514, 86, 16, 16 | The normal map for sheet[95].
+sheet[96] normal | 274, 102, 16, 16 | The normal map for sheet[96].
+sheet[97] normal | 290, 102, 16, 16 | The normal map for sheet[97].
+sheet[98] normal | 306, 102, 16, 16 | The normal map for sheet[98].
+sheet[99] normal | 322, 102, 16, 16 | The normal map for sheet[99].
+sheet[100] normal | 338, 102, 16, 16 | The normal map for sheet[100].
+sheet[101] normal | 354, 102, 16, 16 | The normal map for sheet[101].
+sheet[102] normal | 370, 102, 16, 16 | The normal map for sheet[102].
+sheet[103] normal | 386, 102, 16, 16 | The normal map for sheet[103].
+sheet[104] normal | 402, 102, 16, 16 | The normal map for sheet[104].
+sheet[105] normal | 418, 102, 16, 16 | The normal map for sheet[105].
+sheet[106] normal | 434, 102, 16, 16 | The normal map for sheet[106].
+sheet[107] normal | 450, 102, 16, 16 | The normal map for sheet[107].
+sheet[108] normal | 466, 102, 16, 16 | The normal map for sheet[108].
+sheet[109] normal | 482, 102, 16, 16 | The normal map for sheet[109].
+sheet[110] normal | 498, 102, 16, 16 | The normal map for sheet[110].
+sheet[111] normal | 514, 102, 16, 16 | The normal map for sheet[111].
+sheet[112] normal | 274, 118, 16, 16 | The normal map for sheet[112].
+sheet[113] normal | 290, 118, 16, 16 | The normal map for sheet[113].
+sheet[114] normal | 306, 118, 16, 16 | The normal map for sheet[114].
+sheet[115] normal | 322, 118, 16, 16 | The normal map for sheet[115].
+sheet[116] normal | 338, 118, 16, 16 | The normal map for sheet[116].
+sheet[117] normal | 354, 118, 16, 16 | The normal map for sheet[117].
+sheet[118] normal | 370, 118, 16, 16 | The normal map for sheet[118].
+sheet[119] normal | 386, 118, 16, 16 | The normal map for sheet[119].
+sheet[120] normal | 402, 118, 16, 16 | The normal map for sheet[120].
+sheet[121] normal | 418, 118, 16, 16 | The normal map for sheet[121].
+sheet[122] normal | 434, 118, 16, 16 | The normal map for sheet[122].
+sheet[123] normal | 450, 118, 16, 16 | The normal map for sheet[123].
+sheet[124] normal | 466, 118, 16, 16 | The normal map for sheet[124].
+sheet[125] normal | 482, 118, 16, 16 | The normal map for sheet[125].
+sheet[126] normal | 498, 118, 16, 16 | The normal map for sheet[126].
+sheet[127] normal | 514, 118, 16, 16 | The normal map for sheet[127].

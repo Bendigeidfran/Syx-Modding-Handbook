@@ -1,0 +1,256 @@
+sheet[0] | 6, 6, 16, 16 | Loaded, but never drawn.
+sheet[1] | 28, 6, 16, 16 | Loaded, but never drawn.
+sheet[2] | 50, 6, 16, 16 | Loaded, but never drawn.
+sheet[3] | 72, 6, 16, 16 | Loaded, but never drawn.
+sheet[4] | 94, 6, 16, 16 | Loaded, but never drawn.
+sheet[5] | 116, 6, 16, 16 | Loaded, but never drawn.
+sheet[6] | 138, 6, 16, 16 | Loaded, but never drawn.
+sheet[7] | 160, 6, 16, 16 | Loaded, but never drawn.
+sheet[8] | 182, 6, 16, 16 | Loaded, but never drawn.
+sheet[9] | 204, 6, 16, 16 | Loaded, but never drawn.
+sheet[10] | 226, 6, 16, 16 | Loaded, but never drawn.
+sheet[11] | 248, 6, 16, 16 | Loaded, but never drawn.
+sheet[12] | 270, 6, 16, 16 | Loaded, but never drawn.
+sheet[13] | 292, 6, 16, 16 | Loaded, but never drawn.
+sheet[14] | 314, 6, 16, 16 | Loaded, but never drawn.
+sheet[15] | 336, 6, 16, 16 | Loaded, but never drawn.
+sheet[16] | 6, 28, 16, 16 | Loaded, but never drawn.
+sheet[17] | 28, 28, 16, 16 | Loaded, but never drawn.
+sheet[18] | 50, 28, 16, 16 | Loaded, but never drawn.
+sheet[19] | 72, 28, 16, 16 | Part of the rock's icon.
+sheet[20] | 94, 28, 16, 16 | Loaded, but never drawn.
+sheet[21] | 116, 28, 16, 16 | Loaded, but never drawn.
+sheet[22] | 138, 28, 16, 16 | Loaded, but never drawn.
+sheet[23] | 160, 28, 16, 16 | Loaded, but never drawn.
+sheet[24] | 182, 28, 16, 16 | Loaded, but never drawn.
+sheet[25] | 204, 28, 16, 16 | Loaded, but never drawn.
+sheet[26] | 226, 28, 16, 16 | Loaded, but never drawn.
+sheet[27] | 248, 28, 16, 16 | Loaded, but never drawn.
+sheet[28] | 270, 28, 16, 16 | Loaded, but never drawn.
+sheet[29] | 292, 28, 16, 16 | Loaded, but never drawn.
+sheet[30] | 314, 28, 16, 16 | Loaded, but never drawn.
+sheet[31] | 336, 28, 16, 16 | Loaded, but never drawn.
+sheet[32] | 6, 50, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock while at least 5 of the amount is left. It's also part of the rock's icon.
+sheet[33] | 28, 50, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock while at least 5 of the amount is left. It's also part of the rock's icon.
+sheet[34] | 50, 50, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock while at least 5 of the amount is left. It's also part of the rock's icon.
+sheet[35] | 72, 50, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock while at least 5 of the amount is left.
+sheet[36] | 94, 50, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock while at least 5 of the amount is left.
+sheet[37] | 116, 50, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock while at least 5 of the amount is left.
+sheet[38] | 138, 50, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock while at least 5 of the amount is left.
+sheet[39] | 160, 50, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock while at least 5 of the amount is left.
+sheet[40] | 182, 50, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock while at least 5 of the amount is left.
+sheet[41] | 204, 50, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock while at least 5 of the amount is left.
+sheet[42] | 226, 50, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock while at least 5 of the amount is left.
+sheet[43] | 248, 50, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock while at least 5 of the amount is left.
+sheet[44] | 270, 50, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock while at least 5 of the amount is left.
+sheet[45] | 292, 50, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock while at least 5 of the amount is left.
+sheet[46] | 314, 50, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock while at least 5 of the amount is left.
+sheet[47] | 336, 50, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock while at least 5 of the amount is left.
+sheet[48] | 6, 72, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 4 of the amount is left.
+sheet[49] | 28, 72, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 4 of the amount is left.
+sheet[50] | 50, 72, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 4 of the amount is left.
+sheet[51] | 72, 72, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 4 of the amount is left.
+sheet[52] | 94, 72, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 4 of the amount is left.
+sheet[53] | 116, 72, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 4 of the amount is left.
+sheet[54] | 138, 72, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 4 of the amount is left.
+sheet[55] | 160, 72, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 4 of the amount is left.
+sheet[56] | 182, 72, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 4 of the amount is left.
+sheet[57] | 204, 72, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 4 of the amount is left.
+sheet[58] | 226, 72, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 4 of the amount is left.
+sheet[59] | 248, 72, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 4 of the amount is left.
+sheet[60] | 270, 72, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 4 of the amount is left.
+sheet[61] | 292, 72, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 4 of the amount is left.
+sheet[62] | 314, 72, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 4 of the amount is left.
+sheet[63] | 336, 72, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 4 of the amount is left.
+sheet[64] | 6, 94, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 3 of the amount is left.
+sheet[65] | 28, 94, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 3 of the amount is left.
+sheet[66] | 50, 94, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 3 of the amount is left.
+sheet[67] | 72, 94, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 3 of the amount is left.
+sheet[68] | 94, 94, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 3 of the amount is left.
+sheet[69] | 116, 94, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 3 of the amount is left.
+sheet[70] | 138, 94, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 3 of the amount is left.
+sheet[71] | 160, 94, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 3 of the amount is left.
+sheet[72] | 182, 94, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 3 of the amount is left.
+sheet[73] | 204, 94, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 3 of the amount is left.
+sheet[74] | 226, 94, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 3 of the amount is left.
+sheet[75] | 248, 94, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 3 of the amount is left.
+sheet[76] | 270, 94, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 3 of the amount is left.
+sheet[77] | 292, 94, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 3 of the amount is left.
+sheet[78] | 314, 94, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 3 of the amount is left.
+sheet[79] | 336, 94, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 3 of the amount is left.
+sheet[80] | 6, 116, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 2 of the amount is left.
+sheet[81] | 28, 116, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 2 of the amount is left.
+sheet[82] | 50, 116, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 2 of the amount is left.
+sheet[83] | 72, 116, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 2 of the amount is left.
+sheet[84] | 94, 116, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 2 of the amount is left.
+sheet[85] | 116, 116, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 2 of the amount is left.
+sheet[86] | 138, 116, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 2 of the amount is left.
+sheet[87] | 160, 116, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 2 of the amount is left.
+sheet[88] | 182, 116, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 2 of the amount is left.
+sheet[89] | 204, 116, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 2 of the amount is left.
+sheet[90] | 226, 116, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 2 of the amount is left.
+sheet[91] | 248, 116, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 2 of the amount is left.
+sheet[92] | 270, 116, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 2 of the amount is left.
+sheet[93] | 292, 116, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 2 of the amount is left.
+sheet[94] | 314, 116, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 2 of the amount is left.
+sheet[95] | 336, 116, 16, 16 | One of 16 extra rocks, picked at random, drawn around the main rock when 2 of the amount is left.
+sheet[96] | 6, 138, 16, 16 | One of 16 rocks, picked at random. It's the main rock when the amount is 8 or more, and an extra rock around it when 1 of the amount is left.
+sheet[97] | 28, 138, 16, 16 | One of 16 rocks, picked at random. It's the main rock when the amount is 8 or more, and an extra rock around it when 1 of the amount is left.
+sheet[98] | 50, 138, 16, 16 | One of 16 rocks, picked at random. It's the main rock when the amount is 8 or more, and an extra rock around it when 1 of the amount is left.
+sheet[99] | 72, 138, 16, 16 | One of 16 rocks, picked at random. It's the main rock when the amount is 8 or more, and an extra rock around it when 1 of the amount is left.
+sheet[100] | 94, 138, 16, 16 | One of 16 rocks, picked at random. It's the main rock when the amount is 8 or more, and an extra rock around it when 1 of the amount is left.
+sheet[101] | 116, 138, 16, 16 | One of 16 rocks, picked at random. It's the main rock when the amount is 8 or more, and an extra rock around it when 1 of the amount is left.
+sheet[102] | 138, 138, 16, 16 | One of 16 rocks, picked at random. It's the main rock when the amount is 8 or more, and an extra rock around it when 1 of the amount is left.
+sheet[103] | 160, 138, 16, 16 | One of 16 rocks, picked at random. It's the main rock when the amount is 8 or more, and an extra rock around it when 1 of the amount is left.
+sheet[104] | 182, 138, 16, 16 | One of 16 rocks, picked at random. It's the main rock when the amount is 8 or more, and an extra rock around it when 1 of the amount is left.
+sheet[105] | 204, 138, 16, 16 | One of 16 rocks, picked at random. It's the main rock when the amount is 8 or more, and an extra rock around it when 1 of the amount is left.
+sheet[106] | 226, 138, 16, 16 | One of 16 rocks, picked at random. It's the main rock when the amount is 8 or more, and an extra rock around it when 1 of the amount is left.
+sheet[107] | 248, 138, 16, 16 | One of 16 rocks, picked at random. It's the main rock when the amount is 8 or more, and an extra rock around it when 1 of the amount is left.
+sheet[108] | 270, 138, 16, 16 | One of 16 rocks, picked at random. It's the main rock when the amount is 8 or more, and an extra rock around it when 1 of the amount is left.
+sheet[109] | 292, 138, 16, 16 | One of 16 rocks, picked at random. It's the main rock when the amount is 8 or more, and an extra rock around it when 1 of the amount is left.
+sheet[110] | 314, 138, 16, 16 | One of 16 rocks, picked at random. It's the main rock when the amount is 8 or more, and an extra rock around it when 1 of the amount is left.
+sheet[111] | 336, 138, 16, 16 | One of 16 rocks, picked at random. It's the main rock when the amount is 8 or more, and an extra rock around it when 1 of the amount is left.
+sheet[112] | 6, 160, 16, 16 | One of 16 rocks, picked at random. It's the main rock when the amount is under 8.
+sheet[113] | 28, 160, 16, 16 | One of 16 rocks, picked at random. It's the main rock when the amount is under 8.
+sheet[114] | 50, 160, 16, 16 | One of 16 rocks, picked at random. It's the main rock when the amount is under 8.
+sheet[115] | 72, 160, 16, 16 | One of 16 rocks, picked at random. It's the main rock when the amount is under 8.
+sheet[116] | 94, 160, 16, 16 | One of 16 rocks, picked at random. It's the main rock when the amount is under 8.
+sheet[117] | 116, 160, 16, 16 | One of 16 rocks, picked at random. It's the main rock when the amount is under 8.
+sheet[118] | 138, 160, 16, 16 | One of 16 rocks, picked at random. It's the main rock when the amount is under 8.
+sheet[119] | 160, 160, 16, 16 | One of 16 rocks, picked at random. It's the main rock when the amount is under 8.
+sheet[120] | 182, 160, 16, 16 | One of 16 rocks, picked at random. It's the main rock when the amount is under 8.
+sheet[121] | 204, 160, 16, 16 | One of 16 rocks, picked at random. It's the main rock when the amount is under 8.
+sheet[122] | 226, 160, 16, 16 | One of 16 rocks, picked at random. It's the main rock when the amount is under 8.
+sheet[123] | 248, 160, 16, 16 | One of 16 rocks, picked at random. It's the main rock when the amount is under 8.
+sheet[124] | 270, 160, 16, 16 | One of 16 rocks, picked at random. It's the main rock when the amount is under 8.
+sheet[125] | 292, 160, 16, 16 | One of 16 rocks, picked at random. It's the main rock when the amount is under 8.
+sheet[126] | 314, 160, 16, 16 | One of 16 rocks, picked at random. It's the main rock when the amount is under 8.
+sheet[127] | 336, 160, 16, 16 | One of 16 rocks, picked at random. It's the main rock when the amount is under 8.
+sheet[0] normal | 364, 6, 16, 16 | The normal map for sheet[0].
+sheet[1] normal | 386, 6, 16, 16 | The normal map for sheet[1].
+sheet[2] normal | 408, 6, 16, 16 | The normal map for sheet[2].
+sheet[3] normal | 430, 6, 16, 16 | The normal map for sheet[3].
+sheet[4] normal | 452, 6, 16, 16 | The normal map for sheet[4].
+sheet[5] normal | 474, 6, 16, 16 | The normal map for sheet[5].
+sheet[6] normal | 496, 6, 16, 16 | The normal map for sheet[6].
+sheet[7] normal | 518, 6, 16, 16 | The normal map for sheet[7].
+sheet[8] normal | 540, 6, 16, 16 | The normal map for sheet[8].
+sheet[9] normal | 562, 6, 16, 16 | The normal map for sheet[9].
+sheet[10] normal | 584, 6, 16, 16 | The normal map for sheet[10].
+sheet[11] normal | 606, 6, 16, 16 | The normal map for sheet[11].
+sheet[12] normal | 628, 6, 16, 16 | The normal map for sheet[12].
+sheet[13] normal | 650, 6, 16, 16 | The normal map for sheet[13].
+sheet[14] normal | 672, 6, 16, 16 | The normal map for sheet[14].
+sheet[15] normal | 694, 6, 16, 16 | The normal map for sheet[15].
+sheet[16] normal | 364, 28, 16, 16 | The normal map for sheet[16].
+sheet[17] normal | 386, 28, 16, 16 | The normal map for sheet[17].
+sheet[18] normal | 408, 28, 16, 16 | The normal map for sheet[18].
+sheet[19] normal | 430, 28, 16, 16 | The normal map for sheet[19].
+sheet[20] normal | 452, 28, 16, 16 | The normal map for sheet[20].
+sheet[21] normal | 474, 28, 16, 16 | The normal map for sheet[21].
+sheet[22] normal | 496, 28, 16, 16 | The normal map for sheet[22].
+sheet[23] normal | 518, 28, 16, 16 | The normal map for sheet[23].
+sheet[24] normal | 540, 28, 16, 16 | The normal map for sheet[24].
+sheet[25] normal | 562, 28, 16, 16 | The normal map for sheet[25].
+sheet[26] normal | 584, 28, 16, 16 | The normal map for sheet[26].
+sheet[27] normal | 606, 28, 16, 16 | The normal map for sheet[27].
+sheet[28] normal | 628, 28, 16, 16 | The normal map for sheet[28].
+sheet[29] normal | 650, 28, 16, 16 | The normal map for sheet[29].
+sheet[30] normal | 672, 28, 16, 16 | The normal map for sheet[30].
+sheet[31] normal | 694, 28, 16, 16 | The normal map for sheet[31].
+sheet[32] normal | 364, 50, 16, 16 | The normal map for sheet[32].
+sheet[33] normal | 386, 50, 16, 16 | The normal map for sheet[33].
+sheet[34] normal | 408, 50, 16, 16 | The normal map for sheet[34].
+sheet[35] normal | 430, 50, 16, 16 | The normal map for sheet[35].
+sheet[36] normal | 452, 50, 16, 16 | The normal map for sheet[36].
+sheet[37] normal | 474, 50, 16, 16 | The normal map for sheet[37].
+sheet[38] normal | 496, 50, 16, 16 | The normal map for sheet[38].
+sheet[39] normal | 518, 50, 16, 16 | The normal map for sheet[39].
+sheet[40] normal | 540, 50, 16, 16 | The normal map for sheet[40].
+sheet[41] normal | 562, 50, 16, 16 | The normal map for sheet[41].
+sheet[42] normal | 584, 50, 16, 16 | The normal map for sheet[42].
+sheet[43] normal | 606, 50, 16, 16 | The normal map for sheet[43].
+sheet[44] normal | 628, 50, 16, 16 | The normal map for sheet[44].
+sheet[45] normal | 650, 50, 16, 16 | The normal map for sheet[45].
+sheet[46] normal | 672, 50, 16, 16 | The normal map for sheet[46].
+sheet[47] normal | 694, 50, 16, 16 | The normal map for sheet[47].
+sheet[48] normal | 364, 72, 16, 16 | The normal map for sheet[48].
+sheet[49] normal | 386, 72, 16, 16 | The normal map for sheet[49].
+sheet[50] normal | 408, 72, 16, 16 | The normal map for sheet[50].
+sheet[51] normal | 430, 72, 16, 16 | The normal map for sheet[51].
+sheet[52] normal | 452, 72, 16, 16 | The normal map for sheet[52].
+sheet[53] normal | 474, 72, 16, 16 | The normal map for sheet[53].
+sheet[54] normal | 496, 72, 16, 16 | The normal map for sheet[54].
+sheet[55] normal | 518, 72, 16, 16 | The normal map for sheet[55].
+sheet[56] normal | 540, 72, 16, 16 | The normal map for sheet[56].
+sheet[57] normal | 562, 72, 16, 16 | The normal map for sheet[57].
+sheet[58] normal | 584, 72, 16, 16 | The normal map for sheet[58].
+sheet[59] normal | 606, 72, 16, 16 | The normal map for sheet[59].
+sheet[60] normal | 628, 72, 16, 16 | The normal map for sheet[60].
+sheet[61] normal | 650, 72, 16, 16 | The normal map for sheet[61].
+sheet[62] normal | 672, 72, 16, 16 | The normal map for sheet[62].
+sheet[63] normal | 694, 72, 16, 16 | The normal map for sheet[63].
+sheet[64] normal | 364, 94, 16, 16 | The normal map for sheet[64].
+sheet[65] normal | 386, 94, 16, 16 | The normal map for sheet[65].
+sheet[66] normal | 408, 94, 16, 16 | The normal map for sheet[66].
+sheet[67] normal | 430, 94, 16, 16 | The normal map for sheet[67].
+sheet[68] normal | 452, 94, 16, 16 | The normal map for sheet[68].
+sheet[69] normal | 474, 94, 16, 16 | The normal map for sheet[69].
+sheet[70] normal | 496, 94, 16, 16 | The normal map for sheet[70].
+sheet[71] normal | 518, 94, 16, 16 | The normal map for sheet[71].
+sheet[72] normal | 540, 94, 16, 16 | The normal map for sheet[72].
+sheet[73] normal | 562, 94, 16, 16 | The normal map for sheet[73].
+sheet[74] normal | 584, 94, 16, 16 | The normal map for sheet[74].
+sheet[75] normal | 606, 94, 16, 16 | The normal map for sheet[75].
+sheet[76] normal | 628, 94, 16, 16 | The normal map for sheet[76].
+sheet[77] normal | 650, 94, 16, 16 | The normal map for sheet[77].
+sheet[78] normal | 672, 94, 16, 16 | The normal map for sheet[78].
+sheet[79] normal | 694, 94, 16, 16 | The normal map for sheet[79].
+sheet[80] normal | 364, 116, 16, 16 | The normal map for sheet[80].
+sheet[81] normal | 386, 116, 16, 16 | The normal map for sheet[81].
+sheet[82] normal | 408, 116, 16, 16 | The normal map for sheet[82].
+sheet[83] normal | 430, 116, 16, 16 | The normal map for sheet[83].
+sheet[84] normal | 452, 116, 16, 16 | The normal map for sheet[84].
+sheet[85] normal | 474, 116, 16, 16 | The normal map for sheet[85].
+sheet[86] normal | 496, 116, 16, 16 | The normal map for sheet[86].
+sheet[87] normal | 518, 116, 16, 16 | The normal map for sheet[87].
+sheet[88] normal | 540, 116, 16, 16 | The normal map for sheet[88].
+sheet[89] normal | 562, 116, 16, 16 | The normal map for sheet[89].
+sheet[90] normal | 584, 116, 16, 16 | The normal map for sheet[90].
+sheet[91] normal | 606, 116, 16, 16 | The normal map for sheet[91].
+sheet[92] normal | 628, 116, 16, 16 | The normal map for sheet[92].
+sheet[93] normal | 650, 116, 16, 16 | The normal map for sheet[93].
+sheet[94] normal | 672, 116, 16, 16 | The normal map for sheet[94].
+sheet[95] normal | 694, 116, 16, 16 | The normal map for sheet[95].
+sheet[96] normal | 364, 138, 16, 16 | The normal map for sheet[96].
+sheet[97] normal | 386, 138, 16, 16 | The normal map for sheet[97].
+sheet[98] normal | 408, 138, 16, 16 | The normal map for sheet[98].
+sheet[99] normal | 430, 138, 16, 16 | The normal map for sheet[99].
+sheet[100] normal | 452, 138, 16, 16 | The normal map for sheet[100].
+sheet[101] normal | 474, 138, 16, 16 | The normal map for sheet[101].
+sheet[102] normal | 496, 138, 16, 16 | The normal map for sheet[102].
+sheet[103] normal | 518, 138, 16, 16 | The normal map for sheet[103].
+sheet[104] normal | 540, 138, 16, 16 | The normal map for sheet[104].
+sheet[105] normal | 562, 138, 16, 16 | The normal map for sheet[105].
+sheet[106] normal | 584, 138, 16, 16 | The normal map for sheet[106].
+sheet[107] normal | 606, 138, 16, 16 | The normal map for sheet[107].
+sheet[108] normal | 628, 138, 16, 16 | The normal map for sheet[108].
+sheet[109] normal | 650, 138, 16, 16 | The normal map for sheet[109].
+sheet[110] normal | 672, 138, 16, 16 | The normal map for sheet[110].
+sheet[111] normal | 694, 138, 16, 16 | The normal map for sheet[111].
+sheet[112] normal | 364, 160, 16, 16 | The normal map for sheet[112].
+sheet[113] normal | 386, 160, 16, 16 | The normal map for sheet[113].
+sheet[114] normal | 408, 160, 16, 16 | The normal map for sheet[114].
+sheet[115] normal | 430, 160, 16, 16 | The normal map for sheet[115].
+sheet[116] normal | 452, 160, 16, 16 | The normal map for sheet[116].
+sheet[117] normal | 474, 160, 16, 16 | The normal map for sheet[117].
+sheet[118] normal | 496, 160, 16, 16 | The normal map for sheet[118].
+sheet[119] normal | 518, 160, 16, 16 | The normal map for sheet[119].
+sheet[120] normal | 540, 160, 16, 16 | The normal map for sheet[120].
+sheet[121] normal | 562, 160, 16, 16 | The normal map for sheet[121].
+sheet[122] normal | 584, 160, 16, 16 | The normal map for sheet[122].
+sheet[123] normal | 606, 160, 16, 16 | The normal map for sheet[123].
+sheet[124] normal | 628, 160, 16, 16 | The normal map for sheet[124].
+sheet[125] normal | 650, 160, 16, 16 | The normal map for sheet[125].
+sheet[126] normal | 672, 160, 16, 16 | The normal map for sheet[126].
+sheet[127] normal | 694, 160, 16, 16 | The normal map for sheet[127].
