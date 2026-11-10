@@ -68,7 +68,7 @@ AREA_COSTS: [0,0,0,],
 
 ### FLOOR
 
-The floor laid in the room, by its key. It can be a single floor, or a list with one floor for each upgrade level. If the room has more upgrades than floors, the higher upgrades use the last floor. A single name that doesn't match a floor stops the game from loading, while one in a list is skipped, and only reported when Debug is on. A race's [`ROOM_FLOOR_OVERRIDE`](../07-race/01-race-file.md#room_floor_override) can replace it when you're playing that race. This example comes from the vanilla `WELL_NORMAL.txt`.
+The floor laid in the room, by its key. It can be a single floor, or a list with one floor for each upgrade level. If the room has more upgrades than floors, the higher upgrades use the last floor. A single name that doesn't match a floor stops the game from loading, while one in a list is skipped, and only reported when Debug is on. Some room types ignore this tag and handle the ground in their own code, including farms, fisheries, woodcutters, pools, artillery and the corpse dump. A race's [`ROOM_FLOOR_OVERRIDE`](../07-race/01-race-file.md#room_floor_override) can replace it when you're playing that race. This example comes from the vanilla `WELL_NORMAL.txt`.
 
 | | |
 |---|---|
@@ -235,7 +235,7 @@ RADIUS: 1,
 
 ### DEGRADE_RATE
 
-How quickly the room wears out and needs maintenance. Some room types set this in the game's code and ignore the tag: farms never degrade, for example. This example comes from the vanilla `_DUMP_CORPSE.txt`, the only vanilla room that uses it.
+How quickly the room wears out and needs maintenance. Some room types ignore the tag because the game's code stops them degrading: farms, orchards and pastures never degrade, for example. This example comes from the vanilla `_DUMP_CORPSE.txt`, the only vanilla room that uses it.
 
 | | |
 |---|---|

@@ -410,6 +410,20 @@ The game never reads this tag for fisheries. A fishery's storage holds 31 per ti
 STORAGE: 70,
 ```
 
+### FLOOR
+
+A fishery ignores this tag and clears the ground under the room instead of laying a floor. A single name that doesn't match a floor still stops the game from loading. No vanilla fishery sets it, so this example comes from the vanilla `HUNTER_NORMAL.txt`.
+
+| | |
+|---|---|
+| **Type** | Key (a floor), or a list of keys |
+| **Required** | No |
+| **Effect** | None |
+
+```text
+FLOOR: WOOD_SQUARE,
+```
+
 ### SPRITES
 
 The images a fishery is drawn with. Each name is a required [sprite entry](../../03-sprite/03-game.md#sprite-entries) of the kind its name ends with.
