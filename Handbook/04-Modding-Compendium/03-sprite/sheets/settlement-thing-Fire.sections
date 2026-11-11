@@ -1,0 +1,64 @@
+flame_small[0] | 6, 6, 8, 8 | A small flame, one of 8 picked for each light. Drawn on candles.
+flame_small[1] | 20, 6, 8, 8 | A small flame, one of 8 picked for each light. Drawn on candles.
+flame_small[2] | 34, 6, 8, 8 | A small flame, one of 8 picked for each light. Drawn on candles.
+flame_small[3] | 48, 6, 8, 8 | A small flame, one of 8 picked for each light. Drawn on candles.
+flame_small[4] | 62, 6, 8, 8 | A small flame, one of 8 picked for each light. Drawn on candles.
+flame_small[5] | 76, 6, 8, 8 | A small flame, one of 8 picked for each light. Drawn on candles.
+flame_small[6] | 90, 6, 8, 8 | A small flame, one of 8 picked for each light. Drawn on candles.
+flame_small[7] | 104, 6, 8, 8 | A small flame, one of 8 picked for each light. Drawn on candles.
+flame_medium[0] | 6, 20, 8, 8 | A medium flame, one of 8 picked for each light. Drawn on small torch monuments.
+flame_medium[1] | 20, 20, 8, 8 | A medium flame, one of 8 picked for each light. Drawn on small torch monuments.
+flame_medium[2] | 34, 20, 8, 8 | A medium flame, one of 8 picked for each light. Drawn on small torch monuments.
+flame_medium[3] | 48, 20, 8, 8 | A medium flame, one of 8 picked for each light. Drawn on small torch monuments.
+flame_medium[4] | 62, 20, 8, 8 | A medium flame, one of 8 picked for each light. Drawn on small torch monuments.
+flame_medium[5] | 76, 20, 8, 8 | A medium flame, one of 8 picked for each light. Drawn on small torch monuments.
+flame_medium[6] | 90, 20, 8, 8 | A medium flame, one of 8 picked for each light. Drawn on small torch monuments.
+flame_medium[7] | 104, 20, 8, 8 | A medium flame, one of 8 picked for each light. Drawn on small torch monuments.
+flame_big[0] | 6, 34, 8, 8 | A big flame, one of 8 picked for each light. Drawn on large torch monuments, guard rooms, hearths and shrines.
+flame_big[1] | 20, 34, 8, 8 | A big flame, one of 8 picked for each light. Drawn on large torch monuments, guard rooms, hearths and shrines.
+flame_big[2] | 34, 34, 8, 8 | A big flame, one of 8 picked for each light. Drawn on large torch monuments, guard rooms, hearths and shrines.
+flame_big[3] | 48, 34, 8, 8 | A big flame, one of 8 picked for each light. Drawn on large torch monuments, guard rooms, hearths and shrines.
+flame_big[4] | 62, 34, 8, 8 | A big flame, one of 8 picked for each light. Drawn on large torch monuments, guard rooms, hearths and shrines.
+flame_big[5] | 76, 34, 8, 8 | A big flame, one of 8 picked for each light. Drawn on large torch monuments, guard rooms, hearths and shrines.
+flame_big[6] | 90, 34, 8, 8 | A big flame, one of 8 picked for each light. Drawn on large torch monuments, guard rooms, hearths and shrines.
+flame_big[7] | 104, 34, 8, 8 | A big flame, one of 8 picked for each light. Drawn on large torch monuments, guard rooms, hearths and shrines.
+candle[0] | 6, 48, 8, 8 | A candle, one of 8 picked for each light. It's drawn with a small flame, and stays visible when the flame isn't lit.
+candle[1] | 20, 48, 8, 8 | A candle, one of 8 picked for each light. It's drawn with a small flame, and stays visible when the flame isn't lit.
+candle[2] | 34, 48, 8, 8 | A candle, one of 8 picked for each light. It's drawn with a small flame, and stays visible when the flame isn't lit.
+candle[3] | 48, 48, 8, 8 | A candle, one of 8 picked for each light. It's drawn with a small flame, and stays visible when the flame isn't lit.
+candle[4] | 62, 48, 8, 8 | A candle, one of 8 picked for each light. It's drawn with a small flame, and stays visible when the flame isn't lit.
+candle[5] | 76, 48, 8, 8 | A candle, one of 8 picked for each light. It's drawn with a small flame, and stays visible when the flame isn't lit.
+candle[6] | 90, 48, 8, 8 | A candle, one of 8 picked for each light. It's drawn with a small flame, and stays visible when the flame isn't lit.
+candle[7] | 104, 48, 8, 8 | A candle, one of 8 picked for each light. It's drawn with a small flame, and stays visible when the flame isn't lit.
+flame_small[0] normal | 124, 6, 8, 8 | The normal map for flame_small[0].
+flame_small[1] normal | 138, 6, 8, 8 | The normal map for flame_small[1].
+flame_small[2] normal | 152, 6, 8, 8 | The normal map for flame_small[2].
+flame_small[3] normal | 166, 6, 8, 8 | The normal map for flame_small[3].
+flame_small[4] normal | 180, 6, 8, 8 | The normal map for flame_small[4].
+flame_small[5] normal | 194, 6, 8, 8 | The normal map for flame_small[5].
+flame_small[6] normal | 208, 6, 8, 8 | The normal map for flame_small[6].
+flame_small[7] normal | 222, 6, 8, 8 | The normal map for flame_small[7].
+flame_medium[0] normal | 124, 20, 8, 8 | The normal map for flame_medium[0].
+flame_medium[1] normal | 138, 20, 8, 8 | The normal map for flame_medium[1].
+flame_medium[2] normal | 152, 20, 8, 8 | The normal map for flame_medium[2].
+flame_medium[3] normal | 166, 20, 8, 8 | The normal map for flame_medium[3].
+flame_medium[4] normal | 180, 20, 8, 8 | The normal map for flame_medium[4].
+flame_medium[5] normal | 194, 20, 8, 8 | The normal map for flame_medium[5].
+flame_medium[6] normal | 208, 20, 8, 8 | The normal map for flame_medium[6].
+flame_medium[7] normal | 222, 20, 8, 8 | The normal map for flame_medium[7].
+flame_big[0] normal | 124, 34, 8, 8 | The normal map for flame_big[0].
+flame_big[1] normal | 138, 34, 8, 8 | The normal map for flame_big[1].
+flame_big[2] normal | 152, 34, 8, 8 | The normal map for flame_big[2].
+flame_big[3] normal | 166, 34, 8, 8 | The normal map for flame_big[3].
+flame_big[4] normal | 180, 34, 8, 8 | The normal map for flame_big[4].
+flame_big[5] normal | 194, 34, 8, 8 | The normal map for flame_big[5].
+flame_big[6] normal | 208, 34, 8, 8 | The normal map for flame_big[6].
+flame_big[7] normal | 222, 34, 8, 8 | The normal map for flame_big[7].
+candle[0] normal | 124, 48, 8, 8 | The normal map for candle[0].
+candle[1] normal | 138, 48, 8, 8 | The normal map for candle[1].
+candle[2] normal | 152, 48, 8, 8 | The normal map for candle[2].
+candle[3] normal | 166, 48, 8, 8 | The normal map for candle[3].
+candle[4] normal | 180, 48, 8, 8 | The normal map for candle[4].
+candle[5] normal | 194, 48, 8, 8 | The normal map for candle[5].
+candle[6] normal | 208, 48, 8, 8 | The normal map for candle[6].
+candle[7] normal | 222, 48, 8, 8 | The normal map for candle[7].

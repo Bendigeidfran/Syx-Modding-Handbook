@@ -1,0 +1,272 @@
+riverBG[0] | 54, 54, 16, 16 | The banks of a big river, on a tile joined to the river on no side. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[1] | 54, 34, 16, 16 | The banks of a big river, on a tile joined to the river to the north. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[2] | 2, 54, 16, 16 | The banks of a big river, on a tile joined to the river to the east. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[3] | 2, 34, 16, 16 | The banks of a big river, on a tile joined to the river to the north and east. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[4] | 54, 2, 16, 16 | The banks of a big river, on a tile joined to the river to the south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[5] | 54, 18, 16, 16 | The banks of a big river, on a tile joined to the river to the north and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[6] | 2, 2, 16, 16 | The banks of a big river, on a tile joined to the river to the east and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[7] | 2, 18, 16, 16 | The banks of a big river, on a tile joined to the river to the north, east and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[8] | 34, 54, 16, 16 | The banks of a big river, on a tile joined to the river to the west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[9] | 34, 34, 16, 16 | The banks of a big river, on a tile joined to the river to the north and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[10] | 18, 54, 16, 16 | The banks of a big river, on a tile joined to the river to the east and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[11] | 18, 34, 16, 16 | The banks of a big river, on a tile joined to the river to the north, east and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[12] | 34, 2, 16, 16 | The banks of a big river, on a tile joined to the river to the south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[13] | 34, 18, 16, 16 | The banks of a big river, on a tile joined to the river to the north, south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[14] | 18, 2, 16, 16 | The banks of a big river, on a tile joined to the river to the east, south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[15] | 18, 18, 16, 16 | The banks of a big river, on a tile joined to the river on all four sides. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[32] | 126, 54, 16, 16 | The banks of a big river, on a tile joined to the river on no side. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[33] | 126, 34, 16, 16 | The banks of a big river, on a tile joined to the river to the north. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[34] | 74, 54, 16, 16 | The banks of a big river, on a tile joined to the river to the east. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[35] | 74, 34, 16, 16 | The banks of a big river, on a tile joined to the river to the north and east. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[36] | 126, 2, 16, 16 | The banks of a big river, on a tile joined to the river to the south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[37] | 126, 18, 16, 16 | The banks of a big river, on a tile joined to the river to the north and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[38] | 74, 2, 16, 16 | The banks of a big river, on a tile joined to the river to the east and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[39] | 74, 18, 16, 16 | The banks of a big river, on a tile joined to the river to the north, east and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[40] | 106, 54, 16, 16 | The banks of a big river, on a tile joined to the river to the west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[41] | 106, 34, 16, 16 | The banks of a big river, on a tile joined to the river to the north and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[42] | 90, 54, 16, 16 | The banks of a big river, on a tile joined to the river to the east and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[43] | 90, 34, 16, 16 | The banks of a big river, on a tile joined to the river to the north, east and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[44] | 106, 2, 16, 16 | The banks of a big river, on a tile joined to the river to the south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[45] | 106, 18, 16, 16 | The banks of a big river, on a tile joined to the river to the north, south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[46] | 90, 2, 16, 16 | The banks of a big river, on a tile joined to the river to the east, south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[47] | 90, 18, 16, 16 | The banks of a big river, on a tile joined to the river on all four sides. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[64] | 198, 54, 16, 16 | The banks of a big river, on a tile joined to the river on no side. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[65] | 198, 34, 16, 16 | The banks of a big river, on a tile joined to the river to the north. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[66] | 146, 54, 16, 16 | The banks of a big river, on a tile joined to the river to the east. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[67] | 146, 34, 16, 16 | The banks of a big river, on a tile joined to the river to the north and east. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[68] | 198, 2, 16, 16 | The banks of a big river, on a tile joined to the river to the south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[69] | 198, 18, 16, 16 | The banks of a big river, on a tile joined to the river to the north and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[70] | 146, 2, 16, 16 | The banks of a big river, on a tile joined to the river to the east and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[71] | 146, 18, 16, 16 | The banks of a big river, on a tile joined to the river to the north, east and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[72] | 178, 54, 16, 16 | The banks of a big river, on a tile joined to the river to the west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[73] | 178, 34, 16, 16 | The banks of a big river, on a tile joined to the river to the north and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[74] | 162, 54, 16, 16 | The banks of a big river, on a tile joined to the river to the east and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[75] | 162, 34, 16, 16 | The banks of a big river, on a tile joined to the river to the north, east and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[76] | 178, 2, 16, 16 | The banks of a big river, on a tile joined to the river to the south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[77] | 178, 18, 16, 16 | The banks of a big river, on a tile joined to the river to the north, south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[78] | 162, 2, 16, 16 | The banks of a big river, on a tile joined to the river to the east, south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[79] | 162, 18, 16, 16 | The banks of a big river, on a tile joined to the river on all four sides. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[96] | 270, 54, 16, 16 | The banks of a big river, on a tile joined to the river on no side. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[97] | 270, 34, 16, 16 | The banks of a big river, on a tile joined to the river to the north. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[98] | 218, 54, 16, 16 | The banks of a big river, on a tile joined to the river to the east. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[99] | 218, 34, 16, 16 | The banks of a big river, on a tile joined to the river to the north and east. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[100] | 270, 2, 16, 16 | The banks of a big river, on a tile joined to the river to the south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[101] | 270, 18, 16, 16 | The banks of a big river, on a tile joined to the river to the north and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[102] | 218, 2, 16, 16 | The banks of a big river, on a tile joined to the river to the east and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[103] | 218, 18, 16, 16 | The banks of a big river, on a tile joined to the river to the north, east and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[104] | 250, 54, 16, 16 | The banks of a big river, on a tile joined to the river to the west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[105] | 250, 34, 16, 16 | The banks of a big river, on a tile joined to the river to the north and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[106] | 234, 54, 16, 16 | The banks of a big river, on a tile joined to the river to the east and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[107] | 234, 34, 16, 16 | The banks of a big river, on a tile joined to the river to the north, east and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[108] | 250, 2, 16, 16 | The banks of a big river, on a tile joined to the river to the south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[109] | 250, 18, 16, 16 | The banks of a big river, on a tile joined to the river to the north, south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[110] | 234, 2, 16, 16 | The banks of a big river, on a tile joined to the river to the east, south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverBG[111] | 234, 18, 16, 16 | The banks of a big river, on a tile joined to the river on all four sides. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverFG[0] | 54, 126, 16, 16 | The water of a big river, on a tile joined to the river on no side. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[1] | 54, 106, 16, 16 | The water of a big river, on a tile joined to the river to the north. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[2] | 2, 126, 16, 16 | The water of a big river, on a tile joined to the river to the east. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[3] | 2, 106, 16, 16 | The water of a big river, on a tile joined to the river to the north and east. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[4] | 54, 74, 16, 16 | The water of a big river, on a tile joined to the river to the south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[5] | 54, 90, 16, 16 | The water of a big river, on a tile joined to the river to the north and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[6] | 2, 74, 16, 16 | The water of a big river, on a tile joined to the river to the east and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[7] | 2, 90, 16, 16 | The water of a big river, on a tile joined to the river to the north, east and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[8] | 34, 126, 16, 16 | The water of a big river, on a tile joined to the river to the west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[9] | 34, 106, 16, 16 | The water of a big river, on a tile joined to the river to the north and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[10] | 18, 126, 16, 16 | The water of a big river, on a tile joined to the river to the east and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[11] | 18, 106, 16, 16 | The water of a big river, on a tile joined to the river to the north, east and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[12] | 34, 74, 16, 16 | The water of a big river, on a tile joined to the river to the south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[13] | 34, 90, 16, 16 | The water of a big river, on a tile joined to the river to the north, south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[14] | 18, 74, 16, 16 | The water of a big river, on a tile joined to the river to the east, south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[15] | 18, 90, 16, 16 | The water of a big river, on a tile joined to the river on all four sides. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[32] | 126, 126, 16, 16 | The water of a big river, on a tile joined to the river on no side. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[33] | 126, 106, 16, 16 | The water of a big river, on a tile joined to the river to the north. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[34] | 74, 126, 16, 16 | The water of a big river, on a tile joined to the river to the east. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[35] | 74, 106, 16, 16 | The water of a big river, on a tile joined to the river to the north and east. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[36] | 126, 74, 16, 16 | The water of a big river, on a tile joined to the river to the south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[37] | 126, 90, 16, 16 | The water of a big river, on a tile joined to the river to the north and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[38] | 74, 74, 16, 16 | The water of a big river, on a tile joined to the river to the east and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[39] | 74, 90, 16, 16 | The water of a big river, on a tile joined to the river to the north, east and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[40] | 106, 126, 16, 16 | The water of a big river, on a tile joined to the river to the west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[41] | 106, 106, 16, 16 | The water of a big river, on a tile joined to the river to the north and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[42] | 90, 126, 16, 16 | The water of a big river, on a tile joined to the river to the east and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[43] | 90, 106, 16, 16 | The water of a big river, on a tile joined to the river to the north, east and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[44] | 106, 74, 16, 16 | The water of a big river, on a tile joined to the river to the south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[45] | 106, 90, 16, 16 | The water of a big river, on a tile joined to the river to the north, south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[46] | 90, 74, 16, 16 | The water of a big river, on a tile joined to the river to the east, south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[47] | 90, 90, 16, 16 | The water of a big river, on a tile joined to the river on all four sides. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[64] | 198, 126, 16, 16 | The water of a big river, on a tile joined to the river on no side. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[65] | 198, 106, 16, 16 | The water of a big river, on a tile joined to the river to the north. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[66] | 146, 126, 16, 16 | The water of a big river, on a tile joined to the river to the east. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[67] | 146, 106, 16, 16 | The water of a big river, on a tile joined to the river to the north and east. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[68] | 198, 74, 16, 16 | The water of a big river, on a tile joined to the river to the south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[69] | 198, 90, 16, 16 | The water of a big river, on a tile joined to the river to the north and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[70] | 146, 74, 16, 16 | The water of a big river, on a tile joined to the river to the east and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[71] | 146, 90, 16, 16 | The water of a big river, on a tile joined to the river to the north, east and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[72] | 178, 126, 16, 16 | The water of a big river, on a tile joined to the river to the west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[73] | 178, 106, 16, 16 | The water of a big river, on a tile joined to the river to the north and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[74] | 162, 126, 16, 16 | The water of a big river, on a tile joined to the river to the east and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[75] | 162, 106, 16, 16 | The water of a big river, on a tile joined to the river to the north, east and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[76] | 178, 74, 16, 16 | The water of a big river, on a tile joined to the river to the south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[77] | 178, 90, 16, 16 | The water of a big river, on a tile joined to the river to the north, south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[78] | 162, 74, 16, 16 | The water of a big river, on a tile joined to the river to the east, south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[79] | 162, 90, 16, 16 | The water of a big river, on a tile joined to the river on all four sides. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[96] | 270, 126, 16, 16 | The water of a big river, on a tile joined to the river on no side. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[97] | 270, 106, 16, 16 | The water of a big river, on a tile joined to the river to the north. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[98] | 218, 126, 16, 16 | The water of a big river, on a tile joined to the river to the east. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[99] | 218, 106, 16, 16 | The water of a big river, on a tile joined to the river to the north and east. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[100] | 270, 74, 16, 16 | The water of a big river, on a tile joined to the river to the south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[101] | 270, 90, 16, 16 | The water of a big river, on a tile joined to the river to the north and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[102] | 218, 74, 16, 16 | The water of a big river, on a tile joined to the river to the east and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[103] | 218, 90, 16, 16 | The water of a big river, on a tile joined to the river to the north, east and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[104] | 250, 126, 16, 16 | The water of a big river, on a tile joined to the river to the west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[105] | 250, 106, 16, 16 | The water of a big river, on a tile joined to the river to the north and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[106] | 234, 126, 16, 16 | The water of a big river, on a tile joined to the river to the east and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[107] | 234, 106, 16, 16 | The water of a big river, on a tile joined to the river to the north, east and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[108] | 250, 74, 16, 16 | The water of a big river, on a tile joined to the river to the south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[109] | 250, 90, 16, 16 | The water of a big river, on a tile joined to the river to the north, south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[110] | 234, 74, 16, 16 | The water of a big river, on a tile joined to the river to the east, south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverFG[111] | 234, 90, 16, 16 | The water of a big river, on a tile joined to the river on all four sides. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+deltaShore[0] | 6, 150, 16, 16 | The shore of a river mouth, drawn on the river's last tile. As painted, the open water is to the north; the game turns it for the other sides. One of 4 picked at random. Tinted with the shore colour of the lake or ocean it meets.
+delta[0] | 100, 150, 16, 16 | The water of a river mouth, drawn on the river's last tile. As painted, the open water is to the north; the game turns it for the other sides. One of 4 picked at random. Tinted with the colour of the lake or ocean it meets.
+deltaShore[4] | 28, 150, 16, 16 | The shore of a river mouth, drawn on the river's last tile. As painted, the open water is to the north; the game turns it for the other sides. One of 4 picked at random. Tinted with the shore colour of the lake or ocean it meets.
+delta[4] | 122, 150, 16, 16 | The water of a river mouth, drawn on the river's last tile. As painted, the open water is to the north; the game turns it for the other sides. One of 4 picked at random. Tinted with the colour of the lake or ocean it meets.
+deltaShore[8] | 50, 150, 16, 16 | The shore of a river mouth, drawn on the river's last tile. As painted, the open water is to the north; the game turns it for the other sides. One of 4 picked at random. Tinted with the shore colour of the lake or ocean it meets.
+delta[8] | 144, 150, 16, 16 | The water of a river mouth, drawn on the river's last tile. As painted, the open water is to the north; the game turns it for the other sides. One of 4 picked at random. Tinted with the colour of the lake or ocean it meets.
+deltaShore[12] | 72, 150, 16, 16 | The shore of a river mouth, drawn on the river's last tile. As painted, the open water is to the north; the game turns it for the other sides. One of 4 picked at random. Tinted with the shore colour of the lake or ocean it meets.
+delta[12] | 166, 150, 16, 16 | The water of a river mouth, drawn on the river's last tile. As painted, the open water is to the north; the game turns it for the other sides. One of 4 picked at random. Tinted with the colour of the lake or ocean it meets.
+riverBG[0] normal | 342, 54, 16, 16 | The normal map for riverBG[0].
+riverBG[1] normal | 342, 34, 16, 16 | The normal map for riverBG[1].
+riverBG[2] normal | 290, 54, 16, 16 | The normal map for riverBG[2].
+riverBG[3] normal | 290, 34, 16, 16 | The normal map for riverBG[3].
+riverBG[4] normal | 342, 2, 16, 16 | The normal map for riverBG[4].
+riverBG[5] normal | 342, 18, 16, 16 | The normal map for riverBG[5].
+riverBG[6] normal | 290, 2, 16, 16 | The normal map for riverBG[6].
+riverBG[7] normal | 290, 18, 16, 16 | The normal map for riverBG[7].
+riverBG[8] normal | 322, 54, 16, 16 | The normal map for riverBG[8].
+riverBG[9] normal | 322, 34, 16, 16 | The normal map for riverBG[9].
+riverBG[10] normal | 306, 54, 16, 16 | The normal map for riverBG[10].
+riverBG[11] normal | 306, 34, 16, 16 | The normal map for riverBG[11].
+riverBG[12] normal | 322, 2, 16, 16 | The normal map for riverBG[12].
+riverBG[13] normal | 322, 18, 16, 16 | The normal map for riverBG[13].
+riverBG[14] normal | 306, 2, 16, 16 | The normal map for riverBG[14].
+riverBG[15] normal | 306, 18, 16, 16 | The normal map for riverBG[15].
+riverBG[32] normal | 414, 54, 16, 16 | The normal map for riverBG[32].
+riverBG[33] normal | 414, 34, 16, 16 | The normal map for riverBG[33].
+riverBG[34] normal | 362, 54, 16, 16 | The normal map for riverBG[34].
+riverBG[35] normal | 362, 34, 16, 16 | The normal map for riverBG[35].
+riverBG[36] normal | 414, 2, 16, 16 | The normal map for riverBG[36].
+riverBG[37] normal | 414, 18, 16, 16 | The normal map for riverBG[37].
+riverBG[38] normal | 362, 2, 16, 16 | The normal map for riverBG[38].
+riverBG[39] normal | 362, 18, 16, 16 | The normal map for riverBG[39].
+riverBG[40] normal | 394, 54, 16, 16 | The normal map for riverBG[40].
+riverBG[41] normal | 394, 34, 16, 16 | The normal map for riverBG[41].
+riverBG[42] normal | 378, 54, 16, 16 | The normal map for riverBG[42].
+riverBG[43] normal | 378, 34, 16, 16 | The normal map for riverBG[43].
+riverBG[44] normal | 394, 2, 16, 16 | The normal map for riverBG[44].
+riverBG[45] normal | 394, 18, 16, 16 | The normal map for riverBG[45].
+riverBG[46] normal | 378, 2, 16, 16 | The normal map for riverBG[46].
+riverBG[47] normal | 378, 18, 16, 16 | The normal map for riverBG[47].
+riverBG[64] normal | 486, 54, 16, 16 | The normal map for riverBG[64].
+riverBG[65] normal | 486, 34, 16, 16 | The normal map for riverBG[65].
+riverBG[66] normal | 434, 54, 16, 16 | The normal map for riverBG[66].
+riverBG[67] normal | 434, 34, 16, 16 | The normal map for riverBG[67].
+riverBG[68] normal | 486, 2, 16, 16 | The normal map for riverBG[68].
+riverBG[69] normal | 486, 18, 16, 16 | The normal map for riverBG[69].
+riverBG[70] normal | 434, 2, 16, 16 | The normal map for riverBG[70].
+riverBG[71] normal | 434, 18, 16, 16 | The normal map for riverBG[71].
+riverBG[72] normal | 466, 54, 16, 16 | The normal map for riverBG[72].
+riverBG[73] normal | 466, 34, 16, 16 | The normal map for riverBG[73].
+riverBG[74] normal | 450, 54, 16, 16 | The normal map for riverBG[74].
+riverBG[75] normal | 450, 34, 16, 16 | The normal map for riverBG[75].
+riverBG[76] normal | 466, 2, 16, 16 | The normal map for riverBG[76].
+riverBG[77] normal | 466, 18, 16, 16 | The normal map for riverBG[77].
+riverBG[78] normal | 450, 2, 16, 16 | The normal map for riverBG[78].
+riverBG[79] normal | 450, 18, 16, 16 | The normal map for riverBG[79].
+riverBG[96] normal | 558, 54, 16, 16 | The normal map for riverBG[96].
+riverBG[97] normal | 558, 34, 16, 16 | The normal map for riverBG[97].
+riverBG[98] normal | 506, 54, 16, 16 | The normal map for riverBG[98].
+riverBG[99] normal | 506, 34, 16, 16 | The normal map for riverBG[99].
+riverBG[100] normal | 558, 2, 16, 16 | The normal map for riverBG[100].
+riverBG[101] normal | 558, 18, 16, 16 | The normal map for riverBG[101].
+riverBG[102] normal | 506, 2, 16, 16 | The normal map for riverBG[102].
+riverBG[103] normal | 506, 18, 16, 16 | The normal map for riverBG[103].
+riverBG[104] normal | 538, 54, 16, 16 | The normal map for riverBG[104].
+riverBG[105] normal | 538, 34, 16, 16 | The normal map for riverBG[105].
+riverBG[106] normal | 522, 54, 16, 16 | The normal map for riverBG[106].
+riverBG[107] normal | 522, 34, 16, 16 | The normal map for riverBG[107].
+riverBG[108] normal | 538, 2, 16, 16 | The normal map for riverBG[108].
+riverBG[109] normal | 538, 18, 16, 16 | The normal map for riverBG[109].
+riverBG[110] normal | 522, 2, 16, 16 | The normal map for riverBG[110].
+riverBG[111] normal | 522, 18, 16, 16 | The normal map for riverBG[111].
+riverFG[0] normal | 342, 126, 16, 16 | The normal map for riverFG[0].
+riverFG[1] normal | 342, 106, 16, 16 | The normal map for riverFG[1].
+riverFG[2] normal | 290, 126, 16, 16 | The normal map for riverFG[2].
+riverFG[3] normal | 290, 106, 16, 16 | The normal map for riverFG[3].
+riverFG[4] normal | 342, 74, 16, 16 | The normal map for riverFG[4].
+riverFG[5] normal | 342, 90, 16, 16 | The normal map for riverFG[5].
+riverFG[6] normal | 290, 74, 16, 16 | The normal map for riverFG[6].
+riverFG[7] normal | 290, 90, 16, 16 | The normal map for riverFG[7].
+riverFG[8] normal | 322, 126, 16, 16 | The normal map for riverFG[8].
+riverFG[9] normal | 322, 106, 16, 16 | The normal map for riverFG[9].
+riverFG[10] normal | 306, 126, 16, 16 | The normal map for riverFG[10].
+riverFG[11] normal | 306, 106, 16, 16 | The normal map for riverFG[11].
+riverFG[12] normal | 322, 74, 16, 16 | The normal map for riverFG[12].
+riverFG[13] normal | 322, 90, 16, 16 | The normal map for riverFG[13].
+riverFG[14] normal | 306, 74, 16, 16 | The normal map for riverFG[14].
+riverFG[15] normal | 306, 90, 16, 16 | The normal map for riverFG[15].
+riverFG[32] normal | 414, 126, 16, 16 | The normal map for riverFG[32].
+riverFG[33] normal | 414, 106, 16, 16 | The normal map for riverFG[33].
+riverFG[34] normal | 362, 126, 16, 16 | The normal map for riverFG[34].
+riverFG[35] normal | 362, 106, 16, 16 | The normal map for riverFG[35].
+riverFG[36] normal | 414, 74, 16, 16 | The normal map for riverFG[36].
+riverFG[37] normal | 414, 90, 16, 16 | The normal map for riverFG[37].
+riverFG[38] normal | 362, 74, 16, 16 | The normal map for riverFG[38].
+riverFG[39] normal | 362, 90, 16, 16 | The normal map for riverFG[39].
+riverFG[40] normal | 394, 126, 16, 16 | The normal map for riverFG[40].
+riverFG[41] normal | 394, 106, 16, 16 | The normal map for riverFG[41].
+riverFG[42] normal | 378, 126, 16, 16 | The normal map for riverFG[42].
+riverFG[43] normal | 378, 106, 16, 16 | The normal map for riverFG[43].
+riverFG[44] normal | 394, 74, 16, 16 | The normal map for riverFG[44].
+riverFG[45] normal | 394, 90, 16, 16 | The normal map for riverFG[45].
+riverFG[46] normal | 378, 74, 16, 16 | The normal map for riverFG[46].
+riverFG[47] normal | 378, 90, 16, 16 | The normal map for riverFG[47].
+riverFG[64] normal | 486, 126, 16, 16 | The normal map for riverFG[64].
+riverFG[65] normal | 486, 106, 16, 16 | The normal map for riverFG[65].
+riverFG[66] normal | 434, 126, 16, 16 | The normal map for riverFG[66].
+riverFG[67] normal | 434, 106, 16, 16 | The normal map for riverFG[67].
+riverFG[68] normal | 486, 74, 16, 16 | The normal map for riverFG[68].
+riverFG[69] normal | 486, 90, 16, 16 | The normal map for riverFG[69].
+riverFG[70] normal | 434, 74, 16, 16 | The normal map for riverFG[70].
+riverFG[71] normal | 434, 90, 16, 16 | The normal map for riverFG[71].
+riverFG[72] normal | 466, 126, 16, 16 | The normal map for riverFG[72].
+riverFG[73] normal | 466, 106, 16, 16 | The normal map for riverFG[73].
+riverFG[74] normal | 450, 126, 16, 16 | The normal map for riverFG[74].
+riverFG[75] normal | 450, 106, 16, 16 | The normal map for riverFG[75].
+riverFG[76] normal | 466, 74, 16, 16 | The normal map for riverFG[76].
+riverFG[77] normal | 466, 90, 16, 16 | The normal map for riverFG[77].
+riverFG[78] normal | 450, 74, 16, 16 | The normal map for riverFG[78].
+riverFG[79] normal | 450, 90, 16, 16 | The normal map for riverFG[79].
+riverFG[96] normal | 558, 126, 16, 16 | The normal map for riverFG[96].
+riverFG[97] normal | 558, 106, 16, 16 | The normal map for riverFG[97].
+riverFG[98] normal | 506, 126, 16, 16 | The normal map for riverFG[98].
+riverFG[99] normal | 506, 106, 16, 16 | The normal map for riverFG[99].
+riverFG[100] normal | 558, 74, 16, 16 | The normal map for riverFG[100].
+riverFG[101] normal | 558, 90, 16, 16 | The normal map for riverFG[101].
+riverFG[102] normal | 506, 74, 16, 16 | The normal map for riverFG[102].
+riverFG[103] normal | 506, 90, 16, 16 | The normal map for riverFG[103].
+riverFG[104] normal | 538, 126, 16, 16 | The normal map for riverFG[104].
+riverFG[105] normal | 538, 106, 16, 16 | The normal map for riverFG[105].
+riverFG[106] normal | 522, 126, 16, 16 | The normal map for riverFG[106].
+riverFG[107] normal | 522, 106, 16, 16 | The normal map for riverFG[107].
+riverFG[108] normal | 538, 74, 16, 16 | The normal map for riverFG[108].
+riverFG[109] normal | 538, 90, 16, 16 | The normal map for riverFG[109].
+riverFG[110] normal | 522, 74, 16, 16 | The normal map for riverFG[110].
+riverFG[111] normal | 522, 90, 16, 16 | The normal map for riverFG[111].
+deltaShore[0] normal | 294, 150, 16, 16 | The normal map for deltaShore[0].
+delta[0] normal | 388, 150, 16, 16 | The normal map for delta[0].
+deltaShore[4] normal | 316, 150, 16, 16 | The normal map for deltaShore[4].
+delta[4] normal | 410, 150, 16, 16 | The normal map for delta[4].
+deltaShore[8] normal | 338, 150, 16, 16 | The normal map for deltaShore[8].
+delta[8] normal | 432, 150, 16, 16 | The normal map for delta[8].
+deltaShore[12] normal | 360, 150, 16, 16 | The normal map for deltaShore[12].
+delta[12] normal | 454, 150, 16, 16 | The normal map for delta[12].

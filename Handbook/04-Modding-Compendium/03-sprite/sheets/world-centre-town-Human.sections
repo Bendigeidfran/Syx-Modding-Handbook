@@ -1,0 +1,128 @@
+sheet[0] | 6, 6, 8, 8 | A house at the smallest of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[1] | 20, 6, 8, 8 | A house at the smallest of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[2] | 34, 6, 8, 8 | A house at the smallest of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[3] | 48, 6, 8, 8 | A house at the smallest of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[4] | 62, 6, 8, 8 | A house at the smallest of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[5] | 76, 6, 8, 8 | A house at the smallest of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[6] | 90, 6, 8, 8 | A house at the smallest of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[7] | 104, 6, 8, 8 | A house at the smallest of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[8] | 118, 6, 8, 8 | A house at the smallest of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[9] | 132, 6, 8, 8 | A house at the smallest of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[10] | 146, 6, 8, 8 | A house at the smallest of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[11] | 160, 6, 8, 8 | A house at the smallest of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[12] | 174, 6, 8, 8 | A house at the smallest of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[13] | 188, 6, 8, 8 | A house at the smallest of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[14] | 202, 6, 8, 8 | A house at the smallest of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[15] | 216, 6, 8, 8 | A house at the smallest of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[16] | 6, 20, 8, 8 | A house at the second size of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[17] | 20, 20, 8, 8 | A house at the second size of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[18] | 34, 20, 8, 8 | A house at the second size of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[19] | 48, 20, 8, 8 | A house at the second size of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[20] | 62, 20, 8, 8 | A house at the second size of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[21] | 76, 20, 8, 8 | A house at the second size of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[22] | 90, 20, 8, 8 | A house at the second size of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[23] | 104, 20, 8, 8 | A house at the second size of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[24] | 118, 20, 8, 8 | A house at the second size of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[25] | 132, 20, 8, 8 | A house at the second size of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[26] | 146, 20, 8, 8 | A house at the second size of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[27] | 160, 20, 8, 8 | A house at the second size of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[28] | 174, 20, 8, 8 | A house at the second size of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[29] | 188, 20, 8, 8 | A house at the second size of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[30] | 202, 20, 8, 8 | A house at the second size of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[31] | 216, 20, 8, 8 | A house at the second size of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[32] | 6, 34, 8, 8 | A house at the third size of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[33] | 20, 34, 8, 8 | A house at the third size of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[34] | 34, 34, 8, 8 | A house at the third size of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[35] | 48, 34, 8, 8 | A house at the third size of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[36] | 62, 34, 8, 8 | A house at the third size of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[37] | 76, 34, 8, 8 | A house at the third size of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[38] | 90, 34, 8, 8 | A house at the third size of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[39] | 104, 34, 8, 8 | A house at the third size of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[40] | 118, 34, 8, 8 | A house at the third size of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[41] | 132, 34, 8, 8 | A house at the third size of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[42] | 146, 34, 8, 8 | A house at the third size of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[43] | 160, 34, 8, 8 | A house at the third size of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[44] | 174, 34, 8, 8 | A house at the third size of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[45] | 188, 34, 8, 8 | A house at the third size of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[46] | 202, 34, 8, 8 | A house at the third size of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[47] | 216, 34, 8, 8 | A house at the third size of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[48] | 6, 48, 8, 8 | A house at the largest of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[49] | 20, 48, 8, 8 | A house at the largest of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[50] | 34, 48, 8, 8 | A house at the largest of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[51] | 48, 48, 8, 8 | A house at the largest of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[52] | 62, 48, 8, 8 | A house at the largest of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[53] | 76, 48, 8, 8 | A house at the largest of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[54] | 90, 48, 8, 8 | A house at the largest of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[55] | 104, 48, 8, 8 | A house at the largest of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[56] | 118, 48, 8, 8 | A house at the largest of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[57] | 132, 48, 8, 8 | A house at the largest of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[58] | 146, 48, 8, 8 | A house at the largest of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[59] | 160, 48, 8, 8 | A house at the largest of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[60] | 174, 48, 8, 8 | A house at the largest of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[61] | 188, 48, 8, 8 | A house at the largest of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[62] | 202, 48, 8, 8 | A house at the largest of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[63] | 216, 48, 8, 8 | A house at the largest of 4 sizes, one of the 16 in its row picked at random. Houses at a region's centre grow larger with its population, and the middle ones first. Tinted with TOWN_COLOR.
+sheet[0] normal | 236, 6, 8, 8 | The normal map for sheet[0].
+sheet[1] normal | 250, 6, 8, 8 | The normal map for sheet[1].
+sheet[2] normal | 264, 6, 8, 8 | The normal map for sheet[2].
+sheet[3] normal | 278, 6, 8, 8 | The normal map for sheet[3].
+sheet[4] normal | 292, 6, 8, 8 | The normal map for sheet[4].
+sheet[5] normal | 306, 6, 8, 8 | The normal map for sheet[5].
+sheet[6] normal | 320, 6, 8, 8 | The normal map for sheet[6].
+sheet[7] normal | 334, 6, 8, 8 | The normal map for sheet[7].
+sheet[8] normal | 348, 6, 8, 8 | The normal map for sheet[8].
+sheet[9] normal | 362, 6, 8, 8 | The normal map for sheet[9].
+sheet[10] normal | 376, 6, 8, 8 | The normal map for sheet[10].
+sheet[11] normal | 390, 6, 8, 8 | The normal map for sheet[11].
+sheet[12] normal | 404, 6, 8, 8 | The normal map for sheet[12].
+sheet[13] normal | 418, 6, 8, 8 | The normal map for sheet[13].
+sheet[14] normal | 432, 6, 8, 8 | The normal map for sheet[14].
+sheet[15] normal | 446, 6, 8, 8 | The normal map for sheet[15].
+sheet[16] normal | 236, 20, 8, 8 | The normal map for sheet[16].
+sheet[17] normal | 250, 20, 8, 8 | The normal map for sheet[17].
+sheet[18] normal | 264, 20, 8, 8 | The normal map for sheet[18].
+sheet[19] normal | 278, 20, 8, 8 | The normal map for sheet[19].
+sheet[20] normal | 292, 20, 8, 8 | The normal map for sheet[20].
+sheet[21] normal | 306, 20, 8, 8 | The normal map for sheet[21].
+sheet[22] normal | 320, 20, 8, 8 | The normal map for sheet[22].
+sheet[23] normal | 334, 20, 8, 8 | The normal map for sheet[23].
+sheet[24] normal | 348, 20, 8, 8 | The normal map for sheet[24].
+sheet[25] normal | 362, 20, 8, 8 | The normal map for sheet[25].
+sheet[26] normal | 376, 20, 8, 8 | The normal map for sheet[26].
+sheet[27] normal | 390, 20, 8, 8 | The normal map for sheet[27].
+sheet[28] normal | 404, 20, 8, 8 | The normal map for sheet[28].
+sheet[29] normal | 418, 20, 8, 8 | The normal map for sheet[29].
+sheet[30] normal | 432, 20, 8, 8 | The normal map for sheet[30].
+sheet[31] normal | 446, 20, 8, 8 | The normal map for sheet[31].
+sheet[32] normal | 236, 34, 8, 8 | The normal map for sheet[32].
+sheet[33] normal | 250, 34, 8, 8 | The normal map for sheet[33].
+sheet[34] normal | 264, 34, 8, 8 | The normal map for sheet[34].
+sheet[35] normal | 278, 34, 8, 8 | The normal map for sheet[35].
+sheet[36] normal | 292, 34, 8, 8 | The normal map for sheet[36].
+sheet[37] normal | 306, 34, 8, 8 | The normal map for sheet[37].
+sheet[38] normal | 320, 34, 8, 8 | The normal map for sheet[38].
+sheet[39] normal | 334, 34, 8, 8 | The normal map for sheet[39].
+sheet[40] normal | 348, 34, 8, 8 | The normal map for sheet[40].
+sheet[41] normal | 362, 34, 8, 8 | The normal map for sheet[41].
+sheet[42] normal | 376, 34, 8, 8 | The normal map for sheet[42].
+sheet[43] normal | 390, 34, 8, 8 | The normal map for sheet[43].
+sheet[44] normal | 404, 34, 8, 8 | The normal map for sheet[44].
+sheet[45] normal | 418, 34, 8, 8 | The normal map for sheet[45].
+sheet[46] normal | 432, 34, 8, 8 | The normal map for sheet[46].
+sheet[47] normal | 446, 34, 8, 8 | The normal map for sheet[47].
+sheet[48] normal | 236, 48, 8, 8 | The normal map for sheet[48].
+sheet[49] normal | 250, 48, 8, 8 | The normal map for sheet[49].
+sheet[50] normal | 264, 48, 8, 8 | The normal map for sheet[50].
+sheet[51] normal | 278, 48, 8, 8 | The normal map for sheet[51].
+sheet[52] normal | 292, 48, 8, 8 | The normal map for sheet[52].
+sheet[53] normal | 306, 48, 8, 8 | The normal map for sheet[53].
+sheet[54] normal | 320, 48, 8, 8 | The normal map for sheet[54].
+sheet[55] normal | 334, 48, 8, 8 | The normal map for sheet[55].
+sheet[56] normal | 348, 48, 8, 8 | The normal map for sheet[56].
+sheet[57] normal | 362, 48, 8, 8 | The normal map for sheet[57].
+sheet[58] normal | 376, 48, 8, 8 | The normal map for sheet[58].
+sheet[59] normal | 390, 48, 8, 8 | The normal map for sheet[59].
+sheet[60] normal | 404, 48, 8, 8 | The normal map for sheet[60].
+sheet[61] normal | 418, 48, 8, 8 | The normal map for sheet[61].
+sheet[62] normal | 432, 48, 8, 8 | The normal map for sheet[62].
+sheet[63] normal | 446, 48, 8, 8 | The normal map for sheet[63].

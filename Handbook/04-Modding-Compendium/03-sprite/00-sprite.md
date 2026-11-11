@@ -20,4 +20,4 @@ This chapter shows one example of each kind of sheet. The images are unmodified 
 - [sprite/settlement](10-settlement/00-settlement.md)
 - sprite/textures
 - sprite/ui
-- sprite/world
+- [sprite/world](13-world/00-world.md)

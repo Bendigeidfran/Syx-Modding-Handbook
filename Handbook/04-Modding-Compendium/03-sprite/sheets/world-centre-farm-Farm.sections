@@ -1,0 +1,32 @@
+sheet[0] | 6, 6, 16, 16 | A field, one of all 16 picked at random, drawn see-through with no shadow. Each field takes one of the FARM_COLOR colours at random. Fields lie on the ground at a region's centre and under villages.
+sheet[1] | 28, 6, 16, 16 | A field, one of all 16 picked at random, drawn see-through with no shadow. Each field takes one of the FARM_COLOR colours at random. Fields lie on the ground at a region's centre and under villages.
+sheet[2] | 50, 6, 16, 16 | A field, one of all 16 picked at random, drawn see-through with no shadow. Each field takes one of the FARM_COLOR colours at random. Fields lie on the ground at a region's centre and under villages.
+sheet[3] | 72, 6, 16, 16 | A field, one of all 16 picked at random, drawn see-through with no shadow. Each field takes one of the FARM_COLOR colours at random. Fields lie on the ground at a region's centre and under villages.
+sheet[4] | 94, 6, 16, 16 | A field, one of all 16 picked at random, drawn see-through with no shadow. Each field takes one of the FARM_COLOR colours at random. Fields lie on the ground at a region's centre and under villages.
+sheet[5] | 116, 6, 16, 16 | A field, one of all 16 picked at random, drawn see-through with no shadow. Each field takes one of the FARM_COLOR colours at random. Fields lie on the ground at a region's centre and under villages.
+sheet[6] | 138, 6, 16, 16 | A field, one of all 16 picked at random, drawn see-through with no shadow. Each field takes one of the FARM_COLOR colours at random. Fields lie on the ground at a region's centre and under villages.
+sheet[7] | 160, 6, 16, 16 | A field, one of all 16 picked at random, drawn see-through with no shadow. Each field takes one of the FARM_COLOR colours at random. Fields lie on the ground at a region's centre and under villages.
+sheet[8] | 6, 28, 16, 16 | A field, one of all 16 picked at random, drawn see-through with no shadow. Each field takes one of the FARM_COLOR colours at random. Fields lie on the ground at a region's centre and under villages.
+sheet[9] | 28, 28, 16, 16 | A field, one of all 16 picked at random, drawn see-through with no shadow. Each field takes one of the FARM_COLOR colours at random. Fields lie on the ground at a region's centre and under villages.
+sheet[10] | 50, 28, 16, 16 | A field, one of all 16 picked at random, drawn see-through with no shadow. Each field takes one of the FARM_COLOR colours at random. Fields lie on the ground at a region's centre and under villages.
+sheet[11] | 72, 28, 16, 16 | A field, one of all 16 picked at random, drawn see-through with no shadow. Each field takes one of the FARM_COLOR colours at random. Fields lie on the ground at a region's centre and under villages.
+sheet[12] | 94, 28, 16, 16 | A field, one of all 16 picked at random, drawn see-through with no shadow. Each field takes one of the FARM_COLOR colours at random. Fields lie on the ground at a region's centre and under villages.
+sheet[13] | 116, 28, 16, 16 | A field, one of all 16 picked at random, drawn see-through with no shadow. Each field takes one of the FARM_COLOR colours at random. Fields lie on the ground at a region's centre and under villages.
+sheet[14] | 138, 28, 16, 16 | A field, one of all 16 picked at random, drawn see-through with no shadow. Each field takes one of the FARM_COLOR colours at random. Fields lie on the ground at a region's centre and under villages.
+sheet[15] | 160, 28, 16, 16 | A field, one of all 16 picked at random, drawn see-through with no shadow. Each field takes one of the FARM_COLOR colours at random. Fields lie on the ground at a region's centre and under villages.
+sheet[0] normal | 188, 6, 16, 16 | The normal map for sheet[0].
+sheet[1] normal | 210, 6, 16, 16 | The normal map for sheet[1].
+sheet[2] normal | 232, 6, 16, 16 | The normal map for sheet[2].
+sheet[3] normal | 254, 6, 16, 16 | The normal map for sheet[3].
+sheet[4] normal | 276, 6, 16, 16 | The normal map for sheet[4].
+sheet[5] normal | 298, 6, 16, 16 | The normal map for sheet[5].
+sheet[6] normal | 320, 6, 16, 16 | The normal map for sheet[6].
+sheet[7] normal | 342, 6, 16, 16 | The normal map for sheet[7].
+sheet[8] normal | 188, 28, 16, 16 | The normal map for sheet[8].
+sheet[9] normal | 210, 28, 16, 16 | The normal map for sheet[9].
+sheet[10] normal | 232, 28, 16, 16 | The normal map for sheet[10].
+sheet[11] normal | 254, 28, 16, 16 | The normal map for sheet[11].
+sheet[12] normal | 276, 28, 16, 16 | The normal map for sheet[12].
+sheet[13] normal | 298, 28, 16, 16 | The normal map for sheet[13].
+sheet[14] normal | 320, 28, 16, 16 | The normal map for sheet[14].
+sheet[15] normal | 342, 28, 16, 16 | The normal map for sheet[15].

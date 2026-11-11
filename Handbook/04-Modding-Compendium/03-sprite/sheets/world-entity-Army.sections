@@ -1,0 +1,56 @@
+sheet[0] | 6, 6, 8, 8 | An army figure, walking, frame 1 of 3. Also used when the army stands still. The part tinted with the faction's banner colour, drawn over the untinted part. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+sheet[1] | 20, 6, 8, 8 | An army figure, walking, frame 1 of 3. Also used when the army stands still. The part tinted with the faction's banner colour, drawn over the untinted part. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+sheet[8] | 6, 20, 8, 8 | An army figure, walking, frame 2 of 3. The part tinted with the faction's banner colour, drawn over the untinted part. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+sheet[9] | 20, 20, 8, 8 | An army figure, walking, frame 2 of 3. The part tinted with the faction's banner colour, drawn over the untinted part. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+sheet[16] | 6, 34, 8, 8 | An army figure, walking, frame 3 of 3. The part tinted with the faction's banner colour, drawn over the untinted part. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+sheet[17] | 20, 34, 8, 8 | An army figure, walking, frame 3 of 3. The part tinted with the faction's banner colour, drawn over the untinted part. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+sheet[24] | 6, 48, 8, 8 | An army figure, on water, frame 1 of 3. Also used when the army stands still on water. The part tinted with the faction's banner colour, drawn over the untinted part. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+sheet[25] | 20, 48, 8, 8 | An army figure, on water, frame 1 of 3. Also used when the army stands still on water. The part tinted with the faction's banner colour, drawn over the untinted part. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+sheet[32] | 6, 62, 8, 8 | An army figure, on water, frame 2 of 3. The part tinted with the faction's banner colour, drawn over the untinted part. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+sheet[33] | 20, 62, 8, 8 | An army figure, on water, frame 2 of 3. The part tinted with the faction's banner colour, drawn over the untinted part. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+sheet[40] | 6, 76, 8, 8 | An army figure, on water, frame 3 of 3. The part tinted with the faction's banner colour, drawn over the untinted part. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+sheet[41] | 20, 76, 8, 8 | An army figure, on water, frame 3 of 3. The part tinted with the faction's banner colour, drawn over the untinted part. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+sheet[48] | 6, 90, 8, 8 | An army figure, fortified. The part tinted with the faction's banner colour, drawn over the untinted part. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+sheet[49] | 20, 90, 8, 8 | An army figure, fortified. The part tinted with the faction's banner colour, drawn over the untinted part. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+sheet[56] | 40, 6, 8, 8 | An army figure, walking, frame 1 of 3. Also used when the army stands still. The untinted part, drawn first, under the tinted part. Its shape is also the figure's shadow. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+sheet[57] | 54, 6, 8, 8 | An army figure, walking, frame 1 of 3. Also used when the army stands still. The untinted part, drawn first, under the tinted part. Its shape is also the figure's shadow. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+sheet[64] | 40, 20, 8, 8 | An army figure, walking, frame 2 of 3. The untinted part, drawn first, under the tinted part. Its shape is also the figure's shadow. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+sheet[65] | 54, 20, 8, 8 | An army figure, walking, frame 2 of 3. The untinted part, drawn first, under the tinted part. Its shape is also the figure's shadow. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+sheet[72] | 40, 34, 8, 8 | An army figure, walking, frame 3 of 3. The untinted part, drawn first, under the tinted part. Its shape is also the figure's shadow. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+sheet[73] | 54, 34, 8, 8 | An army figure, walking, frame 3 of 3. The untinted part, drawn first, under the tinted part. Its shape is also the figure's shadow. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+sheet[80] | 40, 48, 8, 8 | An army figure, on water, frame 1 of 3. Also used when the army stands still on water. The untinted part, drawn first, under the tinted part. Its shape is also the figure's shadow. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+sheet[81] | 54, 48, 8, 8 | An army figure, on water, frame 1 of 3. Also used when the army stands still on water. The untinted part, drawn first, under the tinted part. Its shape is also the figure's shadow. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+sheet[88] | 40, 62, 8, 8 | An army figure, on water, frame 2 of 3. The untinted part, drawn first, under the tinted part. Its shape is also the figure's shadow. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+sheet[89] | 54, 62, 8, 8 | An army figure, on water, frame 2 of 3. The untinted part, drawn first, under the tinted part. Its shape is also the figure's shadow. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+sheet[96] | 40, 76, 8, 8 | An army figure, on water, frame 3 of 3. The untinted part, drawn first, under the tinted part. Its shape is also the figure's shadow. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+sheet[97] | 54, 76, 8, 8 | An army figure, on water, frame 3 of 3. The untinted part, drawn first, under the tinted part. Its shape is also the figure's shadow. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+sheet[104] | 40, 90, 8, 8 | An army figure, fortified. The untinted part, drawn first, under the tinted part. Its shape is also the figure's shadow. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+sheet[105] | 54, 90, 8, 8 | An army figure, fortified. The untinted part, drawn first, under the tinted part. Its shape is also the figure's shadow. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+sheet[0] normal | 74, 6, 8, 8 | The normal map for sheet[0].
+sheet[1] normal | 88, 6, 8, 8 | The normal map for sheet[1].
+sheet[8] normal | 74, 20, 8, 8 | The normal map for sheet[8].
+sheet[9] normal | 88, 20, 8, 8 | The normal map for sheet[9].
+sheet[16] normal | 74, 34, 8, 8 | The normal map for sheet[16].
+sheet[17] normal | 88, 34, 8, 8 | The normal map for sheet[17].
+sheet[24] normal | 74, 48, 8, 8 | The normal map for sheet[24].
+sheet[25] normal | 88, 48, 8, 8 | The normal map for sheet[25].
+sheet[32] normal | 74, 62, 8, 8 | The normal map for sheet[32].
+sheet[33] normal | 88, 62, 8, 8 | The normal map for sheet[33].
+sheet[40] normal | 74, 76, 8, 8 | The normal map for sheet[40].
+sheet[41] normal | 88, 76, 8, 8 | The normal map for sheet[41].
+sheet[48] normal | 74, 90, 8, 8 | The normal map for sheet[48].
+sheet[49] normal | 88, 90, 8, 8 | The normal map for sheet[49].
+sheet[56] normal | 108, 6, 8, 8 | The normal map for sheet[56].
+sheet[57] normal | 122, 6, 8, 8 | The normal map for sheet[57].
+sheet[64] normal | 108, 20, 8, 8 | The normal map for sheet[64].
+sheet[65] normal | 122, 20, 8, 8 | The normal map for sheet[65].
+sheet[72] normal | 108, 34, 8, 8 | The normal map for sheet[72].
+sheet[73] normal | 122, 34, 8, 8 | The normal map for sheet[73].
+sheet[80] normal | 108, 48, 8, 8 | The normal map for sheet[80].
+sheet[81] normal | 122, 48, 8, 8 | The normal map for sheet[81].
+sheet[88] normal | 108, 62, 8, 8 | The normal map for sheet[88].
+sheet[89] normal | 122, 62, 8, 8 | The normal map for sheet[89].
+sheet[96] normal | 108, 76, 8, 8 | The normal map for sheet[96].
+sheet[97] normal | 122, 76, 8, 8 | The normal map for sheet[97].
+sheet[104] normal | 108, 90, 8, 8 | The normal map for sheet[104].
+sheet[105] normal | 122, 90, 8, 8 | The normal map for sheet[105].

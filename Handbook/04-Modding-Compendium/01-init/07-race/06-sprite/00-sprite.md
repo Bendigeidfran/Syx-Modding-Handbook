@@ -188,7 +188,7 @@ Each tag names an image, and each has a matching `_COLOR` tag that tints it:
 | `WALL` | The walls round the centre of a faction's capital. |
 | `WALL_VILLAGE` | The walls round the centre of any other region. |
 | `TERRAIN` | The ground beneath a region's centre. |
-| `FARM` | The fields round a region's centre and beside villages. |
+| `FARM` | The fields at a region's centre and under villages. |
 
 | Tag | Meaning | Type | Required |
 |---|---|---|---|

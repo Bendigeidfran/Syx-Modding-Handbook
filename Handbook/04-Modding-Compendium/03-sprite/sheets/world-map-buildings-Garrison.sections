@@ -1,0 +1,16 @@
+garrison[0] | 6, 6, 8, 8 | The garrison marker at size 0 of 0 to 7, set by how large the region's garrison is. The game also turns it to one of four directions at random.
+garrison[1] | 20, 6, 8, 8 | The garrison marker at size 1 of 0 to 7, set by how large the region's garrison is. The game also turns it to one of four directions at random.
+garrison[2] | 34, 6, 8, 8 | The garrison marker at size 2 of 0 to 7, set by how large the region's garrison is. The game also turns it to one of four directions at random.
+garrison[3] | 48, 6, 8, 8 | The garrison marker at size 3 of 0 to 7, set by how large the region's garrison is. The game also turns it to one of four directions at random.
+garrison[4] | 62, 6, 8, 8 | The garrison marker at size 4 of 0 to 7, set by how large the region's garrison is. The game also turns it to one of four directions at random.
+garrison[5] | 76, 6, 8, 8 | The garrison marker at size 5 of 0 to 7, set by how large the region's garrison is. The game also turns it to one of four directions at random.
+garrison[6] | 90, 6, 8, 8 | The garrison marker at size 6 of 0 to 7, set by how large the region's garrison is. The game also turns it to one of four directions at random.
+garrison[7] | 104, 6, 8, 8 | The garrison marker at size 7 of 0 to 7, set by how large the region's garrison is. The game also turns it to one of four directions at random.
+garrison[0] normal | 124, 6, 8, 8 | The normal map for garrison[0].
+garrison[1] normal | 138, 6, 8, 8 | The normal map for garrison[1].
+garrison[2] normal | 152, 6, 8, 8 | The normal map for garrison[2].
+garrison[3] normal | 166, 6, 8, 8 | The normal map for garrison[3].
+garrison[4] normal | 180, 6, 8, 8 | The normal map for garrison[4].
+garrison[5] normal | 194, 6, 8, 8 | The normal map for garrison[5].
+garrison[6] normal | 208, 6, 8, 8 | The normal map for garrison[6].
+garrison[7] normal | 222, 6, 8, 8 | The normal map for garrison[7].

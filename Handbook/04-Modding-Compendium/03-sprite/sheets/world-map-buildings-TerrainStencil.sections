@@ -1,0 +1,18 @@
+terrainStencil[0] | 6, 6, 16, 16 | The shape of the ground at the top-left corner of a region's centre. The race's terrain sheet is drawn through it.
+terrainStencil[1] | 22, 6, 16, 16 | The shape of the ground at the top side of a region's centre. The race's terrain sheet is drawn through it.
+terrainStencil[2] | 38, 6, 16, 16 | The shape of the ground at the top-right corner of a region's centre. The race's terrain sheet is drawn through it.
+terrainStencil[3] | 6, 22, 16, 16 | The shape of the ground at the left side of a region's centre. The race's terrain sheet is drawn through it.
+terrainStencil[4] | 22, 22, 16, 16 | The shape of the ground at the middle of a region's centre. The race's terrain sheet is drawn through it.
+terrainStencil[5] | 38, 22, 16, 16 | The shape of the ground at the right side of a region's centre. The race's terrain sheet is drawn through it.
+terrainStencil[6] | 6, 38, 16, 16 | The shape of the ground at the bottom-left corner of a region's centre. The race's terrain sheet is drawn through it.
+terrainStencil[7] | 22, 38, 16, 16 | The shape of the ground at the bottom side of a region's centre. The race's terrain sheet is drawn through it.
+terrainStencil[8] | 38, 38, 16, 16 | The shape of the ground at the bottom-right corner of a region's centre. The race's terrain sheet is drawn through it.
+terrainStencil[0] normal | 66, 6, 16, 16 | The normal map for terrainStencil[0].
+terrainStencil[1] normal | 82, 6, 16, 16 | The normal map for terrainStencil[1].
+terrainStencil[2] normal | 98, 6, 16, 16 | The normal map for terrainStencil[2].
+terrainStencil[3] normal | 66, 22, 16, 16 | The normal map for terrainStencil[3].
+terrainStencil[4] normal | 82, 22, 16, 16 | The normal map for terrainStencil[4].
+terrainStencil[5] normal | 98, 22, 16, 16 | The normal map for terrainStencil[5].
+terrainStencil[6] normal | 66, 38, 16, 16 | The normal map for terrainStencil[6].
+terrainStencil[7] normal | 82, 38, 16, 16 | The normal map for terrainStencil[7].
+terrainStencil[8] normal | 98, 38, 16, 16 | The normal map for terrainStencil[8].

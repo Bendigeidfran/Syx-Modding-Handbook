@@ -1,0 +1,400 @@
+sizes[0].corners[0] | 6, 6, 8, 8 | The top-left corner, at wall size 0 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[0].corners[1] | 46, 6, 8, 8 | The top-right corner, at wall size 0 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[0].corners[2] | 6, 46, 8, 8 | The bottom-left corner, at wall size 0 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[0].corners[3] | 46, 46, 8, 8 | The bottom-right corner, at wall size 0 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[0].gate[0] | 22, 6, 8, 8 | The gate, top side, left of the middle, at wall size 0 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[0].gate[1] | 30, 6, 8, 8 | The gate, top side, right of the middle, at wall size 0 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[0].gate[2] | 6, 22, 8, 8 | The gate, left side, above the middle, at wall size 0 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[0].gate[3] | 6, 30, 8, 8 | The gate, left side, below the middle, at wall size 0 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[0].gate[4] | 46, 22, 8, 8 | The gate, right side, above the middle, at wall size 0 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[0].gate[5] | 46, 30, 8, 8 | The gate, right side, below the middle, at wall size 0 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[0].gate[6] | 22, 46, 8, 8 | The gate, bottom side, left of the middle, at wall size 0 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[0].gate[7] | 30, 46, 8, 8 | The gate, bottom side, right of the middle, at wall size 0 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[0].walls[0] | 14, 6, 8, 8 | A piece of wall on the top side, repeated rightwards from the top-left corner towards the gate, at wall size 0 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[0].walls[1] | 38, 6, 8, 8 | A piece of wall on the top side, repeated leftwards from the top-right corner towards the gate, at wall size 0 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[0].walls[2] | 6, 14, 8, 8 | A piece of wall on the left side, repeated downwards from the top-left corner towards the gate, at wall size 0 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[0].walls[3] | 46, 14, 8, 8 | A piece of wall on the right side, repeated downwards from the top-right corner towards the gate, at wall size 0 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[0].walls[4] | 6, 38, 8, 8 | A piece of wall on the left side, repeated upwards from the bottom-left corner towards the gate, at wall size 0 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[0].walls[5] | 46, 38, 8, 8 | A piece of wall on the right side, repeated upwards from the bottom-right corner towards the gate, at wall size 0 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[0].walls[6] | 14, 46, 8, 8 | A piece of wall on the bottom side, repeated rightwards from the bottom-left corner towards the gate, at wall size 0 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[0].walls[7] | 38, 46, 8, 8 | A piece of wall on the bottom side, repeated leftwards from the bottom-right corner towards the gate, at wall size 0 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[1].corners[0] | 66, 6, 8, 8 | The top-left corner, at wall size 1 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[1].corners[1] | 106, 6, 8, 8 | The top-right corner, at wall size 1 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[1].corners[2] | 66, 46, 8, 8 | The bottom-left corner, at wall size 1 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[1].corners[3] | 106, 46, 8, 8 | The bottom-right corner, at wall size 1 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[1].gate[0] | 82, 6, 8, 8 | The gate, top side, left of the middle, at wall size 1 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[1].gate[1] | 90, 6, 8, 8 | The gate, top side, right of the middle, at wall size 1 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[1].gate[2] | 66, 22, 8, 8 | The gate, left side, above the middle, at wall size 1 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[1].gate[3] | 66, 30, 8, 8 | The gate, left side, below the middle, at wall size 1 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[1].gate[4] | 106, 22, 8, 8 | The gate, right side, above the middle, at wall size 1 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[1].gate[5] | 106, 30, 8, 8 | The gate, right side, below the middle, at wall size 1 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[1].gate[6] | 82, 46, 8, 8 | The gate, bottom side, left of the middle, at wall size 1 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[1].gate[7] | 90, 46, 8, 8 | The gate, bottom side, right of the middle, at wall size 1 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[1].walls[0] | 74, 6, 8, 8 | A piece of wall on the top side, repeated rightwards from the top-left corner towards the gate, at wall size 1 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[1].walls[1] | 98, 6, 8, 8 | A piece of wall on the top side, repeated leftwards from the top-right corner towards the gate, at wall size 1 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[1].walls[2] | 66, 14, 8, 8 | A piece of wall on the left side, repeated downwards from the top-left corner towards the gate, at wall size 1 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[1].walls[3] | 106, 14, 8, 8 | A piece of wall on the right side, repeated downwards from the top-right corner towards the gate, at wall size 1 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[1].walls[4] | 66, 38, 8, 8 | A piece of wall on the left side, repeated upwards from the bottom-left corner towards the gate, at wall size 1 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[1].walls[5] | 106, 38, 8, 8 | A piece of wall on the right side, repeated upwards from the bottom-right corner towards the gate, at wall size 1 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[1].walls[6] | 74, 46, 8, 8 | A piece of wall on the bottom side, repeated rightwards from the bottom-left corner towards the gate, at wall size 1 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[1].walls[7] | 98, 46, 8, 8 | A piece of wall on the bottom side, repeated leftwards from the bottom-right corner towards the gate, at wall size 1 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[2].corners[0] | 126, 6, 8, 8 | The top-left corner, at wall size 2 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[2].corners[1] | 166, 6, 8, 8 | The top-right corner, at wall size 2 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[2].corners[2] | 126, 46, 8, 8 | The bottom-left corner, at wall size 2 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[2].corners[3] | 166, 46, 8, 8 | The bottom-right corner, at wall size 2 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[2].gate[0] | 142, 6, 8, 8 | The gate, top side, left of the middle, at wall size 2 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[2].gate[1] | 150, 6, 8, 8 | The gate, top side, right of the middle, at wall size 2 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[2].gate[2] | 126, 22, 8, 8 | The gate, left side, above the middle, at wall size 2 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[2].gate[3] | 126, 30, 8, 8 | The gate, left side, below the middle, at wall size 2 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[2].gate[4] | 166, 22, 8, 8 | The gate, right side, above the middle, at wall size 2 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[2].gate[5] | 166, 30, 8, 8 | The gate, right side, below the middle, at wall size 2 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[2].gate[6] | 142, 46, 8, 8 | The gate, bottom side, left of the middle, at wall size 2 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[2].gate[7] | 150, 46, 8, 8 | The gate, bottom side, right of the middle, at wall size 2 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[2].walls[0] | 134, 6, 8, 8 | A piece of wall on the top side, repeated rightwards from the top-left corner towards the gate, at wall size 2 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[2].walls[1] | 158, 6, 8, 8 | A piece of wall on the top side, repeated leftwards from the top-right corner towards the gate, at wall size 2 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[2].walls[2] | 126, 14, 8, 8 | A piece of wall on the left side, repeated downwards from the top-left corner towards the gate, at wall size 2 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[2].walls[3] | 166, 14, 8, 8 | A piece of wall on the right side, repeated downwards from the top-right corner towards the gate, at wall size 2 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[2].walls[4] | 126, 38, 8, 8 | A piece of wall on the left side, repeated upwards from the bottom-left corner towards the gate, at wall size 2 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[2].walls[5] | 166, 38, 8, 8 | A piece of wall on the right side, repeated upwards from the bottom-right corner towards the gate, at wall size 2 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[2].walls[6] | 134, 46, 8, 8 | A piece of wall on the bottom side, repeated rightwards from the bottom-left corner towards the gate, at wall size 2 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[2].walls[7] | 158, 46, 8, 8 | A piece of wall on the bottom side, repeated leftwards from the bottom-right corner towards the gate, at wall size 2 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[3].corners[0] | 186, 6, 8, 8 | The top-left corner, at wall size 3 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[3].corners[1] | 226, 6, 8, 8 | The top-right corner, at wall size 3 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[3].corners[2] | 186, 46, 8, 8 | The bottom-left corner, at wall size 3 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[3].corners[3] | 226, 46, 8, 8 | The bottom-right corner, at wall size 3 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[3].gate[0] | 202, 6, 8, 8 | The gate, top side, left of the middle, at wall size 3 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[3].gate[1] | 210, 6, 8, 8 | The gate, top side, right of the middle, at wall size 3 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[3].gate[2] | 186, 22, 8, 8 | The gate, left side, above the middle, at wall size 3 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[3].gate[3] | 186, 30, 8, 8 | The gate, left side, below the middle, at wall size 3 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[3].gate[4] | 226, 22, 8, 8 | The gate, right side, above the middle, at wall size 3 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[3].gate[5] | 226, 30, 8, 8 | The gate, right side, below the middle, at wall size 3 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[3].gate[6] | 202, 46, 8, 8 | The gate, bottom side, left of the middle, at wall size 3 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[3].gate[7] | 210, 46, 8, 8 | The gate, bottom side, right of the middle, at wall size 3 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[3].walls[0] | 194, 6, 8, 8 | A piece of wall on the top side, repeated rightwards from the top-left corner towards the gate, at wall size 3 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[3].walls[1] | 218, 6, 8, 8 | A piece of wall on the top side, repeated leftwards from the top-right corner towards the gate, at wall size 3 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[3].walls[2] | 186, 14, 8, 8 | A piece of wall on the left side, repeated downwards from the top-left corner towards the gate, at wall size 3 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[3].walls[3] | 226, 14, 8, 8 | A piece of wall on the right side, repeated downwards from the top-right corner towards the gate, at wall size 3 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[3].walls[4] | 186, 38, 8, 8 | A piece of wall on the left side, repeated upwards from the bottom-left corner towards the gate, at wall size 3 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[3].walls[5] | 226, 38, 8, 8 | A piece of wall on the right side, repeated upwards from the bottom-right corner towards the gate, at wall size 3 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[3].walls[6] | 194, 46, 8, 8 | A piece of wall on the bottom side, repeated rightwards from the bottom-left corner towards the gate, at wall size 3 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[3].walls[7] | 218, 46, 8, 8 | A piece of wall on the bottom side, repeated leftwards from the bottom-right corner towards the gate, at wall size 3 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[4].corners[0] | 246, 6, 8, 8 | The top-left corner, at wall size 4 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[4].corners[1] | 286, 6, 8, 8 | The top-right corner, at wall size 4 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[4].corners[2] | 246, 46, 8, 8 | The bottom-left corner, at wall size 4 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[4].corners[3] | 286, 46, 8, 8 | The bottom-right corner, at wall size 4 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[4].gate[0] | 262, 6, 8, 8 | The gate, top side, left of the middle, at wall size 4 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[4].gate[1] | 270, 6, 8, 8 | The gate, top side, right of the middle, at wall size 4 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[4].gate[2] | 246, 22, 8, 8 | The gate, left side, above the middle, at wall size 4 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[4].gate[3] | 246, 30, 8, 8 | The gate, left side, below the middle, at wall size 4 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[4].gate[4] | 286, 22, 8, 8 | The gate, right side, above the middle, at wall size 4 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[4].gate[5] | 286, 30, 8, 8 | The gate, right side, below the middle, at wall size 4 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[4].gate[6] | 262, 46, 8, 8 | The gate, bottom side, left of the middle, at wall size 4 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[4].gate[7] | 270, 46, 8, 8 | The gate, bottom side, right of the middle, at wall size 4 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[4].walls[0] | 254, 6, 8, 8 | A piece of wall on the top side, repeated rightwards from the top-left corner towards the gate, at wall size 4 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[4].walls[1] | 278, 6, 8, 8 | A piece of wall on the top side, repeated leftwards from the top-right corner towards the gate, at wall size 4 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[4].walls[2] | 246, 14, 8, 8 | A piece of wall on the left side, repeated downwards from the top-left corner towards the gate, at wall size 4 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[4].walls[3] | 286, 14, 8, 8 | A piece of wall on the right side, repeated downwards from the top-right corner towards the gate, at wall size 4 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[4].walls[4] | 246, 38, 8, 8 | A piece of wall on the left side, repeated upwards from the bottom-left corner towards the gate, at wall size 4 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[4].walls[5] | 286, 38, 8, 8 | A piece of wall on the right side, repeated upwards from the bottom-right corner towards the gate, at wall size 4 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[4].walls[6] | 254, 46, 8, 8 | A piece of wall on the bottom side, repeated rightwards from the bottom-left corner towards the gate, at wall size 4 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[4].walls[7] | 278, 46, 8, 8 | A piece of wall on the bottom side, repeated leftwards from the bottom-right corner towards the gate, at wall size 4 of 0 to 4. Tinted with WALL_COLOR or WALL_VILLAGE_COLOR. Its shadow is the matching cell in the lower half.
+sizes[0].corners[4] | 6, 66, 8, 8 | The shadow of sizes[0].corners[0]: the top-left corner. It's drawn as the wall's shadow, not as a sprite.
+sizes[0].corners[5] | 46, 66, 8, 8 | The shadow of sizes[0].corners[1]: the top-right corner. It's drawn as the wall's shadow, not as a sprite.
+sizes[0].corners[6] | 6, 106, 8, 8 | The shadow of sizes[0].corners[2]: the bottom-left corner. It's drawn as the wall's shadow, not as a sprite.
+sizes[0].corners[7] | 46, 106, 8, 8 | The shadow of sizes[0].corners[3]: the bottom-right corner. It's drawn as the wall's shadow, not as a sprite.
+sizes[0].gate[8] | 22, 66, 8, 8 | The shadow of sizes[0].gate[0]: the gate, top side, left of the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[0].gate[9] | 30, 66, 8, 8 | The shadow of sizes[0].gate[1]: the gate, top side, right of the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[0].gate[10] | 6, 82, 8, 8 | The shadow of sizes[0].gate[2]: the gate, left side, above the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[0].gate[11] | 6, 90, 8, 8 | The shadow of sizes[0].gate[3]: the gate, left side, below the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[0].gate[12] | 46, 82, 8, 8 | The shadow of sizes[0].gate[4]: the gate, right side, above the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[0].gate[13] | 46, 90, 8, 8 | The shadow of sizes[0].gate[5]: the gate, right side, below the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[0].gate[14] | 22, 106, 8, 8 | The shadow of sizes[0].gate[6]: the gate, bottom side, left of the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[0].gate[15] | 30, 106, 8, 8 | The shadow of sizes[0].gate[7]: the gate, bottom side, right of the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[0].walls[8] | 14, 66, 8, 8 | The shadow of sizes[0].walls[0]: a piece of wall on the top side, repeated rightwards from the top-left corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[0].walls[9] | 38, 66, 8, 8 | The shadow of sizes[0].walls[1]: a piece of wall on the top side, repeated leftwards from the top-right corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[0].walls[10] | 6, 74, 8, 8 | The shadow of sizes[0].walls[2]: a piece of wall on the left side, repeated downwards from the top-left corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[0].walls[11] | 46, 74, 8, 8 | The shadow of sizes[0].walls[3]: a piece of wall on the right side, repeated downwards from the top-right corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[0].walls[12] | 6, 98, 8, 8 | The shadow of sizes[0].walls[4]: a piece of wall on the left side, repeated upwards from the bottom-left corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[0].walls[13] | 46, 98, 8, 8 | The shadow of sizes[0].walls[5]: a piece of wall on the right side, repeated upwards from the bottom-right corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[0].walls[14] | 14, 106, 8, 8 | The shadow of sizes[0].walls[6]: a piece of wall on the bottom side, repeated rightwards from the bottom-left corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[0].walls[15] | 38, 106, 8, 8 | The shadow of sizes[0].walls[7]: a piece of wall on the bottom side, repeated leftwards from the bottom-right corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[1].corners[4] | 66, 66, 8, 8 | The shadow of sizes[1].corners[0]: the top-left corner. It's drawn as the wall's shadow, not as a sprite.
+sizes[1].corners[5] | 106, 66, 8, 8 | The shadow of sizes[1].corners[1]: the top-right corner. It's drawn as the wall's shadow, not as a sprite.
+sizes[1].corners[6] | 66, 106, 8, 8 | The shadow of sizes[1].corners[2]: the bottom-left corner. It's drawn as the wall's shadow, not as a sprite.
+sizes[1].corners[7] | 106, 106, 8, 8 | The shadow of sizes[1].corners[3]: the bottom-right corner. It's drawn as the wall's shadow, not as a sprite.
+sizes[1].gate[8] | 82, 66, 8, 8 | The shadow of sizes[1].gate[0]: the gate, top side, left of the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[1].gate[9] | 90, 66, 8, 8 | The shadow of sizes[1].gate[1]: the gate, top side, right of the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[1].gate[10] | 66, 82, 8, 8 | The shadow of sizes[1].gate[2]: the gate, left side, above the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[1].gate[11] | 66, 90, 8, 8 | The shadow of sizes[1].gate[3]: the gate, left side, below the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[1].gate[12] | 106, 82, 8, 8 | The shadow of sizes[1].gate[4]: the gate, right side, above the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[1].gate[13] | 106, 90, 8, 8 | The shadow of sizes[1].gate[5]: the gate, right side, below the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[1].gate[14] | 82, 106, 8, 8 | The shadow of sizes[1].gate[6]: the gate, bottom side, left of the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[1].gate[15] | 90, 106, 8, 8 | The shadow of sizes[1].gate[7]: the gate, bottom side, right of the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[1].walls[8] | 74, 66, 8, 8 | The shadow of sizes[1].walls[0]: a piece of wall on the top side, repeated rightwards from the top-left corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[1].walls[9] | 98, 66, 8, 8 | The shadow of sizes[1].walls[1]: a piece of wall on the top side, repeated leftwards from the top-right corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[1].walls[10] | 66, 74, 8, 8 | The shadow of sizes[1].walls[2]: a piece of wall on the left side, repeated downwards from the top-left corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[1].walls[11] | 106, 74, 8, 8 | The shadow of sizes[1].walls[3]: a piece of wall on the right side, repeated downwards from the top-right corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[1].walls[12] | 66, 98, 8, 8 | The shadow of sizes[1].walls[4]: a piece of wall on the left side, repeated upwards from the bottom-left corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[1].walls[13] | 106, 98, 8, 8 | The shadow of sizes[1].walls[5]: a piece of wall on the right side, repeated upwards from the bottom-right corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[1].walls[14] | 74, 106, 8, 8 | The shadow of sizes[1].walls[6]: a piece of wall on the bottom side, repeated rightwards from the bottom-left corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[1].walls[15] | 98, 106, 8, 8 | The shadow of sizes[1].walls[7]: a piece of wall on the bottom side, repeated leftwards from the bottom-right corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[2].corners[4] | 126, 66, 8, 8 | The shadow of sizes[2].corners[0]: the top-left corner. It's drawn as the wall's shadow, not as a sprite.
+sizes[2].corners[5] | 166, 66, 8, 8 | The shadow of sizes[2].corners[1]: the top-right corner. It's drawn as the wall's shadow, not as a sprite.
+sizes[2].corners[6] | 126, 106, 8, 8 | The shadow of sizes[2].corners[2]: the bottom-left corner. It's drawn as the wall's shadow, not as a sprite.
+sizes[2].corners[7] | 166, 106, 8, 8 | The shadow of sizes[2].corners[3]: the bottom-right corner. It's drawn as the wall's shadow, not as a sprite.
+sizes[2].gate[8] | 142, 66, 8, 8 | The shadow of sizes[2].gate[0]: the gate, top side, left of the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[2].gate[9] | 150, 66, 8, 8 | The shadow of sizes[2].gate[1]: the gate, top side, right of the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[2].gate[10] | 126, 82, 8, 8 | The shadow of sizes[2].gate[2]: the gate, left side, above the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[2].gate[11] | 126, 90, 8, 8 | The shadow of sizes[2].gate[3]: the gate, left side, below the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[2].gate[12] | 166, 82, 8, 8 | The shadow of sizes[2].gate[4]: the gate, right side, above the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[2].gate[13] | 166, 90, 8, 8 | The shadow of sizes[2].gate[5]: the gate, right side, below the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[2].gate[14] | 142, 106, 8, 8 | The shadow of sizes[2].gate[6]: the gate, bottom side, left of the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[2].gate[15] | 150, 106, 8, 8 | The shadow of sizes[2].gate[7]: the gate, bottom side, right of the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[2].walls[8] | 134, 66, 8, 8 | The shadow of sizes[2].walls[0]: a piece of wall on the top side, repeated rightwards from the top-left corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[2].walls[9] | 158, 66, 8, 8 | The shadow of sizes[2].walls[1]: a piece of wall on the top side, repeated leftwards from the top-right corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[2].walls[10] | 126, 74, 8, 8 | The shadow of sizes[2].walls[2]: a piece of wall on the left side, repeated downwards from the top-left corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[2].walls[11] | 166, 74, 8, 8 | The shadow of sizes[2].walls[3]: a piece of wall on the right side, repeated downwards from the top-right corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[2].walls[12] | 126, 98, 8, 8 | The shadow of sizes[2].walls[4]: a piece of wall on the left side, repeated upwards from the bottom-left corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[2].walls[13] | 166, 98, 8, 8 | The shadow of sizes[2].walls[5]: a piece of wall on the right side, repeated upwards from the bottom-right corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[2].walls[14] | 134, 106, 8, 8 | The shadow of sizes[2].walls[6]: a piece of wall on the bottom side, repeated rightwards from the bottom-left corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[2].walls[15] | 158, 106, 8, 8 | The shadow of sizes[2].walls[7]: a piece of wall on the bottom side, repeated leftwards from the bottom-right corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[3].corners[4] | 186, 66, 8, 8 | The shadow of sizes[3].corners[0]: the top-left corner. It's drawn as the wall's shadow, not as a sprite.
+sizes[3].corners[5] | 226, 66, 8, 8 | The shadow of sizes[3].corners[1]: the top-right corner. It's drawn as the wall's shadow, not as a sprite.
+sizes[3].corners[6] | 186, 106, 8, 8 | The shadow of sizes[3].corners[2]: the bottom-left corner. It's drawn as the wall's shadow, not as a sprite.
+sizes[3].corners[7] | 226, 106, 8, 8 | The shadow of sizes[3].corners[3]: the bottom-right corner. It's drawn as the wall's shadow, not as a sprite.
+sizes[3].gate[8] | 202, 66, 8, 8 | The shadow of sizes[3].gate[0]: the gate, top side, left of the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[3].gate[9] | 210, 66, 8, 8 | The shadow of sizes[3].gate[1]: the gate, top side, right of the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[3].gate[10] | 186, 82, 8, 8 | The shadow of sizes[3].gate[2]: the gate, left side, above the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[3].gate[11] | 186, 90, 8, 8 | The shadow of sizes[3].gate[3]: the gate, left side, below the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[3].gate[12] | 226, 82, 8, 8 | The shadow of sizes[3].gate[4]: the gate, right side, above the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[3].gate[13] | 226, 90, 8, 8 | The shadow of sizes[3].gate[5]: the gate, right side, below the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[3].gate[14] | 202, 106, 8, 8 | The shadow of sizes[3].gate[6]: the gate, bottom side, left of the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[3].gate[15] | 210, 106, 8, 8 | The shadow of sizes[3].gate[7]: the gate, bottom side, right of the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[3].walls[8] | 194, 66, 8, 8 | The shadow of sizes[3].walls[0]: a piece of wall on the top side, repeated rightwards from the top-left corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[3].walls[9] | 218, 66, 8, 8 | The shadow of sizes[3].walls[1]: a piece of wall on the top side, repeated leftwards from the top-right corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[3].walls[10] | 186, 74, 8, 8 | The shadow of sizes[3].walls[2]: a piece of wall on the left side, repeated downwards from the top-left corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[3].walls[11] | 226, 74, 8, 8 | The shadow of sizes[3].walls[3]: a piece of wall on the right side, repeated downwards from the top-right corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[3].walls[12] | 186, 98, 8, 8 | The shadow of sizes[3].walls[4]: a piece of wall on the left side, repeated upwards from the bottom-left corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[3].walls[13] | 226, 98, 8, 8 | The shadow of sizes[3].walls[5]: a piece of wall on the right side, repeated upwards from the bottom-right corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[3].walls[14] | 194, 106, 8, 8 | The shadow of sizes[3].walls[6]: a piece of wall on the bottom side, repeated rightwards from the bottom-left corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[3].walls[15] | 218, 106, 8, 8 | The shadow of sizes[3].walls[7]: a piece of wall on the bottom side, repeated leftwards from the bottom-right corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[4].corners[4] | 246, 66, 8, 8 | The shadow of sizes[4].corners[0]: the top-left corner. It's drawn as the wall's shadow, not as a sprite.
+sizes[4].corners[5] | 286, 66, 8, 8 | The shadow of sizes[4].corners[1]: the top-right corner. It's drawn as the wall's shadow, not as a sprite.
+sizes[4].corners[6] | 246, 106, 8, 8 | The shadow of sizes[4].corners[2]: the bottom-left corner. It's drawn as the wall's shadow, not as a sprite.
+sizes[4].corners[7] | 286, 106, 8, 8 | The shadow of sizes[4].corners[3]: the bottom-right corner. It's drawn as the wall's shadow, not as a sprite.
+sizes[4].gate[8] | 262, 66, 8, 8 | The shadow of sizes[4].gate[0]: the gate, top side, left of the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[4].gate[9] | 270, 66, 8, 8 | The shadow of sizes[4].gate[1]: the gate, top side, right of the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[4].gate[10] | 246, 82, 8, 8 | The shadow of sizes[4].gate[2]: the gate, left side, above the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[4].gate[11] | 246, 90, 8, 8 | The shadow of sizes[4].gate[3]: the gate, left side, below the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[4].gate[12] | 286, 82, 8, 8 | The shadow of sizes[4].gate[4]: the gate, right side, above the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[4].gate[13] | 286, 90, 8, 8 | The shadow of sizes[4].gate[5]: the gate, right side, below the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[4].gate[14] | 262, 106, 8, 8 | The shadow of sizes[4].gate[6]: the gate, bottom side, left of the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[4].gate[15] | 270, 106, 8, 8 | The shadow of sizes[4].gate[7]: the gate, bottom side, right of the middle. It's drawn as the wall's shadow, not as a sprite.
+sizes[4].walls[8] | 254, 66, 8, 8 | The shadow of sizes[4].walls[0]: a piece of wall on the top side, repeated rightwards from the top-left corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[4].walls[9] | 278, 66, 8, 8 | The shadow of sizes[4].walls[1]: a piece of wall on the top side, repeated leftwards from the top-right corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[4].walls[10] | 246, 74, 8, 8 | The shadow of sizes[4].walls[2]: a piece of wall on the left side, repeated downwards from the top-left corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[4].walls[11] | 286, 74, 8, 8 | The shadow of sizes[4].walls[3]: a piece of wall on the right side, repeated downwards from the top-right corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[4].walls[12] | 246, 98, 8, 8 | The shadow of sizes[4].walls[4]: a piece of wall on the left side, repeated upwards from the bottom-left corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[4].walls[13] | 286, 98, 8, 8 | The shadow of sizes[4].walls[5]: a piece of wall on the right side, repeated upwards from the bottom-right corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[4].walls[14] | 254, 106, 8, 8 | The shadow of sizes[4].walls[6]: a piece of wall on the bottom side, repeated rightwards from the bottom-left corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[4].walls[15] | 278, 106, 8, 8 | The shadow of sizes[4].walls[7]: a piece of wall on the bottom side, repeated leftwards from the bottom-right corner towards the gate. It's drawn as the wall's shadow, not as a sprite.
+sizes[0].corners[0] normal | 306, 6, 8, 8 | The normal map for sizes[0].corners[0].
+sizes[0].corners[1] normal | 346, 6, 8, 8 | The normal map for sizes[0].corners[1].
+sizes[0].corners[2] normal | 306, 46, 8, 8 | The normal map for sizes[0].corners[2].
+sizes[0].corners[3] normal | 346, 46, 8, 8 | The normal map for sizes[0].corners[3].
+sizes[0].gate[0] normal | 322, 6, 8, 8 | The normal map for sizes[0].gate[0].
+sizes[0].gate[1] normal | 330, 6, 8, 8 | The normal map for sizes[0].gate[1].
+sizes[0].gate[2] normal | 306, 22, 8, 8 | The normal map for sizes[0].gate[2].
+sizes[0].gate[3] normal | 306, 30, 8, 8 | The normal map for sizes[0].gate[3].
+sizes[0].gate[4] normal | 346, 22, 8, 8 | The normal map for sizes[0].gate[4].
+sizes[0].gate[5] normal | 346, 30, 8, 8 | The normal map for sizes[0].gate[5].
+sizes[0].gate[6] normal | 322, 46, 8, 8 | The normal map for sizes[0].gate[6].
+sizes[0].gate[7] normal | 330, 46, 8, 8 | The normal map for sizes[0].gate[7].
+sizes[0].walls[0] normal | 314, 6, 8, 8 | The normal map for sizes[0].walls[0].
+sizes[0].walls[1] normal | 338, 6, 8, 8 | The normal map for sizes[0].walls[1].
+sizes[0].walls[2] normal | 306, 14, 8, 8 | The normal map for sizes[0].walls[2].
+sizes[0].walls[3] normal | 346, 14, 8, 8 | The normal map for sizes[0].walls[3].
+sizes[0].walls[4] normal | 306, 38, 8, 8 | The normal map for sizes[0].walls[4].
+sizes[0].walls[5] normal | 346, 38, 8, 8 | The normal map for sizes[0].walls[5].
+sizes[0].walls[6] normal | 314, 46, 8, 8 | The normal map for sizes[0].walls[6].
+sizes[0].walls[7] normal | 338, 46, 8, 8 | The normal map for sizes[0].walls[7].
+sizes[1].corners[0] normal | 366, 6, 8, 8 | The normal map for sizes[1].corners[0].
+sizes[1].corners[1] normal | 406, 6, 8, 8 | The normal map for sizes[1].corners[1].
+sizes[1].corners[2] normal | 366, 46, 8, 8 | The normal map for sizes[1].corners[2].
+sizes[1].corners[3] normal | 406, 46, 8, 8 | The normal map for sizes[1].corners[3].
+sizes[1].gate[0] normal | 382, 6, 8, 8 | The normal map for sizes[1].gate[0].
+sizes[1].gate[1] normal | 390, 6, 8, 8 | The normal map for sizes[1].gate[1].
+sizes[1].gate[2] normal | 366, 22, 8, 8 | The normal map for sizes[1].gate[2].
+sizes[1].gate[3] normal | 366, 30, 8, 8 | The normal map for sizes[1].gate[3].
+sizes[1].gate[4] normal | 406, 22, 8, 8 | The normal map for sizes[1].gate[4].
+sizes[1].gate[5] normal | 406, 30, 8, 8 | The normal map for sizes[1].gate[5].
+sizes[1].gate[6] normal | 382, 46, 8, 8 | The normal map for sizes[1].gate[6].
+sizes[1].gate[7] normal | 390, 46, 8, 8 | The normal map for sizes[1].gate[7].
+sizes[1].walls[0] normal | 374, 6, 8, 8 | The normal map for sizes[1].walls[0].
+sizes[1].walls[1] normal | 398, 6, 8, 8 | The normal map for sizes[1].walls[1].
+sizes[1].walls[2] normal | 366, 14, 8, 8 | The normal map for sizes[1].walls[2].
+sizes[1].walls[3] normal | 406, 14, 8, 8 | The normal map for sizes[1].walls[3].
+sizes[1].walls[4] normal | 366, 38, 8, 8 | The normal map for sizes[1].walls[4].
+sizes[1].walls[5] normal | 406, 38, 8, 8 | The normal map for sizes[1].walls[5].
+sizes[1].walls[6] normal | 374, 46, 8, 8 | The normal map for sizes[1].walls[6].
+sizes[1].walls[7] normal | 398, 46, 8, 8 | The normal map for sizes[1].walls[7].
+sizes[2].corners[0] normal | 426, 6, 8, 8 | The normal map for sizes[2].corners[0].
+sizes[2].corners[1] normal | 466, 6, 8, 8 | The normal map for sizes[2].corners[1].
+sizes[2].corners[2] normal | 426, 46, 8, 8 | The normal map for sizes[2].corners[2].
+sizes[2].corners[3] normal | 466, 46, 8, 8 | The normal map for sizes[2].corners[3].
+sizes[2].gate[0] normal | 442, 6, 8, 8 | The normal map for sizes[2].gate[0].
+sizes[2].gate[1] normal | 450, 6, 8, 8 | The normal map for sizes[2].gate[1].
+sizes[2].gate[2] normal | 426, 22, 8, 8 | The normal map for sizes[2].gate[2].
+sizes[2].gate[3] normal | 426, 30, 8, 8 | The normal map for sizes[2].gate[3].
+sizes[2].gate[4] normal | 466, 22, 8, 8 | The normal map for sizes[2].gate[4].
+sizes[2].gate[5] normal | 466, 30, 8, 8 | The normal map for sizes[2].gate[5].
+sizes[2].gate[6] normal | 442, 46, 8, 8 | The normal map for sizes[2].gate[6].
+sizes[2].gate[7] normal | 450, 46, 8, 8 | The normal map for sizes[2].gate[7].
+sizes[2].walls[0] normal | 434, 6, 8, 8 | The normal map for sizes[2].walls[0].
+sizes[2].walls[1] normal | 458, 6, 8, 8 | The normal map for sizes[2].walls[1].
+sizes[2].walls[2] normal | 426, 14, 8, 8 | The normal map for sizes[2].walls[2].
+sizes[2].walls[3] normal | 466, 14, 8, 8 | The normal map for sizes[2].walls[3].
+sizes[2].walls[4] normal | 426, 38, 8, 8 | The normal map for sizes[2].walls[4].
+sizes[2].walls[5] normal | 466, 38, 8, 8 | The normal map for sizes[2].walls[5].
+sizes[2].walls[6] normal | 434, 46, 8, 8 | The normal map for sizes[2].walls[6].
+sizes[2].walls[7] normal | 458, 46, 8, 8 | The normal map for sizes[2].walls[7].
+sizes[3].corners[0] normal | 486, 6, 8, 8 | The normal map for sizes[3].corners[0].
+sizes[3].corners[1] normal | 526, 6, 8, 8 | The normal map for sizes[3].corners[1].
+sizes[3].corners[2] normal | 486, 46, 8, 8 | The normal map for sizes[3].corners[2].
+sizes[3].corners[3] normal | 526, 46, 8, 8 | The normal map for sizes[3].corners[3].
+sizes[3].gate[0] normal | 502, 6, 8, 8 | The normal map for sizes[3].gate[0].
+sizes[3].gate[1] normal | 510, 6, 8, 8 | The normal map for sizes[3].gate[1].
+sizes[3].gate[2] normal | 486, 22, 8, 8 | The normal map for sizes[3].gate[2].
+sizes[3].gate[3] normal | 486, 30, 8, 8 | The normal map for sizes[3].gate[3].
+sizes[3].gate[4] normal | 526, 22, 8, 8 | The normal map for sizes[3].gate[4].
+sizes[3].gate[5] normal | 526, 30, 8, 8 | The normal map for sizes[3].gate[5].
+sizes[3].gate[6] normal | 502, 46, 8, 8 | The normal map for sizes[3].gate[6].
+sizes[3].gate[7] normal | 510, 46, 8, 8 | The normal map for sizes[3].gate[7].
+sizes[3].walls[0] normal | 494, 6, 8, 8 | The normal map for sizes[3].walls[0].
+sizes[3].walls[1] normal | 518, 6, 8, 8 | The normal map for sizes[3].walls[1].
+sizes[3].walls[2] normal | 486, 14, 8, 8 | The normal map for sizes[3].walls[2].
+sizes[3].walls[3] normal | 526, 14, 8, 8 | The normal map for sizes[3].walls[3].
+sizes[3].walls[4] normal | 486, 38, 8, 8 | The normal map for sizes[3].walls[4].
+sizes[3].walls[5] normal | 526, 38, 8, 8 | The normal map for sizes[3].walls[5].
+sizes[3].walls[6] normal | 494, 46, 8, 8 | The normal map for sizes[3].walls[6].
+sizes[3].walls[7] normal | 518, 46, 8, 8 | The normal map for sizes[3].walls[7].
+sizes[4].corners[0] normal | 546, 6, 8, 8 | The normal map for sizes[4].corners[0].
+sizes[4].corners[1] normal | 586, 6, 8, 8 | The normal map for sizes[4].corners[1].
+sizes[4].corners[2] normal | 546, 46, 8, 8 | The normal map for sizes[4].corners[2].
+sizes[4].corners[3] normal | 586, 46, 8, 8 | The normal map for sizes[4].corners[3].
+sizes[4].gate[0] normal | 562, 6, 8, 8 | The normal map for sizes[4].gate[0].
+sizes[4].gate[1] normal | 570, 6, 8, 8 | The normal map for sizes[4].gate[1].
+sizes[4].gate[2] normal | 546, 22, 8, 8 | The normal map for sizes[4].gate[2].
+sizes[4].gate[3] normal | 546, 30, 8, 8 | The normal map for sizes[4].gate[3].
+sizes[4].gate[4] normal | 586, 22, 8, 8 | The normal map for sizes[4].gate[4].
+sizes[4].gate[5] normal | 586, 30, 8, 8 | The normal map for sizes[4].gate[5].
+sizes[4].gate[6] normal | 562, 46, 8, 8 | The normal map for sizes[4].gate[6].
+sizes[4].gate[7] normal | 570, 46, 8, 8 | The normal map for sizes[4].gate[7].
+sizes[4].walls[0] normal | 554, 6, 8, 8 | The normal map for sizes[4].walls[0].
+sizes[4].walls[1] normal | 578, 6, 8, 8 | The normal map for sizes[4].walls[1].
+sizes[4].walls[2] normal | 546, 14, 8, 8 | The normal map for sizes[4].walls[2].
+sizes[4].walls[3] normal | 586, 14, 8, 8 | The normal map for sizes[4].walls[3].
+sizes[4].walls[4] normal | 546, 38, 8, 8 | The normal map for sizes[4].walls[4].
+sizes[4].walls[5] normal | 586, 38, 8, 8 | The normal map for sizes[4].walls[5].
+sizes[4].walls[6] normal | 554, 46, 8, 8 | The normal map for sizes[4].walls[6].
+sizes[4].walls[7] normal | 578, 46, 8, 8 | The normal map for sizes[4].walls[7].
+sizes[0].corners[4] normal | 306, 66, 8, 8 | The normal map for sizes[0].corners[4].
+sizes[0].corners[5] normal | 346, 66, 8, 8 | The normal map for sizes[0].corners[5].
+sizes[0].corners[6] normal | 306, 106, 8, 8 | The normal map for sizes[0].corners[6].
+sizes[0].corners[7] normal | 346, 106, 8, 8 | The normal map for sizes[0].corners[7].
+sizes[0].gate[8] normal | 322, 66, 8, 8 | The normal map for sizes[0].gate[8].
+sizes[0].gate[9] normal | 330, 66, 8, 8 | The normal map for sizes[0].gate[9].
+sizes[0].gate[10] normal | 306, 82, 8, 8 | The normal map for sizes[0].gate[10].
+sizes[0].gate[11] normal | 306, 90, 8, 8 | The normal map for sizes[0].gate[11].
+sizes[0].gate[12] normal | 346, 82, 8, 8 | The normal map for sizes[0].gate[12].
+sizes[0].gate[13] normal | 346, 90, 8, 8 | The normal map for sizes[0].gate[13].
+sizes[0].gate[14] normal | 322, 106, 8, 8 | The normal map for sizes[0].gate[14].
+sizes[0].gate[15] normal | 330, 106, 8, 8 | The normal map for sizes[0].gate[15].
+sizes[0].walls[8] normal | 314, 66, 8, 8 | The normal map for sizes[0].walls[8].
+sizes[0].walls[9] normal | 338, 66, 8, 8 | The normal map for sizes[0].walls[9].
+sizes[0].walls[10] normal | 306, 74, 8, 8 | The normal map for sizes[0].walls[10].
+sizes[0].walls[11] normal | 346, 74, 8, 8 | The normal map for sizes[0].walls[11].
+sizes[0].walls[12] normal | 306, 98, 8, 8 | The normal map for sizes[0].walls[12].
+sizes[0].walls[13] normal | 346, 98, 8, 8 | The normal map for sizes[0].walls[13].
+sizes[0].walls[14] normal | 314, 106, 8, 8 | The normal map for sizes[0].walls[14].
+sizes[0].walls[15] normal | 338, 106, 8, 8 | The normal map for sizes[0].walls[15].
+sizes[1].corners[4] normal | 366, 66, 8, 8 | The normal map for sizes[1].corners[4].
+sizes[1].corners[5] normal | 406, 66, 8, 8 | The normal map for sizes[1].corners[5].
+sizes[1].corners[6] normal | 366, 106, 8, 8 | The normal map for sizes[1].corners[6].
+sizes[1].corners[7] normal | 406, 106, 8, 8 | The normal map for sizes[1].corners[7].
+sizes[1].gate[8] normal | 382, 66, 8, 8 | The normal map for sizes[1].gate[8].
+sizes[1].gate[9] normal | 390, 66, 8, 8 | The normal map for sizes[1].gate[9].
+sizes[1].gate[10] normal | 366, 82, 8, 8 | The normal map for sizes[1].gate[10].
+sizes[1].gate[11] normal | 366, 90, 8, 8 | The normal map for sizes[1].gate[11].
+sizes[1].gate[12] normal | 406, 82, 8, 8 | The normal map for sizes[1].gate[12].
+sizes[1].gate[13] normal | 406, 90, 8, 8 | The normal map for sizes[1].gate[13].
+sizes[1].gate[14] normal | 382, 106, 8, 8 | The normal map for sizes[1].gate[14].
+sizes[1].gate[15] normal | 390, 106, 8, 8 | The normal map for sizes[1].gate[15].
+sizes[1].walls[8] normal | 374, 66, 8, 8 | The normal map for sizes[1].walls[8].
+sizes[1].walls[9] normal | 398, 66, 8, 8 | The normal map for sizes[1].walls[9].
+sizes[1].walls[10] normal | 366, 74, 8, 8 | The normal map for sizes[1].walls[10].
+sizes[1].walls[11] normal | 406, 74, 8, 8 | The normal map for sizes[1].walls[11].
+sizes[1].walls[12] normal | 366, 98, 8, 8 | The normal map for sizes[1].walls[12].
+sizes[1].walls[13] normal | 406, 98, 8, 8 | The normal map for sizes[1].walls[13].
+sizes[1].walls[14] normal | 374, 106, 8, 8 | The normal map for sizes[1].walls[14].
+sizes[1].walls[15] normal | 398, 106, 8, 8 | The normal map for sizes[1].walls[15].
+sizes[2].corners[4] normal | 426, 66, 8, 8 | The normal map for sizes[2].corners[4].
+sizes[2].corners[5] normal | 466, 66, 8, 8 | The normal map for sizes[2].corners[5].
+sizes[2].corners[6] normal | 426, 106, 8, 8 | The normal map for sizes[2].corners[6].
+sizes[2].corners[7] normal | 466, 106, 8, 8 | The normal map for sizes[2].corners[7].
+sizes[2].gate[8] normal | 442, 66, 8, 8 | The normal map for sizes[2].gate[8].
+sizes[2].gate[9] normal | 450, 66, 8, 8 | The normal map for sizes[2].gate[9].
+sizes[2].gate[10] normal | 426, 82, 8, 8 | The normal map for sizes[2].gate[10].
+sizes[2].gate[11] normal | 426, 90, 8, 8 | The normal map for sizes[2].gate[11].
+sizes[2].gate[12] normal | 466, 82, 8, 8 | The normal map for sizes[2].gate[12].
+sizes[2].gate[13] normal | 466, 90, 8, 8 | The normal map for sizes[2].gate[13].
+sizes[2].gate[14] normal | 442, 106, 8, 8 | The normal map for sizes[2].gate[14].
+sizes[2].gate[15] normal | 450, 106, 8, 8 | The normal map for sizes[2].gate[15].
+sizes[2].walls[8] normal | 434, 66, 8, 8 | The normal map for sizes[2].walls[8].
+sizes[2].walls[9] normal | 458, 66, 8, 8 | The normal map for sizes[2].walls[9].
+sizes[2].walls[10] normal | 426, 74, 8, 8 | The normal map for sizes[2].walls[10].
+sizes[2].walls[11] normal | 466, 74, 8, 8 | The normal map for sizes[2].walls[11].
+sizes[2].walls[12] normal | 426, 98, 8, 8 | The normal map for sizes[2].walls[12].
+sizes[2].walls[13] normal | 466, 98, 8, 8 | The normal map for sizes[2].walls[13].
+sizes[2].walls[14] normal | 434, 106, 8, 8 | The normal map for sizes[2].walls[14].
+sizes[2].walls[15] normal | 458, 106, 8, 8 | The normal map for sizes[2].walls[15].
+sizes[3].corners[4] normal | 486, 66, 8, 8 | The normal map for sizes[3].corners[4].
+sizes[3].corners[5] normal | 526, 66, 8, 8 | The normal map for sizes[3].corners[5].
+sizes[3].corners[6] normal | 486, 106, 8, 8 | The normal map for sizes[3].corners[6].
+sizes[3].corners[7] normal | 526, 106, 8, 8 | The normal map for sizes[3].corners[7].
+sizes[3].gate[8] normal | 502, 66, 8, 8 | The normal map for sizes[3].gate[8].
+sizes[3].gate[9] normal | 510, 66, 8, 8 | The normal map for sizes[3].gate[9].
+sizes[3].gate[10] normal | 486, 82, 8, 8 | The normal map for sizes[3].gate[10].
+sizes[3].gate[11] normal | 486, 90, 8, 8 | The normal map for sizes[3].gate[11].
+sizes[3].gate[12] normal | 526, 82, 8, 8 | The normal map for sizes[3].gate[12].
+sizes[3].gate[13] normal | 526, 90, 8, 8 | The normal map for sizes[3].gate[13].
+sizes[3].gate[14] normal | 502, 106, 8, 8 | The normal map for sizes[3].gate[14].
+sizes[3].gate[15] normal | 510, 106, 8, 8 | The normal map for sizes[3].gate[15].
+sizes[3].walls[8] normal | 494, 66, 8, 8 | The normal map for sizes[3].walls[8].
+sizes[3].walls[9] normal | 518, 66, 8, 8 | The normal map for sizes[3].walls[9].
+sizes[3].walls[10] normal | 486, 74, 8, 8 | The normal map for sizes[3].walls[10].
+sizes[3].walls[11] normal | 526, 74, 8, 8 | The normal map for sizes[3].walls[11].
+sizes[3].walls[12] normal | 486, 98, 8, 8 | The normal map for sizes[3].walls[12].
+sizes[3].walls[13] normal | 526, 98, 8, 8 | The normal map for sizes[3].walls[13].
+sizes[3].walls[14] normal | 494, 106, 8, 8 | The normal map for sizes[3].walls[14].
+sizes[3].walls[15] normal | 518, 106, 8, 8 | The normal map for sizes[3].walls[15].
+sizes[4].corners[4] normal | 546, 66, 8, 8 | The normal map for sizes[4].corners[4].
+sizes[4].corners[5] normal | 586, 66, 8, 8 | The normal map for sizes[4].corners[5].
+sizes[4].corners[6] normal | 546, 106, 8, 8 | The normal map for sizes[4].corners[6].
+sizes[4].corners[7] normal | 586, 106, 8, 8 | The normal map for sizes[4].corners[7].
+sizes[4].gate[8] normal | 562, 66, 8, 8 | The normal map for sizes[4].gate[8].
+sizes[4].gate[9] normal | 570, 66, 8, 8 | The normal map for sizes[4].gate[9].
+sizes[4].gate[10] normal | 546, 82, 8, 8 | The normal map for sizes[4].gate[10].
+sizes[4].gate[11] normal | 546, 90, 8, 8 | The normal map for sizes[4].gate[11].
+sizes[4].gate[12] normal | 586, 82, 8, 8 | The normal map for sizes[4].gate[12].
+sizes[4].gate[13] normal | 586, 90, 8, 8 | The normal map for sizes[4].gate[13].
+sizes[4].gate[14] normal | 562, 106, 8, 8 | The normal map for sizes[4].gate[14].
+sizes[4].gate[15] normal | 570, 106, 8, 8 | The normal map for sizes[4].gate[15].
+sizes[4].walls[8] normal | 554, 66, 8, 8 | The normal map for sizes[4].walls[8].
+sizes[4].walls[9] normal | 578, 66, 8, 8 | The normal map for sizes[4].walls[9].
+sizes[4].walls[10] normal | 546, 74, 8, 8 | The normal map for sizes[4].walls[10].
+sizes[4].walls[11] normal | 586, 74, 8, 8 | The normal map for sizes[4].walls[11].
+sizes[4].walls[12] normal | 546, 98, 8, 8 | The normal map for sizes[4].walls[12].
+sizes[4].walls[13] normal | 586, 98, 8, 8 | The normal map for sizes[4].walls[13].
+sizes[4].walls[14] normal | 554, 106, 8, 8 | The normal map for sizes[4].walls[14].
+sizes[4].walls[15] normal | 578, 106, 8, 8 | The normal map for sizes[4].walls[15].

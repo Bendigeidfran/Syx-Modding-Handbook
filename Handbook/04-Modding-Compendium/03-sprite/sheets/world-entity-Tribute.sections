@@ -1,0 +1,48 @@
+caravan[0] | 6, 6, 16, 16 | A shipment carrying a small load (under 256 goods), on land, frame 1 of 3. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+caravan[1] | 28, 6, 16, 16 | A shipment carrying a small load (under 256 goods), on land, frame 1 of 3. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+caravan[8] | 6, 34, 16, 16 | A shipment carrying a small load (under 256 goods), on land, frame 2 of 3. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+caravan[9] | 28, 34, 16, 16 | A shipment carrying a small load (under 256 goods), on land, frame 2 of 3. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+caravan[16] | 6, 62, 16, 16 | A shipment carrying a small load (under 256 goods), on land, frame 3 of 3. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+caravan[17] | 28, 62, 16, 16 | A shipment carrying a small load (under 256 goods), on land, frame 3 of 3. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+caravan[24] | 6, 90, 16, 16 | A shipment carrying a small load (under 256 goods), at sea. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+caravan[25] | 28, 90, 16, 16 | A shipment carrying a small load (under 256 goods), at sea. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+caravan[32] | 6, 118, 16, 16 | A shipment carrying a medium load (256 to 511 goods), on land, frame 1 of 3. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+caravan[33] | 28, 118, 16, 16 | A shipment carrying a medium load (256 to 511 goods), on land, frame 1 of 3. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+caravan[40] | 6, 146, 16, 16 | A shipment carrying a medium load (256 to 511 goods), on land, frame 2 of 3. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+caravan[41] | 28, 146, 16, 16 | A shipment carrying a medium load (256 to 511 goods), on land, frame 2 of 3. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+caravan[48] | 6, 174, 16, 16 | A shipment carrying a medium load (256 to 511 goods), on land, frame 3 of 3. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+caravan[49] | 28, 174, 16, 16 | A shipment carrying a medium load (256 to 511 goods), on land, frame 3 of 3. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+caravan[56] | 6, 202, 16, 16 | A shipment carrying a medium load (256 to 511 goods), at sea. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+caravan[57] | 28, 202, 16, 16 | A shipment carrying a medium load (256 to 511 goods), at sea. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+caravan[64] | 6, 230, 16, 16 | A shipment carrying a large load (512 goods or more), on land, frame 1 of 3. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+caravan[65] | 28, 230, 16, 16 | A shipment carrying a large load (512 goods or more), on land, frame 1 of 3. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+caravan[72] | 6, 258, 16, 16 | A shipment carrying a large load (512 goods or more), on land, frame 2 of 3. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+caravan[73] | 28, 258, 16, 16 | A shipment carrying a large load (512 goods or more), on land, frame 2 of 3. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+caravan[80] | 6, 286, 16, 16 | A shipment carrying a large load (512 goods or more), on land, frame 3 of 3. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+caravan[81] | 28, 286, 16, 16 | A shipment carrying a large load (512 goods or more), on land, frame 3 of 3. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+caravan[88] | 6, 314, 16, 16 | A shipment carrying a large load (512 goods or more), at sea. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+caravan[89] | 28, 314, 16, 16 | A shipment carrying a large load (512 goods or more), at sea. The left cell faces north and the right cell north-east; the game turns them for the other six directions.
+caravan[0] normal | 56, 6, 16, 16 | The normal map for caravan[0].
+caravan[1] normal | 78, 6, 16, 16 | The normal map for caravan[1].
+caravan[8] normal | 56, 34, 16, 16 | The normal map for caravan[8].
+caravan[9] normal | 78, 34, 16, 16 | The normal map for caravan[9].
+caravan[16] normal | 56, 62, 16, 16 | The normal map for caravan[16].
+caravan[17] normal | 78, 62, 16, 16 | The normal map for caravan[17].
+caravan[24] normal | 56, 90, 16, 16 | The normal map for caravan[24].
+caravan[25] normal | 78, 90, 16, 16 | The normal map for caravan[25].
+caravan[32] normal | 56, 118, 16, 16 | The normal map for caravan[32].
+caravan[33] normal | 78, 118, 16, 16 | The normal map for caravan[33].
+caravan[40] normal | 56, 146, 16, 16 | The normal map for caravan[40].
+caravan[41] normal | 78, 146, 16, 16 | The normal map for caravan[41].
+caravan[48] normal | 56, 174, 16, 16 | The normal map for caravan[48].
+caravan[49] normal | 78, 174, 16, 16 | The normal map for caravan[49].
+caravan[56] normal | 56, 202, 16, 16 | The normal map for caravan[56].
+caravan[57] normal | 78, 202, 16, 16 | The normal map for caravan[57].
+caravan[64] normal | 56, 230, 16, 16 | The normal map for caravan[64].
+caravan[65] normal | 78, 230, 16, 16 | The normal map for caravan[65].
+caravan[72] normal | 56, 258, 16, 16 | The normal map for caravan[72].
+caravan[73] normal | 78, 258, 16, 16 | The normal map for caravan[73].
+caravan[80] normal | 56, 286, 16, 16 | The normal map for caravan[80].
+caravan[81] normal | 78, 286, 16, 16 | The normal map for caravan[81].
+caravan[88] normal | 56, 314, 16, 16 | The normal map for caravan[88].
+caravan[89] normal | 78, 314, 16, 16 | The normal map for caravan[89].

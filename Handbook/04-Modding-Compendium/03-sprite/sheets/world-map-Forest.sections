@@ -1,0 +1,208 @@
+bg[0] | 6, 6, 24, 24 | A tree sprite for the lightest forest (amount 1 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[1] | 36, 6, 24, 24 | A tree sprite for the lightest forest (amount 1 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[2] | 66, 6, 24, 24 | A tree sprite for the lightest forest (amount 1 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[3] | 96, 6, 24, 24 | A tree sprite for the lightest forest (amount 1 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[4] | 126, 6, 24, 24 | A tree sprite for the lightest forest (amount 1 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[5] | 156, 6, 24, 24 | A tree sprite for the lightest forest (amount 1 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[6] | 186, 6, 24, 24 | A tree sprite for the lightest forest (amount 1 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[7] | 216, 6, 24, 24 | A tree sprite for the lightest forest (amount 1 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[8] | 246, 6, 24, 24 | A tree sprite for the lightest forest (amount 1 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[9] | 276, 6, 24, 24 | A tree sprite for the lightest forest (amount 1 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[10] | 306, 6, 24, 24 | A tree sprite for the lightest forest (amount 1 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[11] | 336, 6, 24, 24 | A tree sprite for the lightest forest (amount 1 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[12] | 366, 6, 24, 24 | A tree sprite for the lightest forest (amount 1 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[13] | 396, 6, 24, 24 | A tree sprite for the lightest forest (amount 1 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[14] | 426, 6, 24, 24 | A tree sprite for the lightest forest (amount 1 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[15] | 456, 6, 24, 24 | A tree sprite for the lightest forest (amount 1 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[16] | 6, 36, 24, 24 | A tree sprite for medium forest (amount 2 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[17] | 36, 36, 24, 24 | A tree sprite for medium forest (amount 2 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[18] | 66, 36, 24, 24 | A tree sprite for medium forest (amount 2 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[19] | 96, 36, 24, 24 | A tree sprite for medium forest (amount 2 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[20] | 126, 36, 24, 24 | A tree sprite for medium forest (amount 2 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[21] | 156, 36, 24, 24 | A tree sprite for medium forest (amount 2 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[22] | 186, 36, 24, 24 | A tree sprite for medium forest (amount 2 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[23] | 216, 36, 24, 24 | A tree sprite for medium forest (amount 2 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[24] | 246, 36, 24, 24 | A tree sprite for medium forest (amount 2 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[25] | 276, 36, 24, 24 | A tree sprite for medium forest (amount 2 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[26] | 306, 36, 24, 24 | A tree sprite for medium forest (amount 2 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[27] | 336, 36, 24, 24 | A tree sprite for medium forest (amount 2 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[28] | 366, 36, 24, 24 | A tree sprite for medium forest (amount 2 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[29] | 396, 36, 24, 24 | A tree sprite for medium forest (amount 2 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[30] | 426, 36, 24, 24 | A tree sprite for medium forest (amount 2 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[31] | 456, 36, 24, 24 | A tree sprite for medium forest (amount 2 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[32] | 6, 66, 24, 24 | A tree sprite for the densest forest (amount 3 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[33] | 36, 66, 24, 24 | A tree sprite for the densest forest (amount 3 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[34] | 66, 66, 24, 24 | A tree sprite for the densest forest (amount 3 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[35] | 96, 66, 24, 24 | A tree sprite for the densest forest (amount 3 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[36] | 126, 66, 24, 24 | A tree sprite for the densest forest (amount 3 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[37] | 156, 66, 24, 24 | A tree sprite for the densest forest (amount 3 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[38] | 186, 66, 24, 24 | A tree sprite for the densest forest (amount 3 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[39] | 216, 66, 24, 24 | A tree sprite for the densest forest (amount 3 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[40] | 246, 66, 24, 24 | A tree sprite for the densest forest (amount 3 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[41] | 276, 66, 24, 24 | A tree sprite for the densest forest (amount 3 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[42] | 306, 66, 24, 24 | A tree sprite for the densest forest (amount 3 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[43] | 336, 66, 24, 24 | A tree sprite for the densest forest (amount 3 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[44] | 366, 66, 24, 24 | A tree sprite for the densest forest (amount 3 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[45] | 396, 66, 24, 24 | A tree sprite for the densest forest (amount 3 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[46] | 426, 66, 24, 24 | A tree sprite for the densest forest (amount 3 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+bg[47] | 456, 66, 24, 24 | A tree sprite for the densest forest (amount 3 of 3), one of the 16 in its row picked at random for each tile. It casts a shadow. It's drawn together with the matching cell three rows down.
+sheet[0] | 6, 96, 24, 24 | A tree sprite for the lightest forest (amount 1 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[1] | 36, 96, 24, 24 | A tree sprite for the lightest forest (amount 1 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[2] | 66, 96, 24, 24 | A tree sprite for the lightest forest (amount 1 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[3] | 96, 96, 24, 24 | A tree sprite for the lightest forest (amount 1 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[4] | 126, 96, 24, 24 | A tree sprite for the lightest forest (amount 1 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[5] | 156, 96, 24, 24 | A tree sprite for the lightest forest (amount 1 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[6] | 186, 96, 24, 24 | A tree sprite for the lightest forest (amount 1 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[7] | 216, 96, 24, 24 | A tree sprite for the lightest forest (amount 1 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[8] | 246, 96, 24, 24 | A tree sprite for the lightest forest (amount 1 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[9] | 276, 96, 24, 24 | A tree sprite for the lightest forest (amount 1 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[10] | 306, 96, 24, 24 | A tree sprite for the lightest forest (amount 1 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[11] | 336, 96, 24, 24 | A tree sprite for the lightest forest (amount 1 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[12] | 366, 96, 24, 24 | A tree sprite for the lightest forest (amount 1 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[13] | 396, 96, 24, 24 | A tree sprite for the lightest forest (amount 1 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[14] | 426, 96, 24, 24 | A tree sprite for the lightest forest (amount 1 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[15] | 456, 96, 24, 24 | A tree sprite for the lightest forest (amount 1 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[16] | 6, 126, 24, 24 | A tree sprite for medium forest (amount 2 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[17] | 36, 126, 24, 24 | A tree sprite for medium forest (amount 2 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[18] | 66, 126, 24, 24 | A tree sprite for medium forest (amount 2 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[19] | 96, 126, 24, 24 | A tree sprite for medium forest (amount 2 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[20] | 126, 126, 24, 24 | A tree sprite for medium forest (amount 2 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[21] | 156, 126, 24, 24 | A tree sprite for medium forest (amount 2 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[22] | 186, 126, 24, 24 | A tree sprite for medium forest (amount 2 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[23] | 216, 126, 24, 24 | A tree sprite for medium forest (amount 2 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[24] | 246, 126, 24, 24 | A tree sprite for medium forest (amount 2 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[25] | 276, 126, 24, 24 | A tree sprite for medium forest (amount 2 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[26] | 306, 126, 24, 24 | A tree sprite for medium forest (amount 2 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[27] | 336, 126, 24, 24 | A tree sprite for medium forest (amount 2 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[28] | 366, 126, 24, 24 | A tree sprite for medium forest (amount 2 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[29] | 396, 126, 24, 24 | A tree sprite for medium forest (amount 2 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[30] | 426, 126, 24, 24 | A tree sprite for medium forest (amount 2 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[31] | 456, 126, 24, 24 | A tree sprite for medium forest (amount 2 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[32] | 6, 156, 24, 24 | A tree sprite for the densest forest (amount 3 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[33] | 36, 156, 24, 24 | A tree sprite for the densest forest (amount 3 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[34] | 66, 156, 24, 24 | A tree sprite for the densest forest (amount 3 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[35] | 96, 156, 24, 24 | A tree sprite for the densest forest (amount 3 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[36] | 126, 156, 24, 24 | A tree sprite for the densest forest (amount 3 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[37] | 156, 156, 24, 24 | A tree sprite for the densest forest (amount 3 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[38] | 186, 156, 24, 24 | A tree sprite for the densest forest (amount 3 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[39] | 216, 156, 24, 24 | A tree sprite for the densest forest (amount 3 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[40] | 246, 156, 24, 24 | A tree sprite for the densest forest (amount 3 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[41] | 276, 156, 24, 24 | A tree sprite for the densest forest (amount 3 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[42] | 306, 156, 24, 24 | A tree sprite for the densest forest (amount 3 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[43] | 336, 156, 24, 24 | A tree sprite for the densest forest (amount 3 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[44] | 366, 156, 24, 24 | A tree sprite for the densest forest (amount 3 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[45] | 396, 156, 24, 24 | A tree sprite for the densest forest (amount 3 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[46] | 426, 156, 24, 24 | A tree sprite for the densest forest (amount 3 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+sheet[47] | 456, 156, 24, 24 | A tree sprite for the densest forest (amount 3 of 3), drawn without a shadow, in a separate pass from the matching cell three rows up, which uses the same random pick.
+cols[0] | 6, 192, 16, 16 | A tint for the forest, read from this swatch's top-left pixel only. Row 0 is the second point of the year the colour passes through (the rows run 3, 0, 1, 2), and column 0 is one of 4 variations a tree blends between at random. Painted white leaves the sprites as painted.
+cols[1] | 28, 192, 16, 16 | A tint for the forest, read from this swatch's top-left pixel only. Row 0 is the second point of the year the colour passes through (the rows run 3, 0, 1, 2), and column 1 is one of 4 variations a tree blends between at random. Painted white leaves the sprites as painted.
+cols[2] | 50, 192, 16, 16 | A tint for the forest, read from this swatch's top-left pixel only. Row 0 is the second point of the year the colour passes through (the rows run 3, 0, 1, 2), and column 2 is one of 4 variations a tree blends between at random. Painted white leaves the sprites as painted.
+cols[3] | 72, 192, 16, 16 | A tint for the forest, read from this swatch's top-left pixel only. Row 0 is the second point of the year the colour passes through (the rows run 3, 0, 1, 2), and column 3 is one of 4 variations a tree blends between at random. Painted white leaves the sprites as painted.
+cols[4] | 6, 214, 16, 16 | A tint for the forest, read from this swatch's top-left pixel only. Row 1 is the third point of the year the colour passes through (the rows run 3, 0, 1, 2), and column 0 is one of 4 variations a tree blends between at random. Painted white leaves the sprites as painted.
+cols[5] | 28, 214, 16, 16 | A tint for the forest, read from this swatch's top-left pixel only. Row 1 is the third point of the year the colour passes through (the rows run 3, 0, 1, 2), and column 1 is one of 4 variations a tree blends between at random. Painted white leaves the sprites as painted.
+cols[6] | 50, 214, 16, 16 | A tint for the forest, read from this swatch's top-left pixel only. Row 1 is the third point of the year the colour passes through (the rows run 3, 0, 1, 2), and column 2 is one of 4 variations a tree blends between at random. Painted white leaves the sprites as painted.
+cols[7] | 72, 214, 16, 16 | A tint for the forest, read from this swatch's top-left pixel only. Row 1 is the third point of the year the colour passes through (the rows run 3, 0, 1, 2), and column 3 is one of 4 variations a tree blends between at random. Painted white leaves the sprites as painted.
+cols[8] | 6, 236, 16, 16 | A tint for the forest, read from this swatch's top-left pixel only. Row 2 is the fourth point of the year the colour passes through (the rows run 3, 0, 1, 2), and column 0 is one of 4 variations a tree blends between at random. Painted white leaves the sprites as painted.
+cols[9] | 28, 236, 16, 16 | A tint for the forest, read from this swatch's top-left pixel only. Row 2 is the fourth point of the year the colour passes through (the rows run 3, 0, 1, 2), and column 1 is one of 4 variations a tree blends between at random. Painted white leaves the sprites as painted.
+cols[10] | 50, 236, 16, 16 | A tint for the forest, read from this swatch's top-left pixel only. Row 2 is the fourth point of the year the colour passes through (the rows run 3, 0, 1, 2), and column 2 is one of 4 variations a tree blends between at random. Painted white leaves the sprites as painted.
+cols[11] | 72, 236, 16, 16 | A tint for the forest, read from this swatch's top-left pixel only. Row 2 is the fourth point of the year the colour passes through (the rows run 3, 0, 1, 2), and column 3 is one of 4 variations a tree blends between at random. Painted white leaves the sprites as painted.
+cols[12] | 6, 258, 16, 16 | A tint for the forest, read from this swatch's top-left pixel only. Row 3 is the first point of the year the colour passes through (the rows run 3, 0, 1, 2), and column 0 is one of 4 variations a tree blends between at random. Painted white leaves the sprites as painted.
+cols[13] | 28, 258, 16, 16 | A tint for the forest, read from this swatch's top-left pixel only. Row 3 is the first point of the year the colour passes through (the rows run 3, 0, 1, 2), and column 1 is one of 4 variations a tree blends between at random. Painted white leaves the sprites as painted.
+cols[14] | 50, 258, 16, 16 | A tint for the forest, read from this swatch's top-left pixel only. Row 3 is the first point of the year the colour passes through (the rows run 3, 0, 1, 2), and column 2 is one of 4 variations a tree blends between at random. Painted white leaves the sprites as painted.
+cols[15] | 72, 258, 16, 16 | A tint for the forest, read from this swatch's top-left pixel only. Row 3 is the first point of the year the colour passes through (the rows run 3, 0, 1, 2), and column 3 is one of 4 variations a tree blends between at random. Painted white leaves the sprites as painted.
+bg[0] normal | 492, 6, 24, 24 | The normal map for bg[0].
+bg[1] normal | 522, 6, 24, 24 | The normal map for bg[1].
+bg[2] normal | 552, 6, 24, 24 | The normal map for bg[2].
+bg[3] normal | 582, 6, 24, 24 | The normal map for bg[3].
+bg[4] normal | 612, 6, 24, 24 | The normal map for bg[4].
+bg[5] normal | 642, 6, 24, 24 | The normal map for bg[5].
+bg[6] normal | 672, 6, 24, 24 | The normal map for bg[6].
+bg[7] normal | 702, 6, 24, 24 | The normal map for bg[7].
+bg[8] normal | 732, 6, 24, 24 | The normal map for bg[8].
+bg[9] normal | 762, 6, 24, 24 | The normal map for bg[9].
+bg[10] normal | 792, 6, 24, 24 | The normal map for bg[10].
+bg[11] normal | 822, 6, 24, 24 | The normal map for bg[11].
+bg[12] normal | 852, 6, 24, 24 | The normal map for bg[12].
+bg[13] normal | 882, 6, 24, 24 | The normal map for bg[13].
+bg[14] normal | 912, 6, 24, 24 | The normal map for bg[14].
+bg[15] normal | 942, 6, 24, 24 | The normal map for bg[15].
+bg[16] normal | 492, 36, 24, 24 | The normal map for bg[16].
+bg[17] normal | 522, 36, 24, 24 | The normal map for bg[17].
+bg[18] normal | 552, 36, 24, 24 | The normal map for bg[18].
+bg[19] normal | 582, 36, 24, 24 | The normal map for bg[19].
+bg[20] normal | 612, 36, 24, 24 | The normal map for bg[20].
+bg[21] normal | 642, 36, 24, 24 | The normal map for bg[21].
+bg[22] normal | 672, 36, 24, 24 | The normal map for bg[22].
+bg[23] normal | 702, 36, 24, 24 | The normal map for bg[23].
+bg[24] normal | 732, 36, 24, 24 | The normal map for bg[24].
+bg[25] normal | 762, 36, 24, 24 | The normal map for bg[25].
+bg[26] normal | 792, 36, 24, 24 | The normal map for bg[26].
+bg[27] normal | 822, 36, 24, 24 | The normal map for bg[27].
+bg[28] normal | 852, 36, 24, 24 | The normal map for bg[28].
+bg[29] normal | 882, 36, 24, 24 | The normal map for bg[29].
+bg[30] normal | 912, 36, 24, 24 | The normal map for bg[30].
+bg[31] normal | 942, 36, 24, 24 | The normal map for bg[31].
+bg[32] normal | 492, 66, 24, 24 | The normal map for bg[32].
+bg[33] normal | 522, 66, 24, 24 | The normal map for bg[33].
+bg[34] normal | 552, 66, 24, 24 | The normal map for bg[34].
+bg[35] normal | 582, 66, 24, 24 | The normal map for bg[35].
+bg[36] normal | 612, 66, 24, 24 | The normal map for bg[36].
+bg[37] normal | 642, 66, 24, 24 | The normal map for bg[37].
+bg[38] normal | 672, 66, 24, 24 | The normal map for bg[38].
+bg[39] normal | 702, 66, 24, 24 | The normal map for bg[39].
+bg[40] normal | 732, 66, 24, 24 | The normal map for bg[40].
+bg[41] normal | 762, 66, 24, 24 | The normal map for bg[41].
+bg[42] normal | 792, 66, 24, 24 | The normal map for bg[42].
+bg[43] normal | 822, 66, 24, 24 | The normal map for bg[43].
+bg[44] normal | 852, 66, 24, 24 | The normal map for bg[44].
+bg[45] normal | 882, 66, 24, 24 | The normal map for bg[45].
+bg[46] normal | 912, 66, 24, 24 | The normal map for bg[46].
+bg[47] normal | 942, 66, 24, 24 | The normal map for bg[47].
+sheet[0] normal | 492, 96, 24, 24 | The normal map for sheet[0].
+sheet[1] normal | 522, 96, 24, 24 | The normal map for sheet[1].
+sheet[2] normal | 552, 96, 24, 24 | The normal map for sheet[2].
+sheet[3] normal | 582, 96, 24, 24 | The normal map for sheet[3].
+sheet[4] normal | 612, 96, 24, 24 | The normal map for sheet[4].
+sheet[5] normal | 642, 96, 24, 24 | The normal map for sheet[5].
+sheet[6] normal | 672, 96, 24, 24 | The normal map for sheet[6].
+sheet[7] normal | 702, 96, 24, 24 | The normal map for sheet[7].
+sheet[8] normal | 732, 96, 24, 24 | The normal map for sheet[8].
+sheet[9] normal | 762, 96, 24, 24 | The normal map for sheet[9].
+sheet[10] normal | 792, 96, 24, 24 | The normal map for sheet[10].
+sheet[11] normal | 822, 96, 24, 24 | The normal map for sheet[11].
+sheet[12] normal | 852, 96, 24, 24 | The normal map for sheet[12].
+sheet[13] normal | 882, 96, 24, 24 | The normal map for sheet[13].
+sheet[14] normal | 912, 96, 24, 24 | The normal map for sheet[14].
+sheet[15] normal | 942, 96, 24, 24 | The normal map for sheet[15].
+sheet[16] normal | 492, 126, 24, 24 | The normal map for sheet[16].
+sheet[17] normal | 522, 126, 24, 24 | The normal map for sheet[17].
+sheet[18] normal | 552, 126, 24, 24 | The normal map for sheet[18].
+sheet[19] normal | 582, 126, 24, 24 | The normal map for sheet[19].
+sheet[20] normal | 612, 126, 24, 24 | The normal map for sheet[20].
+sheet[21] normal | 642, 126, 24, 24 | The normal map for sheet[21].
+sheet[22] normal | 672, 126, 24, 24 | The normal map for sheet[22].
+sheet[23] normal | 702, 126, 24, 24 | The normal map for sheet[23].
+sheet[24] normal | 732, 126, 24, 24 | The normal map for sheet[24].
+sheet[25] normal | 762, 126, 24, 24 | The normal map for sheet[25].
+sheet[26] normal | 792, 126, 24, 24 | The normal map for sheet[26].
+sheet[27] normal | 822, 126, 24, 24 | The normal map for sheet[27].
+sheet[28] normal | 852, 126, 24, 24 | The normal map for sheet[28].
+sheet[29] normal | 882, 126, 24, 24 | The normal map for sheet[29].
+sheet[30] normal | 912, 126, 24, 24 | The normal map for sheet[30].
+sheet[31] normal | 942, 126, 24, 24 | The normal map for sheet[31].
+sheet[32] normal | 492, 156, 24, 24 | The normal map for sheet[32].
+sheet[33] normal | 522, 156, 24, 24 | The normal map for sheet[33].
+sheet[34] normal | 552, 156, 24, 24 | The normal map for sheet[34].
+sheet[35] normal | 582, 156, 24, 24 | The normal map for sheet[35].
+sheet[36] normal | 612, 156, 24, 24 | The normal map for sheet[36].
+sheet[37] normal | 642, 156, 24, 24 | The normal map for sheet[37].
+sheet[38] normal | 672, 156, 24, 24 | The normal map for sheet[38].
+sheet[39] normal | 702, 156, 24, 24 | The normal map for sheet[39].
+sheet[40] normal | 732, 156, 24, 24 | The normal map for sheet[40].
+sheet[41] normal | 762, 156, 24, 24 | The normal map for sheet[41].
+sheet[42] normal | 792, 156, 24, 24 | The normal map for sheet[42].
+sheet[43] normal | 822, 156, 24, 24 | The normal map for sheet[43].
+sheet[44] normal | 852, 156, 24, 24 | The normal map for sheet[44].
+sheet[45] normal | 882, 156, 24, 24 | The normal map for sheet[45].
+sheet[46] normal | 912, 156, 24, 24 | The normal map for sheet[46].
+sheet[47] normal | 942, 156, 24, 24 | The normal map for sheet[47].

@@ -1,0 +1,28 @@
+sheetCart[0] | 6, 6, 32, 32 | The lower part of a cart, frame 0 of 4, used when travelling north. Turned a quarter, half and three quarters clockwise, it serves east, south and west. As a cart crosses a tile it steps through frames 0, 1 and 2, and on a diagonal step frame 3 as well; a cart standing in a room uses frame 0. The cargo is drawn on top of it.
+sheetCart[1] | 44, 6, 32, 32 | The lower part of a cart, frame 0 of 4, used when travelling north-east. Turned a quarter, half and three quarters clockwise, it serves south-east, south-west and north-west. As a cart crosses a tile it steps through frames 0, 1 and 2, and on a diagonal step frame 3 as well; a cart standing in a room uses frame 0. The cargo is drawn on top of it.
+sheetCart[8] | 6, 44, 32, 32 | The lower part of a cart, frame 1 of 4, used when travelling north. Turned a quarter, half and three quarters clockwise, it serves east, south and west. As a cart crosses a tile it steps through frames 0, 1 and 2, and on a diagonal step frame 3 as well; a cart standing in a room uses frame 0. The cargo is drawn on top of it.
+sheetCart[9] | 44, 44, 32, 32 | The lower part of a cart, frame 1 of 4, used when travelling north-east. Turned a quarter, half and three quarters clockwise, it serves south-east, south-west and north-west. As a cart crosses a tile it steps through frames 0, 1 and 2, and on a diagonal step frame 3 as well; a cart standing in a room uses frame 0. The cargo is drawn on top of it.
+sheetCart[16] | 6, 82, 32, 32 | The lower part of a cart, frame 2 of 4, used when travelling north. Turned a quarter, half and three quarters clockwise, it serves east, south and west. As a cart crosses a tile it steps through frames 0, 1 and 2, and on a diagonal step frame 3 as well; a cart standing in a room uses frame 0. The cargo is drawn on top of it.
+sheetCart[17] | 44, 82, 32, 32 | The lower part of a cart, frame 2 of 4, used when travelling north-east. Turned a quarter, half and three quarters clockwise, it serves south-east, south-west and north-west. As a cart crosses a tile it steps through frames 0, 1 and 2, and on a diagonal step frame 3 as well; a cart standing in a room uses frame 0. The cargo is drawn on top of it.
+sheetCart[24] | 6, 120, 32, 32 | The lower part of a cart, frame 3 of 4, used when travelling north. Turned a quarter, half and three quarters clockwise, it serves east, south and west. As a cart crosses a tile it steps through frames 0, 1 and 2, and on a diagonal step frame 3 as well; a cart standing in a room uses frame 0. The cargo is drawn on top of it.
+sheetCart[25] | 44, 120, 32, 32 | The lower part of a cart, frame 3 of 4, used when travelling north-east. Turned a quarter, half and three quarters clockwise, it serves south-east, south-west and north-west. As a cart crosses a tile it steps through frames 0, 1 and 2, and on a diagonal step frame 3 as well; a cart standing in a room uses frame 0. The cargo is drawn on top of it.
+sheetCart[32] | 6, 158, 32, 32 | The upper part of a transport cart, drawn over the cargo, used when travelling north. Turned a quarter, half and three quarters clockwise, it serves east, south and west.
+sheetCart[33] | 44, 158, 32, 32 | The upper part of a transport cart, drawn over the cargo, used when travelling north-east. Turned a quarter, half and three quarters clockwise, it serves south-east, south-west and north-west.
+sheetCart[40] | 6, 196, 32, 32 | The upper part of a military supply cart, drawn over the cargo, used when travelling north. Turned a quarter, half and three quarters clockwise, it serves east, south and west.
+sheetCart[41] | 44, 196, 32, 32 | The upper part of a military supply cart, drawn over the cargo, used when travelling north-east. Turned a quarter, half and three quarters clockwise, it serves south-east, south-west and north-west.
+sheetHarness[0] | 6, 234, 32, 32 | The harness that joins a cart to the animal pulling it, used when travelling north. Turned a quarter, half and three quarters clockwise, it serves east, south and west. Drawn on the leading cart of a transport and on every military supply cart.
+sheetHarness[1] | 44, 234, 32, 32 | The harness that joins a cart to the animal pulling it, used when travelling north-east. Turned a quarter, half and three quarters clockwise, it serves south-east, south-west and north-west. Drawn on the leading cart of a transport and on every military supply cart.
+sheetCart[0] normal | 88, 6, 32, 32 | The normal map for sheetCart[0].
+sheetCart[1] normal | 126, 6, 32, 32 | The normal map for sheetCart[1].
+sheetCart[8] normal | 88, 44, 32, 32 | The normal map for sheetCart[8].
+sheetCart[9] normal | 126, 44, 32, 32 | The normal map for sheetCart[9].
+sheetCart[16] normal | 88, 82, 32, 32 | The normal map for sheetCart[16].
+sheetCart[17] normal | 126, 82, 32, 32 | The normal map for sheetCart[17].
+sheetCart[24] normal | 88, 120, 32, 32 | The normal map for sheetCart[24].
+sheetCart[25] normal | 126, 120, 32, 32 | The normal map for sheetCart[25].
+sheetCart[32] normal | 88, 158, 32, 32 | The normal map for sheetCart[32].
+sheetCart[33] normal | 126, 158, 32, 32 | The normal map for sheetCart[33].
+sheetCart[40] normal | 88, 196, 32, 32 | The normal map for sheetCart[40].
+sheetCart[41] normal | 126, 196, 32, 32 | The normal map for sheetCart[41].
+sheetHarness[0] normal | 88, 234, 32, 32 | The normal map for sheetHarness[0].
+sheetHarness[1] normal | 126, 234, 32, 32 | The normal map for sheetHarness[1].

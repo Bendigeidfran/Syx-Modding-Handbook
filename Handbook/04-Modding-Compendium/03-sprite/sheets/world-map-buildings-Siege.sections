@@ -1,0 +1,18 @@
+siege[0] | 6, 6, 16, 16 | Part of the siege camp around a besieged region's centre, at the top-left corner of a 3 by 3 grid. Casts a shadow.
+siege[1] | 22, 6, 16, 16 | Part of the siege camp around a besieged region's centre, at the top side of a 3 by 3 grid. Casts a shadow.
+siege[2] | 38, 6, 16, 16 | Part of the siege camp around a besieged region's centre, at the top-right corner of a 3 by 3 grid. Casts a shadow.
+siege[3] | 6, 22, 16, 16 | Part of the siege camp around a besieged region's centre, at the left side of a 3 by 3 grid. Casts a shadow.
+siege[4] | 22, 22, 16, 16 | Part of the siege camp around a besieged region's centre, at the middle of a 3 by 3 grid. Casts a shadow.
+siege[5] | 38, 22, 16, 16 | Part of the siege camp around a besieged region's centre, at the right side of a 3 by 3 grid. Casts a shadow.
+siege[6] | 6, 38, 16, 16 | Part of the siege camp around a besieged region's centre, at the bottom-left corner of a 3 by 3 grid. Casts a shadow.
+siege[7] | 22, 38, 16, 16 | Part of the siege camp around a besieged region's centre, at the bottom side of a 3 by 3 grid. Casts a shadow.
+siege[8] | 38, 38, 16, 16 | Part of the siege camp around a besieged region's centre, at the bottom-right corner of a 3 by 3 grid. Casts a shadow.
+siege[0] normal | 66, 6, 16, 16 | The normal map for siege[0].
+siege[1] normal | 82, 6, 16, 16 | The normal map for siege[1].
+siege[2] normal | 98, 6, 16, 16 | The normal map for siege[2].
+siege[3] normal | 66, 22, 16, 16 | The normal map for siege[3].
+siege[4] normal | 82, 22, 16, 16 | The normal map for siege[4].
+siege[5] normal | 98, 22, 16, 16 | The normal map for siege[5].
+siege[6] normal | 66, 38, 16, 16 | The normal map for siege[6].
+siege[7] normal | 82, 38, 16, 16 | The normal map for siege[7].
+siege[8] normal | 98, 38, 16, 16 | The normal map for siege[8].

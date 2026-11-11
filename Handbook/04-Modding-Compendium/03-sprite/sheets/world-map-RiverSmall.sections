@@ -1,0 +1,256 @@
+riverSmallBG[0] | 54, 54, 16, 16 | The banks of a small river, on a tile joined to the river on no side. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[1] | 54, 34, 16, 16 | The banks of a small river, on a tile joined to the river to the north. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[2] | 2, 54, 16, 16 | The banks of a small river, on a tile joined to the river to the east. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[3] | 2, 34, 16, 16 | The banks of a small river, on a tile joined to the river to the north and east. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[4] | 54, 2, 16, 16 | The banks of a small river, on a tile joined to the river to the south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[5] | 54, 18, 16, 16 | The banks of a small river, on a tile joined to the river to the north and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[6] | 2, 2, 16, 16 | The banks of a small river, on a tile joined to the river to the east and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[7] | 2, 18, 16, 16 | The banks of a small river, on a tile joined to the river to the north, east and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[8] | 34, 54, 16, 16 | The banks of a small river, on a tile joined to the river to the west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[9] | 34, 34, 16, 16 | The banks of a small river, on a tile joined to the river to the north and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[10] | 18, 54, 16, 16 | The banks of a small river, on a tile joined to the river to the east and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[11] | 18, 34, 16, 16 | The banks of a small river, on a tile joined to the river to the north, east and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[12] | 34, 2, 16, 16 | The banks of a small river, on a tile joined to the river to the south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[13] | 34, 18, 16, 16 | The banks of a small river, on a tile joined to the river to the north, south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[14] | 18, 2, 16, 16 | The banks of a small river, on a tile joined to the river to the east, south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[15] | 18, 18, 16, 16 | The banks of a small river, on a tile joined to the river on all four sides. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[32] | 126, 54, 16, 16 | The banks of a small river, on a tile joined to the river on no side. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[33] | 126, 34, 16, 16 | The banks of a small river, on a tile joined to the river to the north. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[34] | 74, 54, 16, 16 | The banks of a small river, on a tile joined to the river to the east. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[35] | 74, 34, 16, 16 | The banks of a small river, on a tile joined to the river to the north and east. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[36] | 126, 2, 16, 16 | The banks of a small river, on a tile joined to the river to the south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[37] | 126, 18, 16, 16 | The banks of a small river, on a tile joined to the river to the north and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[38] | 74, 2, 16, 16 | The banks of a small river, on a tile joined to the river to the east and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[39] | 74, 18, 16, 16 | The banks of a small river, on a tile joined to the river to the north, east and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[40] | 106, 54, 16, 16 | The banks of a small river, on a tile joined to the river to the west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[41] | 106, 34, 16, 16 | The banks of a small river, on a tile joined to the river to the north and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[42] | 90, 54, 16, 16 | The banks of a small river, on a tile joined to the river to the east and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[43] | 90, 34, 16, 16 | The banks of a small river, on a tile joined to the river to the north, east and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[44] | 106, 2, 16, 16 | The banks of a small river, on a tile joined to the river to the south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[45] | 106, 18, 16, 16 | The banks of a small river, on a tile joined to the river to the north, south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[46] | 90, 2, 16, 16 | The banks of a small river, on a tile joined to the river to the east, south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[47] | 90, 18, 16, 16 | The banks of a small river, on a tile joined to the river on all four sides. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[64] | 198, 54, 16, 16 | The banks of a small river, on a tile joined to the river on no side. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[65] | 198, 34, 16, 16 | The banks of a small river, on a tile joined to the river to the north. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[66] | 146, 54, 16, 16 | The banks of a small river, on a tile joined to the river to the east. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[67] | 146, 34, 16, 16 | The banks of a small river, on a tile joined to the river to the north and east. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[68] | 198, 2, 16, 16 | The banks of a small river, on a tile joined to the river to the south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[69] | 198, 18, 16, 16 | The banks of a small river, on a tile joined to the river to the north and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[70] | 146, 2, 16, 16 | The banks of a small river, on a tile joined to the river to the east and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[71] | 146, 18, 16, 16 | The banks of a small river, on a tile joined to the river to the north, east and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[72] | 178, 54, 16, 16 | The banks of a small river, on a tile joined to the river to the west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[73] | 178, 34, 16, 16 | The banks of a small river, on a tile joined to the river to the north and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[74] | 162, 54, 16, 16 | The banks of a small river, on a tile joined to the river to the east and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[75] | 162, 34, 16, 16 | The banks of a small river, on a tile joined to the river to the north, east and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[76] | 178, 2, 16, 16 | The banks of a small river, on a tile joined to the river to the south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[77] | 178, 18, 16, 16 | The banks of a small river, on a tile joined to the river to the north, south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[78] | 162, 2, 16, 16 | The banks of a small river, on a tile joined to the river to the east, south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[79] | 162, 18, 16, 16 | The banks of a small river, on a tile joined to the river on all four sides. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[96] | 270, 54, 16, 16 | The banks of a small river, on a tile joined to the river on no side. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[97] | 270, 34, 16, 16 | The banks of a small river, on a tile joined to the river to the north. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[98] | 218, 54, 16, 16 | The banks of a small river, on a tile joined to the river to the east. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[99] | 218, 34, 16, 16 | The banks of a small river, on a tile joined to the river to the north and east. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[100] | 270, 2, 16, 16 | The banks of a small river, on a tile joined to the river to the south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[101] | 270, 18, 16, 16 | The banks of a small river, on a tile joined to the river to the north and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[102] | 218, 2, 16, 16 | The banks of a small river, on a tile joined to the river to the east and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[103] | 218, 18, 16, 16 | The banks of a small river, on a tile joined to the river to the north, east and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[104] | 250, 54, 16, 16 | The banks of a small river, on a tile joined to the river to the west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[105] | 250, 34, 16, 16 | The banks of a small river, on a tile joined to the river to the north and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[106] | 234, 54, 16, 16 | The banks of a small river, on a tile joined to the river to the east and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[107] | 234, 34, 16, 16 | The banks of a small river, on a tile joined to the river to the north, east and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[108] | 250, 2, 16, 16 | The banks of a small river, on a tile joined to the river to the south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[109] | 250, 18, 16, 16 | The banks of a small river, on a tile joined to the river to the north, south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[110] | 234, 2, 16, 16 | The banks of a small river, on a tile joined to the river to the east, south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallBG[111] | 234, 18, 16, 16 | The banks of a small river, on a tile joined to the river on all four sides. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE_SHORE.
+riverSmallFG[0] | 54, 126, 16, 16 | The water of a small river, on a tile joined to the river on no side. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[1] | 54, 106, 16, 16 | The water of a small river, on a tile joined to the river to the north. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[2] | 2, 126, 16, 16 | The water of a small river, on a tile joined to the river to the east. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[3] | 2, 106, 16, 16 | The water of a small river, on a tile joined to the river to the north and east. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[4] | 54, 74, 16, 16 | The water of a small river, on a tile joined to the river to the south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[5] | 54, 90, 16, 16 | The water of a small river, on a tile joined to the river to the north and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[6] | 2, 74, 16, 16 | The water of a small river, on a tile joined to the river to the east and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[7] | 2, 90, 16, 16 | The water of a small river, on a tile joined to the river to the north, east and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[8] | 34, 126, 16, 16 | The water of a small river, on a tile joined to the river to the west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[9] | 34, 106, 16, 16 | The water of a small river, on a tile joined to the river to the north and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[10] | 18, 126, 16, 16 | The water of a small river, on a tile joined to the river to the east and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[11] | 18, 106, 16, 16 | The water of a small river, on a tile joined to the river to the north, east and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[12] | 34, 74, 16, 16 | The water of a small river, on a tile joined to the river to the south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[13] | 34, 90, 16, 16 | The water of a small river, on a tile joined to the river to the north, south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[14] | 18, 74, 16, 16 | The water of a small river, on a tile joined to the river to the east, south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[15] | 18, 90, 16, 16 | The water of a small river, on a tile joined to the river on all four sides. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[32] | 126, 126, 16, 16 | The water of a small river, on a tile joined to the river on no side. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[33] | 126, 106, 16, 16 | The water of a small river, on a tile joined to the river to the north. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[34] | 74, 126, 16, 16 | The water of a small river, on a tile joined to the river to the east. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[35] | 74, 106, 16, 16 | The water of a small river, on a tile joined to the river to the north and east. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[36] | 126, 74, 16, 16 | The water of a small river, on a tile joined to the river to the south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[37] | 126, 90, 16, 16 | The water of a small river, on a tile joined to the river to the north and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[38] | 74, 74, 16, 16 | The water of a small river, on a tile joined to the river to the east and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[39] | 74, 90, 16, 16 | The water of a small river, on a tile joined to the river to the north, east and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[40] | 106, 126, 16, 16 | The water of a small river, on a tile joined to the river to the west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[41] | 106, 106, 16, 16 | The water of a small river, on a tile joined to the river to the north and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[42] | 90, 126, 16, 16 | The water of a small river, on a tile joined to the river to the east and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[43] | 90, 106, 16, 16 | The water of a small river, on a tile joined to the river to the north, east and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[44] | 106, 74, 16, 16 | The water of a small river, on a tile joined to the river to the south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[45] | 106, 90, 16, 16 | The water of a small river, on a tile joined to the river to the north, south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[46] | 90, 74, 16, 16 | The water of a small river, on a tile joined to the river to the east, south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[47] | 90, 90, 16, 16 | The water of a small river, on a tile joined to the river on all four sides. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[64] | 198, 126, 16, 16 | The water of a small river, on a tile joined to the river on no side. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[65] | 198, 106, 16, 16 | The water of a small river, on a tile joined to the river to the north. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[66] | 146, 126, 16, 16 | The water of a small river, on a tile joined to the river to the east. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[67] | 146, 106, 16, 16 | The water of a small river, on a tile joined to the river to the north and east. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[68] | 198, 74, 16, 16 | The water of a small river, on a tile joined to the river to the south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[69] | 198, 90, 16, 16 | The water of a small river, on a tile joined to the river to the north and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[70] | 146, 74, 16, 16 | The water of a small river, on a tile joined to the river to the east and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[71] | 146, 90, 16, 16 | The water of a small river, on a tile joined to the river to the north, east and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[72] | 178, 126, 16, 16 | The water of a small river, on a tile joined to the river to the west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[73] | 178, 106, 16, 16 | The water of a small river, on a tile joined to the river to the north and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[74] | 162, 126, 16, 16 | The water of a small river, on a tile joined to the river to the east and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[75] | 162, 106, 16, 16 | The water of a small river, on a tile joined to the river to the north, east and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[76] | 178, 74, 16, 16 | The water of a small river, on a tile joined to the river to the south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[77] | 178, 90, 16, 16 | The water of a small river, on a tile joined to the river to the north, south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[78] | 162, 74, 16, 16 | The water of a small river, on a tile joined to the river to the east, south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[79] | 162, 90, 16, 16 | The water of a small river, on a tile joined to the river on all four sides. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[96] | 270, 126, 16, 16 | The water of a small river, on a tile joined to the river on no side. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[97] | 270, 106, 16, 16 | The water of a small river, on a tile joined to the river to the north. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[98] | 218, 126, 16, 16 | The water of a small river, on a tile joined to the river to the east. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[99] | 218, 106, 16, 16 | The water of a small river, on a tile joined to the river to the north and east. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[100] | 270, 74, 16, 16 | The water of a small river, on a tile joined to the river to the south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[101] | 270, 90, 16, 16 | The water of a small river, on a tile joined to the river to the north and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[102] | 218, 74, 16, 16 | The water of a small river, on a tile joined to the river to the east and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[103] | 218, 90, 16, 16 | The water of a small river, on a tile joined to the river to the north, east and south. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[104] | 250, 126, 16, 16 | The water of a small river, on a tile joined to the river to the west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[105] | 250, 106, 16, 16 | The water of a small river, on a tile joined to the river to the north and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[106] | 234, 126, 16, 16 | The water of a small river, on a tile joined to the river to the east and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[107] | 234, 106, 16, 16 | The water of a small river, on a tile joined to the river to the north, east and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[108] | 250, 74, 16, 16 | The water of a small river, on a tile joined to the river to the south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[109] | 250, 90, 16, 16 | The water of a small river, on a tile joined to the river to the north, south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[110] | 234, 74, 16, 16 | The water of a small river, on a tile joined to the river to the east, south and west. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallFG[111] | 234, 90, 16, 16 | The water of a small river, on a tile joined to the river on all four sides. One of 8 versions picked at random, counting turned copies. Tinted with COLOR_LAKE.
+riverSmallBG[0] normal | 342, 54, 16, 16 | The normal map for riverSmallBG[0].
+riverSmallBG[1] normal | 342, 34, 16, 16 | The normal map for riverSmallBG[1].
+riverSmallBG[2] normal | 290, 54, 16, 16 | The normal map for riverSmallBG[2].
+riverSmallBG[3] normal | 290, 34, 16, 16 | The normal map for riverSmallBG[3].
+riverSmallBG[4] normal | 342, 2, 16, 16 | The normal map for riverSmallBG[4].
+riverSmallBG[5] normal | 342, 18, 16, 16 | The normal map for riverSmallBG[5].
+riverSmallBG[6] normal | 290, 2, 16, 16 | The normal map for riverSmallBG[6].
+riverSmallBG[7] normal | 290, 18, 16, 16 | The normal map for riverSmallBG[7].
+riverSmallBG[8] normal | 322, 54, 16, 16 | The normal map for riverSmallBG[8].
+riverSmallBG[9] normal | 322, 34, 16, 16 | The normal map for riverSmallBG[9].
+riverSmallBG[10] normal | 306, 54, 16, 16 | The normal map for riverSmallBG[10].
+riverSmallBG[11] normal | 306, 34, 16, 16 | The normal map for riverSmallBG[11].
+riverSmallBG[12] normal | 322, 2, 16, 16 | The normal map for riverSmallBG[12].
+riverSmallBG[13] normal | 322, 18, 16, 16 | The normal map for riverSmallBG[13].
+riverSmallBG[14] normal | 306, 2, 16, 16 | The normal map for riverSmallBG[14].
+riverSmallBG[15] normal | 306, 18, 16, 16 | The normal map for riverSmallBG[15].
+riverSmallBG[32] normal | 414, 54, 16, 16 | The normal map for riverSmallBG[32].
+riverSmallBG[33] normal | 414, 34, 16, 16 | The normal map for riverSmallBG[33].
+riverSmallBG[34] normal | 362, 54, 16, 16 | The normal map for riverSmallBG[34].
+riverSmallBG[35] normal | 362, 34, 16, 16 | The normal map for riverSmallBG[35].
+riverSmallBG[36] normal | 414, 2, 16, 16 | The normal map for riverSmallBG[36].
+riverSmallBG[37] normal | 414, 18, 16, 16 | The normal map for riverSmallBG[37].
+riverSmallBG[38] normal | 362, 2, 16, 16 | The normal map for riverSmallBG[38].
+riverSmallBG[39] normal | 362, 18, 16, 16 | The normal map for riverSmallBG[39].
+riverSmallBG[40] normal | 394, 54, 16, 16 | The normal map for riverSmallBG[40].
+riverSmallBG[41] normal | 394, 34, 16, 16 | The normal map for riverSmallBG[41].
+riverSmallBG[42] normal | 378, 54, 16, 16 | The normal map for riverSmallBG[42].
+riverSmallBG[43] normal | 378, 34, 16, 16 | The normal map for riverSmallBG[43].
+riverSmallBG[44] normal | 394, 2, 16, 16 | The normal map for riverSmallBG[44].
+riverSmallBG[45] normal | 394, 18, 16, 16 | The normal map for riverSmallBG[45].
+riverSmallBG[46] normal | 378, 2, 16, 16 | The normal map for riverSmallBG[46].
+riverSmallBG[47] normal | 378, 18, 16, 16 | The normal map for riverSmallBG[47].
+riverSmallBG[64] normal | 486, 54, 16, 16 | The normal map for riverSmallBG[64].
+riverSmallBG[65] normal | 486, 34, 16, 16 | The normal map for riverSmallBG[65].
+riverSmallBG[66] normal | 434, 54, 16, 16 | The normal map for riverSmallBG[66].
+riverSmallBG[67] normal | 434, 34, 16, 16 | The normal map for riverSmallBG[67].
+riverSmallBG[68] normal | 486, 2, 16, 16 | The normal map for riverSmallBG[68].
+riverSmallBG[69] normal | 486, 18, 16, 16 | The normal map for riverSmallBG[69].
+riverSmallBG[70] normal | 434, 2, 16, 16 | The normal map for riverSmallBG[70].
+riverSmallBG[71] normal | 434, 18, 16, 16 | The normal map for riverSmallBG[71].
+riverSmallBG[72] normal | 466, 54, 16, 16 | The normal map for riverSmallBG[72].
+riverSmallBG[73] normal | 466, 34, 16, 16 | The normal map for riverSmallBG[73].
+riverSmallBG[74] normal | 450, 54, 16, 16 | The normal map for riverSmallBG[74].
+riverSmallBG[75] normal | 450, 34, 16, 16 | The normal map for riverSmallBG[75].
+riverSmallBG[76] normal | 466, 2, 16, 16 | The normal map for riverSmallBG[76].
+riverSmallBG[77] normal | 466, 18, 16, 16 | The normal map for riverSmallBG[77].
+riverSmallBG[78] normal | 450, 2, 16, 16 | The normal map for riverSmallBG[78].
+riverSmallBG[79] normal | 450, 18, 16, 16 | The normal map for riverSmallBG[79].
+riverSmallBG[96] normal | 558, 54, 16, 16 | The normal map for riverSmallBG[96].
+riverSmallBG[97] normal | 558, 34, 16, 16 | The normal map for riverSmallBG[97].
+riverSmallBG[98] normal | 506, 54, 16, 16 | The normal map for riverSmallBG[98].
+riverSmallBG[99] normal | 506, 34, 16, 16 | The normal map for riverSmallBG[99].
+riverSmallBG[100] normal | 558, 2, 16, 16 | The normal map for riverSmallBG[100].
+riverSmallBG[101] normal | 558, 18, 16, 16 | The normal map for riverSmallBG[101].
+riverSmallBG[102] normal | 506, 2, 16, 16 | The normal map for riverSmallBG[102].
+riverSmallBG[103] normal | 506, 18, 16, 16 | The normal map for riverSmallBG[103].
+riverSmallBG[104] normal | 538, 54, 16, 16 | The normal map for riverSmallBG[104].
+riverSmallBG[105] normal | 538, 34, 16, 16 | The normal map for riverSmallBG[105].
+riverSmallBG[106] normal | 522, 54, 16, 16 | The normal map for riverSmallBG[106].
+riverSmallBG[107] normal | 522, 34, 16, 16 | The normal map for riverSmallBG[107].
+riverSmallBG[108] normal | 538, 2, 16, 16 | The normal map for riverSmallBG[108].
+riverSmallBG[109] normal | 538, 18, 16, 16 | The normal map for riverSmallBG[109].
+riverSmallBG[110] normal | 522, 2, 16, 16 | The normal map for riverSmallBG[110].
+riverSmallBG[111] normal | 522, 18, 16, 16 | The normal map for riverSmallBG[111].
+riverSmallFG[0] normal | 342, 126, 16, 16 | The normal map for riverSmallFG[0].
+riverSmallFG[1] normal | 342, 106, 16, 16 | The normal map for riverSmallFG[1].
+riverSmallFG[2] normal | 290, 126, 16, 16 | The normal map for riverSmallFG[2].
+riverSmallFG[3] normal | 290, 106, 16, 16 | The normal map for riverSmallFG[3].
+riverSmallFG[4] normal | 342, 74, 16, 16 | The normal map for riverSmallFG[4].
+riverSmallFG[5] normal | 342, 90, 16, 16 | The normal map for riverSmallFG[5].
+riverSmallFG[6] normal | 290, 74, 16, 16 | The normal map for riverSmallFG[6].
+riverSmallFG[7] normal | 290, 90, 16, 16 | The normal map for riverSmallFG[7].
+riverSmallFG[8] normal | 322, 126, 16, 16 | The normal map for riverSmallFG[8].
+riverSmallFG[9] normal | 322, 106, 16, 16 | The normal map for riverSmallFG[9].
+riverSmallFG[10] normal | 306, 126, 16, 16 | The normal map for riverSmallFG[10].
+riverSmallFG[11] normal | 306, 106, 16, 16 | The normal map for riverSmallFG[11].
+riverSmallFG[12] normal | 322, 74, 16, 16 | The normal map for riverSmallFG[12].
+riverSmallFG[13] normal | 322, 90, 16, 16 | The normal map for riverSmallFG[13].
+riverSmallFG[14] normal | 306, 74, 16, 16 | The normal map for riverSmallFG[14].
+riverSmallFG[15] normal | 306, 90, 16, 16 | The normal map for riverSmallFG[15].
+riverSmallFG[32] normal | 414, 126, 16, 16 | The normal map for riverSmallFG[32].
+riverSmallFG[33] normal | 414, 106, 16, 16 | The normal map for riverSmallFG[33].
+riverSmallFG[34] normal | 362, 126, 16, 16 | The normal map for riverSmallFG[34].
+riverSmallFG[35] normal | 362, 106, 16, 16 | The normal map for riverSmallFG[35].
+riverSmallFG[36] normal | 414, 74, 16, 16 | The normal map for riverSmallFG[36].
+riverSmallFG[37] normal | 414, 90, 16, 16 | The normal map for riverSmallFG[37].
+riverSmallFG[38] normal | 362, 74, 16, 16 | The normal map for riverSmallFG[38].
+riverSmallFG[39] normal | 362, 90, 16, 16 | The normal map for riverSmallFG[39].
+riverSmallFG[40] normal | 394, 126, 16, 16 | The normal map for riverSmallFG[40].
+riverSmallFG[41] normal | 394, 106, 16, 16 | The normal map for riverSmallFG[41].
+riverSmallFG[42] normal | 378, 126, 16, 16 | The normal map for riverSmallFG[42].
+riverSmallFG[43] normal | 378, 106, 16, 16 | The normal map for riverSmallFG[43].
+riverSmallFG[44] normal | 394, 74, 16, 16 | The normal map for riverSmallFG[44].
+riverSmallFG[45] normal | 394, 90, 16, 16 | The normal map for riverSmallFG[45].
+riverSmallFG[46] normal | 378, 74, 16, 16 | The normal map for riverSmallFG[46].
+riverSmallFG[47] normal | 378, 90, 16, 16 | The normal map for riverSmallFG[47].
+riverSmallFG[64] normal | 486, 126, 16, 16 | The normal map for riverSmallFG[64].
+riverSmallFG[65] normal | 486, 106, 16, 16 | The normal map for riverSmallFG[65].
+riverSmallFG[66] normal | 434, 126, 16, 16 | The normal map for riverSmallFG[66].
+riverSmallFG[67] normal | 434, 106, 16, 16 | The normal map for riverSmallFG[67].
+riverSmallFG[68] normal | 486, 74, 16, 16 | The normal map for riverSmallFG[68].
+riverSmallFG[69] normal | 486, 90, 16, 16 | The normal map for riverSmallFG[69].
+riverSmallFG[70] normal | 434, 74, 16, 16 | The normal map for riverSmallFG[70].
+riverSmallFG[71] normal | 434, 90, 16, 16 | The normal map for riverSmallFG[71].
+riverSmallFG[72] normal | 466, 126, 16, 16 | The normal map for riverSmallFG[72].
+riverSmallFG[73] normal | 466, 106, 16, 16 | The normal map for riverSmallFG[73].
+riverSmallFG[74] normal | 450, 126, 16, 16 | The normal map for riverSmallFG[74].
+riverSmallFG[75] normal | 450, 106, 16, 16 | The normal map for riverSmallFG[75].
+riverSmallFG[76] normal | 466, 74, 16, 16 | The normal map for riverSmallFG[76].
+riverSmallFG[77] normal | 466, 90, 16, 16 | The normal map for riverSmallFG[77].
+riverSmallFG[78] normal | 450, 74, 16, 16 | The normal map for riverSmallFG[78].
+riverSmallFG[79] normal | 450, 90, 16, 16 | The normal map for riverSmallFG[79].
+riverSmallFG[96] normal | 558, 126, 16, 16 | The normal map for riverSmallFG[96].
+riverSmallFG[97] normal | 558, 106, 16, 16 | The normal map for riverSmallFG[97].
+riverSmallFG[98] normal | 506, 126, 16, 16 | The normal map for riverSmallFG[98].
+riverSmallFG[99] normal | 506, 106, 16, 16 | The normal map for riverSmallFG[99].
+riverSmallFG[100] normal | 558, 74, 16, 16 | The normal map for riverSmallFG[100].
+riverSmallFG[101] normal | 558, 90, 16, 16 | The normal map for riverSmallFG[101].
+riverSmallFG[102] normal | 506, 74, 16, 16 | The normal map for riverSmallFG[102].
+riverSmallFG[103] normal | 506, 90, 16, 16 | The normal map for riverSmallFG[103].
+riverSmallFG[104] normal | 538, 126, 16, 16 | The normal map for riverSmallFG[104].
+riverSmallFG[105] normal | 538, 106, 16, 16 | The normal map for riverSmallFG[105].
+riverSmallFG[106] normal | 522, 126, 16, 16 | The normal map for riverSmallFG[106].
+riverSmallFG[107] normal | 522, 106, 16, 16 | The normal map for riverSmallFG[107].
+riverSmallFG[108] normal | 538, 74, 16, 16 | The normal map for riverSmallFG[108].
+riverSmallFG[109] normal | 538, 90, 16, 16 | The normal map for riverSmallFG[109].
+riverSmallFG[110] normal | 522, 74, 16, 16 | The normal map for riverSmallFG[110].
+riverSmallFG[111] normal | 522, 90, 16, 16 | The normal map for riverSmallFG[111].

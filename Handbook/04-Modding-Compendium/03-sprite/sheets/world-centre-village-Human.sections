@@ -1,0 +1,64 @@
+sheet[0] | 6, 6, 8, 8 | A village house, one of all 32 picked at random. Villages are scattered across a region's land, more of them as its population grows. Tinted with VILLAGE_COLOR.
+sheet[1] | 20, 6, 8, 8 | A village house, one of all 32 picked at random. Villages are scattered across a region's land, more of them as its population grows. Tinted with VILLAGE_COLOR.
+sheet[2] | 34, 6, 8, 8 | A village house, one of all 32 picked at random. Villages are scattered across a region's land, more of them as its population grows. Tinted with VILLAGE_COLOR.
+sheet[3] | 48, 6, 8, 8 | A village house, one of all 32 picked at random. Villages are scattered across a region's land, more of them as its population grows. Tinted with VILLAGE_COLOR.
+sheet[4] | 62, 6, 8, 8 | A village house, one of all 32 picked at random. Villages are scattered across a region's land, more of them as its population grows. Tinted with VILLAGE_COLOR.
+sheet[5] | 76, 6, 8, 8 | A village house, one of all 32 picked at random. Villages are scattered across a region's land, more of them as its population grows. Tinted with VILLAGE_COLOR.
+sheet[6] | 90, 6, 8, 8 | A village house, one of all 32 picked at random. Villages are scattered across a region's land, more of them as its population grows. Tinted with VILLAGE_COLOR.
+sheet[7] | 104, 6, 8, 8 | A village house, one of all 32 picked at random. Villages are scattered across a region's land, more of them as its population grows. Tinted with VILLAGE_COLOR.
+sheet[8] | 118, 6, 8, 8 | A village house, one of all 32 picked at random. Villages are scattered across a region's land, more of them as its population grows. Tinted with VILLAGE_COLOR.
+sheet[9] | 132, 6, 8, 8 | A village house, one of all 32 picked at random. Villages are scattered across a region's land, more of them as its population grows. Tinted with VILLAGE_COLOR.
+sheet[10] | 146, 6, 8, 8 | A village house, one of all 32 picked at random. Villages are scattered across a region's land, more of them as its population grows. Tinted with VILLAGE_COLOR.
+sheet[11] | 160, 6, 8, 8 | A village house, one of all 32 picked at random. Villages are scattered across a region's land, more of them as its population grows. Tinted with VILLAGE_COLOR.
+sheet[12] | 174, 6, 8, 8 | A village house, one of all 32 picked at random. Villages are scattered across a region's land, more of them as its population grows. Tinted with VILLAGE_COLOR.
+sheet[13] | 188, 6, 8, 8 | A village house, one of all 32 picked at random. Villages are scattered across a region's land, more of them as its population grows. Tinted with VILLAGE_COLOR.
+sheet[14] | 202, 6, 8, 8 | A village house, one of all 32 picked at random. Villages are scattered across a region's land, more of them as its population grows. Tinted with VILLAGE_COLOR.
+sheet[15] | 216, 6, 8, 8 | A village house, one of all 32 picked at random. Villages are scattered across a region's land, more of them as its population grows. Tinted with VILLAGE_COLOR.
+sheet[16] | 6, 20, 8, 8 | A village house, one of all 32 picked at random. Villages are scattered across a region's land, more of them as its population grows. Tinted with VILLAGE_COLOR.
+sheet[17] | 20, 20, 8, 8 | A village house, one of all 32 picked at random. Villages are scattered across a region's land, more of them as its population grows. Tinted with VILLAGE_COLOR.
+sheet[18] | 34, 20, 8, 8 | A village house, one of all 32 picked at random. Villages are scattered across a region's land, more of them as its population grows. Tinted with VILLAGE_COLOR.
+sheet[19] | 48, 20, 8, 8 | A village house, one of all 32 picked at random. Villages are scattered across a region's land, more of them as its population grows. Tinted with VILLAGE_COLOR.
+sheet[20] | 62, 20, 8, 8 | A village house, one of all 32 picked at random. Villages are scattered across a region's land, more of them as its population grows. Tinted with VILLAGE_COLOR.
+sheet[21] | 76, 20, 8, 8 | A village house, one of all 32 picked at random. Villages are scattered across a region's land, more of them as its population grows. Tinted with VILLAGE_COLOR.
+sheet[22] | 90, 20, 8, 8 | A village house, one of all 32 picked at random. Villages are scattered across a region's land, more of them as its population grows. Tinted with VILLAGE_COLOR.
+sheet[23] | 104, 20, 8, 8 | A village house, one of all 32 picked at random. Villages are scattered across a region's land, more of them as its population grows. Tinted with VILLAGE_COLOR.
+sheet[24] | 118, 20, 8, 8 | A village house, one of all 32 picked at random. Villages are scattered across a region's land, more of them as its population grows. Tinted with VILLAGE_COLOR.
+sheet[25] | 132, 20, 8, 8 | A village house, one of all 32 picked at random. Villages are scattered across a region's land, more of them as its population grows. Tinted with VILLAGE_COLOR.
+sheet[26] | 146, 20, 8, 8 | A village house, one of all 32 picked at random. Villages are scattered across a region's land, more of them as its population grows. Tinted with VILLAGE_COLOR.
+sheet[27] | 160, 20, 8, 8 | A village house, one of all 32 picked at random. Villages are scattered across a region's land, more of them as its population grows. Tinted with VILLAGE_COLOR.
+sheet[28] | 174, 20, 8, 8 | A village house, one of all 32 picked at random. Villages are scattered across a region's land, more of them as its population grows. Tinted with VILLAGE_COLOR.
+sheet[29] | 188, 20, 8, 8 | A village house, one of all 32 picked at random. Villages are scattered across a region's land, more of them as its population grows. Tinted with VILLAGE_COLOR.
+sheet[30] | 202, 20, 8, 8 | A village house, one of all 32 picked at random. Villages are scattered across a region's land, more of them as its population grows. Tinted with VILLAGE_COLOR.
+sheet[31] | 216, 20, 8, 8 | A village house, one of all 32 picked at random. Villages are scattered across a region's land, more of them as its population grows. Tinted with VILLAGE_COLOR.
+sheet[0] normal | 236, 6, 8, 8 | The normal map for sheet[0].
+sheet[1] normal | 250, 6, 8, 8 | The normal map for sheet[1].
+sheet[2] normal | 264, 6, 8, 8 | The normal map for sheet[2].
+sheet[3] normal | 278, 6, 8, 8 | The normal map for sheet[3].
+sheet[4] normal | 292, 6, 8, 8 | The normal map for sheet[4].
+sheet[5] normal | 306, 6, 8, 8 | The normal map for sheet[5].
+sheet[6] normal | 320, 6, 8, 8 | The normal map for sheet[6].
+sheet[7] normal | 334, 6, 8, 8 | The normal map for sheet[7].
+sheet[8] normal | 348, 6, 8, 8 | The normal map for sheet[8].
+sheet[9] normal | 362, 6, 8, 8 | The normal map for sheet[9].
+sheet[10] normal | 376, 6, 8, 8 | The normal map for sheet[10].
+sheet[11] normal | 390, 6, 8, 8 | The normal map for sheet[11].
+sheet[12] normal | 404, 6, 8, 8 | The normal map for sheet[12].
+sheet[13] normal | 418, 6, 8, 8 | The normal map for sheet[13].
+sheet[14] normal | 432, 6, 8, 8 | The normal map for sheet[14].
+sheet[15] normal | 446, 6, 8, 8 | The normal map for sheet[15].
+sheet[16] normal | 236, 20, 8, 8 | The normal map for sheet[16].
+sheet[17] normal | 250, 20, 8, 8 | The normal map for sheet[17].
+sheet[18] normal | 264, 20, 8, 8 | The normal map for sheet[18].
+sheet[19] normal | 278, 20, 8, 8 | The normal map for sheet[19].
+sheet[20] normal | 292, 20, 8, 8 | The normal map for sheet[20].
+sheet[21] normal | 306, 20, 8, 8 | The normal map for sheet[21].
+sheet[22] normal | 320, 20, 8, 8 | The normal map for sheet[22].
+sheet[23] normal | 334, 20, 8, 8 | The normal map for sheet[23].
+sheet[24] normal | 348, 20, 8, 8 | The normal map for sheet[24].
+sheet[25] normal | 362, 20, 8, 8 | The normal map for sheet[25].
+sheet[26] normal | 376, 20, 8, 8 | The normal map for sheet[26].
+sheet[27] normal | 390, 20, 8, 8 | The normal map for sheet[27].
+sheet[28] normal | 404, 20, 8, 8 | The normal map for sheet[28].
+sheet[29] normal | 418, 20, 8, 8 | The normal map for sheet[29].
+sheet[30] normal | 432, 20, 8, 8 | The normal map for sheet[30].
+sheet[31] normal | 446, 20, 8, 8 | The normal map for sheet[31].

@@ -1,0 +1,72 @@
+edge[0] | 6, 6, 16, 16 | The top-left corner tile of the world, drawn over that tile.
+edge[1] | 22, 6, 16, 16 | The top-right corner tile of the world, drawn over that tile.
+edge[2] | 38, 6, 16, 16 | The bottom-left corner tile of the world, drawn over that tile.
+edge[3] | 54, 6, 16, 16 | The bottom-right corner tile of the world, drawn over that tile.
+edge[4] | 70, 6, 16, 16 | One of the 8 pieces for the left edge of the world, cells 4 to 11. Each tile along that edge picks one at random.
+edge[5] | 86, 6, 16, 16 | One of the 8 pieces for the left edge of the world, cells 4 to 11. Each tile along that edge picks one at random.
+edge[6] | 102, 6, 16, 16 | One of the 8 pieces for the left edge of the world, cells 4 to 11. Each tile along that edge picks one at random.
+edge[7] | 118, 6, 16, 16 | One of the 8 pieces for the left edge of the world, cells 4 to 11. Each tile along that edge picks one at random.
+edge[8] | 134, 6, 16, 16 | One of the 8 pieces for the left edge of the world, cells 4 to 11. Each tile along that edge picks one at random.
+edge[9] | 150, 6, 16, 16 | One of the 8 pieces for the left edge of the world, cells 4 to 11. Each tile along that edge picks one at random.
+edge[10] | 166, 6, 16, 16 | One of the 8 pieces for the left edge of the world, cells 4 to 11. Each tile along that edge picks one at random.
+edge[11] | 182, 6, 16, 16 | One of the 8 pieces for the left edge of the world, cells 4 to 11. Each tile along that edge picks one at random.
+edge[12] | 198, 6, 16, 16 | One of the 8 pieces for the right edge of the world, cells 12 to 19. Each tile along that edge picks one at random.
+edge[13] | 214, 6, 16, 16 | One of the 8 pieces for the right edge of the world, cells 12 to 19. Each tile along that edge picks one at random.
+edge[14] | 230, 6, 16, 16 | One of the 8 pieces for the right edge of the world, cells 12 to 19. Each tile along that edge picks one at random.
+edge[15] | 246, 6, 16, 16 | One of the 8 pieces for the right edge of the world, cells 12 to 19. Each tile along that edge picks one at random.
+edge[16] | 262, 6, 16, 16 | One of the 8 pieces for the right edge of the world, cells 12 to 19. Each tile along that edge picks one at random.
+edge[17] | 278, 6, 16, 16 | One of the 8 pieces for the right edge of the world, cells 12 to 19. Each tile along that edge picks one at random.
+edge[18] | 294, 6, 16, 16 | One of the 8 pieces for the right edge of the world, cells 12 to 19. Each tile along that edge picks one at random.
+edge[19] | 310, 6, 16, 16 | One of the 8 pieces for the right edge of the world, cells 12 to 19. Each tile along that edge picks one at random.
+edge[20] | 326, 6, 16, 16 | One of the 8 pieces for the top edge of the world, cells 20 to 27. Each tile along that edge picks one at random.
+edge[21] | 342, 6, 16, 16 | One of the 8 pieces for the top edge of the world, cells 20 to 27. Each tile along that edge picks one at random.
+edge[22] | 358, 6, 16, 16 | One of the 8 pieces for the top edge of the world, cells 20 to 27. Each tile along that edge picks one at random.
+edge[23] | 374, 6, 16, 16 | One of the 8 pieces for the top edge of the world, cells 20 to 27. Each tile along that edge picks one at random.
+edge[24] | 390, 6, 16, 16 | One of the 8 pieces for the top edge of the world, cells 20 to 27. Each tile along that edge picks one at random.
+edge[25] | 406, 6, 16, 16 | One of the 8 pieces for the top edge of the world, cells 20 to 27. Each tile along that edge picks one at random.
+edge[26] | 422, 6, 16, 16 | One of the 8 pieces for the top edge of the world, cells 20 to 27. Each tile along that edge picks one at random.
+edge[27] | 438, 6, 16, 16 | One of the 8 pieces for the top edge of the world, cells 20 to 27. Each tile along that edge picks one at random.
+edge[28] | 454, 6, 16, 16 | One of the 8 pieces for the bottom edge of the world, cells 28 to 35. Each tile along that edge picks one at random.
+edge[29] | 470, 6, 16, 16 | One of the 8 pieces for the bottom edge of the world, cells 28 to 35. Each tile along that edge picks one at random.
+edge[30] | 486, 6, 16, 16 | One of the 8 pieces for the bottom edge of the world, cells 28 to 35. Each tile along that edge picks one at random.
+edge[31] | 502, 6, 16, 16 | One of the 8 pieces for the bottom edge of the world, cells 28 to 35. Each tile along that edge picks one at random.
+edge[32] | 518, 6, 16, 16 | One of the 8 pieces for the bottom edge of the world, cells 28 to 35. Each tile along that edge picks one at random.
+edge[33] | 534, 6, 16, 16 | One of the 8 pieces for the bottom edge of the world, cells 28 to 35. Each tile along that edge picks one at random.
+edge[34] | 550, 6, 16, 16 | One of the 8 pieces for the bottom edge of the world, cells 28 to 35. Each tile along that edge picks one at random.
+edge[35] | 566, 6, 16, 16 | One of the 8 pieces for the bottom edge of the world, cells 28 to 35. Each tile along that edge picks one at random.
+edge[0] normal | 594, 6, 16, 16 | The normal map for edge[0].
+edge[1] normal | 610, 6, 16, 16 | The normal map for edge[1].
+edge[2] normal | 626, 6, 16, 16 | The normal map for edge[2].
+edge[3] normal | 642, 6, 16, 16 | The normal map for edge[3].
+edge[4] normal | 658, 6, 16, 16 | The normal map for edge[4].
+edge[5] normal | 674, 6, 16, 16 | The normal map for edge[5].
+edge[6] normal | 690, 6, 16, 16 | The normal map for edge[6].
+edge[7] normal | 706, 6, 16, 16 | The normal map for edge[7].
+edge[8] normal | 722, 6, 16, 16 | The normal map for edge[8].
+edge[9] normal | 738, 6, 16, 16 | The normal map for edge[9].
+edge[10] normal | 754, 6, 16, 16 | The normal map for edge[10].
+edge[11] normal | 770, 6, 16, 16 | The normal map for edge[11].
+edge[12] normal | 786, 6, 16, 16 | The normal map for edge[12].
+edge[13] normal | 802, 6, 16, 16 | The normal map for edge[13].
+edge[14] normal | 818, 6, 16, 16 | The normal map for edge[14].
+edge[15] normal | 834, 6, 16, 16 | The normal map for edge[15].
+edge[16] normal | 850, 6, 16, 16 | The normal map for edge[16].
+edge[17] normal | 866, 6, 16, 16 | The normal map for edge[17].
+edge[18] normal | 882, 6, 16, 16 | The normal map for edge[18].
+edge[19] normal | 898, 6, 16, 16 | The normal map for edge[19].
+edge[20] normal | 914, 6, 16, 16 | The normal map for edge[20].
+edge[21] normal | 930, 6, 16, 16 | The normal map for edge[21].
+edge[22] normal | 946, 6, 16, 16 | The normal map for edge[22].
+edge[23] normal | 962, 6, 16, 16 | The normal map for edge[23].
+edge[24] normal | 978, 6, 16, 16 | The normal map for edge[24].
+edge[25] normal | 994, 6, 16, 16 | The normal map for edge[25].
+edge[26] normal | 1010, 6, 16, 16 | The normal map for edge[26].
+edge[27] normal | 1026, 6, 16, 16 | The normal map for edge[27].
+edge[28] normal | 1042, 6, 16, 16 | The normal map for edge[28].
+edge[29] normal | 1058, 6, 16, 16 | The normal map for edge[29].
+edge[30] normal | 1074, 6, 16, 16 | The normal map for edge[30].
+edge[31] normal | 1090, 6, 16, 16 | The normal map for edge[31].
+edge[32] normal | 1106, 6, 16, 16 | The normal map for edge[32].
+edge[33] normal | 1122, 6, 16, 16 | The normal map for edge[33].
+edge[34] normal | 1138, 6, 16, 16 | The normal map for edge[34].
+edge[35] normal | 1154, 6, 16, 16 | The normal map for edge[35].

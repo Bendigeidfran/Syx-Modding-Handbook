@@ -1,0 +1,64 @@
+harbour[0] | 6, 6, 24, 24 | A harbour for a road ending at big water in a region: the lower the region's road level, the further along these cells it starts. One of 4 neighbouring cells is picked at random. As painted, the road arrives from the south; the game turns the sprite for the other sides.
+harbour[1] | 36, 6, 24, 24 | A harbour for a road ending at big water in a region: the lower the region's road level, the further along these cells it starts. One of 4 neighbouring cells is picked at random. As painted, the road arrives from the south; the game turns the sprite for the other sides.
+harbour[2] | 66, 6, 24, 24 | A harbour for a road ending at big water in a region: the lower the region's road level, the further along these cells it starts. One of 4 neighbouring cells is picked at random. As painted, the road arrives from the south; the game turns the sprite for the other sides.
+harbour[3] | 96, 6, 24, 24 | A harbour for a road ending at big water in a region: the lower the region's road level, the further along these cells it starts. One of 4 neighbouring cells is picked at random. As painted, the road arrives from the south; the game turns the sprite for the other sides.
+harbour[4] | 6, 36, 24, 24 | A harbour for a road ending at big water in a region: the lower the region's road level, the further along these cells it starts. One of 4 neighbouring cells is picked at random. As painted, the road arrives from the south; the game turns the sprite for the other sides.
+harbour[5] | 36, 36, 24, 24 | A harbour for a road ending at big water in a region: the lower the region's road level, the further along these cells it starts. One of 4 neighbouring cells is picked at random. As painted, the road arrives from the south; the game turns the sprite for the other sides.
+harbour[6] | 66, 36, 24, 24 | A harbour for a road ending at big water in a region: the lower the region's road level, the further along these cells it starts. One of 4 neighbouring cells is picked at random. As painted, the road arrives from the south; the game turns the sprite for the other sides.
+harbour[7] | 96, 36, 24, 24 | Loaded, but never drawn.
+harbour[8] | 6, 66, 24, 24 | Loaded, but never drawn.
+harbour[9] | 36, 66, 24, 24 | Loaded, but never drawn.
+harbour[10] | 66, 66, 24, 24 | Loaded, but never drawn.
+harbour[11] | 96, 66, 24, 24 | A harbour for a road ending at big water outside any region. One of 4 neighbouring cells is picked at random. As painted, the road arrives from the south; the game turns the sprite for the other sides.
+harbour[12] | 6, 96, 24, 24 | A harbour for a road ending at big water outside any region or a road tile on big water with more or fewer than one connection. One of 4 neighbouring cells is picked at random. As painted, the road arrives from the south; the game turns the sprite for the other sides.
+harbour[13] | 36, 96, 24, 24 | A harbour for a road ending at big water outside any region or a road tile on big water with more or fewer than one connection. One of 4 neighbouring cells is picked at random. As painted, the road arrives from the south; the game turns the sprite for the other sides.
+harbour[14] | 66, 96, 24, 24 | A harbour for a road ending at big water outside any region or a road tile on big water with more or fewer than one connection. One of 4 neighbouring cells is picked at random. As painted, the road arrives from the south; the game turns the sprite for the other sides.
+harbour[15] | 96, 96, 24, 24 | A harbour for a road tile on big water with more or fewer than one connection. One of 4 neighbouring cells is picked at random. As painted, the road arrives from the south; the game turns the sprite for the other sides.
+harbourRiver[0] | 6, 132, 16, 16 | Loaded, but never drawn.
+harbourRiver[1] | 28, 132, 16, 16 | Loaded, but never drawn.
+harbourRiver[2] | 50, 132, 16, 16 | Loaded, but never drawn.
+harbourRiver[3] | 72, 132, 16, 16 | Loaded, but never drawn.
+harbourRiver[4] | 6, 154, 16, 16 | Loaded, but never drawn.
+harbourRiver[5] | 28, 154, 16, 16 | Loaded, but never drawn.
+harbourRiver[6] | 50, 154, 16, 16 | Loaded, but never drawn.
+harbourRiver[7] | 72, 154, 16, 16 | Loaded, but never drawn.
+harbourRiver[8] | 6, 176, 16, 16 | Loaded, but never drawn.
+harbourRiver[9] | 28, 176, 16, 16 | Loaded, but never drawn.
+harbourRiver[10] | 50, 176, 16, 16 | Loaded, but never drawn.
+harbourRiver[11] | 72, 176, 16, 16 | Loaded, but never drawn.
+harbourRiver[12] | 6, 198, 16, 16 | Loaded, but never drawn.
+harbourRiver[13] | 28, 198, 16, 16 | Loaded, but never drawn.
+harbourRiver[14] | 50, 198, 16, 16 | Loaded, but never drawn.
+harbourRiver[15] | 72, 198, 16, 16 | Loaded, but never drawn.
+harbour[0] normal | 132, 6, 24, 24 | The normal map for harbour[0].
+harbour[1] normal | 162, 6, 24, 24 | The normal map for harbour[1].
+harbour[2] normal | 192, 6, 24, 24 | The normal map for harbour[2].
+harbour[3] normal | 222, 6, 24, 24 | The normal map for harbour[3].
+harbour[4] normal | 132, 36, 24, 24 | The normal map for harbour[4].
+harbour[5] normal | 162, 36, 24, 24 | The normal map for harbour[5].
+harbour[6] normal | 192, 36, 24, 24 | The normal map for harbour[6].
+harbour[7] normal | 222, 36, 24, 24 | The normal map for harbour[7].
+harbour[8] normal | 132, 66, 24, 24 | The normal map for harbour[8].
+harbour[9] normal | 162, 66, 24, 24 | The normal map for harbour[9].
+harbour[10] normal | 192, 66, 24, 24 | The normal map for harbour[10].
+harbour[11] normal | 222, 66, 24, 24 | The normal map for harbour[11].
+harbour[12] normal | 132, 96, 24, 24 | The normal map for harbour[12].
+harbour[13] normal | 162, 96, 24, 24 | The normal map for harbour[13].
+harbour[14] normal | 192, 96, 24, 24 | The normal map for harbour[14].
+harbour[15] normal | 222, 96, 24, 24 | The normal map for harbour[15].
+harbourRiver[0] normal | 132, 132, 16, 16 | The normal map for harbourRiver[0].
+harbourRiver[1] normal | 154, 132, 16, 16 | The normal map for harbourRiver[1].
+harbourRiver[2] normal | 176, 132, 16, 16 | The normal map for harbourRiver[2].
+harbourRiver[3] normal | 198, 132, 16, 16 | The normal map for harbourRiver[3].
+harbourRiver[4] normal | 132, 154, 16, 16 | The normal map for harbourRiver[4].
+harbourRiver[5] normal | 154, 154, 16, 16 | The normal map for harbourRiver[5].
+harbourRiver[6] normal | 176, 154, 16, 16 | The normal map for harbourRiver[6].
+harbourRiver[7] normal | 198, 154, 16, 16 | The normal map for harbourRiver[7].
+harbourRiver[8] normal | 132, 176, 16, 16 | The normal map for harbourRiver[8].
+harbourRiver[9] normal | 154, 176, 16, 16 | The normal map for harbourRiver[9].
+harbourRiver[10] normal | 176, 176, 16, 16 | The normal map for harbourRiver[10].
+harbourRiver[11] normal | 198, 176, 16, 16 | The normal map for harbourRiver[11].
+harbourRiver[12] normal | 132, 198, 16, 16 | The normal map for harbourRiver[12].
+harbourRiver[13] normal | 154, 198, 16, 16 | The normal map for harbourRiver[13].
+harbourRiver[14] normal | 176, 198, 16, 16 | The normal map for harbourRiver[14].
+harbourRiver[15] normal | 198, 198, 16, 16 | The normal map for harbourRiver[15].

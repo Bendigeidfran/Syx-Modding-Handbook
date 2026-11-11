@@ -1,0 +1,262 @@
+roads[0] | 54, 54, 16, 16 | A road on a tile joined to another of its kind on no side. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[1] | 54, 34, 16, 16 | A road on a tile joined to another of its kind to the north. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[2] | 2, 54, 16, 16 | A road on a tile joined to another of its kind to the east. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[3] | 2, 34, 16, 16 | A road on a tile joined to another of its kind to the north and east. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[4] | 54, 2, 16, 16 | A road on a tile joined to another of its kind to the south. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[5] | 54, 18, 16, 16 | A road on a tile joined to another of its kind to the north and south. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[6] | 2, 2, 16, 16 | A road on a tile joined to another of its kind to the east and south. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[7] | 2, 18, 16, 16 | A road on a tile joined to another of its kind to the north, east and south. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[8] | 34, 54, 16, 16 | A road on a tile joined to another of its kind to the west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[9] | 34, 34, 16, 16 | A road on a tile joined to another of its kind to the north and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[10] | 18, 54, 16, 16 | A road on a tile joined to another of its kind to the east and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[11] | 18, 34, 16, 16 | A road on a tile joined to another of its kind to the north, east and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[12] | 34, 2, 16, 16 | A road on a tile joined to another of its kind to the south and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[13] | 34, 18, 16, 16 | A road on a tile joined to another of its kind to the north, south and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[14] | 18, 2, 16, 16 | A road on a tile joined to another of its kind to the east, south and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[15] | 18, 18, 16, 16 | A road on a tile joined to another of its kind on all four sides. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[32] | 126, 54, 16, 16 | A road on a tile joined to another of its kind on no side. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[33] | 126, 34, 16, 16 | A road on a tile joined to another of its kind to the north. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[34] | 74, 54, 16, 16 | A road on a tile joined to another of its kind to the east. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[35] | 74, 34, 16, 16 | A road on a tile joined to another of its kind to the north and east. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[36] | 126, 2, 16, 16 | A road on a tile joined to another of its kind to the south. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[37] | 126, 18, 16, 16 | A road on a tile joined to another of its kind to the north and south. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[38] | 74, 2, 16, 16 | A road on a tile joined to another of its kind to the east and south. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[39] | 74, 18, 16, 16 | A road on a tile joined to another of its kind to the north, east and south. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[40] | 106, 54, 16, 16 | A road on a tile joined to another of its kind to the west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[41] | 106, 34, 16, 16 | A road on a tile joined to another of its kind to the north and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[42] | 90, 54, 16, 16 | A road on a tile joined to another of its kind to the east and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[43] | 90, 34, 16, 16 | A road on a tile joined to another of its kind to the north, east and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[44] | 106, 2, 16, 16 | A road on a tile joined to another of its kind to the south and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[45] | 106, 18, 16, 16 | A road on a tile joined to another of its kind to the north, south and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[46] | 90, 2, 16, 16 | A road on a tile joined to another of its kind to the east, south and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[47] | 90, 18, 16, 16 | A road on a tile joined to another of its kind on all four sides. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[64] | 198, 54, 16, 16 | A road on a tile joined to another of its kind on no side. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[65] | 198, 34, 16, 16 | A road on a tile joined to another of its kind to the north. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[66] | 146, 54, 16, 16 | A road on a tile joined to another of its kind to the east. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[67] | 146, 34, 16, 16 | A road on a tile joined to another of its kind to the north and east. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[68] | 198, 2, 16, 16 | A road on a tile joined to another of its kind to the south. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[69] | 198, 18, 16, 16 | A road on a tile joined to another of its kind to the north and south. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[70] | 146, 2, 16, 16 | A road on a tile joined to another of its kind to the east and south. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[71] | 146, 18, 16, 16 | A road on a tile joined to another of its kind to the north, east and south. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[72] | 178, 54, 16, 16 | A road on a tile joined to another of its kind to the west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[73] | 178, 34, 16, 16 | A road on a tile joined to another of its kind to the north and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[74] | 162, 54, 16, 16 | A road on a tile joined to another of its kind to the east and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[75] | 162, 34, 16, 16 | A road on a tile joined to another of its kind to the north, east and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[76] | 178, 2, 16, 16 | A road on a tile joined to another of its kind to the south and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[77] | 178, 18, 16, 16 | A road on a tile joined to another of its kind to the north, south and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[78] | 162, 2, 16, 16 | A road on a tile joined to another of its kind to the east, south and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[79] | 162, 18, 16, 16 | A road on a tile joined to another of its kind on all four sides. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[96] | 270, 54, 16, 16 | A road on a tile joined to another of its kind on no side. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[97] | 270, 34, 16, 16 | A road on a tile joined to another of its kind to the north. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[98] | 218, 54, 16, 16 | A road on a tile joined to another of its kind to the east. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[99] | 218, 34, 16, 16 | A road on a tile joined to another of its kind to the north and east. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[100] | 270, 2, 16, 16 | A road on a tile joined to another of its kind to the south. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[101] | 270, 18, 16, 16 | A road on a tile joined to another of its kind to the north and south. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[102] | 218, 2, 16, 16 | A road on a tile joined to another of its kind to the east and south. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[103] | 218, 18, 16, 16 | A road on a tile joined to another of its kind to the north, east and south. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[104] | 250, 54, 16, 16 | A road on a tile joined to another of its kind to the west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[105] | 250, 34, 16, 16 | A road on a tile joined to another of its kind to the north and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[106] | 234, 54, 16, 16 | A road on a tile joined to another of its kind to the east and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[107] | 234, 34, 16, 16 | A road on a tile joined to another of its kind to the north, east and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[108] | 250, 2, 16, 16 | A road on a tile joined to another of its kind to the south and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[109] | 250, 18, 16, 16 | A road on a tile joined to another of its kind to the north, south and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[110] | 234, 2, 16, 16 | A road on a tile joined to another of its kind to the east, south and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roads[111] | 234, 18, 16, 16 | A road on a tile joined to another of its kind on all four sides. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[0] | 54, 126, 16, 16 | A small track on a tile joined to another of its kind on no side. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[1] | 54, 106, 16, 16 | A small track on a tile joined to another of its kind to the north. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[2] | 2, 126, 16, 16 | A small track on a tile joined to another of its kind to the east. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[3] | 2, 106, 16, 16 | A small track on a tile joined to another of its kind to the north and east. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[4] | 54, 74, 16, 16 | A small track on a tile joined to another of its kind to the south. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[5] | 54, 90, 16, 16 | A small track on a tile joined to another of its kind to the north and south. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[6] | 2, 74, 16, 16 | A small track on a tile joined to another of its kind to the east and south. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[7] | 2, 90, 16, 16 | A small track on a tile joined to another of its kind to the north, east and south. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[8] | 34, 126, 16, 16 | A small track on a tile joined to another of its kind to the west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[9] | 34, 106, 16, 16 | A small track on a tile joined to another of its kind to the north and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[10] | 18, 126, 16, 16 | A small track on a tile joined to another of its kind to the east and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[11] | 18, 106, 16, 16 | A small track on a tile joined to another of its kind to the north, east and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[12] | 34, 74, 16, 16 | A small track on a tile joined to another of its kind to the south and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[13] | 34, 90, 16, 16 | A small track on a tile joined to another of its kind to the north, south and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[14] | 18, 74, 16, 16 | A small track on a tile joined to another of its kind to the east, south and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[15] | 18, 90, 16, 16 | A small track on a tile joined to another of its kind on all four sides. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[32] | 126, 126, 16, 16 | A small track on a tile joined to another of its kind on no side. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[33] | 126, 106, 16, 16 | A small track on a tile joined to another of its kind to the north. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[34] | 74, 126, 16, 16 | A small track on a tile joined to another of its kind to the east. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[35] | 74, 106, 16, 16 | A small track on a tile joined to another of its kind to the north and east. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[36] | 126, 74, 16, 16 | A small track on a tile joined to another of its kind to the south. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[37] | 126, 90, 16, 16 | A small track on a tile joined to another of its kind to the north and south. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[38] | 74, 74, 16, 16 | A small track on a tile joined to another of its kind to the east and south. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[39] | 74, 90, 16, 16 | A small track on a tile joined to another of its kind to the north, east and south. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[40] | 106, 126, 16, 16 | A small track on a tile joined to another of its kind to the west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[41] | 106, 106, 16, 16 | A small track on a tile joined to another of its kind to the north and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[42] | 90, 126, 16, 16 | A small track on a tile joined to another of its kind to the east and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[43] | 90, 106, 16, 16 | A small track on a tile joined to another of its kind to the north, east and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[44] | 106, 74, 16, 16 | A small track on a tile joined to another of its kind to the south and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[45] | 106, 90, 16, 16 | A small track on a tile joined to another of its kind to the north, south and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[46] | 90, 74, 16, 16 | A small track on a tile joined to another of its kind to the east, south and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[47] | 90, 90, 16, 16 | A small track on a tile joined to another of its kind on all four sides. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[64] | 198, 126, 16, 16 | A small track on a tile joined to another of its kind on no side. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[65] | 198, 106, 16, 16 | A small track on a tile joined to another of its kind to the north. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[66] | 146, 126, 16, 16 | A small track on a tile joined to another of its kind to the east. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[67] | 146, 106, 16, 16 | A small track on a tile joined to another of its kind to the north and east. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[68] | 198, 74, 16, 16 | A small track on a tile joined to another of its kind to the south. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[69] | 198, 90, 16, 16 | A small track on a tile joined to another of its kind to the north and south. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[70] | 146, 74, 16, 16 | A small track on a tile joined to another of its kind to the east and south. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[71] | 146, 90, 16, 16 | A small track on a tile joined to another of its kind to the north, east and south. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[72] | 178, 126, 16, 16 | A small track on a tile joined to another of its kind to the west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[73] | 178, 106, 16, 16 | A small track on a tile joined to another of its kind to the north and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[74] | 162, 126, 16, 16 | A small track on a tile joined to another of its kind to the east and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[75] | 162, 106, 16, 16 | A small track on a tile joined to another of its kind to the north, east and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[76] | 178, 74, 16, 16 | A small track on a tile joined to another of its kind to the south and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[77] | 178, 90, 16, 16 | A small track on a tile joined to another of its kind to the north, south and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[78] | 162, 74, 16, 16 | A small track on a tile joined to another of its kind to the east, south and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[79] | 162, 90, 16, 16 | A small track on a tile joined to another of its kind on all four sides. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[96] | 270, 126, 16, 16 | A small track on a tile joined to another of its kind on no side. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[97] | 270, 106, 16, 16 | A small track on a tile joined to another of its kind to the north. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[98] | 218, 126, 16, 16 | A small track on a tile joined to another of its kind to the east. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[99] | 218, 106, 16, 16 | A small track on a tile joined to another of its kind to the north and east. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[100] | 270, 74, 16, 16 | A small track on a tile joined to another of its kind to the south. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[101] | 270, 90, 16, 16 | A small track on a tile joined to another of its kind to the north and south. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[102] | 218, 74, 16, 16 | A small track on a tile joined to another of its kind to the east and south. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[103] | 218, 90, 16, 16 | A small track on a tile joined to another of its kind to the north, east and south. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[104] | 250, 126, 16, 16 | A small track on a tile joined to another of its kind to the west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[105] | 250, 106, 16, 16 | A small track on a tile joined to another of its kind to the north and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[106] | 234, 126, 16, 16 | A small track on a tile joined to another of its kind to the east and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[107] | 234, 106, 16, 16 | A small track on a tile joined to another of its kind to the north, east and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[108] | 250, 74, 16, 16 | A small track on a tile joined to another of its kind to the south and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[109] | 250, 90, 16, 16 | A small track on a tile joined to another of its kind to the north, south and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[110] | 234, 74, 16, 16 | A small track on a tile joined to another of its kind to the east, south and west. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+roadsMini[111] | 234, 90, 16, 16 | A small track on a tile joined to another of its kind on all four sides. One of 8 versions picked at random, counting turned copies. Tinted between COLOR_SMALL and COLOR_BIG.
+bridge[0] | 6, 150, 16, 16 | A bridge, painted running north to south. It's used for road levels below 0.25, and because of a quirk in the code its turned copies also appear at some higher levels.
+bridge[4] | 28, 150, 16, 16 | A bridge, painted running north to south. It's used at a road level of 1, and because of a quirk in the code it can also appear at levels from 0.25.
+bridge[8] | 50, 150, 16, 16 | Loaded, but never drawn.
+roads[0] normal | 342, 54, 16, 16 | The normal map for roads[0].
+roads[1] normal | 342, 34, 16, 16 | The normal map for roads[1].
+roads[2] normal | 290, 54, 16, 16 | The normal map for roads[2].
+roads[3] normal | 290, 34, 16, 16 | The normal map for roads[3].
+roads[4] normal | 342, 2, 16, 16 | The normal map for roads[4].
+roads[5] normal | 342, 18, 16, 16 | The normal map for roads[5].
+roads[6] normal | 290, 2, 16, 16 | The normal map for roads[6].
+roads[7] normal | 290, 18, 16, 16 | The normal map for roads[7].
+roads[8] normal | 322, 54, 16, 16 | The normal map for roads[8].
+roads[9] normal | 322, 34, 16, 16 | The normal map for roads[9].
+roads[10] normal | 306, 54, 16, 16 | The normal map for roads[10].
+roads[11] normal | 306, 34, 16, 16 | The normal map for roads[11].
+roads[12] normal | 322, 2, 16, 16 | The normal map for roads[12].
+roads[13] normal | 322, 18, 16, 16 | The normal map for roads[13].
+roads[14] normal | 306, 2, 16, 16 | The normal map for roads[14].
+roads[15] normal | 306, 18, 16, 16 | The normal map for roads[15].
+roads[32] normal | 414, 54, 16, 16 | The normal map for roads[32].
+roads[33] normal | 414, 34, 16, 16 | The normal map for roads[33].
+roads[34] normal | 362, 54, 16, 16 | The normal map for roads[34].
+roads[35] normal | 362, 34, 16, 16 | The normal map for roads[35].
+roads[36] normal | 414, 2, 16, 16 | The normal map for roads[36].
+roads[37] normal | 414, 18, 16, 16 | The normal map for roads[37].
+roads[38] normal | 362, 2, 16, 16 | The normal map for roads[38].
+roads[39] normal | 362, 18, 16, 16 | The normal map for roads[39].
+roads[40] normal | 394, 54, 16, 16 | The normal map for roads[40].
+roads[41] normal | 394, 34, 16, 16 | The normal map for roads[41].
+roads[42] normal | 378, 54, 16, 16 | The normal map for roads[42].
+roads[43] normal | 378, 34, 16, 16 | The normal map for roads[43].
+roads[44] normal | 394, 2, 16, 16 | The normal map for roads[44].
+roads[45] normal | 394, 18, 16, 16 | The normal map for roads[45].
+roads[46] normal | 378, 2, 16, 16 | The normal map for roads[46].
+roads[47] normal | 378, 18, 16, 16 | The normal map for roads[47].
+roads[64] normal | 486, 54, 16, 16 | The normal map for roads[64].
+roads[65] normal | 486, 34, 16, 16 | The normal map for roads[65].
+roads[66] normal | 434, 54, 16, 16 | The normal map for roads[66].
+roads[67] normal | 434, 34, 16, 16 | The normal map for roads[67].
+roads[68] normal | 486, 2, 16, 16 | The normal map for roads[68].
+roads[69] normal | 486, 18, 16, 16 | The normal map for roads[69].
+roads[70] normal | 434, 2, 16, 16 | The normal map for roads[70].
+roads[71] normal | 434, 18, 16, 16 | The normal map for roads[71].
+roads[72] normal | 466, 54, 16, 16 | The normal map for roads[72].
+roads[73] normal | 466, 34, 16, 16 | The normal map for roads[73].
+roads[74] normal | 450, 54, 16, 16 | The normal map for roads[74].
+roads[75] normal | 450, 34, 16, 16 | The normal map for roads[75].
+roads[76] normal | 466, 2, 16, 16 | The normal map for roads[76].
+roads[77] normal | 466, 18, 16, 16 | The normal map for roads[77].
+roads[78] normal | 450, 2, 16, 16 | The normal map for roads[78].
+roads[79] normal | 450, 18, 16, 16 | The normal map for roads[79].
+roads[96] normal | 558, 54, 16, 16 | The normal map for roads[96].
+roads[97] normal | 558, 34, 16, 16 | The normal map for roads[97].
+roads[98] normal | 506, 54, 16, 16 | The normal map for roads[98].
+roads[99] normal | 506, 34, 16, 16 | The normal map for roads[99].
+roads[100] normal | 558, 2, 16, 16 | The normal map for roads[100].
+roads[101] normal | 558, 18, 16, 16 | The normal map for roads[101].
+roads[102] normal | 506, 2, 16, 16 | The normal map for roads[102].
+roads[103] normal | 506, 18, 16, 16 | The normal map for roads[103].
+roads[104] normal | 538, 54, 16, 16 | The normal map for roads[104].
+roads[105] normal | 538, 34, 16, 16 | The normal map for roads[105].
+roads[106] normal | 522, 54, 16, 16 | The normal map for roads[106].
+roads[107] normal | 522, 34, 16, 16 | The normal map for roads[107].
+roads[108] normal | 538, 2, 16, 16 | The normal map for roads[108].
+roads[109] normal | 538, 18, 16, 16 | The normal map for roads[109].
+roads[110] normal | 522, 2, 16, 16 | The normal map for roads[110].
+roads[111] normal | 522, 18, 16, 16 | The normal map for roads[111].
+roadsMini[0] normal | 342, 126, 16, 16 | The normal map for roadsMini[0].
+roadsMini[1] normal | 342, 106, 16, 16 | The normal map for roadsMini[1].
+roadsMini[2] normal | 290, 126, 16, 16 | The normal map for roadsMini[2].
+roadsMini[3] normal | 290, 106, 16, 16 | The normal map for roadsMini[3].
+roadsMini[4] normal | 342, 74, 16, 16 | The normal map for roadsMini[4].
+roadsMini[5] normal | 342, 90, 16, 16 | The normal map for roadsMini[5].
+roadsMini[6] normal | 290, 74, 16, 16 | The normal map for roadsMini[6].
+roadsMini[7] normal | 290, 90, 16, 16 | The normal map for roadsMini[7].
+roadsMini[8] normal | 322, 126, 16, 16 | The normal map for roadsMini[8].
+roadsMini[9] normal | 322, 106, 16, 16 | The normal map for roadsMini[9].
+roadsMini[10] normal | 306, 126, 16, 16 | The normal map for roadsMini[10].
+roadsMini[11] normal | 306, 106, 16, 16 | The normal map for roadsMini[11].
+roadsMini[12] normal | 322, 74, 16, 16 | The normal map for roadsMini[12].
+roadsMini[13] normal | 322, 90, 16, 16 | The normal map for roadsMini[13].
+roadsMini[14] normal | 306, 74, 16, 16 | The normal map for roadsMini[14].
+roadsMini[15] normal | 306, 90, 16, 16 | The normal map for roadsMini[15].
+roadsMini[32] normal | 414, 126, 16, 16 | The normal map for roadsMini[32].
+roadsMini[33] normal | 414, 106, 16, 16 | The normal map for roadsMini[33].
+roadsMini[34] normal | 362, 126, 16, 16 | The normal map for roadsMini[34].
+roadsMini[35] normal | 362, 106, 16, 16 | The normal map for roadsMini[35].
+roadsMini[36] normal | 414, 74, 16, 16 | The normal map for roadsMini[36].
+roadsMini[37] normal | 414, 90, 16, 16 | The normal map for roadsMini[37].
+roadsMini[38] normal | 362, 74, 16, 16 | The normal map for roadsMini[38].
+roadsMini[39] normal | 362, 90, 16, 16 | The normal map for roadsMini[39].
+roadsMini[40] normal | 394, 126, 16, 16 | The normal map for roadsMini[40].
+roadsMini[41] normal | 394, 106, 16, 16 | The normal map for roadsMini[41].
+roadsMini[42] normal | 378, 126, 16, 16 | The normal map for roadsMini[42].
+roadsMini[43] normal | 378, 106, 16, 16 | The normal map for roadsMini[43].
+roadsMini[44] normal | 394, 74, 16, 16 | The normal map for roadsMini[44].
+roadsMini[45] normal | 394, 90, 16, 16 | The normal map for roadsMini[45].
+roadsMini[46] normal | 378, 74, 16, 16 | The normal map for roadsMini[46].
+roadsMini[47] normal | 378, 90, 16, 16 | The normal map for roadsMini[47].
+roadsMini[64] normal | 486, 126, 16, 16 | The normal map for roadsMini[64].
+roadsMini[65] normal | 486, 106, 16, 16 | The normal map for roadsMini[65].
+roadsMini[66] normal | 434, 126, 16, 16 | The normal map for roadsMini[66].
+roadsMini[67] normal | 434, 106, 16, 16 | The normal map for roadsMini[67].
+roadsMini[68] normal | 486, 74, 16, 16 | The normal map for roadsMini[68].
+roadsMini[69] normal | 486, 90, 16, 16 | The normal map for roadsMini[69].
+roadsMini[70] normal | 434, 74, 16, 16 | The normal map for roadsMini[70].
+roadsMini[71] normal | 434, 90, 16, 16 | The normal map for roadsMini[71].
+roadsMini[72] normal | 466, 126, 16, 16 | The normal map for roadsMini[72].
+roadsMini[73] normal | 466, 106, 16, 16 | The normal map for roadsMini[73].
+roadsMini[74] normal | 450, 126, 16, 16 | The normal map for roadsMini[74].
+roadsMini[75] normal | 450, 106, 16, 16 | The normal map for roadsMini[75].
+roadsMini[76] normal | 466, 74, 16, 16 | The normal map for roadsMini[76].
+roadsMini[77] normal | 466, 90, 16, 16 | The normal map for roadsMini[77].
+roadsMini[78] normal | 450, 74, 16, 16 | The normal map for roadsMini[78].
+roadsMini[79] normal | 450, 90, 16, 16 | The normal map for roadsMini[79].
+roadsMini[96] normal | 558, 126, 16, 16 | The normal map for roadsMini[96].
+roadsMini[97] normal | 558, 106, 16, 16 | The normal map for roadsMini[97].
+roadsMini[98] normal | 506, 126, 16, 16 | The normal map for roadsMini[98].
+roadsMini[99] normal | 506, 106, 16, 16 | The normal map for roadsMini[99].
+roadsMini[100] normal | 558, 74, 16, 16 | The normal map for roadsMini[100].
+roadsMini[101] normal | 558, 90, 16, 16 | The normal map for roadsMini[101].
+roadsMini[102] normal | 506, 74, 16, 16 | The normal map for roadsMini[102].
+roadsMini[103] normal | 506, 90, 16, 16 | The normal map for roadsMini[103].
+roadsMini[104] normal | 538, 126, 16, 16 | The normal map for roadsMini[104].
+roadsMini[105] normal | 538, 106, 16, 16 | The normal map for roadsMini[105].
+roadsMini[106] normal | 522, 126, 16, 16 | The normal map for roadsMini[106].
+roadsMini[107] normal | 522, 106, 16, 16 | The normal map for roadsMini[107].
+roadsMini[108] normal | 538, 74, 16, 16 | The normal map for roadsMini[108].
+roadsMini[109] normal | 538, 90, 16, 16 | The normal map for roadsMini[109].
+roadsMini[110] normal | 522, 74, 16, 16 | The normal map for roadsMini[110].
+roadsMini[111] normal | 522, 90, 16, 16 | The normal map for roadsMini[111].
+bridge[0] normal | 294, 150, 16, 16 | The normal map for bridge[0].
+bridge[4] normal | 316, 150, 16, 16 | The normal map for bridge[4].
+bridge[8] normal | 338, 150, 16, 16 | The normal map for bridge[8].

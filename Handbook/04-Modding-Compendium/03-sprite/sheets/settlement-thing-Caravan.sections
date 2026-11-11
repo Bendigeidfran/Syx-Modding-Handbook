@@ -1,0 +1,20 @@
+caravan[0] | 6, 6, 16, 16 | The head of a caravan, drawn in front of its pack animals. Row 0 is a walking frame, the first and fifth of the caravan's eight-step cycle, and the only one drawn once the caravan reaches its destination. Used when travelling north. Turned a quarter, half and three quarters clockwise, it serves east, south and west.
+caravan[1] | 28, 6, 16, 16 | The head of a caravan, drawn in front of its pack animals. Row 0 is a walking frame, the first and fifth of the caravan's eight-step cycle, and the only one drawn once the caravan reaches its destination. Used when travelling north-east. Turned a quarter, half and three quarters clockwise, it serves south-east, south-west and north-west.
+caravan[8] | 6, 28, 16, 16 | The head of a caravan, drawn in front of its pack animals. Row 1 is a walking frame, the second and fourth of the caravan's eight-step cycle. Used when travelling north. Turned a quarter, half and three quarters clockwise, it serves east, south and west.
+caravan[9] | 28, 28, 16, 16 | The head of a caravan, drawn in front of its pack animals. Row 1 is a walking frame, the second and fourth of the caravan's eight-step cycle. Used when travelling north-east. Turned a quarter, half and three quarters clockwise, it serves south-east, south-west and north-west.
+caravan[16] | 6, 50, 16, 16 | The head of a caravan, drawn in front of its pack animals. Row 2 is a walking frame, the third of the caravan's eight-step cycle. Used when travelling north. Turned a quarter, half and three quarters clockwise, it serves east, south and west.
+caravan[17] | 28, 50, 16, 16 | The head of a caravan, drawn in front of its pack animals. Row 2 is a walking frame, the third of the caravan's eight-step cycle. Used when travelling north-east. Turned a quarter, half and three quarters clockwise, it serves south-east, south-west and north-west.
+caravan[24] | 6, 72, 16, 16 | The head of a caravan, drawn in front of its pack animals. Row 3 is a walking frame, the sixth and eighth of the caravan's eight-step cycle. Used when travelling north. Turned a quarter, half and three quarters clockwise, it serves east, south and west.
+caravan[25] | 28, 72, 16, 16 | The head of a caravan, drawn in front of its pack animals. Row 3 is a walking frame, the sixth and eighth of the caravan's eight-step cycle. Used when travelling north-east. Turned a quarter, half and three quarters clockwise, it serves south-east, south-west and north-west.
+caravan[32] | 6, 94, 16, 16 | The head of a caravan, drawn in front of its pack animals. Row 4 is a walking frame, the seventh of the caravan's eight-step cycle. Used when travelling north. Turned a quarter, half and three quarters clockwise, it serves east, south and west.
+caravan[33] | 28, 94, 16, 16 | The head of a caravan, drawn in front of its pack animals. Row 4 is a walking frame, the seventh of the caravan's eight-step cycle. Used when travelling north-east. Turned a quarter, half and three quarters clockwise, it serves south-east, south-west and north-west.
+caravan[0] normal | 56, 6, 16, 16 | The normal map for caravan[0].
+caravan[1] normal | 78, 6, 16, 16 | The normal map for caravan[1].
+caravan[8] normal | 56, 28, 16, 16 | The normal map for caravan[8].
+caravan[9] normal | 78, 28, 16, 16 | The normal map for caravan[9].
+caravan[16] normal | 56, 50, 16, 16 | The normal map for caravan[16].
+caravan[17] normal | 78, 50, 16, 16 | The normal map for caravan[17].
+caravan[24] normal | 56, 72, 16, 16 | The normal map for caravan[24].
+caravan[25] normal | 78, 72, 16, 16 | The normal map for caravan[25].
+caravan[32] normal | 56, 94, 16, 16 | The normal map for caravan[32].
+caravan[33] normal | 78, 94, 16, 16 | The normal map for caravan[33].

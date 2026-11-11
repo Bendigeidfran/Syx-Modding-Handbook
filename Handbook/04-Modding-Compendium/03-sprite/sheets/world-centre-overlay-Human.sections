@@ -1,0 +1,32 @@
+sheet[0] | 6, 6, 8, 8 | One of all 16 overlay sprites, picked at random. Drawn on the house tiles at a region's centre, on more of them as the population grows. Tinted with OVERLAY_COLOR.
+sheet[1] | 20, 6, 8, 8 | One of all 16 overlay sprites, picked at random. Drawn on the house tiles at a region's centre, on more of them as the population grows. Tinted with OVERLAY_COLOR.
+sheet[2] | 34, 6, 8, 8 | One of all 16 overlay sprites, picked at random. Drawn on the house tiles at a region's centre, on more of them as the population grows. Tinted with OVERLAY_COLOR.
+sheet[3] | 48, 6, 8, 8 | One of all 16 overlay sprites, picked at random. Drawn on the house tiles at a region's centre, on more of them as the population grows. Tinted with OVERLAY_COLOR.
+sheet[4] | 62, 6, 8, 8 | One of all 16 overlay sprites, picked at random. Drawn on the house tiles at a region's centre, on more of them as the population grows. Tinted with OVERLAY_COLOR.
+sheet[5] | 76, 6, 8, 8 | One of all 16 overlay sprites, picked at random. Drawn on the house tiles at a region's centre, on more of them as the population grows. Tinted with OVERLAY_COLOR.
+sheet[6] | 90, 6, 8, 8 | One of all 16 overlay sprites, picked at random. Drawn on the house tiles at a region's centre, on more of them as the population grows. Tinted with OVERLAY_COLOR.
+sheet[7] | 104, 6, 8, 8 | One of all 16 overlay sprites, picked at random. Drawn on the house tiles at a region's centre, on more of them as the population grows. Tinted with OVERLAY_COLOR.
+sheet[8] | 6, 20, 8, 8 | One of all 16 overlay sprites, picked at random. Drawn on the house tiles at a region's centre, on more of them as the population grows. Tinted with OVERLAY_COLOR.
+sheet[9] | 20, 20, 8, 8 | One of all 16 overlay sprites, picked at random. Drawn on the house tiles at a region's centre, on more of them as the population grows. Tinted with OVERLAY_COLOR.
+sheet[10] | 34, 20, 8, 8 | One of all 16 overlay sprites, picked at random. Drawn on the house tiles at a region's centre, on more of them as the population grows. Tinted with OVERLAY_COLOR.
+sheet[11] | 48, 20, 8, 8 | One of all 16 overlay sprites, picked at random. Drawn on the house tiles at a region's centre, on more of them as the population grows. Tinted with OVERLAY_COLOR.
+sheet[12] | 62, 20, 8, 8 | One of all 16 overlay sprites, picked at random. Drawn on the house tiles at a region's centre, on more of them as the population grows. Tinted with OVERLAY_COLOR.
+sheet[13] | 76, 20, 8, 8 | One of all 16 overlay sprites, picked at random. Drawn on the house tiles at a region's centre, on more of them as the population grows. Tinted with OVERLAY_COLOR.
+sheet[14] | 90, 20, 8, 8 | One of all 16 overlay sprites, picked at random. Drawn on the house tiles at a region's centre, on more of them as the population grows. Tinted with OVERLAY_COLOR.
+sheet[15] | 104, 20, 8, 8 | One of all 16 overlay sprites, picked at random. Drawn on the house tiles at a region's centre, on more of them as the population grows. Tinted with OVERLAY_COLOR.
+sheet[0] normal | 124, 6, 8, 8 | The normal map for sheet[0].
+sheet[1] normal | 138, 6, 8, 8 | The normal map for sheet[1].
+sheet[2] normal | 152, 6, 8, 8 | The normal map for sheet[2].
+sheet[3] normal | 166, 6, 8, 8 | The normal map for sheet[3].
+sheet[4] normal | 180, 6, 8, 8 | The normal map for sheet[4].
+sheet[5] normal | 194, 6, 8, 8 | The normal map for sheet[5].
+sheet[6] normal | 208, 6, 8, 8 | The normal map for sheet[6].
+sheet[7] normal | 222, 6, 8, 8 | The normal map for sheet[7].
+sheet[8] normal | 124, 20, 8, 8 | The normal map for sheet[8].
+sheet[9] normal | 138, 20, 8, 8 | The normal map for sheet[9].
+sheet[10] normal | 152, 20, 8, 8 | The normal map for sheet[10].
+sheet[11] normal | 166, 20, 8, 8 | The normal map for sheet[11].
+sheet[12] normal | 180, 20, 8, 8 | The normal map for sheet[12].
+sheet[13] normal | 194, 20, 8, 8 | The normal map for sheet[13].
+sheet[14] normal | 208, 20, 8, 8 | The normal map for sheet[14].
+sheet[15] normal | 222, 20, 8, 8 | The normal map for sheet[15].

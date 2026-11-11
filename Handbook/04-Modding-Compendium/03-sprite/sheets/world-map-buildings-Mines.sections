@@ -1,0 +1,16 @@
+mines[0] | 6, 6, 16, 16 | Frame 1 of 4 of mine style 1. A mine tile picks one of the two styles at random, and steps through its frames forwards and then backwards.
+mines[1] | 28, 6, 16, 16 | Frame 2 of 4 of mine style 1. A mine tile picks one of the two styles at random, and steps through its frames forwards and then backwards.
+mines[2] | 50, 6, 16, 16 | Frame 3 of 4 of mine style 1. A mine tile picks one of the two styles at random, and steps through its frames forwards and then backwards.
+mines[3] | 72, 6, 16, 16 | Frame 4 of 4 of mine style 1. A mine tile picks one of the two styles at random, and steps through its frames forwards and then backwards.
+mines[4] | 94, 6, 16, 16 | Frame 1 of 4 of mine style 2. A mine tile picks one of the two styles at random, and steps through its frames forwards and then backwards.
+mines[5] | 116, 6, 16, 16 | Frame 2 of 4 of mine style 2. A mine tile picks one of the two styles at random, and steps through its frames forwards and then backwards.
+mines[6] | 138, 6, 16, 16 | Frame 3 of 4 of mine style 2. A mine tile picks one of the two styles at random, and steps through its frames forwards and then backwards.
+mines[7] | 160, 6, 16, 16 | Frame 4 of 4 of mine style 2. A mine tile picks one of the two styles at random, and steps through its frames forwards and then backwards.
+mines[0] normal | 188, 6, 16, 16 | The normal map for mines[0].
+mines[1] normal | 210, 6, 16, 16 | The normal map for mines[1].
+mines[2] normal | 232, 6, 16, 16 | The normal map for mines[2].
+mines[3] normal | 254, 6, 16, 16 | The normal map for mines[3].
+mines[4] normal | 276, 6, 16, 16 | The normal map for mines[4].
+mines[5] normal | 298, 6, 16, 16 | The normal map for mines[5].
+mines[6] normal | 320, 6, 16, 16 | The normal map for mines[6].
+mines[7] normal | 342, 6, 16, 16 | The normal map for mines[7].

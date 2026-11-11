@@ -1,0 +1,448 @@
+bg[0] | 54, 54, 16, 16 | Loaded, but never drawn.
+bg[1] | 54, 34, 16, 16 | The shore painted under the water, on a tile joined to water to the north. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[2] | 2, 54, 16, 16 | The shore painted under the water, on a tile joined to water to the east. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[3] | 2, 34, 16, 16 | The shore painted under the water, on a tile joined to water to the north and east. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[4] | 54, 2, 16, 16 | The shore painted under the water, on a tile joined to water to the south. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[5] | 54, 18, 16, 16 | The shore painted under the water, on a tile joined to water to the north and south. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[6] | 2, 2, 16, 16 | The shore painted under the water, on a tile joined to water to the east and south. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[7] | 2, 18, 16, 16 | The shore painted under the water, on a tile joined to water to the north, east and south. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[8] | 34, 54, 16, 16 | The shore painted under the water, on a tile joined to water to the west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[9] | 34, 34, 16, 16 | The shore painted under the water, on a tile joined to water to the north and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[10] | 18, 54, 16, 16 | The shore painted under the water, on a tile joined to water to the east and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[11] | 18, 34, 16, 16 | The shore painted under the water, on a tile joined to water to the north, east and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[12] | 34, 2, 16, 16 | The shore painted under the water, on a tile joined to water to the south and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[13] | 34, 18, 16, 16 | The shore painted under the water, on a tile joined to water to the north, south and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[14] | 18, 2, 16, 16 | The shore painted under the water, on a tile joined to water to the east, south and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[15] | 18, 18, 16, 16 | Loaded, but never drawn.
+bg[32] | 126, 54, 16, 16 | Loaded, but never drawn.
+bg[33] | 126, 34, 16, 16 | The shore painted under the water, on a tile joined to water to the north. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[34] | 74, 54, 16, 16 | The shore painted under the water, on a tile joined to water to the east. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[35] | 74, 34, 16, 16 | The shore painted under the water, on a tile joined to water to the north and east. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[36] | 126, 2, 16, 16 | The shore painted under the water, on a tile joined to water to the south. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[37] | 126, 18, 16, 16 | The shore painted under the water, on a tile joined to water to the north and south. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[38] | 74, 2, 16, 16 | The shore painted under the water, on a tile joined to water to the east and south. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[39] | 74, 18, 16, 16 | The shore painted under the water, on a tile joined to water to the north, east and south. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[40] | 106, 54, 16, 16 | The shore painted under the water, on a tile joined to water to the west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[41] | 106, 34, 16, 16 | The shore painted under the water, on a tile joined to water to the north and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[42] | 90, 54, 16, 16 | The shore painted under the water, on a tile joined to water to the east and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[43] | 90, 34, 16, 16 | The shore painted under the water, on a tile joined to water to the north, east and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[44] | 106, 2, 16, 16 | The shore painted under the water, on a tile joined to water to the south and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[45] | 106, 18, 16, 16 | The shore painted under the water, on a tile joined to water to the north, south and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[46] | 90, 2, 16, 16 | The shore painted under the water, on a tile joined to water to the east, south and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[47] | 90, 18, 16, 16 | Loaded, but never drawn.
+bg[64] | 198, 54, 16, 16 | Loaded, but never drawn.
+bg[65] | 198, 34, 16, 16 | The shore painted under the water, on a tile joined to water to the north. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[66] | 146, 54, 16, 16 | The shore painted under the water, on a tile joined to water to the east. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[67] | 146, 34, 16, 16 | The shore painted under the water, on a tile joined to water to the north and east. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[68] | 198, 2, 16, 16 | The shore painted under the water, on a tile joined to water to the south. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[69] | 198, 18, 16, 16 | The shore painted under the water, on a tile joined to water to the north and south. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[70] | 146, 2, 16, 16 | The shore painted under the water, on a tile joined to water to the east and south. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[71] | 146, 18, 16, 16 | The shore painted under the water, on a tile joined to water to the north, east and south. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[72] | 178, 54, 16, 16 | The shore painted under the water, on a tile joined to water to the west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[73] | 178, 34, 16, 16 | The shore painted under the water, on a tile joined to water to the north and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[74] | 162, 54, 16, 16 | The shore painted under the water, on a tile joined to water to the east and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[75] | 162, 34, 16, 16 | The shore painted under the water, on a tile joined to water to the north, east and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[76] | 178, 2, 16, 16 | The shore painted under the water, on a tile joined to water to the south and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[77] | 178, 18, 16, 16 | The shore painted under the water, on a tile joined to water to the north, south and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[78] | 162, 2, 16, 16 | The shore painted under the water, on a tile joined to water to the east, south and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[79] | 162, 18, 16, 16 | Loaded, but never drawn.
+bg[96] | 270, 54, 16, 16 | Loaded, but never drawn.
+bg[97] | 270, 34, 16, 16 | The shore painted under the water, on a tile joined to water to the north. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[98] | 218, 54, 16, 16 | The shore painted under the water, on a tile joined to water to the east. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[99] | 218, 34, 16, 16 | The shore painted under the water, on a tile joined to water to the north and east. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[100] | 270, 2, 16, 16 | The shore painted under the water, on a tile joined to water to the south. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[101] | 270, 18, 16, 16 | The shore painted under the water, on a tile joined to water to the north and south. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[102] | 218, 2, 16, 16 | The shore painted under the water, on a tile joined to water to the east and south. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[103] | 218, 18, 16, 16 | The shore painted under the water, on a tile joined to water to the north, east and south. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[104] | 250, 54, 16, 16 | The shore painted under the water, on a tile joined to water to the west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[105] | 250, 34, 16, 16 | The shore painted under the water, on a tile joined to water to the north and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[106] | 234, 54, 16, 16 | The shore painted under the water, on a tile joined to water to the east and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[107] | 234, 34, 16, 16 | The shore painted under the water, on a tile joined to water to the north, east and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[108] | 250, 2, 16, 16 | The shore painted under the water, on a tile joined to water to the south and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[109] | 250, 18, 16, 16 | The shore painted under the water, on a tile joined to water to the north, south and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[110] | 234, 2, 16, 16 | The shore painted under the water, on a tile joined to water to the east, south and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE_SHORE or COLOR_OCEAN_SHORE.
+bg[111] | 234, 18, 16, 16 | Loaded, but never drawn.
+bgSingles[0] | 6, 78, 16, 16 | The shore of a single tile of water with no water beside it. One of 16 picked at random. Tinted with the shore colour.
+bgSingles[1] | 22, 78, 16, 16 | The shore of a single tile of water with no water beside it. One of 16 picked at random. Tinted with the shore colour.
+bgSingles[2] | 38, 78, 16, 16 | The shore of a single tile of water with no water beside it. One of 16 picked at random. Tinted with the shore colour.
+bgSingles[3] | 54, 78, 16, 16 | The shore of a single tile of water with no water beside it. One of 16 picked at random. Tinted with the shore colour.
+bgSingles[4] | 70, 78, 16, 16 | The shore of a single tile of water with no water beside it. One of 16 picked at random. Tinted with the shore colour.
+bgSingles[5] | 86, 78, 16, 16 | The shore of a single tile of water with no water beside it. One of 16 picked at random. Tinted with the shore colour.
+bgSingles[6] | 102, 78, 16, 16 | The shore of a single tile of water with no water beside it. One of 16 picked at random. Tinted with the shore colour.
+bgSingles[7] | 118, 78, 16, 16 | The shore of a single tile of water with no water beside it. One of 16 picked at random. Tinted with the shore colour.
+bgSingles[8] | 134, 78, 16, 16 | The shore of a single tile of water with no water beside it. One of 16 picked at random. Tinted with the shore colour.
+bgSingles[9] | 150, 78, 16, 16 | The shore of a single tile of water with no water beside it. One of 16 picked at random. Tinted with the shore colour.
+bgSingles[10] | 166, 78, 16, 16 | The shore of a single tile of water with no water beside it. One of 16 picked at random. Tinted with the shore colour.
+bgSingles[11] | 182, 78, 16, 16 | The shore of a single tile of water with no water beside it. One of 16 picked at random. Tinted with the shore colour.
+bgSingles[12] | 198, 78, 16, 16 | The shore of a single tile of water with no water beside it. One of 16 picked at random. Tinted with the shore colour.
+bgSingles[13] | 214, 78, 16, 16 | The shore of a single tile of water with no water beside it. One of 16 picked at random. Tinted with the shore colour.
+bgSingles[14] | 230, 78, 16, 16 | The shore of a single tile of water with no water beside it. One of 16 picked at random. Tinted with the shore colour.
+bgSingles[15] | 246, 78, 16, 16 | The shore of a single tile of water with no water beside it. One of 16 picked at random. Tinted with the shore colour.
+sheet[0] | 54, 154, 16, 16 | The notch cut where a tile's diagonal neighbour isn't water though the two tiles beside that corner are. As painted it's the north-east corner. The game turns it for the other three and combines them as needed.
+sheet[1] | 54, 134, 16, 16 | The water on a tile joined to water to the north. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[2] | 2, 154, 16, 16 | The water on a tile joined to water to the east. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[3] | 2, 134, 16, 16 | The water on a tile joined to water to the north and east. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[4] | 54, 102, 16, 16 | The water on a tile joined to water to the south. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[5] | 54, 118, 16, 16 | The water on a tile joined to water to the north and south. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[6] | 2, 102, 16, 16 | The water on a tile joined to water to the east and south. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[7] | 2, 118, 16, 16 | The water on a tile joined to water to the north, east and south. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[8] | 34, 154, 16, 16 | The water on a tile joined to water to the west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[9] | 34, 134, 16, 16 | The water on a tile joined to water to the north and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[10] | 18, 154, 16, 16 | The water on a tile joined to water to the east and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[11] | 18, 134, 16, 16 | The water on a tile joined to water to the north, east and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[12] | 34, 102, 16, 16 | The water on a tile joined to water to the south and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[13] | 34, 118, 16, 16 | The water on a tile joined to water to the north, south and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[14] | 18, 102, 16, 16 | The water on a tile joined to water to the east, south and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[15] | 18, 118, 16, 16 | The water on a tile joined to water on all four sides. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[32] | 126, 154, 16, 16 | Loaded, but never drawn.
+sheet[33] | 126, 134, 16, 16 | The water on a tile joined to water to the north. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[34] | 74, 154, 16, 16 | The water on a tile joined to water to the east. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[35] | 74, 134, 16, 16 | The water on a tile joined to water to the north and east. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[36] | 126, 102, 16, 16 | The water on a tile joined to water to the south. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[37] | 126, 118, 16, 16 | The water on a tile joined to water to the north and south. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[38] | 74, 102, 16, 16 | The water on a tile joined to water to the east and south. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[39] | 74, 118, 16, 16 | The water on a tile joined to water to the north, east and south. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[40] | 106, 154, 16, 16 | The water on a tile joined to water to the west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[41] | 106, 134, 16, 16 | The water on a tile joined to water to the north and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[42] | 90, 154, 16, 16 | The water on a tile joined to water to the east and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[43] | 90, 134, 16, 16 | The water on a tile joined to water to the north, east and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[44] | 106, 102, 16, 16 | The water on a tile joined to water to the south and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[45] | 106, 118, 16, 16 | The water on a tile joined to water to the north, south and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[46] | 90, 102, 16, 16 | The water on a tile joined to water to the east, south and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[47] | 90, 118, 16, 16 | The water on a tile joined to water on all four sides. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[64] | 198, 154, 16, 16 | Loaded, but never drawn.
+sheet[65] | 198, 134, 16, 16 | The water on a tile joined to water to the north. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[66] | 146, 154, 16, 16 | The water on a tile joined to water to the east. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[67] | 146, 134, 16, 16 | The water on a tile joined to water to the north and east. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[68] | 198, 102, 16, 16 | The water on a tile joined to water to the south. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[69] | 198, 118, 16, 16 | The water on a tile joined to water to the north and south. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[70] | 146, 102, 16, 16 | The water on a tile joined to water to the east and south. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[71] | 146, 118, 16, 16 | The water on a tile joined to water to the north, east and south. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[72] | 178, 154, 16, 16 | The water on a tile joined to water to the west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[73] | 178, 134, 16, 16 | The water on a tile joined to water to the north and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[74] | 162, 154, 16, 16 | The water on a tile joined to water to the east and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[75] | 162, 134, 16, 16 | The water on a tile joined to water to the north, east and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[76] | 178, 102, 16, 16 | The water on a tile joined to water to the south and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[77] | 178, 118, 16, 16 | The water on a tile joined to water to the north, south and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[78] | 162, 102, 16, 16 | The water on a tile joined to water to the east, south and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[79] | 162, 118, 16, 16 | The water on a tile joined to water on all four sides. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[96] | 270, 154, 16, 16 | Loaded, but never drawn.
+sheet[97] | 270, 134, 16, 16 | The water on a tile joined to water to the north. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[98] | 218, 154, 16, 16 | The water on a tile joined to water to the east. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[99] | 218, 134, 16, 16 | The water on a tile joined to water to the north and east. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[100] | 270, 102, 16, 16 | The water on a tile joined to water to the south. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[101] | 270, 118, 16, 16 | The water on a tile joined to water to the north and south. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[102] | 218, 102, 16, 16 | The water on a tile joined to water to the east and south. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[103] | 218, 118, 16, 16 | The water on a tile joined to water to the north, east and south. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[104] | 250, 154, 16, 16 | The water on a tile joined to water to the west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[105] | 250, 134, 16, 16 | The water on a tile joined to water to the north and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[106] | 234, 154, 16, 16 | The water on a tile joined to water to the east and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[107] | 234, 134, 16, 16 | The water on a tile joined to water to the north, east and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[108] | 250, 102, 16, 16 | The water on a tile joined to water to the south and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[109] | 250, 118, 16, 16 | The water on a tile joined to water to the north, south and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[110] | 234, 102, 16, 16 | The water on a tile joined to water to the east, south and west. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheet[111] | 234, 118, 16, 16 | The water on a tile joined to water on all four sides. One of 8 versions picked at random, counting the turned copies of these blocks. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheetSingles[0] | 6, 178, 16, 16 | The water of a single tile with no water beside it. One of 16 picked at random. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheetSingles[1] | 22, 178, 16, 16 | The water of a single tile with no water beside it. One of 16 picked at random. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheetSingles[2] | 38, 178, 16, 16 | The water of a single tile with no water beside it. One of 16 picked at random. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheetSingles[3] | 54, 178, 16, 16 | The water of a single tile with no water beside it. One of 16 picked at random. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheetSingles[4] | 70, 178, 16, 16 | The water of a single tile with no water beside it. One of 16 picked at random. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheetSingles[5] | 86, 178, 16, 16 | The water of a single tile with no water beside it. One of 16 picked at random. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheetSingles[6] | 102, 178, 16, 16 | The water of a single tile with no water beside it. One of 16 picked at random. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheetSingles[7] | 118, 178, 16, 16 | The water of a single tile with no water beside it. One of 16 picked at random. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheetSingles[8] | 134, 178, 16, 16 | The water of a single tile with no water beside it. One of 16 picked at random. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheetSingles[9] | 150, 178, 16, 16 | The water of a single tile with no water beside it. One of 16 picked at random. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheetSingles[10] | 166, 178, 16, 16 | The water of a single tile with no water beside it. One of 16 picked at random. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheetSingles[11] | 182, 178, 16, 16 | The water of a single tile with no water beside it. One of 16 picked at random. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheetSingles[12] | 198, 178, 16, 16 | The water of a single tile with no water beside it. One of 16 picked at random. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheetSingles[13] | 214, 178, 16, 16 | The water of a single tile with no water beside it. One of 16 picked at random. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheetSingles[14] | 230, 178, 16, 16 | The water of a single tile with no water beside it. One of 16 picked at random. Tinted with COLOR_LAKE or COLOR_OCEAN.
+sheetSingles[15] | 246, 178, 16, 16 | The water of a single tile with no water beside it. One of 16 picked at random. Tinted with COLOR_LAKE or COLOR_OCEAN.
+deep[0] | 54, 254, 16, 16 | Deep water, on a tile joined to other deep water on no side. One of 4 versions picked at random: the first two blocks and their turned copies. Tinted with COLOR_LAKE or COLOR_OCEAN.
+deep[1] | 54, 234, 16, 16 | Deep water, on a tile joined to other deep water to the north. One of 4 versions picked at random: the first two blocks and their turned copies. Tinted with COLOR_LAKE or COLOR_OCEAN.
+deep[2] | 2, 254, 16, 16 | Deep water, on a tile joined to other deep water to the east. One of 4 versions picked at random: the first two blocks and their turned copies. Tinted with COLOR_LAKE or COLOR_OCEAN.
+deep[3] | 2, 234, 16, 16 | Deep water, on a tile joined to other deep water to the north and east. One of 4 versions picked at random: the first two blocks and their turned copies. Tinted with COLOR_LAKE or COLOR_OCEAN.
+deep[4] | 54, 202, 16, 16 | Deep water, on a tile joined to other deep water to the south. One of 4 versions picked at random: the first two blocks and their turned copies. Tinted with COLOR_LAKE or COLOR_OCEAN.
+deep[5] | 54, 218, 16, 16 | Deep water, on a tile joined to other deep water to the north and south. One of 4 versions picked at random: the first two blocks and their turned copies. Tinted with COLOR_LAKE or COLOR_OCEAN.
+deep[6] | 2, 202, 16, 16 | Deep water, on a tile joined to other deep water to the east and south. One of 4 versions picked at random: the first two blocks and their turned copies. Tinted with COLOR_LAKE or COLOR_OCEAN.
+deep[7] | 2, 218, 16, 16 | Deep water, on a tile joined to other deep water to the north, east and south. One of 4 versions picked at random: the first two blocks and their turned copies. Tinted with COLOR_LAKE or COLOR_OCEAN.
+deep[8] | 34, 254, 16, 16 | Deep water, on a tile joined to other deep water to the west. One of 4 versions picked at random: the first two blocks and their turned copies. Tinted with COLOR_LAKE or COLOR_OCEAN.
+deep[9] | 34, 234, 16, 16 | Deep water, on a tile joined to other deep water to the north and west. One of 4 versions picked at random: the first two blocks and their turned copies. Tinted with COLOR_LAKE or COLOR_OCEAN.
+deep[10] | 18, 254, 16, 16 | Deep water, on a tile joined to other deep water to the east and west. One of 4 versions picked at random: the first two blocks and their turned copies. Tinted with COLOR_LAKE or COLOR_OCEAN.
+deep[11] | 18, 234, 16, 16 | Deep water, on a tile joined to other deep water to the north, east and west. One of 4 versions picked at random: the first two blocks and their turned copies. Tinted with COLOR_LAKE or COLOR_OCEAN.
+deep[12] | 34, 202, 16, 16 | Deep water, on a tile joined to other deep water to the south and west. One of 4 versions picked at random: the first two blocks and their turned copies. Tinted with COLOR_LAKE or COLOR_OCEAN.
+deep[13] | 34, 218, 16, 16 | Deep water, on a tile joined to other deep water to the north, south and west. One of 4 versions picked at random: the first two blocks and their turned copies. Tinted with COLOR_LAKE or COLOR_OCEAN.
+deep[14] | 18, 202, 16, 16 | Deep water, on a tile joined to other deep water to the east, south and west. One of 4 versions picked at random: the first two blocks and their turned copies. Tinted with COLOR_LAKE or COLOR_OCEAN.
+deep[15] | 18, 218, 16, 16 | Deep water, on a tile joined to other deep water on all four sides. One of 4 versions picked at random: the first two blocks and their turned copies. Tinted with COLOR_LAKE or COLOR_OCEAN.
+deep[32] | 126, 254, 16, 16 | Deep water, on a tile joined to other deep water on no side. One of 4 versions picked at random: the first two blocks and their turned copies. Tinted with COLOR_LAKE or COLOR_OCEAN.
+deep[33] | 126, 234, 16, 16 | Deep water, on a tile joined to other deep water to the north. One of 4 versions picked at random: the first two blocks and their turned copies. Tinted with COLOR_LAKE or COLOR_OCEAN.
+deep[34] | 74, 254, 16, 16 | Deep water, on a tile joined to other deep water to the east. One of 4 versions picked at random: the first two blocks and their turned copies. Tinted with COLOR_LAKE or COLOR_OCEAN.
+deep[35] | 74, 234, 16, 16 | Deep water, on a tile joined to other deep water to the north and east. One of 4 versions picked at random: the first two blocks and their turned copies. Tinted with COLOR_LAKE or COLOR_OCEAN.
+deep[36] | 126, 202, 16, 16 | Deep water, on a tile joined to other deep water to the south. One of 4 versions picked at random: the first two blocks and their turned copies. Tinted with COLOR_LAKE or COLOR_OCEAN.
+deep[37] | 126, 218, 16, 16 | Deep water, on a tile joined to other deep water to the north and south. One of 4 versions picked at random: the first two blocks and their turned copies. Tinted with COLOR_LAKE or COLOR_OCEAN.
+deep[38] | 74, 202, 16, 16 | Deep water, on a tile joined to other deep water to the east and south. One of 4 versions picked at random: the first two blocks and their turned copies. Tinted with COLOR_LAKE or COLOR_OCEAN.
+deep[39] | 74, 218, 16, 16 | Deep water, on a tile joined to other deep water to the north, east and south. One of 4 versions picked at random: the first two blocks and their turned copies. Tinted with COLOR_LAKE or COLOR_OCEAN.
+deep[40] | 106, 254, 16, 16 | Deep water, on a tile joined to other deep water to the west. One of 4 versions picked at random: the first two blocks and their turned copies. Tinted with COLOR_LAKE or COLOR_OCEAN.
+deep[41] | 106, 234, 16, 16 | Deep water, on a tile joined to other deep water to the north and west. One of 4 versions picked at random: the first two blocks and their turned copies. Tinted with COLOR_LAKE or COLOR_OCEAN.
+deep[42] | 90, 254, 16, 16 | Deep water, on a tile joined to other deep water to the east and west. One of 4 versions picked at random: the first two blocks and their turned copies. Tinted with COLOR_LAKE or COLOR_OCEAN.
+deep[43] | 90, 234, 16, 16 | Deep water, on a tile joined to other deep water to the north, east and west. One of 4 versions picked at random: the first two blocks and their turned copies. Tinted with COLOR_LAKE or COLOR_OCEAN.
+deep[44] | 106, 202, 16, 16 | Deep water, on a tile joined to other deep water to the south and west. One of 4 versions picked at random: the first two blocks and their turned copies. Tinted with COLOR_LAKE or COLOR_OCEAN.
+deep[45] | 106, 218, 16, 16 | Deep water, on a tile joined to other deep water to the north, south and west. One of 4 versions picked at random: the first two blocks and their turned copies. Tinted with COLOR_LAKE or COLOR_OCEAN.
+deep[46] | 90, 202, 16, 16 | Deep water, on a tile joined to other deep water to the east, south and west. One of 4 versions picked at random: the first two blocks and their turned copies. Tinted with COLOR_LAKE or COLOR_OCEAN.
+deep[47] | 90, 218, 16, 16 | Deep water, on a tile joined to other deep water on all four sides. One of 4 versions picked at random: the first two blocks and their turned copies. Tinted with COLOR_LAKE or COLOR_OCEAN.
+deep[64] | 198, 254, 16, 16 | Loaded, but never drawn.
+deep[65] | 198, 234, 16, 16 | Loaded, but never drawn.
+deep[66] | 146, 254, 16, 16 | Loaded, but never drawn.
+deep[67] | 146, 234, 16, 16 | Loaded, but never drawn.
+deep[68] | 198, 202, 16, 16 | Loaded, but never drawn.
+deep[69] | 198, 218, 16, 16 | Loaded, but never drawn.
+deep[70] | 146, 202, 16, 16 | Loaded, but never drawn.
+deep[71] | 146, 218, 16, 16 | Loaded, but never drawn.
+deep[72] | 178, 254, 16, 16 | Loaded, but never drawn.
+deep[73] | 178, 234, 16, 16 | Loaded, but never drawn.
+deep[74] | 162, 254, 16, 16 | Loaded, but never drawn.
+deep[75] | 162, 234, 16, 16 | Loaded, but never drawn.
+deep[76] | 178, 202, 16, 16 | Loaded, but never drawn.
+deep[77] | 178, 218, 16, 16 | Loaded, but never drawn.
+deep[78] | 162, 202, 16, 16 | Loaded, but never drawn.
+deep[79] | 162, 218, 16, 16 | Loaded, but never drawn.
+deep[96] | 270, 254, 16, 16 | Loaded, but never drawn.
+deep[97] | 270, 234, 16, 16 | Loaded, but never drawn.
+deep[98] | 218, 254, 16, 16 | Loaded, but never drawn.
+deep[99] | 218, 234, 16, 16 | Loaded, but never drawn.
+deep[100] | 270, 202, 16, 16 | Loaded, but never drawn.
+deep[101] | 270, 218, 16, 16 | Loaded, but never drawn.
+deep[102] | 218, 202, 16, 16 | Loaded, but never drawn.
+deep[103] | 218, 218, 16, 16 | Loaded, but never drawn.
+deep[104] | 250, 254, 16, 16 | Loaded, but never drawn.
+deep[105] | 250, 234, 16, 16 | Loaded, but never drawn.
+deep[106] | 234, 254, 16, 16 | Loaded, but never drawn.
+deep[107] | 234, 234, 16, 16 | Loaded, but never drawn.
+deep[108] | 250, 202, 16, 16 | Loaded, but never drawn.
+deep[109] | 250, 218, 16, 16 | Loaded, but never drawn.
+deep[110] | 234, 202, 16, 16 | Loaded, but never drawn.
+deep[111] | 234, 218, 16, 16 | Loaded, but never drawn.
+bg[0] normal | 342, 54, 16, 16 | The normal map for bg[0].
+bg[1] normal | 342, 34, 16, 16 | The normal map for bg[1].
+bg[2] normal | 290, 54, 16, 16 | The normal map for bg[2].
+bg[3] normal | 290, 34, 16, 16 | The normal map for bg[3].
+bg[4] normal | 342, 2, 16, 16 | The normal map for bg[4].
+bg[5] normal | 342, 18, 16, 16 | The normal map for bg[5].
+bg[6] normal | 290, 2, 16, 16 | The normal map for bg[6].
+bg[7] normal | 290, 18, 16, 16 | The normal map for bg[7].
+bg[8] normal | 322, 54, 16, 16 | The normal map for bg[8].
+bg[9] normal | 322, 34, 16, 16 | The normal map for bg[9].
+bg[10] normal | 306, 54, 16, 16 | The normal map for bg[10].
+bg[11] normal | 306, 34, 16, 16 | The normal map for bg[11].
+bg[12] normal | 322, 2, 16, 16 | The normal map for bg[12].
+bg[13] normal | 322, 18, 16, 16 | The normal map for bg[13].
+bg[14] normal | 306, 2, 16, 16 | The normal map for bg[14].
+bg[15] normal | 306, 18, 16, 16 | The normal map for bg[15].
+bg[32] normal | 414, 54, 16, 16 | The normal map for bg[32].
+bg[33] normal | 414, 34, 16, 16 | The normal map for bg[33].
+bg[34] normal | 362, 54, 16, 16 | The normal map for bg[34].
+bg[35] normal | 362, 34, 16, 16 | The normal map for bg[35].
+bg[36] normal | 414, 2, 16, 16 | The normal map for bg[36].
+bg[37] normal | 414, 18, 16, 16 | The normal map for bg[37].
+bg[38] normal | 362, 2, 16, 16 | The normal map for bg[38].
+bg[39] normal | 362, 18, 16, 16 | The normal map for bg[39].
+bg[40] normal | 394, 54, 16, 16 | The normal map for bg[40].
+bg[41] normal | 394, 34, 16, 16 | The normal map for bg[41].
+bg[42] normal | 378, 54, 16, 16 | The normal map for bg[42].
+bg[43] normal | 378, 34, 16, 16 | The normal map for bg[43].
+bg[44] normal | 394, 2, 16, 16 | The normal map for bg[44].
+bg[45] normal | 394, 18, 16, 16 | The normal map for bg[45].
+bg[46] normal | 378, 2, 16, 16 | The normal map for bg[46].
+bg[47] normal | 378, 18, 16, 16 | The normal map for bg[47].
+bg[64] normal | 486, 54, 16, 16 | The normal map for bg[64].
+bg[65] normal | 486, 34, 16, 16 | The normal map for bg[65].
+bg[66] normal | 434, 54, 16, 16 | The normal map for bg[66].
+bg[67] normal | 434, 34, 16, 16 | The normal map for bg[67].
+bg[68] normal | 486, 2, 16, 16 | The normal map for bg[68].
+bg[69] normal | 486, 18, 16, 16 | The normal map for bg[69].
+bg[70] normal | 434, 2, 16, 16 | The normal map for bg[70].
+bg[71] normal | 434, 18, 16, 16 | The normal map for bg[71].
+bg[72] normal | 466, 54, 16, 16 | The normal map for bg[72].
+bg[73] normal | 466, 34, 16, 16 | The normal map for bg[73].
+bg[74] normal | 450, 54, 16, 16 | The normal map for bg[74].
+bg[75] normal | 450, 34, 16, 16 | The normal map for bg[75].
+bg[76] normal | 466, 2, 16, 16 | The normal map for bg[76].
+bg[77] normal | 466, 18, 16, 16 | The normal map for bg[77].
+bg[78] normal | 450, 2, 16, 16 | The normal map for bg[78].
+bg[79] normal | 450, 18, 16, 16 | The normal map for bg[79].
+bg[96] normal | 558, 54, 16, 16 | The normal map for bg[96].
+bg[97] normal | 558, 34, 16, 16 | The normal map for bg[97].
+bg[98] normal | 506, 54, 16, 16 | The normal map for bg[98].
+bg[99] normal | 506, 34, 16, 16 | The normal map for bg[99].
+bg[100] normal | 558, 2, 16, 16 | The normal map for bg[100].
+bg[101] normal | 558, 18, 16, 16 | The normal map for bg[101].
+bg[102] normal | 506, 2, 16, 16 | The normal map for bg[102].
+bg[103] normal | 506, 18, 16, 16 | The normal map for bg[103].
+bg[104] normal | 538, 54, 16, 16 | The normal map for bg[104].
+bg[105] normal | 538, 34, 16, 16 | The normal map for bg[105].
+bg[106] normal | 522, 54, 16, 16 | The normal map for bg[106].
+bg[107] normal | 522, 34, 16, 16 | The normal map for bg[107].
+bg[108] normal | 538, 2, 16, 16 | The normal map for bg[108].
+bg[109] normal | 538, 18, 16, 16 | The normal map for bg[109].
+bg[110] normal | 522, 2, 16, 16 | The normal map for bg[110].
+bg[111] normal | 522, 18, 16, 16 | The normal map for bg[111].
+bgSingles[0] normal | 294, 78, 16, 16 | The normal map for bgSingles[0].
+bgSingles[1] normal | 310, 78, 16, 16 | The normal map for bgSingles[1].
+bgSingles[2] normal | 326, 78, 16, 16 | The normal map for bgSingles[2].
+bgSingles[3] normal | 342, 78, 16, 16 | The normal map for bgSingles[3].
+bgSingles[4] normal | 358, 78, 16, 16 | The normal map for bgSingles[4].
+bgSingles[5] normal | 374, 78, 16, 16 | The normal map for bgSingles[5].
+bgSingles[6] normal | 390, 78, 16, 16 | The normal map for bgSingles[6].
+bgSingles[7] normal | 406, 78, 16, 16 | The normal map for bgSingles[7].
+bgSingles[8] normal | 422, 78, 16, 16 | The normal map for bgSingles[8].
+bgSingles[9] normal | 438, 78, 16, 16 | The normal map for bgSingles[9].
+bgSingles[10] normal | 454, 78, 16, 16 | The normal map for bgSingles[10].
+bgSingles[11] normal | 470, 78, 16, 16 | The normal map for bgSingles[11].
+bgSingles[12] normal | 486, 78, 16, 16 | The normal map for bgSingles[12].
+bgSingles[13] normal | 502, 78, 16, 16 | The normal map for bgSingles[13].
+bgSingles[14] normal | 518, 78, 16, 16 | The normal map for bgSingles[14].
+bgSingles[15] normal | 534, 78, 16, 16 | The normal map for bgSingles[15].
+sheet[0] normal | 342, 154, 16, 16 | The normal map for sheet[0].
+sheet[1] normal | 342, 134, 16, 16 | The normal map for sheet[1].
+sheet[2] normal | 290, 154, 16, 16 | The normal map for sheet[2].
+sheet[3] normal | 290, 134, 16, 16 | The normal map for sheet[3].
+sheet[4] normal | 342, 102, 16, 16 | The normal map for sheet[4].
+sheet[5] normal | 342, 118, 16, 16 | The normal map for sheet[5].
+sheet[6] normal | 290, 102, 16, 16 | The normal map for sheet[6].
+sheet[7] normal | 290, 118, 16, 16 | The normal map for sheet[7].
+sheet[8] normal | 322, 154, 16, 16 | The normal map for sheet[8].
+sheet[9] normal | 322, 134, 16, 16 | The normal map for sheet[9].
+sheet[10] normal | 306, 154, 16, 16 | The normal map for sheet[10].
+sheet[11] normal | 306, 134, 16, 16 | The normal map for sheet[11].
+sheet[12] normal | 322, 102, 16, 16 | The normal map for sheet[12].
+sheet[13] normal | 322, 118, 16, 16 | The normal map for sheet[13].
+sheet[14] normal | 306, 102, 16, 16 | The normal map for sheet[14].
+sheet[15] normal | 306, 118, 16, 16 | The normal map for sheet[15].
+sheet[32] normal | 414, 154, 16, 16 | The normal map for sheet[32].
+sheet[33] normal | 414, 134, 16, 16 | The normal map for sheet[33].
+sheet[34] normal | 362, 154, 16, 16 | The normal map for sheet[34].
+sheet[35] normal | 362, 134, 16, 16 | The normal map for sheet[35].
+sheet[36] normal | 414, 102, 16, 16 | The normal map for sheet[36].
+sheet[37] normal | 414, 118, 16, 16 | The normal map for sheet[37].
+sheet[38] normal | 362, 102, 16, 16 | The normal map for sheet[38].
+sheet[39] normal | 362, 118, 16, 16 | The normal map for sheet[39].
+sheet[40] normal | 394, 154, 16, 16 | The normal map for sheet[40].
+sheet[41] normal | 394, 134, 16, 16 | The normal map for sheet[41].
+sheet[42] normal | 378, 154, 16, 16 | The normal map for sheet[42].
+sheet[43] normal | 378, 134, 16, 16 | The normal map for sheet[43].
+sheet[44] normal | 394, 102, 16, 16 | The normal map for sheet[44].
+sheet[45] normal | 394, 118, 16, 16 | The normal map for sheet[45].
+sheet[46] normal | 378, 102, 16, 16 | The normal map for sheet[46].
+sheet[47] normal | 378, 118, 16, 16 | The normal map for sheet[47].
+sheet[64] normal | 486, 154, 16, 16 | The normal map for sheet[64].
+sheet[65] normal | 486, 134, 16, 16 | The normal map for sheet[65].
+sheet[66] normal | 434, 154, 16, 16 | The normal map for sheet[66].
+sheet[67] normal | 434, 134, 16, 16 | The normal map for sheet[67].
+sheet[68] normal | 486, 102, 16, 16 | The normal map for sheet[68].
+sheet[69] normal | 486, 118, 16, 16 | The normal map for sheet[69].
+sheet[70] normal | 434, 102, 16, 16 | The normal map for sheet[70].
+sheet[71] normal | 434, 118, 16, 16 | The normal map for sheet[71].
+sheet[72] normal | 466, 154, 16, 16 | The normal map for sheet[72].
+sheet[73] normal | 466, 134, 16, 16 | The normal map for sheet[73].
+sheet[74] normal | 450, 154, 16, 16 | The normal map for sheet[74].
+sheet[75] normal | 450, 134, 16, 16 | The normal map for sheet[75].
+sheet[76] normal | 466, 102, 16, 16 | The normal map for sheet[76].
+sheet[77] normal | 466, 118, 16, 16 | The normal map for sheet[77].
+sheet[78] normal | 450, 102, 16, 16 | The normal map for sheet[78].
+sheet[79] normal | 450, 118, 16, 16 | The normal map for sheet[79].
+sheet[96] normal | 558, 154, 16, 16 | The normal map for sheet[96].
+sheet[97] normal | 558, 134, 16, 16 | The normal map for sheet[97].
+sheet[98] normal | 506, 154, 16, 16 | The normal map for sheet[98].
+sheet[99] normal | 506, 134, 16, 16 | The normal map for sheet[99].
+sheet[100] normal | 558, 102, 16, 16 | The normal map for sheet[100].
+sheet[101] normal | 558, 118, 16, 16 | The normal map for sheet[101].
+sheet[102] normal | 506, 102, 16, 16 | The normal map for sheet[102].
+sheet[103] normal | 506, 118, 16, 16 | The normal map for sheet[103].
+sheet[104] normal | 538, 154, 16, 16 | The normal map for sheet[104].
+sheet[105] normal | 538, 134, 16, 16 | The normal map for sheet[105].
+sheet[106] normal | 522, 154, 16, 16 | The normal map for sheet[106].
+sheet[107] normal | 522, 134, 16, 16 | The normal map for sheet[107].
+sheet[108] normal | 538, 102, 16, 16 | The normal map for sheet[108].
+sheet[109] normal | 538, 118, 16, 16 | The normal map for sheet[109].
+sheet[110] normal | 522, 102, 16, 16 | The normal map for sheet[110].
+sheet[111] normal | 522, 118, 16, 16 | The normal map for sheet[111].
+sheetSingles[0] normal | 294, 178, 16, 16 | The normal map for sheetSingles[0].
+sheetSingles[1] normal | 310, 178, 16, 16 | The normal map for sheetSingles[1].
+sheetSingles[2] normal | 326, 178, 16, 16 | The normal map for sheetSingles[2].
+sheetSingles[3] normal | 342, 178, 16, 16 | The normal map for sheetSingles[3].
+sheetSingles[4] normal | 358, 178, 16, 16 | The normal map for sheetSingles[4].
+sheetSingles[5] normal | 374, 178, 16, 16 | The normal map for sheetSingles[5].
+sheetSingles[6] normal | 390, 178, 16, 16 | The normal map for sheetSingles[6].
+sheetSingles[7] normal | 406, 178, 16, 16 | The normal map for sheetSingles[7].
+sheetSingles[8] normal | 422, 178, 16, 16 | The normal map for sheetSingles[8].
+sheetSingles[9] normal | 438, 178, 16, 16 | The normal map for sheetSingles[9].
+sheetSingles[10] normal | 454, 178, 16, 16 | The normal map for sheetSingles[10].
+sheetSingles[11] normal | 470, 178, 16, 16 | The normal map for sheetSingles[11].
+sheetSingles[12] normal | 486, 178, 16, 16 | The normal map for sheetSingles[12].
+sheetSingles[13] normal | 502, 178, 16, 16 | The normal map for sheetSingles[13].
+sheetSingles[14] normal | 518, 178, 16, 16 | The normal map for sheetSingles[14].
+sheetSingles[15] normal | 534, 178, 16, 16 | The normal map for sheetSingles[15].
+deep[0] normal | 342, 254, 16, 16 | The normal map for deep[0].
+deep[1] normal | 342, 234, 16, 16 | The normal map for deep[1].
+deep[2] normal | 290, 254, 16, 16 | The normal map for deep[2].
+deep[3] normal | 290, 234, 16, 16 | The normal map for deep[3].
+deep[4] normal | 342, 202, 16, 16 | The normal map for deep[4].
+deep[5] normal | 342, 218, 16, 16 | The normal map for deep[5].
+deep[6] normal | 290, 202, 16, 16 | The normal map for deep[6].
+deep[7] normal | 290, 218, 16, 16 | The normal map for deep[7].
+deep[8] normal | 322, 254, 16, 16 | The normal map for deep[8].
+deep[9] normal | 322, 234, 16, 16 | The normal map for deep[9].
+deep[10] normal | 306, 254, 16, 16 | The normal map for deep[10].
+deep[11] normal | 306, 234, 16, 16 | The normal map for deep[11].
+deep[12] normal | 322, 202, 16, 16 | The normal map for deep[12].
+deep[13] normal | 322, 218, 16, 16 | The normal map for deep[13].
+deep[14] normal | 306, 202, 16, 16 | The normal map for deep[14].
+deep[15] normal | 306, 218, 16, 16 | The normal map for deep[15].
+deep[32] normal | 414, 254, 16, 16 | The normal map for deep[32].
+deep[33] normal | 414, 234, 16, 16 | The normal map for deep[33].
+deep[34] normal | 362, 254, 16, 16 | The normal map for deep[34].
+deep[35] normal | 362, 234, 16, 16 | The normal map for deep[35].
+deep[36] normal | 414, 202, 16, 16 | The normal map for deep[36].
+deep[37] normal | 414, 218, 16, 16 | The normal map for deep[37].
+deep[38] normal | 362, 202, 16, 16 | The normal map for deep[38].
+deep[39] normal | 362, 218, 16, 16 | The normal map for deep[39].
+deep[40] normal | 394, 254, 16, 16 | The normal map for deep[40].
+deep[41] normal | 394, 234, 16, 16 | The normal map for deep[41].
+deep[42] normal | 378, 254, 16, 16 | The normal map for deep[42].
+deep[43] normal | 378, 234, 16, 16 | The normal map for deep[43].
+deep[44] normal | 394, 202, 16, 16 | The normal map for deep[44].
+deep[45] normal | 394, 218, 16, 16 | The normal map for deep[45].
+deep[46] normal | 378, 202, 16, 16 | The normal map for deep[46].
+deep[47] normal | 378, 218, 16, 16 | The normal map for deep[47].
+deep[64] normal | 486, 254, 16, 16 | The normal map for deep[64].
+deep[65] normal | 486, 234, 16, 16 | The normal map for deep[65].
+deep[66] normal | 434, 254, 16, 16 | The normal map for deep[66].
+deep[67] normal | 434, 234, 16, 16 | The normal map for deep[67].
+deep[68] normal | 486, 202, 16, 16 | The normal map for deep[68].
+deep[69] normal | 486, 218, 16, 16 | The normal map for deep[69].
+deep[70] normal | 434, 202, 16, 16 | The normal map for deep[70].
+deep[71] normal | 434, 218, 16, 16 | The normal map for deep[71].
+deep[72] normal | 466, 254, 16, 16 | The normal map for deep[72].
+deep[73] normal | 466, 234, 16, 16 | The normal map for deep[73].
+deep[74] normal | 450, 254, 16, 16 | The normal map for deep[74].
+deep[75] normal | 450, 234, 16, 16 | The normal map for deep[75].
+deep[76] normal | 466, 202, 16, 16 | The normal map for deep[76].
+deep[77] normal | 466, 218, 16, 16 | The normal map for deep[77].
+deep[78] normal | 450, 202, 16, 16 | The normal map for deep[78].
+deep[79] normal | 450, 218, 16, 16 | The normal map for deep[79].
+deep[96] normal | 558, 254, 16, 16 | The normal map for deep[96].
+deep[97] normal | 558, 234, 16, 16 | The normal map for deep[97].
+deep[98] normal | 506, 254, 16, 16 | The normal map for deep[98].
+deep[99] normal | 506, 234, 16, 16 | The normal map for deep[99].
+deep[100] normal | 558, 202, 16, 16 | The normal map for deep[100].
+deep[101] normal | 558, 218, 16, 16 | The normal map for deep[101].
+deep[102] normal | 506, 202, 16, 16 | The normal map for deep[102].
+deep[103] normal | 506, 218, 16, 16 | The normal map for deep[103].
+deep[104] normal | 538, 254, 16, 16 | The normal map for deep[104].
+deep[105] normal | 538, 234, 16, 16 | The normal map for deep[105].
+deep[106] normal | 522, 254, 16, 16 | The normal map for deep[106].
+deep[107] normal | 522, 234, 16, 16 | The normal map for deep[107].
+deep[108] normal | 538, 202, 16, 16 | The normal map for deep[108].
+deep[109] normal | 538, 218, 16, 16 | The normal map for deep[109].
+deep[110] normal | 522, 202, 16, 16 | The normal map for deep[110].
+deep[111] normal | 522, 218, 16, 16 | The normal map for deep[111].

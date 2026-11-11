@@ -1,0 +1,640 @@
+stencil[0] | 54, 54, 16, 16 | The outline for a ground tile joined to its own kind on no side. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[1] | 54, 34, 16, 16 | The outline for a ground tile joined to its own kind to the north. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[2] | 2, 54, 16, 16 | The outline for a ground tile joined to its own kind to the east. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[3] | 2, 34, 16, 16 | The outline for a ground tile joined to its own kind to the north and east. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[4] | 54, 2, 16, 16 | The outline for a ground tile joined to its own kind to the south. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[5] | 54, 18, 16, 16 | The outline for a ground tile joined to its own kind to the north and south. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[6] | 2, 2, 16, 16 | The outline for a ground tile joined to its own kind to the east and south. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[7] | 2, 18, 16, 16 | The outline for a ground tile joined to its own kind to the north, east and south. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[8] | 34, 54, 16, 16 | The outline for a ground tile joined to its own kind to the west. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[9] | 34, 34, 16, 16 | The outline for a ground tile joined to its own kind to the north and west. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[10] | 18, 54, 16, 16 | The outline for a ground tile joined to its own kind to the east and west. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[11] | 18, 34, 16, 16 | The outline for a ground tile joined to its own kind to the north, east and west. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[12] | 34, 2, 16, 16 | The outline for a ground tile joined to its own kind to the south and west. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[13] | 34, 18, 16, 16 | The outline for a ground tile joined to its own kind to the north, south and west. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[14] | 18, 2, 16, 16 | The outline for a ground tile joined to its own kind to the east, south and west. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[15] | 18, 18, 16, 16 | Loaded, but never drawn. A tile joined on all four sides is drawn whole.
+stencil[16] | 126, 54, 16, 16 | The outline for a ground tile joined to its own kind on no side. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[17] | 126, 34, 16, 16 | The outline for a ground tile joined to its own kind to the north. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[18] | 74, 54, 16, 16 | The outline for a ground tile joined to its own kind to the east. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[19] | 74, 34, 16, 16 | The outline for a ground tile joined to its own kind to the north and east. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[20] | 126, 2, 16, 16 | The outline for a ground tile joined to its own kind to the south. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[21] | 126, 18, 16, 16 | The outline for a ground tile joined to its own kind to the north and south. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[22] | 74, 2, 16, 16 | The outline for a ground tile joined to its own kind to the east and south. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[23] | 74, 18, 16, 16 | The outline for a ground tile joined to its own kind to the north, east and south. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[24] | 106, 54, 16, 16 | The outline for a ground tile joined to its own kind to the west. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[25] | 106, 34, 16, 16 | The outline for a ground tile joined to its own kind to the north and west. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[26] | 90, 54, 16, 16 | The outline for a ground tile joined to its own kind to the east and west. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[27] | 90, 34, 16, 16 | The outline for a ground tile joined to its own kind to the north, east and west. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[28] | 106, 2, 16, 16 | The outline for a ground tile joined to its own kind to the south and west. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[29] | 106, 18, 16, 16 | The outline for a ground tile joined to its own kind to the north, south and west. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[30] | 90, 2, 16, 16 | The outline for a ground tile joined to its own kind to the east, south and west. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[31] | 90, 18, 16, 16 | Loaded, but never drawn. A tile joined on all four sides is drawn whole.
+stencil[32] | 198, 54, 16, 16 | The outline for a ground tile joined to its own kind on no side. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[33] | 198, 34, 16, 16 | The outline for a ground tile joined to its own kind to the north. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[34] | 146, 54, 16, 16 | The outline for a ground tile joined to its own kind to the east. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[35] | 146, 34, 16, 16 | The outline for a ground tile joined to its own kind to the north and east. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[36] | 198, 2, 16, 16 | The outline for a ground tile joined to its own kind to the south. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[37] | 198, 18, 16, 16 | The outline for a ground tile joined to its own kind to the north and south. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[38] | 146, 2, 16, 16 | The outline for a ground tile joined to its own kind to the east and south. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[39] | 146, 18, 16, 16 | The outline for a ground tile joined to its own kind to the north, east and south. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[40] | 178, 54, 16, 16 | The outline for a ground tile joined to its own kind to the west. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[41] | 178, 34, 16, 16 | The outline for a ground tile joined to its own kind to the north and west. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[42] | 162, 54, 16, 16 | The outline for a ground tile joined to its own kind to the east and west. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[43] | 162, 34, 16, 16 | The outline for a ground tile joined to its own kind to the north, east and west. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[44] | 178, 2, 16, 16 | The outline for a ground tile joined to its own kind to the south and west. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[45] | 178, 18, 16, 16 | The outline for a ground tile joined to its own kind to the north, south and west. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[46] | 162, 2, 16, 16 | The outline for a ground tile joined to its own kind to the east, south and west. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[47] | 162, 18, 16, 16 | Loaded, but never drawn. A tile joined on all four sides is drawn whole.
+stencil[48] | 270, 54, 16, 16 | The outline for a ground tile joined to its own kind on no side. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[49] | 270, 34, 16, 16 | The outline for a ground tile joined to its own kind to the north. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[50] | 218, 54, 16, 16 | The outline for a ground tile joined to its own kind to the east. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[51] | 218, 34, 16, 16 | The outline for a ground tile joined to its own kind to the north and east. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[52] | 270, 2, 16, 16 | The outline for a ground tile joined to its own kind to the south. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[53] | 270, 18, 16, 16 | The outline for a ground tile joined to its own kind to the north and south. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[54] | 218, 2, 16, 16 | The outline for a ground tile joined to its own kind to the east and south. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[55] | 218, 18, 16, 16 | The outline for a ground tile joined to its own kind to the north, east and south. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[56] | 250, 54, 16, 16 | The outline for a ground tile joined to its own kind to the west. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[57] | 250, 34, 16, 16 | The outline for a ground tile joined to its own kind to the north and west. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[58] | 234, 54, 16, 16 | The outline for a ground tile joined to its own kind to the east and west. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[59] | 234, 34, 16, 16 | The outline for a ground tile joined to its own kind to the north, east and west. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[60] | 250, 2, 16, 16 | The outline for a ground tile joined to its own kind to the south and west. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[61] | 250, 18, 16, 16 | The outline for a ground tile joined to its own kind to the north, south and west. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[62] | 234, 2, 16, 16 | The outline for a ground tile joined to its own kind to the east, south and west. The neighbouring ground is drawn whole, then this tile's ground through this shape. One of 4 versions, picked at random.
+stencil[63] | 234, 18, 16, 16 | Loaded, but never drawn. A tile joined on all four sides is drawn whole.
+6, 78, 16, 16 | 6, 78, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+22, 78, 16, 16 | 22, 78, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+38, 78, 16, 16 | 38, 78, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+54, 78, 16, 16 | 54, 78, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+70, 78, 16, 16 | 70, 78, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+86, 78, 16, 16 | 86, 78, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+102, 78, 16, 16 | 102, 78, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+118, 78, 16, 16 | 118, 78, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+6, 94, 16, 16 | 6, 94, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+22, 94, 16, 16 | 22, 94, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+38, 94, 16, 16 | 38, 94, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+54, 94, 16, 16 | 54, 94, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+70, 94, 16, 16 | 70, 94, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+86, 94, 16, 16 | 86, 94, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+102, 94, 16, 16 | 102, 94, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+118, 94, 16, 16 | 118, 94, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+6, 110, 16, 16 | 6, 110, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+22, 110, 16, 16 | 22, 110, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+38, 110, 16, 16 | 38, 110, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+54, 110, 16, 16 | 54, 110, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+70, 110, 16, 16 | 70, 110, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+86, 110, 16, 16 | 86, 110, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+102, 110, 16, 16 | 102, 110, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+118, 110, 16, 16 | 118, 110, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+6, 126, 16, 16 | 6, 126, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+22, 126, 16, 16 | 22, 126, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+38, 126, 16, 16 | 38, 126, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+54, 126, 16, 16 | 54, 126, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+70, 126, 16, 16 | 70, 126, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+86, 126, 16, 16 | 86, 126, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+102, 126, 16, 16 | 102, 126, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+118, 126, 16, 16 | 118, 126, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+6, 142, 16, 16 | 6, 142, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+22, 142, 16, 16 | 22, 142, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+38, 142, 16, 16 | 38, 142, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+54, 142, 16, 16 | 54, 142, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+70, 142, 16, 16 | 70, 142, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+86, 142, 16, 16 | 86, 142, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+102, 142, 16, 16 | 102, 142, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+118, 142, 16, 16 | 118, 142, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+6, 158, 16, 16 | 6, 158, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+22, 158, 16, 16 | 22, 158, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+38, 158, 16, 16 | 38, 158, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+54, 158, 16, 16 | 54, 158, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+70, 158, 16, 16 | 70, 158, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+86, 158, 16, 16 | 86, 158, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+102, 158, 16, 16 | 102, 158, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+118, 158, 16, 16 | 118, 158, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+6, 174, 16, 16 | 6, 174, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+22, 174, 16, 16 | 22, 174, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+38, 174, 16, 16 | 38, 174, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+54, 174, 16, 16 | 54, 174, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+70, 174, 16, 16 | 70, 174, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+86, 174, 16, 16 | 86, 174, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+102, 174, 16, 16 | 102, 174, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+118, 174, 16, 16 | 118, 174, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+6, 190, 16, 16 | 6, 190, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+22, 190, 16, 16 | 22, 190, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+38, 190, 16, 16 | 38, 190, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+54, 190, 16, 16 | 54, 190, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+70, 190, 16, 16 | 70, 190, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+86, 190, 16, 16 | 86, 190, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+102, 190, 16, 16 | 102, 190, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+118, 190, 16, 16 | 118, 190, 16, 16 | The neutral ground. The wet and dry textures are blended over it, so it shows most in the middle of the range, and it's mixed half and half with the devastated texture on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][0] | 146, 78, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][1] | 162, 78, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][2] | 178, 78, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][3] | 194, 78, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][4] | 210, 78, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][5] | 226, 78, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][6] | 242, 78, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][7] | 258, 78, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][8] | 146, 94, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][9] | 162, 94, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][10] | 178, 94, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][11] | 194, 94, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][12] | 210, 94, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][13] | 226, 94, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][14] | 242, 94, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][15] | 258, 94, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][16] | 146, 110, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][17] | 162, 110, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][18] | 178, 110, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][19] | 194, 110, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][20] | 210, 110, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][21] | 226, 110, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][22] | 242, 110, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][23] | 258, 110, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][24] | 146, 126, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][25] | 162, 126, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][26] | 178, 126, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][27] | 194, 126, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][28] | 210, 126, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][29] | 226, 126, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][30] | 242, 126, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][31] | 258, 126, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][32] | 146, 142, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][33] | 162, 142, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][34] | 178, 142, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][35] | 194, 142, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][36] | 210, 142, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][37] | 226, 142, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][38] | 242, 142, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][39] | 258, 142, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][40] | 146, 158, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][41] | 162, 158, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][42] | 178, 158, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][43] | 194, 158, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][44] | 210, 158, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][45] | 226, 158, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][46] | 242, 158, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][47] | 258, 158, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][48] | 146, 174, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][49] | 162, 174, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][50] | 178, 174, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][51] | 194, 174, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][52] | 210, 174, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][53] | 226, 174, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][54] | 242, 174, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][55] | 258, 174, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][56] | 146, 190, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][57] | 162, 190, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][58] | 178, 190, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][59] | 194, 190, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][60] | 210, 190, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][61] | 226, 190, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][62] | 242, 190, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[0][63] | 258, 190, 16, 16 | The wet ground, used at full strength for the two wettest of the nine ground kinds and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][0] | 6, 218, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][1] | 22, 218, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][2] | 38, 218, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][3] | 54, 218, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][4] | 70, 218, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][5] | 86, 218, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][6] | 102, 218, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][7] | 118, 218, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][8] | 6, 234, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][9] | 22, 234, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][10] | 38, 234, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][11] | 54, 234, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][12] | 70, 234, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][13] | 86, 234, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][14] | 102, 234, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][15] | 118, 234, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][16] | 6, 250, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][17] | 22, 250, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][18] | 38, 250, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][19] | 54, 250, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][20] | 70, 250, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][21] | 86, 250, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][22] | 102, 250, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][23] | 118, 250, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][24] | 6, 266, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][25] | 22, 266, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][26] | 38, 266, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][27] | 54, 266, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][28] | 70, 266, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][29] | 86, 266, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][30] | 102, 266, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][31] | 118, 266, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][32] | 6, 282, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][33] | 22, 282, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][34] | 38, 282, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][35] | 54, 282, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][36] | 70, 282, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][37] | 86, 282, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][38] | 102, 282, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][39] | 118, 282, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][40] | 6, 298, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][41] | 22, 298, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][42] | 38, 298, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][43] | 54, 298, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][44] | 70, 298, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][45] | 86, 298, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][46] | 102, 298, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][47] | 118, 298, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][48] | 6, 314, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][49] | 22, 314, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][50] | 38, 314, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][51] | 54, 314, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][52] | 70, 314, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][53] | 86, 314, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][54] | 102, 314, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][55] | 118, 314, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][56] | 6, 330, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][57] | 22, 330, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][58] | 38, 330, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][59] | 54, 330, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][60] | 70, 330, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][61] | 86, 330, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][62] | 102, 330, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+cracked[1][63] | 118, 330, 16, 16 | The devastated ground, drawn alone on the most devastated land and mixed half and half with the neutral ground on moderately devastated land. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][0] | 146, 218, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][1] | 162, 218, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][2] | 178, 218, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][3] | 194, 218, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][4] | 210, 218, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][5] | 226, 218, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][6] | 242, 218, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][7] | 258, 218, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][8] | 146, 234, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][9] | 162, 234, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][10] | 178, 234, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][11] | 194, 234, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][12] | 210, 234, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][13] | 226, 234, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][14] | 242, 234, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][15] | 258, 234, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][16] | 146, 250, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][17] | 162, 250, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][18] | 178, 250, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][19] | 194, 250, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][20] | 210, 250, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][21] | 226, 250, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][22] | 242, 250, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][23] | 258, 250, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][24] | 146, 266, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][25] | 162, 266, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][26] | 178, 266, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][27] | 194, 266, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][28] | 210, 266, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][29] | 226, 266, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][30] | 242, 266, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][31] | 258, 266, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][32] | 146, 282, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][33] | 162, 282, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][34] | 178, 282, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][35] | 194, 282, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][36] | 210, 282, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][37] | 226, 282, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][38] | 242, 282, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][39] | 258, 282, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][40] | 146, 298, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][41] | 162, 298, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][42] | 178, 298, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][43] | 194, 298, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][44] | 210, 298, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][45] | 226, 298, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][46] | 242, 298, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][47] | 258, 298, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][48] | 146, 314, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][49] | 162, 314, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][50] | 178, 314, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][51] | 194, 314, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][52] | 210, 314, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][53] | 226, 314, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][54] | 242, 314, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][55] | 258, 314, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][56] | 146, 330, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][57] | 162, 330, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][58] | 178, 330, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][59] | 194, 330, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][60] | 210, 330, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][61] | 226, 330, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][62] | 242, 330, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+sheets[7][63] | 258, 330, 16, 16 | The dry ground, used at full strength for the driest ground kind and blended over the neutral ground for the next three. The cell is chosen by the tile's position on the map, so the pattern repeats every 8 tiles.
+stencil[0] normal | 342, 54, 16, 16 | The normal map for stencil[0].
+stencil[1] normal | 342, 34, 16, 16 | The normal map for stencil[1].
+stencil[2] normal | 290, 54, 16, 16 | The normal map for stencil[2].
+stencil[3] normal | 290, 34, 16, 16 | The normal map for stencil[3].
+stencil[4] normal | 342, 2, 16, 16 | The normal map for stencil[4].
+stencil[5] normal | 342, 18, 16, 16 | The normal map for stencil[5].
+stencil[6] normal | 290, 2, 16, 16 | The normal map for stencil[6].
+stencil[7] normal | 290, 18, 16, 16 | The normal map for stencil[7].
+stencil[8] normal | 322, 54, 16, 16 | The normal map for stencil[8].
+stencil[9] normal | 322, 34, 16, 16 | The normal map for stencil[9].
+stencil[10] normal | 306, 54, 16, 16 | The normal map for stencil[10].
+stencil[11] normal | 306, 34, 16, 16 | The normal map for stencil[11].
+stencil[12] normal | 322, 2, 16, 16 | The normal map for stencil[12].
+stencil[13] normal | 322, 18, 16, 16 | The normal map for stencil[13].
+stencil[14] normal | 306, 2, 16, 16 | The normal map for stencil[14].
+stencil[15] normal | 306, 18, 16, 16 | The normal map for stencil[15].
+stencil[16] normal | 414, 54, 16, 16 | The normal map for stencil[16].
+stencil[17] normal | 414, 34, 16, 16 | The normal map for stencil[17].
+stencil[18] normal | 362, 54, 16, 16 | The normal map for stencil[18].
+stencil[19] normal | 362, 34, 16, 16 | The normal map for stencil[19].
+stencil[20] normal | 414, 2, 16, 16 | The normal map for stencil[20].
+stencil[21] normal | 414, 18, 16, 16 | The normal map for stencil[21].
+stencil[22] normal | 362, 2, 16, 16 | The normal map for stencil[22].
+stencil[23] normal | 362, 18, 16, 16 | The normal map for stencil[23].
+stencil[24] normal | 394, 54, 16, 16 | The normal map for stencil[24].
+stencil[25] normal | 394, 34, 16, 16 | The normal map for stencil[25].
+stencil[26] normal | 378, 54, 16, 16 | The normal map for stencil[26].
+stencil[27] normal | 378, 34, 16, 16 | The normal map for stencil[27].
+stencil[28] normal | 394, 2, 16, 16 | The normal map for stencil[28].
+stencil[29] normal | 394, 18, 16, 16 | The normal map for stencil[29].
+stencil[30] normal | 378, 2, 16, 16 | The normal map for stencil[30].
+stencil[31] normal | 378, 18, 16, 16 | The normal map for stencil[31].
+stencil[32] normal | 486, 54, 16, 16 | The normal map for stencil[32].
+stencil[33] normal | 486, 34, 16, 16 | The normal map for stencil[33].
+stencil[34] normal | 434, 54, 16, 16 | The normal map for stencil[34].
+stencil[35] normal | 434, 34, 16, 16 | The normal map for stencil[35].
+stencil[36] normal | 486, 2, 16, 16 | The normal map for stencil[36].
+stencil[37] normal | 486, 18, 16, 16 | The normal map for stencil[37].
+stencil[38] normal | 434, 2, 16, 16 | The normal map for stencil[38].
+stencil[39] normal | 434, 18, 16, 16 | The normal map for stencil[39].
+stencil[40] normal | 466, 54, 16, 16 | The normal map for stencil[40].
+stencil[41] normal | 466, 34, 16, 16 | The normal map for stencil[41].
+stencil[42] normal | 450, 54, 16, 16 | The normal map for stencil[42].
+stencil[43] normal | 450, 34, 16, 16 | The normal map for stencil[43].
+stencil[44] normal | 466, 2, 16, 16 | The normal map for stencil[44].
+stencil[45] normal | 466, 18, 16, 16 | The normal map for stencil[45].
+stencil[46] normal | 450, 2, 16, 16 | The normal map for stencil[46].
+stencil[47] normal | 450, 18, 16, 16 | The normal map for stencil[47].
+stencil[48] normal | 558, 54, 16, 16 | The normal map for stencil[48].
+stencil[49] normal | 558, 34, 16, 16 | The normal map for stencil[49].
+stencil[50] normal | 506, 54, 16, 16 | The normal map for stencil[50].
+stencil[51] normal | 506, 34, 16, 16 | The normal map for stencil[51].
+stencil[52] normal | 558, 2, 16, 16 | The normal map for stencil[52].
+stencil[53] normal | 558, 18, 16, 16 | The normal map for stencil[53].
+stencil[54] normal | 506, 2, 16, 16 | The normal map for stencil[54].
+stencil[55] normal | 506, 18, 16, 16 | The normal map for stencil[55].
+stencil[56] normal | 538, 54, 16, 16 | The normal map for stencil[56].
+stencil[57] normal | 538, 34, 16, 16 | The normal map for stencil[57].
+stencil[58] normal | 522, 54, 16, 16 | The normal map for stencil[58].
+stencil[59] normal | 522, 34, 16, 16 | The normal map for stencil[59].
+stencil[60] normal | 538, 2, 16, 16 | The normal map for stencil[60].
+stencil[61] normal | 538, 18, 16, 16 | The normal map for stencil[61].
+stencil[62] normal | 522, 2, 16, 16 | The normal map for stencil[62].
+stencil[63] normal | 522, 18, 16, 16 | The normal map for stencil[63].
+294, 78, 16, 16 | 294, 78, 16, 16 | The normal map for the sprite at 6, 78, 16, 16.
+310, 78, 16, 16 | 310, 78, 16, 16 | The normal map for the sprite at 22, 78, 16, 16.
+326, 78, 16, 16 | 326, 78, 16, 16 | The normal map for the sprite at 38, 78, 16, 16.
+342, 78, 16, 16 | 342, 78, 16, 16 | The normal map for the sprite at 54, 78, 16, 16.
+358, 78, 16, 16 | 358, 78, 16, 16 | The normal map for the sprite at 70, 78, 16, 16.
+374, 78, 16, 16 | 374, 78, 16, 16 | The normal map for the sprite at 86, 78, 16, 16.
+390, 78, 16, 16 | 390, 78, 16, 16 | The normal map for the sprite at 102, 78, 16, 16.
+406, 78, 16, 16 | 406, 78, 16, 16 | The normal map for the sprite at 118, 78, 16, 16.
+294, 94, 16, 16 | 294, 94, 16, 16 | The normal map for the sprite at 6, 94, 16, 16.
+310, 94, 16, 16 | 310, 94, 16, 16 | The normal map for the sprite at 22, 94, 16, 16.
+326, 94, 16, 16 | 326, 94, 16, 16 | The normal map for the sprite at 38, 94, 16, 16.
+342, 94, 16, 16 | 342, 94, 16, 16 | The normal map for the sprite at 54, 94, 16, 16.
+358, 94, 16, 16 | 358, 94, 16, 16 | The normal map for the sprite at 70, 94, 16, 16.
+374, 94, 16, 16 | 374, 94, 16, 16 | The normal map for the sprite at 86, 94, 16, 16.
+390, 94, 16, 16 | 390, 94, 16, 16 | The normal map for the sprite at 102, 94, 16, 16.
+406, 94, 16, 16 | 406, 94, 16, 16 | The normal map for the sprite at 118, 94, 16, 16.
+294, 110, 16, 16 | 294, 110, 16, 16 | The normal map for the sprite at 6, 110, 16, 16.
+310, 110, 16, 16 | 310, 110, 16, 16 | The normal map for the sprite at 22, 110, 16, 16.
+326, 110, 16, 16 | 326, 110, 16, 16 | The normal map for the sprite at 38, 110, 16, 16.
+342, 110, 16, 16 | 342, 110, 16, 16 | The normal map for the sprite at 54, 110, 16, 16.
+358, 110, 16, 16 | 358, 110, 16, 16 | The normal map for the sprite at 70, 110, 16, 16.
+374, 110, 16, 16 | 374, 110, 16, 16 | The normal map for the sprite at 86, 110, 16, 16.
+390, 110, 16, 16 | 390, 110, 16, 16 | The normal map for the sprite at 102, 110, 16, 16.
+406, 110, 16, 16 | 406, 110, 16, 16 | The normal map for the sprite at 118, 110, 16, 16.
+294, 126, 16, 16 | 294, 126, 16, 16 | The normal map for the sprite at 6, 126, 16, 16.
+310, 126, 16, 16 | 310, 126, 16, 16 | The normal map for the sprite at 22, 126, 16, 16.
+326, 126, 16, 16 | 326, 126, 16, 16 | The normal map for the sprite at 38, 126, 16, 16.
+342, 126, 16, 16 | 342, 126, 16, 16 | The normal map for the sprite at 54, 126, 16, 16.
+358, 126, 16, 16 | 358, 126, 16, 16 | The normal map for the sprite at 70, 126, 16, 16.
+374, 126, 16, 16 | 374, 126, 16, 16 | The normal map for the sprite at 86, 126, 16, 16.
+390, 126, 16, 16 | 390, 126, 16, 16 | The normal map for the sprite at 102, 126, 16, 16.
+406, 126, 16, 16 | 406, 126, 16, 16 | The normal map for the sprite at 118, 126, 16, 16.
+294, 142, 16, 16 | 294, 142, 16, 16 | The normal map for the sprite at 6, 142, 16, 16.
+310, 142, 16, 16 | 310, 142, 16, 16 | The normal map for the sprite at 22, 142, 16, 16.
+326, 142, 16, 16 | 326, 142, 16, 16 | The normal map for the sprite at 38, 142, 16, 16.
+342, 142, 16, 16 | 342, 142, 16, 16 | The normal map for the sprite at 54, 142, 16, 16.
+358, 142, 16, 16 | 358, 142, 16, 16 | The normal map for the sprite at 70, 142, 16, 16.
+374, 142, 16, 16 | 374, 142, 16, 16 | The normal map for the sprite at 86, 142, 16, 16.
+390, 142, 16, 16 | 390, 142, 16, 16 | The normal map for the sprite at 102, 142, 16, 16.
+406, 142, 16, 16 | 406, 142, 16, 16 | The normal map for the sprite at 118, 142, 16, 16.
+294, 158, 16, 16 | 294, 158, 16, 16 | The normal map for the sprite at 6, 158, 16, 16.
+310, 158, 16, 16 | 310, 158, 16, 16 | The normal map for the sprite at 22, 158, 16, 16.
+326, 158, 16, 16 | 326, 158, 16, 16 | The normal map for the sprite at 38, 158, 16, 16.
+342, 158, 16, 16 | 342, 158, 16, 16 | The normal map for the sprite at 54, 158, 16, 16.
+358, 158, 16, 16 | 358, 158, 16, 16 | The normal map for the sprite at 70, 158, 16, 16.
+374, 158, 16, 16 | 374, 158, 16, 16 | The normal map for the sprite at 86, 158, 16, 16.
+390, 158, 16, 16 | 390, 158, 16, 16 | The normal map for the sprite at 102, 158, 16, 16.
+406, 158, 16, 16 | 406, 158, 16, 16 | The normal map for the sprite at 118, 158, 16, 16.
+294, 174, 16, 16 | 294, 174, 16, 16 | The normal map for the sprite at 6, 174, 16, 16.
+310, 174, 16, 16 | 310, 174, 16, 16 | The normal map for the sprite at 22, 174, 16, 16.
+326, 174, 16, 16 | 326, 174, 16, 16 | The normal map for the sprite at 38, 174, 16, 16.
+342, 174, 16, 16 | 342, 174, 16, 16 | The normal map for the sprite at 54, 174, 16, 16.
+358, 174, 16, 16 | 358, 174, 16, 16 | The normal map for the sprite at 70, 174, 16, 16.
+374, 174, 16, 16 | 374, 174, 16, 16 | The normal map for the sprite at 86, 174, 16, 16.
+390, 174, 16, 16 | 390, 174, 16, 16 | The normal map for the sprite at 102, 174, 16, 16.
+406, 174, 16, 16 | 406, 174, 16, 16 | The normal map for the sprite at 118, 174, 16, 16.
+294, 190, 16, 16 | 294, 190, 16, 16 | The normal map for the sprite at 6, 190, 16, 16.
+310, 190, 16, 16 | 310, 190, 16, 16 | The normal map for the sprite at 22, 190, 16, 16.
+326, 190, 16, 16 | 326, 190, 16, 16 | The normal map for the sprite at 38, 190, 16, 16.
+342, 190, 16, 16 | 342, 190, 16, 16 | The normal map for the sprite at 54, 190, 16, 16.
+358, 190, 16, 16 | 358, 190, 16, 16 | The normal map for the sprite at 70, 190, 16, 16.
+374, 190, 16, 16 | 374, 190, 16, 16 | The normal map for the sprite at 86, 190, 16, 16.
+390, 190, 16, 16 | 390, 190, 16, 16 | The normal map for the sprite at 102, 190, 16, 16.
+406, 190, 16, 16 | 406, 190, 16, 16 | The normal map for the sprite at 118, 190, 16, 16.
+sheets[0][0] normal | 434, 78, 16, 16 | The normal map for sheets[0][0].
+sheets[0][1] normal | 450, 78, 16, 16 | The normal map for sheets[0][1].
+sheets[0][2] normal | 466, 78, 16, 16 | The normal map for sheets[0][2].
+sheets[0][3] normal | 482, 78, 16, 16 | The normal map for sheets[0][3].
+sheets[0][4] normal | 498, 78, 16, 16 | The normal map for sheets[0][4].
+sheets[0][5] normal | 514, 78, 16, 16 | The normal map for sheets[0][5].
+sheets[0][6] normal | 530, 78, 16, 16 | The normal map for sheets[0][6].
+sheets[0][7] normal | 546, 78, 16, 16 | The normal map for sheets[0][7].
+sheets[0][8] normal | 434, 94, 16, 16 | The normal map for sheets[0][8].
+sheets[0][9] normal | 450, 94, 16, 16 | The normal map for sheets[0][9].
+sheets[0][10] normal | 466, 94, 16, 16 | The normal map for sheets[0][10].
+sheets[0][11] normal | 482, 94, 16, 16 | The normal map for sheets[0][11].
+sheets[0][12] normal | 498, 94, 16, 16 | The normal map for sheets[0][12].
+sheets[0][13] normal | 514, 94, 16, 16 | The normal map for sheets[0][13].
+sheets[0][14] normal | 530, 94, 16, 16 | The normal map for sheets[0][14].
+sheets[0][15] normal | 546, 94, 16, 16 | The normal map for sheets[0][15].
+sheets[0][16] normal | 434, 110, 16, 16 | The normal map for sheets[0][16].
+sheets[0][17] normal | 450, 110, 16, 16 | The normal map for sheets[0][17].
+sheets[0][18] normal | 466, 110, 16, 16 | The normal map for sheets[0][18].
+sheets[0][19] normal | 482, 110, 16, 16 | The normal map for sheets[0][19].
+sheets[0][20] normal | 498, 110, 16, 16 | The normal map for sheets[0][20].
+sheets[0][21] normal | 514, 110, 16, 16 | The normal map for sheets[0][21].
+sheets[0][22] normal | 530, 110, 16, 16 | The normal map for sheets[0][22].
+sheets[0][23] normal | 546, 110, 16, 16 | The normal map for sheets[0][23].
+sheets[0][24] normal | 434, 126, 16, 16 | The normal map for sheets[0][24].
+sheets[0][25] normal | 450, 126, 16, 16 | The normal map for sheets[0][25].
+sheets[0][26] normal | 466, 126, 16, 16 | The normal map for sheets[0][26].
+sheets[0][27] normal | 482, 126, 16, 16 | The normal map for sheets[0][27].
+sheets[0][28] normal | 498, 126, 16, 16 | The normal map for sheets[0][28].
+sheets[0][29] normal | 514, 126, 16, 16 | The normal map for sheets[0][29].
+sheets[0][30] normal | 530, 126, 16, 16 | The normal map for sheets[0][30].
+sheets[0][31] normal | 546, 126, 16, 16 | The normal map for sheets[0][31].
+sheets[0][32] normal | 434, 142, 16, 16 | The normal map for sheets[0][32].
+sheets[0][33] normal | 450, 142, 16, 16 | The normal map for sheets[0][33].
+sheets[0][34] normal | 466, 142, 16, 16 | The normal map for sheets[0][34].
+sheets[0][35] normal | 482, 142, 16, 16 | The normal map for sheets[0][35].
+sheets[0][36] normal | 498, 142, 16, 16 | The normal map for sheets[0][36].
+sheets[0][37] normal | 514, 142, 16, 16 | The normal map for sheets[0][37].
+sheets[0][38] normal | 530, 142, 16, 16 | The normal map for sheets[0][38].
+sheets[0][39] normal | 546, 142, 16, 16 | The normal map for sheets[0][39].
+sheets[0][40] normal | 434, 158, 16, 16 | The normal map for sheets[0][40].
+sheets[0][41] normal | 450, 158, 16, 16 | The normal map for sheets[0][41].
+sheets[0][42] normal | 466, 158, 16, 16 | The normal map for sheets[0][42].
+sheets[0][43] normal | 482, 158, 16, 16 | The normal map for sheets[0][43].
+sheets[0][44] normal | 498, 158, 16, 16 | The normal map for sheets[0][44].
+sheets[0][45] normal | 514, 158, 16, 16 | The normal map for sheets[0][45].
+sheets[0][46] normal | 530, 158, 16, 16 | The normal map for sheets[0][46].
+sheets[0][47] normal | 546, 158, 16, 16 | The normal map for sheets[0][47].
+sheets[0][48] normal | 434, 174, 16, 16 | The normal map for sheets[0][48].
+sheets[0][49] normal | 450, 174, 16, 16 | The normal map for sheets[0][49].
+sheets[0][50] normal | 466, 174, 16, 16 | The normal map for sheets[0][50].
+sheets[0][51] normal | 482, 174, 16, 16 | The normal map for sheets[0][51].
+sheets[0][52] normal | 498, 174, 16, 16 | The normal map for sheets[0][52].
+sheets[0][53] normal | 514, 174, 16, 16 | The normal map for sheets[0][53].
+sheets[0][54] normal | 530, 174, 16, 16 | The normal map for sheets[0][54].
+sheets[0][55] normal | 546, 174, 16, 16 | The normal map for sheets[0][55].
+sheets[0][56] normal | 434, 190, 16, 16 | The normal map for sheets[0][56].
+sheets[0][57] normal | 450, 190, 16, 16 | The normal map for sheets[0][57].
+sheets[0][58] normal | 466, 190, 16, 16 | The normal map for sheets[0][58].
+sheets[0][59] normal | 482, 190, 16, 16 | The normal map for sheets[0][59].
+sheets[0][60] normal | 498, 190, 16, 16 | The normal map for sheets[0][60].
+sheets[0][61] normal | 514, 190, 16, 16 | The normal map for sheets[0][61].
+sheets[0][62] normal | 530, 190, 16, 16 | The normal map for sheets[0][62].
+sheets[0][63] normal | 546, 190, 16, 16 | The normal map for sheets[0][63].
+cracked[1][0] normal | 294, 218, 16, 16 | The normal map for cracked[1][0].
+cracked[1][1] normal | 310, 218, 16, 16 | The normal map for cracked[1][1].
+cracked[1][2] normal | 326, 218, 16, 16 | The normal map for cracked[1][2].
+cracked[1][3] normal | 342, 218, 16, 16 | The normal map for cracked[1][3].
+cracked[1][4] normal | 358, 218, 16, 16 | The normal map for cracked[1][4].
+cracked[1][5] normal | 374, 218, 16, 16 | The normal map for cracked[1][5].
+cracked[1][6] normal | 390, 218, 16, 16 | The normal map for cracked[1][6].
+cracked[1][7] normal | 406, 218, 16, 16 | The normal map for cracked[1][7].
+cracked[1][8] normal | 294, 234, 16, 16 | The normal map for cracked[1][8].
+cracked[1][9] normal | 310, 234, 16, 16 | The normal map for cracked[1][9].
+cracked[1][10] normal | 326, 234, 16, 16 | The normal map for cracked[1][10].
+cracked[1][11] normal | 342, 234, 16, 16 | The normal map for cracked[1][11].
+cracked[1][12] normal | 358, 234, 16, 16 | The normal map for cracked[1][12].
+cracked[1][13] normal | 374, 234, 16, 16 | The normal map for cracked[1][13].
+cracked[1][14] normal | 390, 234, 16, 16 | The normal map for cracked[1][14].
+cracked[1][15] normal | 406, 234, 16, 16 | The normal map for cracked[1][15].
+cracked[1][16] normal | 294, 250, 16, 16 | The normal map for cracked[1][16].
+cracked[1][17] normal | 310, 250, 16, 16 | The normal map for cracked[1][17].
+cracked[1][18] normal | 326, 250, 16, 16 | The normal map for cracked[1][18].
+cracked[1][19] normal | 342, 250, 16, 16 | The normal map for cracked[1][19].
+cracked[1][20] normal | 358, 250, 16, 16 | The normal map for cracked[1][20].
+cracked[1][21] normal | 374, 250, 16, 16 | The normal map for cracked[1][21].
+cracked[1][22] normal | 390, 250, 16, 16 | The normal map for cracked[1][22].
+cracked[1][23] normal | 406, 250, 16, 16 | The normal map for cracked[1][23].
+cracked[1][24] normal | 294, 266, 16, 16 | The normal map for cracked[1][24].
+cracked[1][25] normal | 310, 266, 16, 16 | The normal map for cracked[1][25].
+cracked[1][26] normal | 326, 266, 16, 16 | The normal map for cracked[1][26].
+cracked[1][27] normal | 342, 266, 16, 16 | The normal map for cracked[1][27].
+cracked[1][28] normal | 358, 266, 16, 16 | The normal map for cracked[1][28].
+cracked[1][29] normal | 374, 266, 16, 16 | The normal map for cracked[1][29].
+cracked[1][30] normal | 390, 266, 16, 16 | The normal map for cracked[1][30].
+cracked[1][31] normal | 406, 266, 16, 16 | The normal map for cracked[1][31].
+cracked[1][32] normal | 294, 282, 16, 16 | The normal map for cracked[1][32].
+cracked[1][33] normal | 310, 282, 16, 16 | The normal map for cracked[1][33].
+cracked[1][34] normal | 326, 282, 16, 16 | The normal map for cracked[1][34].
+cracked[1][35] normal | 342, 282, 16, 16 | The normal map for cracked[1][35].
+cracked[1][36] normal | 358, 282, 16, 16 | The normal map for cracked[1][36].
+cracked[1][37] normal | 374, 282, 16, 16 | The normal map for cracked[1][37].
+cracked[1][38] normal | 390, 282, 16, 16 | The normal map for cracked[1][38].
+cracked[1][39] normal | 406, 282, 16, 16 | The normal map for cracked[1][39].
+cracked[1][40] normal | 294, 298, 16, 16 | The normal map for cracked[1][40].
+cracked[1][41] normal | 310, 298, 16, 16 | The normal map for cracked[1][41].
+cracked[1][42] normal | 326, 298, 16, 16 | The normal map for cracked[1][42].
+cracked[1][43] normal | 342, 298, 16, 16 | The normal map for cracked[1][43].
+cracked[1][44] normal | 358, 298, 16, 16 | The normal map for cracked[1][44].
+cracked[1][45] normal | 374, 298, 16, 16 | The normal map for cracked[1][45].
+cracked[1][46] normal | 390, 298, 16, 16 | The normal map for cracked[1][46].
+cracked[1][47] normal | 406, 298, 16, 16 | The normal map for cracked[1][47].
+cracked[1][48] normal | 294, 314, 16, 16 | The normal map for cracked[1][48].
+cracked[1][49] normal | 310, 314, 16, 16 | The normal map for cracked[1][49].
+cracked[1][50] normal | 326, 314, 16, 16 | The normal map for cracked[1][50].
+cracked[1][51] normal | 342, 314, 16, 16 | The normal map for cracked[1][51].
+cracked[1][52] normal | 358, 314, 16, 16 | The normal map for cracked[1][52].
+cracked[1][53] normal | 374, 314, 16, 16 | The normal map for cracked[1][53].
+cracked[1][54] normal | 390, 314, 16, 16 | The normal map for cracked[1][54].
+cracked[1][55] normal | 406, 314, 16, 16 | The normal map for cracked[1][55].
+cracked[1][56] normal | 294, 330, 16, 16 | The normal map for cracked[1][56].
+cracked[1][57] normal | 310, 330, 16, 16 | The normal map for cracked[1][57].
+cracked[1][58] normal | 326, 330, 16, 16 | The normal map for cracked[1][58].
+cracked[1][59] normal | 342, 330, 16, 16 | The normal map for cracked[1][59].
+cracked[1][60] normal | 358, 330, 16, 16 | The normal map for cracked[1][60].
+cracked[1][61] normal | 374, 330, 16, 16 | The normal map for cracked[1][61].
+cracked[1][62] normal | 390, 330, 16, 16 | The normal map for cracked[1][62].
+cracked[1][63] normal | 406, 330, 16, 16 | The normal map for cracked[1][63].
+sheets[7][0] normal | 434, 218, 16, 16 | The normal map for sheets[7][0].
+sheets[7][1] normal | 450, 218, 16, 16 | The normal map for sheets[7][1].
+sheets[7][2] normal | 466, 218, 16, 16 | The normal map for sheets[7][2].
+sheets[7][3] normal | 482, 218, 16, 16 | The normal map for sheets[7][3].
+sheets[7][4] normal | 498, 218, 16, 16 | The normal map for sheets[7][4].
+sheets[7][5] normal | 514, 218, 16, 16 | The normal map for sheets[7][5].
+sheets[7][6] normal | 530, 218, 16, 16 | The normal map for sheets[7][6].
+sheets[7][7] normal | 546, 218, 16, 16 | The normal map for sheets[7][7].
+sheets[7][8] normal | 434, 234, 16, 16 | The normal map for sheets[7][8].
+sheets[7][9] normal | 450, 234, 16, 16 | The normal map for sheets[7][9].
+sheets[7][10] normal | 466, 234, 16, 16 | The normal map for sheets[7][10].
+sheets[7][11] normal | 482, 234, 16, 16 | The normal map for sheets[7][11].
+sheets[7][12] normal | 498, 234, 16, 16 | The normal map for sheets[7][12].
+sheets[7][13] normal | 514, 234, 16, 16 | The normal map for sheets[7][13].
+sheets[7][14] normal | 530, 234, 16, 16 | The normal map for sheets[7][14].
+sheets[7][15] normal | 546, 234, 16, 16 | The normal map for sheets[7][15].
+sheets[7][16] normal | 434, 250, 16, 16 | The normal map for sheets[7][16].
+sheets[7][17] normal | 450, 250, 16, 16 | The normal map for sheets[7][17].
+sheets[7][18] normal | 466, 250, 16, 16 | The normal map for sheets[7][18].
+sheets[7][19] normal | 482, 250, 16, 16 | The normal map for sheets[7][19].
+sheets[7][20] normal | 498, 250, 16, 16 | The normal map for sheets[7][20].
+sheets[7][21] normal | 514, 250, 16, 16 | The normal map for sheets[7][21].
+sheets[7][22] normal | 530, 250, 16, 16 | The normal map for sheets[7][22].
+sheets[7][23] normal | 546, 250, 16, 16 | The normal map for sheets[7][23].
+sheets[7][24] normal | 434, 266, 16, 16 | The normal map for sheets[7][24].
+sheets[7][25] normal | 450, 266, 16, 16 | The normal map for sheets[7][25].
+sheets[7][26] normal | 466, 266, 16, 16 | The normal map for sheets[7][26].
+sheets[7][27] normal | 482, 266, 16, 16 | The normal map for sheets[7][27].
+sheets[7][28] normal | 498, 266, 16, 16 | The normal map for sheets[7][28].
+sheets[7][29] normal | 514, 266, 16, 16 | The normal map for sheets[7][29].
+sheets[7][30] normal | 530, 266, 16, 16 | The normal map for sheets[7][30].
+sheets[7][31] normal | 546, 266, 16, 16 | The normal map for sheets[7][31].
+sheets[7][32] normal | 434, 282, 16, 16 | The normal map for sheets[7][32].
+sheets[7][33] normal | 450, 282, 16, 16 | The normal map for sheets[7][33].
+sheets[7][34] normal | 466, 282, 16, 16 | The normal map for sheets[7][34].
+sheets[7][35] normal | 482, 282, 16, 16 | The normal map for sheets[7][35].
+sheets[7][36] normal | 498, 282, 16, 16 | The normal map for sheets[7][36].
+sheets[7][37] normal | 514, 282, 16, 16 | The normal map for sheets[7][37].
+sheets[7][38] normal | 530, 282, 16, 16 | The normal map for sheets[7][38].
+sheets[7][39] normal | 546, 282, 16, 16 | The normal map for sheets[7][39].
+sheets[7][40] normal | 434, 298, 16, 16 | The normal map for sheets[7][40].
+sheets[7][41] normal | 450, 298, 16, 16 | The normal map for sheets[7][41].
+sheets[7][42] normal | 466, 298, 16, 16 | The normal map for sheets[7][42].
+sheets[7][43] normal | 482, 298, 16, 16 | The normal map for sheets[7][43].
+sheets[7][44] normal | 498, 298, 16, 16 | The normal map for sheets[7][44].
+sheets[7][45] normal | 514, 298, 16, 16 | The normal map for sheets[7][45].
+sheets[7][46] normal | 530, 298, 16, 16 | The normal map for sheets[7][46].
+sheets[7][47] normal | 546, 298, 16, 16 | The normal map for sheets[7][47].
+sheets[7][48] normal | 434, 314, 16, 16 | The normal map for sheets[7][48].
+sheets[7][49] normal | 450, 314, 16, 16 | The normal map for sheets[7][49].
+sheets[7][50] normal | 466, 314, 16, 16 | The normal map for sheets[7][50].
+sheets[7][51] normal | 482, 314, 16, 16 | The normal map for sheets[7][51].
+sheets[7][52] normal | 498, 314, 16, 16 | The normal map for sheets[7][52].
+sheets[7][53] normal | 514, 314, 16, 16 | The normal map for sheets[7][53].
+sheets[7][54] normal | 530, 314, 16, 16 | The normal map for sheets[7][54].
+sheets[7][55] normal | 546, 314, 16, 16 | The normal map for sheets[7][55].
+sheets[7][56] normal | 434, 330, 16, 16 | The normal map for sheets[7][56].
+sheets[7][57] normal | 450, 330, 16, 16 | The normal map for sheets[7][57].
+sheets[7][58] normal | 466, 330, 16, 16 | The normal map for sheets[7][58].
+sheets[7][59] normal | 482, 330, 16, 16 | The normal map for sheets[7][59].
+sheets[7][60] normal | 498, 330, 16, 16 | The normal map for sheets[7][60].
+sheets[7][61] normal | 514, 330, 16, 16 | The normal map for sheets[7][61].
+sheets[7][62] normal | 530, 330, 16, 16 | The normal map for sheets[7][62].
+sheets[7][63] normal | 546, 330, 16, 16 | The normal map for sheets[7][63].

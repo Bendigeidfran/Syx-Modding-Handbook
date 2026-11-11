@@ -1,0 +1,40 @@
+debris[0] | 6, 6, 8, 8 | A piece of debris, picked at random, thrown out where a projectile that damages an area lands, by tiles broken in battle, and by accidents. It's darkened by a random amount.
+debris[1] | 20, 6, 8, 8 | A piece of debris, picked at random, thrown out where a projectile that damages an area lands, by tiles broken in battle, and by accidents. It's darkened by a random amount.
+debris[2] | 34, 6, 8, 8 | A piece of debris, picked at random, thrown out where a projectile that damages an area lands, by tiles broken in battle, and by accidents. It's darkened by a random amount.
+debris[3] | 48, 6, 8, 8 | A piece of debris, picked at random, thrown out where a projectile that damages an area lands, by tiles broken in battle, and by accidents. It's darkened by a random amount.
+debris[4] | 62, 6, 8, 8 | Loaded, but never drawn: the way the game picks a piece only ever reaches cells 0 to 3 and 16 to 19.
+debris[5] | 76, 6, 8, 8 | Loaded, but never drawn: the way the game picks a piece only ever reaches cells 0 to 3 and 16 to 19.
+debris[6] | 90, 6, 8, 8 | Loaded, but never drawn: the way the game picks a piece only ever reaches cells 0 to 3 and 16 to 19.
+debris[7] | 104, 6, 8, 8 | Loaded, but never drawn: the way the game picks a piece only ever reaches cells 0 to 3 and 16 to 19.
+debris[8] | 118, 6, 8, 8 | Loaded, but never drawn: the way the game picks a piece only ever reaches cells 0 to 3 and 16 to 19.
+debris[9] | 132, 6, 8, 8 | Loaded, but never drawn: the way the game picks a piece only ever reaches cells 0 to 3 and 16 to 19.
+debris[10] | 6, 20, 8, 8 | Loaded, but never drawn: the way the game picks a piece only ever reaches cells 0 to 3 and 16 to 19.
+debris[11] | 20, 20, 8, 8 | Loaded, but never drawn: the way the game picks a piece only ever reaches cells 0 to 3 and 16 to 19.
+debris[12] | 34, 20, 8, 8 | Loaded, but never drawn: the way the game picks a piece only ever reaches cells 0 to 3 and 16 to 19.
+debris[13] | 48, 20, 8, 8 | Loaded, but never drawn: the way the game picks a piece only ever reaches cells 0 to 3 and 16 to 19.
+debris[14] | 62, 20, 8, 8 | Loaded, but never drawn: the way the game picks a piece only ever reaches cells 0 to 3 and 16 to 19.
+debris[15] | 76, 20, 8, 8 | Loaded, but never drawn: the way the game picks a piece only ever reaches cells 0 to 3 and 16 to 19.
+debris[16] | 90, 20, 8, 8 | A piece of debris, picked at random, thrown out where a projectile that damages an area lands, by tiles broken in battle, and by accidents. It's darkened by a random amount.
+debris[17] | 104, 20, 8, 8 | A piece of debris, picked at random, thrown out where a projectile that damages an area lands, by tiles broken in battle, and by accidents. It's darkened by a random amount.
+debris[18] | 118, 20, 8, 8 | A piece of debris, picked at random, thrown out where a projectile that damages an area lands, by tiles broken in battle, and by accidents. It's darkened by a random amount.
+debris[19] | 132, 20, 8, 8 | A piece of debris, picked at random, thrown out where a projectile that damages an area lands, by tiles broken in battle, and by accidents. It's darkened by a random amount.
+debris[0] normal | 152, 6, 8, 8 | The normal map for debris[0].
+debris[1] normal | 166, 6, 8, 8 | The normal map for debris[1].
+debris[2] normal | 180, 6, 8, 8 | The normal map for debris[2].
+debris[3] normal | 194, 6, 8, 8 | The normal map for debris[3].
+debris[4] normal | 208, 6, 8, 8 | The normal map for debris[4].
+debris[5] normal | 222, 6, 8, 8 | The normal map for debris[5].
+debris[6] normal | 236, 6, 8, 8 | The normal map for debris[6].
+debris[7] normal | 250, 6, 8, 8 | The normal map for debris[7].
+debris[8] normal | 264, 6, 8, 8 | The normal map for debris[8].
+debris[9] normal | 278, 6, 8, 8 | The normal map for debris[9].
+debris[10] normal | 152, 20, 8, 8 | The normal map for debris[10].
+debris[11] normal | 166, 20, 8, 8 | The normal map for debris[11].
+debris[12] normal | 180, 20, 8, 8 | The normal map for debris[12].
+debris[13] normal | 194, 20, 8, 8 | The normal map for debris[13].
+debris[14] normal | 208, 20, 8, 8 | The normal map for debris[14].
+debris[15] normal | 222, 20, 8, 8 | The normal map for debris[15].
+debris[16] normal | 236, 20, 8, 8 | The normal map for debris[16].
+debris[17] normal | 250, 20, 8, 8 | The normal map for debris[17].
+debris[18] normal | 264, 20, 8, 8 | The normal map for debris[18].
+debris[19] normal | 278, 20, 8, 8 | The normal map for debris[19].

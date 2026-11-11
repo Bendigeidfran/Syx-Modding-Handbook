@@ -1,0 +1,310 @@
+sheet[1] | 4, 24, 16, 16 | The foot of a mountain at the lowest height, for a tile with its north-east corner joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[2] | 4, 44, 16, 16 | The foot of a mountain at the lowest height, for a tile with its south-east corner joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[3] | 4, 4, 16, 16 | The foot of a mountain at the lowest height, for a tile with its north-east and south-east corners joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[4] | 76, 44, 16, 16 | The foot of a mountain at the lowest height, for a tile with its south-west corner joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[5] | 58, 24, 16, 16 | The foot of a mountain at the lowest height, for a tile with its north-east and south-west corners joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[6] | 40, 24, 16, 16 | The foot of a mountain at the lowest height, for a tile with its south-east and south-west corners joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[7] | 22, 44, 16, 16 | The foot of a mountain at the lowest height, for a tile with its north-east, south-east and south-west corners joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[8] | 76, 24, 16, 16 | The foot of a mountain at the lowest height, for a tile with its north-west corner joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[9] | 40, 4, 16, 16 | The foot of a mountain at the lowest height, for a tile with its north-east and north-west corners joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[10] | 22, 24, 16, 16 | The foot of a mountain at the lowest height, for a tile with its south-east and north-west corners joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[11] | 58, 4, 16, 16 | The foot of a mountain at the lowest height, for a tile with its north-east, south-east and north-west corners joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[12] | 76, 4, 16, 16 | The foot of a mountain at the lowest height, for a tile with its south-west and north-west corners joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[13] | 22, 4, 16, 16 | The foot of a mountain at the lowest height, for a tile with its north-east, south-west and north-west corners joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[14] | 58, 44, 16, 16 | The foot of a mountain at the lowest height, for a tile with its south-east, south-west and north-west corners joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[15] | 40, 44, 16, 16 | The foot of a mountain at the lowest height, for a tile with all four corners joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[49] | 100, 24, 16, 16 | The foot of a mountain at the lowest height, for a tile with its north-east corner joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[50] | 100, 44, 16, 16 | The foot of a mountain at the lowest height, for a tile with its south-east corner joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[51] | 100, 4, 16, 16 | The foot of a mountain at the lowest height, for a tile with its north-east and south-east corners joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[52] | 172, 44, 16, 16 | The foot of a mountain at the lowest height, for a tile with its south-west corner joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[53] | 154, 24, 16, 16 | The foot of a mountain at the lowest height, for a tile with its north-east and south-west corners joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[54] | 136, 24, 16, 16 | The foot of a mountain at the lowest height, for a tile with its south-east and south-west corners joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[55] | 118, 44, 16, 16 | The foot of a mountain at the lowest height, for a tile with its north-east, south-east and south-west corners joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[56] | 172, 24, 16, 16 | The foot of a mountain at the lowest height, for a tile with its north-west corner joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[57] | 136, 4, 16, 16 | The foot of a mountain at the lowest height, for a tile with its north-east and north-west corners joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[58] | 118, 24, 16, 16 | The foot of a mountain at the lowest height, for a tile with its south-east and north-west corners joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[59] | 154, 4, 16, 16 | The foot of a mountain at the lowest height, for a tile with its north-east, south-east and north-west corners joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[60] | 172, 4, 16, 16 | The foot of a mountain at the lowest height, for a tile with its south-west and north-west corners joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[61] | 118, 4, 16, 16 | The foot of a mountain at the lowest height, for a tile with its north-east, south-west and north-west corners joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[62] | 154, 44, 16, 16 | The foot of a mountain at the lowest height, for a tile with its south-east, south-west and north-west corners joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[63] | 136, 44, 16, 16 | The foot of a mountain at the lowest height, for a tile with all four corners joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[97] | 196, 24, 16, 16 | The foot of a mountain at the lowest height, for a tile with its north-east corner joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[98] | 196, 44, 16, 16 | The foot of a mountain at the lowest height, for a tile with its south-east corner joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[99] | 196, 4, 16, 16 | The foot of a mountain at the lowest height, for a tile with its north-east and south-east corners joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[100] | 268, 44, 16, 16 | The foot of a mountain at the lowest height, for a tile with its south-west corner joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[101] | 250, 24, 16, 16 | The foot of a mountain at the lowest height, for a tile with its north-east and south-west corners joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[102] | 232, 24, 16, 16 | The foot of a mountain at the lowest height, for a tile with its south-east and south-west corners joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[103] | 214, 44, 16, 16 | The foot of a mountain at the lowest height, for a tile with its north-east, south-east and south-west corners joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[104] | 268, 24, 16, 16 | The foot of a mountain at the lowest height, for a tile with its north-west corner joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[105] | 232, 4, 16, 16 | The foot of a mountain at the lowest height, for a tile with its north-east and north-west corners joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[106] | 214, 24, 16, 16 | The foot of a mountain at the lowest height, for a tile with its south-east and north-west corners joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[107] | 250, 4, 16, 16 | The foot of a mountain at the lowest height, for a tile with its north-east, south-east and north-west corners joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[108] | 268, 4, 16, 16 | The foot of a mountain at the lowest height, for a tile with its south-west and north-west corners joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[109] | 214, 4, 16, 16 | The foot of a mountain at the lowest height, for a tile with its north-east, south-west and north-west corners joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[110] | 250, 44, 16, 16 | The foot of a mountain at the lowest height, for a tile with its south-east, south-west and north-west corners joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[111] | 232, 44, 16, 16 | The foot of a mountain at the lowest height, for a tile with all four corners joined. One of 8 versions picked at random, counting the turned copies of this block.
+sheet[129] | 4, 88, 16, 16 | The body of a mountain above the lowest height, for a tile with its north-east corner joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[130] | 4, 108, 16, 16 | The body of a mountain above the lowest height, for a tile with its south-east corner joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[131] | 4, 68, 16, 16 | The body of a mountain above the lowest height, for a tile with its north-east and south-east corners joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[132] | 76, 108, 16, 16 | The body of a mountain above the lowest height, for a tile with its south-west corner joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[133] | 58, 88, 16, 16 | The body of a mountain above the lowest height, for a tile with its north-east and south-west corners joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[134] | 40, 88, 16, 16 | The body of a mountain above the lowest height, for a tile with its south-east and south-west corners joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[135] | 22, 108, 16, 16 | The body of a mountain above the lowest height, for a tile with its north-east, south-east and south-west corners joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[136] | 76, 88, 16, 16 | The body of a mountain above the lowest height, for a tile with its north-west corner joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[137] | 40, 68, 16, 16 | The body of a mountain above the lowest height, for a tile with its north-east and north-west corners joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[138] | 22, 88, 16, 16 | The body of a mountain above the lowest height, for a tile with its south-east and north-west corners joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[139] | 58, 68, 16, 16 | The body of a mountain above the lowest height, for a tile with its north-east, south-east and north-west corners joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[140] | 76, 68, 16, 16 | The body of a mountain above the lowest height, for a tile with its south-west and north-west corners joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[141] | 22, 68, 16, 16 | The body of a mountain above the lowest height, for a tile with its north-east, south-west and north-west corners joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[142] | 58, 108, 16, 16 | The body of a mountain above the lowest height, for a tile with its south-east, south-west and north-west corners joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[143] | 40, 108, 16, 16 | The body of a mountain above the lowest height, for a tile with all four corners joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[177] | 100, 88, 16, 16 | The body of a mountain above the lowest height, for a tile with its north-east corner joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[178] | 100, 108, 16, 16 | The body of a mountain above the lowest height, for a tile with its south-east corner joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[179] | 100, 68, 16, 16 | The body of a mountain above the lowest height, for a tile with its north-east and south-east corners joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[180] | 172, 108, 16, 16 | The body of a mountain above the lowest height, for a tile with its south-west corner joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[181] | 154, 88, 16, 16 | The body of a mountain above the lowest height, for a tile with its north-east and south-west corners joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[182] | 136, 88, 16, 16 | The body of a mountain above the lowest height, for a tile with its south-east and south-west corners joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[183] | 118, 108, 16, 16 | The body of a mountain above the lowest height, for a tile with its north-east, south-east and south-west corners joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[184] | 172, 88, 16, 16 | The body of a mountain above the lowest height, for a tile with its north-west corner joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[185] | 136, 68, 16, 16 | The body of a mountain above the lowest height, for a tile with its north-east and north-west corners joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[186] | 118, 88, 16, 16 | The body of a mountain above the lowest height, for a tile with its south-east and north-west corners joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[187] | 154, 68, 16, 16 | The body of a mountain above the lowest height, for a tile with its north-east, south-east and north-west corners joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[188] | 172, 68, 16, 16 | The body of a mountain above the lowest height, for a tile with its south-west and north-west corners joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[189] | 118, 68, 16, 16 | The body of a mountain above the lowest height, for a tile with its north-east, south-west and north-west corners joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[190] | 154, 108, 16, 16 | The body of a mountain above the lowest height, for a tile with its south-east, south-west and north-west corners joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[191] | 136, 108, 16, 16 | The body of a mountain above the lowest height, for a tile with all four corners joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[225] | 196, 88, 16, 16 | The body of a mountain above the lowest height, for a tile with its north-east corner joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[226] | 196, 108, 16, 16 | The body of a mountain above the lowest height, for a tile with its south-east corner joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[227] | 196, 68, 16, 16 | The body of a mountain above the lowest height, for a tile with its north-east and south-east corners joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[228] | 268, 108, 16, 16 | The body of a mountain above the lowest height, for a tile with its south-west corner joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[229] | 250, 88, 16, 16 | The body of a mountain above the lowest height, for a tile with its north-east and south-west corners joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[230] | 232, 88, 16, 16 | The body of a mountain above the lowest height, for a tile with its south-east and south-west corners joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[231] | 214, 108, 16, 16 | The body of a mountain above the lowest height, for a tile with its north-east, south-east and south-west corners joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[232] | 268, 88, 16, 16 | The body of a mountain above the lowest height, for a tile with its north-west corner joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[233] | 232, 68, 16, 16 | The body of a mountain above the lowest height, for a tile with its north-east and north-west corners joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[234] | 214, 88, 16, 16 | The body of a mountain above the lowest height, for a tile with its south-east and north-west corners joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[235] | 250, 68, 16, 16 | The body of a mountain above the lowest height, for a tile with its north-east, south-east and north-west corners joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[236] | 268, 68, 16, 16 | The body of a mountain above the lowest height, for a tile with its south-west and north-west corners joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[237] | 214, 68, 16, 16 | The body of a mountain above the lowest height, for a tile with its north-east, south-west and north-west corners joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[238] | 250, 108, 16, 16 | The body of a mountain above the lowest height, for a tile with its south-east, south-west and north-west corners joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[239] | 232, 108, 16, 16 | The body of a mountain above the lowest height, for a tile with all four corners joined. One of 8 versions picked at random, counting the turned copies of this block. Tinted for the height just below the tile's.
+sheet[257] | 4, 152, 16, 16 | The top of a mountain above the lowest height, for a tile with its north-east corner joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[258] | 4, 172, 16, 16 | The top of a mountain above the lowest height, for a tile with its south-east corner joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[259] | 4, 132, 16, 16 | The top of a mountain above the lowest height, for a tile with its north-east and south-east corners joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[260] | 76, 172, 16, 16 | The top of a mountain above the lowest height, for a tile with its south-west corner joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[261] | 58, 152, 16, 16 | The top of a mountain above the lowest height, for a tile with its north-east and south-west corners joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[262] | 40, 152, 16, 16 | The top of a mountain above the lowest height, for a tile with its south-east and south-west corners joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[263] | 22, 172, 16, 16 | The top of a mountain above the lowest height, for a tile with its north-east, south-east and south-west corners joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[264] | 76, 152, 16, 16 | The top of a mountain above the lowest height, for a tile with its north-west corner joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[265] | 40, 132, 16, 16 | The top of a mountain above the lowest height, for a tile with its north-east and north-west corners joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[266] | 22, 152, 16, 16 | The top of a mountain above the lowest height, for a tile with its south-east and north-west corners joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[267] | 58, 132, 16, 16 | The top of a mountain above the lowest height, for a tile with its north-east, south-east and north-west corners joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[268] | 76, 132, 16, 16 | The top of a mountain above the lowest height, for a tile with its south-west and north-west corners joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[269] | 22, 132, 16, 16 | The top of a mountain above the lowest height, for a tile with its north-east, south-west and north-west corners joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[270] | 58, 172, 16, 16 | The top of a mountain above the lowest height, for a tile with its south-east, south-west and north-west corners joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[271] | 40, 172, 16, 16 | The top of a mountain above the lowest height, for a tile with all four corners joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[273] | 100, 152, 16, 16 | The top of a mountain above the lowest height, for a tile with its north-east corner joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[274] | 100, 172, 16, 16 | The top of a mountain above the lowest height, for a tile with its south-east corner joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[275] | 100, 132, 16, 16 | The top of a mountain above the lowest height, for a tile with its north-east and south-east corners joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[276] | 172, 172, 16, 16 | The top of a mountain above the lowest height, for a tile with its south-west corner joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[277] | 154, 152, 16, 16 | The top of a mountain above the lowest height, for a tile with its north-east and south-west corners joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[278] | 136, 152, 16, 16 | The top of a mountain above the lowest height, for a tile with its south-east and south-west corners joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[279] | 118, 172, 16, 16 | The top of a mountain above the lowest height, for a tile with its north-east, south-east and south-west corners joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[280] | 172, 152, 16, 16 | The top of a mountain above the lowest height, for a tile with its north-west corner joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[281] | 136, 132, 16, 16 | The top of a mountain above the lowest height, for a tile with its north-east and north-west corners joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[282] | 118, 152, 16, 16 | The top of a mountain above the lowest height, for a tile with its south-east and north-west corners joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[283] | 154, 132, 16, 16 | The top of a mountain above the lowest height, for a tile with its north-east, south-east and north-west corners joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[284] | 172, 132, 16, 16 | The top of a mountain above the lowest height, for a tile with its south-west and north-west corners joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[285] | 118, 132, 16, 16 | The top of a mountain above the lowest height, for a tile with its north-east, south-west and north-west corners joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[286] | 154, 172, 16, 16 | The top of a mountain above the lowest height, for a tile with its south-east, south-west and north-west corners joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[287] | 136, 172, 16, 16 | The top of a mountain above the lowest height, for a tile with all four corners joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[289] | 196, 152, 16, 16 | The top of a mountain above the lowest height, for a tile with its north-east corner joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[290] | 196, 172, 16, 16 | The top of a mountain above the lowest height, for a tile with its south-east corner joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[291] | 196, 132, 16, 16 | The top of a mountain above the lowest height, for a tile with its north-east and south-east corners joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[292] | 268, 172, 16, 16 | The top of a mountain above the lowest height, for a tile with its south-west corner joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[293] | 250, 152, 16, 16 | The top of a mountain above the lowest height, for a tile with its north-east and south-west corners joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[294] | 232, 152, 16, 16 | The top of a mountain above the lowest height, for a tile with its south-east and south-west corners joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[295] | 214, 172, 16, 16 | The top of a mountain above the lowest height, for a tile with its north-east, south-east and south-west corners joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[296] | 268, 152, 16, 16 | The top of a mountain above the lowest height, for a tile with its north-west corner joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[297] | 232, 132, 16, 16 | The top of a mountain above the lowest height, for a tile with its north-east and north-west corners joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[298] | 214, 152, 16, 16 | The top of a mountain above the lowest height, for a tile with its south-east and north-west corners joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[299] | 250, 132, 16, 16 | The top of a mountain above the lowest height, for a tile with its north-east, south-east and north-west corners joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[300] | 268, 132, 16, 16 | The top of a mountain above the lowest height, for a tile with its south-west and north-west corners joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[301] | 214, 132, 16, 16 | The top of a mountain above the lowest height, for a tile with its north-east, south-west and north-west corners joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[302] | 250, 172, 16, 16 | The top of a mountain above the lowest height, for a tile with its south-east, south-west and north-west corners joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[303] | 232, 172, 16, 16 | The top of a mountain above the lowest height, for a tile with all four corners joined, drawn over the body. One of 4 versions picked at random. Tinted for the tile's height.
+sheet[320] | 6, 198, 16, 16 | A lone rock at the lowest height, on a tile with none of its corners joined. One of 32 picked at random: these 16 cells and their turned copies.
+sheet[321] | 22, 198, 16, 16 | A lone rock at the lowest height, on a tile with none of its corners joined. One of 32 picked at random: these 16 cells and their turned copies.
+sheet[322] | 38, 198, 16, 16 | A lone rock at the lowest height, on a tile with none of its corners joined. One of 32 picked at random: these 16 cells and their turned copies.
+sheet[323] | 54, 198, 16, 16 | A lone rock at the lowest height, on a tile with none of its corners joined. One of 32 picked at random: these 16 cells and their turned copies.
+sheet[324] | 70, 198, 16, 16 | A lone rock at the lowest height, on a tile with none of its corners joined. One of 32 picked at random: these 16 cells and their turned copies.
+sheet[325] | 86, 198, 16, 16 | A lone rock at the lowest height, on a tile with none of its corners joined. One of 32 picked at random: these 16 cells and their turned copies.
+sheet[326] | 102, 198, 16, 16 | A lone rock at the lowest height, on a tile with none of its corners joined. One of 32 picked at random: these 16 cells and their turned copies.
+sheet[327] | 118, 198, 16, 16 | A lone rock at the lowest height, on a tile with none of its corners joined. One of 32 picked at random: these 16 cells and their turned copies.
+sheet[328] | 134, 198, 16, 16 | A lone rock at the lowest height, on a tile with none of its corners joined. One of 32 picked at random: these 16 cells and their turned copies.
+sheet[329] | 150, 198, 16, 16 | A lone rock at the lowest height, on a tile with none of its corners joined. One of 32 picked at random: these 16 cells and their turned copies.
+sheet[330] | 166, 198, 16, 16 | A lone rock at the lowest height, on a tile with none of its corners joined. One of 32 picked at random: these 16 cells and their turned copies.
+sheet[331] | 182, 198, 16, 16 | A lone rock at the lowest height, on a tile with none of its corners joined. One of 32 picked at random: these 16 cells and their turned copies.
+sheet[332] | 198, 198, 16, 16 | A lone rock at the lowest height, on a tile with none of its corners joined. One of 32 picked at random: these 16 cells and their turned copies.
+sheet[333] | 214, 198, 16, 16 | A lone rock at the lowest height, on a tile with none of its corners joined. One of 32 picked at random: these 16 cells and their turned copies.
+sheet[334] | 230, 198, 16, 16 | A lone rock at the lowest height, on a tile with none of its corners joined. One of 32 picked at random: these 16 cells and their turned copies.
+sheet[335] | 246, 198, 16, 16 | A lone rock at the lowest height, on a tile with none of its corners joined. One of 32 picked at random: these 16 cells and their turned copies.
+sheet[352] | 6, 214, 16, 16 | A lone rock above the lowest height, on a tile with none of its corners joined. One of 16 picked at random: these 4 cells in their four turns. Tinted for the height just below the tile's.
+sheet[353] | 22, 214, 16, 16 | A lone rock above the lowest height, on a tile with none of its corners joined. One of 16 picked at random: these 4 cells in their four turns. Tinted for the height just below the tile's.
+sheet[354] | 38, 214, 16, 16 | A lone rock above the lowest height, on a tile with none of its corners joined. One of 16 picked at random: these 4 cells in their four turns. Tinted for the height just below the tile's.
+sheet[355] | 54, 214, 16, 16 | A lone rock above the lowest height, on a tile with none of its corners joined. One of 16 picked at random: these 4 cells in their four turns. Tinted for the height just below the tile's.
+sheet[1] normal | 292, 24, 16, 16 | The normal map for sheet[1].
+sheet[2] normal | 292, 44, 16, 16 | The normal map for sheet[2].
+sheet[3] normal | 292, 4, 16, 16 | The normal map for sheet[3].
+sheet[4] normal | 364, 44, 16, 16 | The normal map for sheet[4].
+sheet[5] normal | 346, 24, 16, 16 | The normal map for sheet[5].
+sheet[6] normal | 328, 24, 16, 16 | The normal map for sheet[6].
+sheet[7] normal | 310, 44, 16, 16 | The normal map for sheet[7].
+sheet[8] normal | 364, 24, 16, 16 | The normal map for sheet[8].
+sheet[9] normal | 328, 4, 16, 16 | The normal map for sheet[9].
+sheet[10] normal | 310, 24, 16, 16 | The normal map for sheet[10].
+sheet[11] normal | 346, 4, 16, 16 | The normal map for sheet[11].
+sheet[12] normal | 364, 4, 16, 16 | The normal map for sheet[12].
+sheet[13] normal | 310, 4, 16, 16 | The normal map for sheet[13].
+sheet[14] normal | 346, 44, 16, 16 | The normal map for sheet[14].
+sheet[15] normal | 328, 44, 16, 16 | The normal map for sheet[15].
+sheet[49] normal | 388, 24, 16, 16 | The normal map for sheet[49].
+sheet[50] normal | 388, 44, 16, 16 | The normal map for sheet[50].
+sheet[51] normal | 388, 4, 16, 16 | The normal map for sheet[51].
+sheet[52] normal | 460, 44, 16, 16 | The normal map for sheet[52].
+sheet[53] normal | 442, 24, 16, 16 | The normal map for sheet[53].
+sheet[54] normal | 424, 24, 16, 16 | The normal map for sheet[54].
+sheet[55] normal | 406, 44, 16, 16 | The normal map for sheet[55].
+sheet[56] normal | 460, 24, 16, 16 | The normal map for sheet[56].
+sheet[57] normal | 424, 4, 16, 16 | The normal map for sheet[57].
+sheet[58] normal | 406, 24, 16, 16 | The normal map for sheet[58].
+sheet[59] normal | 442, 4, 16, 16 | The normal map for sheet[59].
+sheet[60] normal | 460, 4, 16, 16 | The normal map for sheet[60].
+sheet[61] normal | 406, 4, 16, 16 | The normal map for sheet[61].
+sheet[62] normal | 442, 44, 16, 16 | The normal map for sheet[62].
+sheet[63] normal | 424, 44, 16, 16 | The normal map for sheet[63].
+sheet[97] normal | 484, 24, 16, 16 | The normal map for sheet[97].
+sheet[98] normal | 484, 44, 16, 16 | The normal map for sheet[98].
+sheet[99] normal | 484, 4, 16, 16 | The normal map for sheet[99].
+sheet[100] normal | 556, 44, 16, 16 | The normal map for sheet[100].
+sheet[101] normal | 538, 24, 16, 16 | The normal map for sheet[101].
+sheet[102] normal | 520, 24, 16, 16 | The normal map for sheet[102].
+sheet[103] normal | 502, 44, 16, 16 | The normal map for sheet[103].
+sheet[104] normal | 556, 24, 16, 16 | The normal map for sheet[104].
+sheet[105] normal | 520, 4, 16, 16 | The normal map for sheet[105].
+sheet[106] normal | 502, 24, 16, 16 | The normal map for sheet[106].
+sheet[107] normal | 538, 4, 16, 16 | The normal map for sheet[107].
+sheet[108] normal | 556, 4, 16, 16 | The normal map for sheet[108].
+sheet[109] normal | 502, 4, 16, 16 | The normal map for sheet[109].
+sheet[110] normal | 538, 44, 16, 16 | The normal map for sheet[110].
+sheet[111] normal | 520, 44, 16, 16 | The normal map for sheet[111].
+sheet[129] normal | 292, 88, 16, 16 | The normal map for sheet[129].
+sheet[130] normal | 292, 108, 16, 16 | The normal map for sheet[130].
+sheet[131] normal | 292, 68, 16, 16 | The normal map for sheet[131].
+sheet[132] normal | 364, 108, 16, 16 | The normal map for sheet[132].
+sheet[133] normal | 346, 88, 16, 16 | The normal map for sheet[133].
+sheet[134] normal | 328, 88, 16, 16 | The normal map for sheet[134].
+sheet[135] normal | 310, 108, 16, 16 | The normal map for sheet[135].
+sheet[136] normal | 364, 88, 16, 16 | The normal map for sheet[136].
+sheet[137] normal | 328, 68, 16, 16 | The normal map for sheet[137].
+sheet[138] normal | 310, 88, 16, 16 | The normal map for sheet[138].
+sheet[139] normal | 346, 68, 16, 16 | The normal map for sheet[139].
+sheet[140] normal | 364, 68, 16, 16 | The normal map for sheet[140].
+sheet[141] normal | 310, 68, 16, 16 | The normal map for sheet[141].
+sheet[142] normal | 346, 108, 16, 16 | The normal map for sheet[142].
+sheet[143] normal | 328, 108, 16, 16 | The normal map for sheet[143].
+sheet[177] normal | 388, 88, 16, 16 | The normal map for sheet[177].
+sheet[178] normal | 388, 108, 16, 16 | The normal map for sheet[178].
+sheet[179] normal | 388, 68, 16, 16 | The normal map for sheet[179].
+sheet[180] normal | 460, 108, 16, 16 | The normal map for sheet[180].
+sheet[181] normal | 442, 88, 16, 16 | The normal map for sheet[181].
+sheet[182] normal | 424, 88, 16, 16 | The normal map for sheet[182].
+sheet[183] normal | 406, 108, 16, 16 | The normal map for sheet[183].
+sheet[184] normal | 460, 88, 16, 16 | The normal map for sheet[184].
+sheet[185] normal | 424, 68, 16, 16 | The normal map for sheet[185].
+sheet[186] normal | 406, 88, 16, 16 | The normal map for sheet[186].
+sheet[187] normal | 442, 68, 16, 16 | The normal map for sheet[187].
+sheet[188] normal | 460, 68, 16, 16 | The normal map for sheet[188].
+sheet[189] normal | 406, 68, 16, 16 | The normal map for sheet[189].
+sheet[190] normal | 442, 108, 16, 16 | The normal map for sheet[190].
+sheet[191] normal | 424, 108, 16, 16 | The normal map for sheet[191].
+sheet[225] normal | 484, 88, 16, 16 | The normal map for sheet[225].
+sheet[226] normal | 484, 108, 16, 16 | The normal map for sheet[226].
+sheet[227] normal | 484, 68, 16, 16 | The normal map for sheet[227].
+sheet[228] normal | 556, 108, 16, 16 | The normal map for sheet[228].
+sheet[229] normal | 538, 88, 16, 16 | The normal map for sheet[229].
+sheet[230] normal | 520, 88, 16, 16 | The normal map for sheet[230].
+sheet[231] normal | 502, 108, 16, 16 | The normal map for sheet[231].
+sheet[232] normal | 556, 88, 16, 16 | The normal map for sheet[232].
+sheet[233] normal | 520, 68, 16, 16 | The normal map for sheet[233].
+sheet[234] normal | 502, 88, 16, 16 | The normal map for sheet[234].
+sheet[235] normal | 538, 68, 16, 16 | The normal map for sheet[235].
+sheet[236] normal | 556, 68, 16, 16 | The normal map for sheet[236].
+sheet[237] normal | 502, 68, 16, 16 | The normal map for sheet[237].
+sheet[238] normal | 538, 108, 16, 16 | The normal map for sheet[238].
+sheet[239] normal | 520, 108, 16, 16 | The normal map for sheet[239].
+sheet[257] normal | 292, 152, 16, 16 | The normal map for sheet[257].
+sheet[258] normal | 292, 172, 16, 16 | The normal map for sheet[258].
+sheet[259] normal | 292, 132, 16, 16 | The normal map for sheet[259].
+sheet[260] normal | 364, 172, 16, 16 | The normal map for sheet[260].
+sheet[261] normal | 346, 152, 16, 16 | The normal map for sheet[261].
+sheet[262] normal | 328, 152, 16, 16 | The normal map for sheet[262].
+sheet[263] normal | 310, 172, 16, 16 | The normal map for sheet[263].
+sheet[264] normal | 364, 152, 16, 16 | The normal map for sheet[264].
+sheet[265] normal | 328, 132, 16, 16 | The normal map for sheet[265].
+sheet[266] normal | 310, 152, 16, 16 | The normal map for sheet[266].
+sheet[267] normal | 346, 132, 16, 16 | The normal map for sheet[267].
+sheet[268] normal | 364, 132, 16, 16 | The normal map for sheet[268].
+sheet[269] normal | 310, 132, 16, 16 | The normal map for sheet[269].
+sheet[270] normal | 346, 172, 16, 16 | The normal map for sheet[270].
+sheet[271] normal | 328, 172, 16, 16 | The normal map for sheet[271].
+sheet[273] normal | 388, 152, 16, 16 | The normal map for sheet[273].
+sheet[274] normal | 388, 172, 16, 16 | The normal map for sheet[274].
+sheet[275] normal | 388, 132, 16, 16 | The normal map for sheet[275].
+sheet[276] normal | 460, 172, 16, 16 | The normal map for sheet[276].
+sheet[277] normal | 442, 152, 16, 16 | The normal map for sheet[277].
+sheet[278] normal | 424, 152, 16, 16 | The normal map for sheet[278].
+sheet[279] normal | 406, 172, 16, 16 | The normal map for sheet[279].
+sheet[280] normal | 460, 152, 16, 16 | The normal map for sheet[280].
+sheet[281] normal | 424, 132, 16, 16 | The normal map for sheet[281].
+sheet[282] normal | 406, 152, 16, 16 | The normal map for sheet[282].
+sheet[283] normal | 442, 132, 16, 16 | The normal map for sheet[283].
+sheet[284] normal | 460, 132, 16, 16 | The normal map for sheet[284].
+sheet[285] normal | 406, 132, 16, 16 | The normal map for sheet[285].
+sheet[286] normal | 442, 172, 16, 16 | The normal map for sheet[286].
+sheet[287] normal | 424, 172, 16, 16 | The normal map for sheet[287].
+sheet[289] normal | 484, 152, 16, 16 | The normal map for sheet[289].
+sheet[290] normal | 484, 172, 16, 16 | The normal map for sheet[290].
+sheet[291] normal | 484, 132, 16, 16 | The normal map for sheet[291].
+sheet[292] normal | 556, 172, 16, 16 | The normal map for sheet[292].
+sheet[293] normal | 538, 152, 16, 16 | The normal map for sheet[293].
+sheet[294] normal | 520, 152, 16, 16 | The normal map for sheet[294].
+sheet[295] normal | 502, 172, 16, 16 | The normal map for sheet[295].
+sheet[296] normal | 556, 152, 16, 16 | The normal map for sheet[296].
+sheet[297] normal | 520, 132, 16, 16 | The normal map for sheet[297].
+sheet[298] normal | 502, 152, 16, 16 | The normal map for sheet[298].
+sheet[299] normal | 538, 132, 16, 16 | The normal map for sheet[299].
+sheet[300] normal | 556, 132, 16, 16 | The normal map for sheet[300].
+sheet[301] normal | 502, 132, 16, 16 | The normal map for sheet[301].
+sheet[302] normal | 538, 172, 16, 16 | The normal map for sheet[302].
+sheet[303] normal | 520, 172, 16, 16 | The normal map for sheet[303].
+sheet[320] normal | 294, 198, 16, 16 | The normal map for sheet[320].
+sheet[321] normal | 310, 198, 16, 16 | The normal map for sheet[321].
+sheet[322] normal | 326, 198, 16, 16 | The normal map for sheet[322].
+sheet[323] normal | 342, 198, 16, 16 | The normal map for sheet[323].
+sheet[324] normal | 358, 198, 16, 16 | The normal map for sheet[324].
+sheet[325] normal | 374, 198, 16, 16 | The normal map for sheet[325].
+sheet[326] normal | 390, 198, 16, 16 | The normal map for sheet[326].
+sheet[327] normal | 406, 198, 16, 16 | The normal map for sheet[327].
+sheet[328] normal | 422, 198, 16, 16 | The normal map for sheet[328].
+sheet[329] normal | 438, 198, 16, 16 | The normal map for sheet[329].
+sheet[330] normal | 454, 198, 16, 16 | The normal map for sheet[330].
+sheet[331] normal | 470, 198, 16, 16 | The normal map for sheet[331].
+sheet[332] normal | 486, 198, 16, 16 | The normal map for sheet[332].
+sheet[333] normal | 502, 198, 16, 16 | The normal map for sheet[333].
+sheet[334] normal | 518, 198, 16, 16 | The normal map for sheet[334].
+sheet[335] normal | 534, 198, 16, 16 | The normal map for sheet[335].
+sheet[352] normal | 294, 214, 16, 16 | The normal map for sheet[352].
+sheet[353] normal | 310, 214, 16, 16 | The normal map for sheet[353].
+sheet[354] normal | 326, 214, 16, 16 | The normal map for sheet[354].
+sheet[355] normal | 342, 214, 16, 16 | The normal map for sheet[355].
