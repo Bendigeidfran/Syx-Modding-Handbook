@@ -279,6 +279,27 @@ WORK: {
 },
 ```
 
+### INDUSTRY.IN
+
+The fuel the canteen's cooks fetch, in the form described on the [production](03-production.md#industryin) page. It must have at least one entry: the cooks fetch the first as fuel, and the game crashes without it. They never fetch the entries after the first. The `INDUSTRY` block's `OUT` must stay empty, as in this example from the vanilla `CANTEEN_NORMAL.txt`.
+
+| | |
+|---|---|
+| **Type** | Block of decimals, keyed by resource |
+| **Range** | 1 or more entries, each value 0 to 10000 |
+| **Required** | Yes |
+
+```text
+INDUSTRY: {
+	IN: {
+		HERB: 1,
+	},
+	OUT: {
+		
+	},
+},
+```
+
 ### SPRITES
 
 The images the room is drawn with. Each name is a required [sprite entry](../../03-sprite/03-game.md#sprite-entries) of the kind its name ends with.
