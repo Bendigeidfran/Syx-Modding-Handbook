@@ -1,0 +1,70 @@
+ICON_I 0 | 3, 3, 48, 32 | Icon 0, picked by ICON_I = 0 in a title or game mode file. The main menu loads the first 35 icons, so the sheet needs at least these 7 rows.
+ICON_I 1 | 57, 3, 48, 32 | Icon 1, picked by ICON_I = 1 in a title or game mode file. The main menu loads the first 35 icons, so the sheet needs at least these 7 rows.
+ICON_I 2 | 111, 3, 48, 32 | Icon 2, picked by ICON_I = 2 in a title or game mode file. The main menu loads the first 35 icons, so the sheet needs at least these 7 rows.
+ICON_I 3 | 165, 3, 48, 32 | Icon 3, picked by ICON_I = 3 in a title or game mode file. The main menu loads the first 35 icons, so the sheet needs at least these 7 rows.
+ICON_I 4 | 219, 3, 48, 32 | Icon 4, picked by ICON_I = 4 in a title or game mode file. The main menu loads the first 35 icons, so the sheet needs at least these 7 rows.
+ICON_I 5 | 3, 41, 48, 32 | Icon 5, picked by ICON_I = 5 in a title or game mode file. The main menu loads the first 35 icons, so the sheet needs at least these 7 rows.
+ICON_I 6 | 57, 41, 48, 32 | Icon 6, picked by ICON_I = 6 in a title or game mode file. The main menu loads the first 35 icons, so the sheet needs at least these 7 rows.
+ICON_I 7 | 111, 41, 48, 32 | Icon 7, picked by ICON_I = 7 in a title or game mode file. The main menu loads the first 35 icons, so the sheet needs at least these 7 rows.
+ICON_I 8 | 165, 41, 48, 32 | Icon 8, picked by ICON_I = 8 in a title or game mode file. The main menu loads the first 35 icons, so the sheet needs at least these 7 rows.
+ICON_I 9 | 219, 41, 48, 32 | Icon 9, picked by ICON_I = 9 in a title or game mode file. The main menu loads the first 35 icons, so the sheet needs at least these 7 rows.
+ICON_I 10 | 3, 79, 48, 32 | Icon 10, picked by ICON_I = 10 in a title or game mode file. The main menu loads the first 35 icons, so the sheet needs at least these 7 rows.
+ICON_I 11 | 57, 79, 48, 32 | Icon 11, picked by ICON_I = 11 in a title or game mode file. The main menu loads the first 35 icons, so the sheet needs at least these 7 rows.
+ICON_I 12 | 111, 79, 48, 32 | Icon 12, picked by ICON_I = 12 in a title or game mode file. The main menu loads the first 35 icons, so the sheet needs at least these 7 rows.
+ICON_I 13 | 165, 79, 48, 32 | Icon 13, picked by ICON_I = 13 in a title or game mode file. The main menu loads the first 35 icons, so the sheet needs at least these 7 rows.
+ICON_I 14 | 219, 79, 48, 32 | Icon 14, picked by ICON_I = 14 in a title or game mode file. The main menu loads the first 35 icons, so the sheet needs at least these 7 rows.
+ICON_I 15 | 3, 117, 48, 32 | Icon 15, picked by ICON_I = 15 in a title or game mode file. The main menu loads the first 35 icons, so the sheet needs at least these 7 rows.
+ICON_I 16 | 57, 117, 48, 32 | Icon 16, picked by ICON_I = 16 in a title or game mode file. The main menu loads the first 35 icons, so the sheet needs at least these 7 rows.
+ICON_I 17 | 111, 117, 48, 32 | Icon 17, picked by ICON_I = 17 in a title or game mode file. The main menu loads the first 35 icons, so the sheet needs at least these 7 rows.
+ICON_I 18 | 165, 117, 48, 32 | Icon 18, picked by ICON_I = 18 in a title or game mode file. The main menu loads the first 35 icons, so the sheet needs at least these 7 rows.
+ICON_I 19 | 219, 117, 48, 32 | Icon 19, picked by ICON_I = 19 in a title or game mode file. The main menu loads the first 35 icons, so the sheet needs at least these 7 rows.
+ICON_I 20 | 3, 155, 48, 32 | Icon 20, picked by ICON_I = 20 in a title or game mode file. The main menu loads the first 35 icons, so the sheet needs at least these 7 rows.
+ICON_I 21 | 57, 155, 48, 32 | Icon 21, picked by ICON_I = 21 in a title or game mode file. The main menu loads the first 35 icons, so the sheet needs at least these 7 rows.
+ICON_I 22 | 111, 155, 48, 32 | Icon 22, picked by ICON_I = 22 in a title or game mode file. The main menu loads the first 35 icons, so the sheet needs at least these 7 rows.
+ICON_I 23 | 165, 155, 48, 32 | Icon 23, picked by ICON_I = 23 in a title or game mode file. The main menu loads the first 35 icons, so the sheet needs at least these 7 rows.
+ICON_I 24 | 219, 155, 48, 32 | Icon 24, picked by ICON_I = 24 in a title or game mode file. The main menu loads the first 35 icons, so the sheet needs at least these 7 rows.
+ICON_I 25 | 3, 193, 48, 32 | Icon 25, picked by ICON_I = 25 in a title or game mode file. The main menu loads the first 35 icons, so the sheet needs at least these 7 rows.
+ICON_I 26 | 57, 193, 48, 32 | Icon 26, picked by ICON_I = 26 in a title or game mode file. The main menu loads the first 35 icons, so the sheet needs at least these 7 rows.
+ICON_I 27 | 111, 193, 48, 32 | Icon 27, picked by ICON_I = 27 in a title or game mode file. The main menu loads the first 35 icons, so the sheet needs at least these 7 rows.
+ICON_I 28 | 165, 193, 48, 32 | Icon 28, picked by ICON_I = 28 in a title or game mode file. The main menu loads the first 35 icons, so the sheet needs at least these 7 rows.
+ICON_I 29 | 219, 193, 48, 32 | Icon 29, picked by ICON_I = 29 in a title or game mode file. The main menu loads the first 35 icons, so the sheet needs at least these 7 rows.
+ICON_I 30 | 3, 231, 48, 32 | Icon 30, picked by ICON_I = 30 in a title or game mode file. The main menu loads the first 35 icons, so the sheet needs at least these 7 rows.
+ICON_I 31 | 57, 231, 48, 32 | Icon 31, picked by ICON_I = 31 in a title or game mode file. The main menu loads the first 35 icons, so the sheet needs at least these 7 rows.
+ICON_I 32 | 111, 231, 48, 32 | Icon 32, picked by ICON_I = 32 in a title or game mode file. The main menu loads the first 35 icons, so the sheet needs at least these 7 rows.
+ICON_I 33 | 165, 231, 48, 32 | Icon 33, picked by ICON_I = 33 in a title or game mode file. The main menu loads the first 35 icons, so the sheet needs at least these 7 rows.
+ICON_I 34 | 219, 231, 48, 32 | Icon 34, picked by ICON_I = 34 in a title or game mode file. The main menu loads the first 35 icons, so the sheet needs at least these 7 rows.
+ICON_I 0 normal | 273, 3, 48, 32 | The normal map for ICON_I 0.
+ICON_I 1 normal | 327, 3, 48, 32 | The normal map for ICON_I 1.
+ICON_I 2 normal | 381, 3, 48, 32 | The normal map for ICON_I 2.
+ICON_I 3 normal | 435, 3, 48, 32 | The normal map for ICON_I 3.
+ICON_I 4 normal | 489, 3, 48, 32 | The normal map for ICON_I 4.
+ICON_I 5 normal | 273, 41, 48, 32 | The normal map for ICON_I 5.
+ICON_I 6 normal | 327, 41, 48, 32 | The normal map for ICON_I 6.
+ICON_I 7 normal | 381, 41, 48, 32 | The normal map for ICON_I 7.
+ICON_I 8 normal | 435, 41, 48, 32 | The normal map for ICON_I 8.
+ICON_I 9 normal | 489, 41, 48, 32 | The normal map for ICON_I 9.
+ICON_I 10 normal | 273, 79, 48, 32 | The normal map for ICON_I 10.
+ICON_I 11 normal | 327, 79, 48, 32 | The normal map for ICON_I 11.
+ICON_I 12 normal | 381, 79, 48, 32 | The normal map for ICON_I 12.
+ICON_I 13 normal | 435, 79, 48, 32 | The normal map for ICON_I 13.
+ICON_I 14 normal | 489, 79, 48, 32 | The normal map for ICON_I 14.
+ICON_I 15 normal | 273, 117, 48, 32 | The normal map for ICON_I 15.
+ICON_I 16 normal | 327, 117, 48, 32 | The normal map for ICON_I 16.
+ICON_I 17 normal | 381, 117, 48, 32 | The normal map for ICON_I 17.
+ICON_I 18 normal | 435, 117, 48, 32 | The normal map for ICON_I 18.
+ICON_I 19 normal | 489, 117, 48, 32 | The normal map for ICON_I 19.
+ICON_I 20 normal | 273, 155, 48, 32 | The normal map for ICON_I 20.
+ICON_I 21 normal | 327, 155, 48, 32 | The normal map for ICON_I 21.
+ICON_I 22 normal | 381, 155, 48, 32 | The normal map for ICON_I 22.
+ICON_I 23 normal | 435, 155, 48, 32 | The normal map for ICON_I 23.
+ICON_I 24 normal | 489, 155, 48, 32 | The normal map for ICON_I 24.
+ICON_I 25 normal | 273, 193, 48, 32 | The normal map for ICON_I 25.
+ICON_I 26 normal | 327, 193, 48, 32 | The normal map for ICON_I 26.
+ICON_I 27 normal | 381, 193, 48, 32 | The normal map for ICON_I 27.
+ICON_I 28 normal | 435, 193, 48, 32 | The normal map for ICON_I 28.
+ICON_I 29 normal | 489, 193, 48, 32 | The normal map for ICON_I 29.
+ICON_I 30 normal | 273, 231, 48, 32 | The normal map for ICON_I 30.
+ICON_I 31 normal | 327, 231, 48, 32 | The normal map for ICON_I 31.
+ICON_I 32 normal | 381, 231, 48, 32 | The normal map for ICON_I 32.
+ICON_I 33 normal | 435, 231, 48, 32 | The normal map for ICON_I 33.
+ICON_I 34 normal | 489, 231, 48, 32 | The normal map for ICON_I 34.

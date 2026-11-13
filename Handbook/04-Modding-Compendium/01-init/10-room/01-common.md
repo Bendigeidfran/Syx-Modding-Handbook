@@ -68,7 +68,7 @@ AREA_COSTS: [0,0,0,],
 
 ### FLOOR
 
-The floor laid in the room, by its key. It can be a single floor, or a list with one floor for each upgrade level. If the room has more upgrades than floors, the higher upgrades use the last floor. A single name that doesn't match a floor stops the game from loading, while one in a list is skipped, and only reported when Debug is on. Some room types ignore this tag and handle the ground in their own code, including farms, fisheries, woodcutters, pools, artillery and the corpse dump. A race's [`ROOM_FLOOR_OVERRIDE`](../07-race/01-race-file.md#room_floor_override) can replace it when you're playing that race. This example comes from the vanilla `WELL_NORMAL.txt`.
+The floor laid in the room, by its key. It can be a single floor, or a list with one floor for each upgrade level. If the room has more upgrades than floors, the higher upgrades use the last floor. A single name that doesn't match a floor stops the game from loading, while one in a list is skipped, and only reported when Debug is on. Some room types ignore this tag and handle the ground in their own code, including farms, fisheries, woodcutters, pools and artillery. The corpse dump doesn't lay a floor either, but draws its inner tiles with the first floor's sprite (see [sprite/room/\_DUMP\_CORPSE](../../03-sprite/09-room/04-_dump_corpse.md)). A race's [`ROOM_FLOOR_OVERRIDE`](../07-race/01-race-file.md#room_floor_override) can replace it when you're playing that race. This example comes from the vanilla `WELL_NORMAL.txt`.
 
 | | |
 |---|---|

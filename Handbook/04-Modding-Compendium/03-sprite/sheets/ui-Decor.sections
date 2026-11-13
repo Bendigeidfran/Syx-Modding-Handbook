@@ -1,0 +1,44 @@
+topDecor[0] | 6, 6, 32, 32 | Part 1 of 4 of the ornament drawn above a decorated heading, such as on the loading screen. The four are drawn side by side, tinted with the heading colour H1 from Colors.txt.
+topDecor[1] | 38, 6, 32, 32 | Part 2 of 4 of the ornament drawn above a decorated heading, such as on the loading screen. The four are drawn side by side, tinted with the heading colour H1 from Colors.txt.
+topDecor[2] | 70, 6, 32, 32 | Part 3 of 4 of the ornament drawn above a decorated heading, such as on the loading screen. The four are drawn side by side, tinted with the heading colour H1 from Colors.txt.
+topDecor[3] | 102, 6, 32, 32 | Part 4 of 4 of the ornament drawn above a decorated heading, such as on the loading screen. The four are drawn side by side, tinted with the heading colour H1 from Colors.txt.
+_borderTop[0] | 6, 50, 32, 32 | The top border of a decorated frame: the left end. Drawn tinted, H1 from Colors.txt unless the code gives another colour.
+_borderTop[1] | 38, 50, 32, 32 | The top border of a decorated frame: the filler, repeated on both sides of the centre to fit the width. Drawn tinted, H1 from Colors.txt unless the code gives another colour.
+_borderTop[2] | 70, 50, 32, 32 | The top border of a decorated frame: the centre. Drawn tinted, H1 from Colors.txt unless the code gives another colour.
+_borderTop[3] | 102, 50, 32, 32 | The top border of a decorated frame: the right end. Drawn tinted, H1 from Colors.txt unless the code gives another colour.
+_borderBottom[0] | 134, 50, 32, 32 | The bottom border of a decorated frame: the left end. Drawn tinted, H1 from Colors.txt unless the code gives another colour.
+_borderBottom[1] | 166, 50, 32, 32 | The bottom border of a decorated frame: the filler, repeated on both sides of the centre to fit the width. Drawn tinted, H1 from Colors.txt unless the code gives another colour.
+_borderBottom[2] | 198, 50, 32, 32 | The bottom border of a decorated frame: the centre. Drawn tinted, H1 from Colors.txt unless the code gives another colour.
+_borderBottom[3] | 230, 50, 32, 32 | The bottom border of a decorated frame: the right end. Drawn tinted, H1 from Colors.txt unless the code gives another colour.
+_leftRight[0] | 262, 50, 32, 32 | The ornament on the left of a decorated menu title, tinted like the title.
+_leftRight[1] | 294, 50, 32, 32 | The ornament on the right of a decorated menu title, tinted like the title.
+slider[0] | 6, 94, 24, 24 | A horizontal slider: the button at the left end, which lowers the value. Vertical sliders use it turned a quarter clockwise.
+slider[1] | 30, 94, 24, 24 | A horizontal slider: the track, repeated along the slider. Vertical sliders use it turned a quarter clockwise.
+slider[2] | 54, 94, 24, 24 | A horizontal slider: the handle. Vertical sliders use it turned a quarter clockwise.
+slider[3] | 78, 94, 24, 24 | A horizontal slider: the button at the right end, which raises the value. Vertical sliders use it turned a quarter clockwise.
+mouse | 6, 130, 24, 24 | The mouse pointer.
+mouseHov | 42, 130, 24, 24 | The mouse pointer while it's over something that can be clicked.
+up | 78, 130, 32, 16 | An up button, two cells wide, in the small panels on the right of the screen.
+down | 110, 130, 32, 16 | A down button, two cells wide, in the small panels on the right of the screen.
+topDecor[0] normal | 338, 6, 32, 32 | The normal map for topDecor[0].
+topDecor[1] normal | 370, 6, 32, 32 | The normal map for topDecor[1].
+topDecor[2] normal | 402, 6, 32, 32 | The normal map for topDecor[2].
+topDecor[3] normal | 434, 6, 32, 32 | The normal map for topDecor[3].
+_borderTop[0] normal | 338, 50, 32, 32 | The normal map for _borderTop[0].
+_borderTop[1] normal | 370, 50, 32, 32 | The normal map for _borderTop[1].
+_borderTop[2] normal | 402, 50, 32, 32 | The normal map for _borderTop[2].
+_borderTop[3] normal | 434, 50, 32, 32 | The normal map for _borderTop[3].
+_borderBottom[0] normal | 466, 50, 32, 32 | The normal map for _borderBottom[0].
+_borderBottom[1] normal | 498, 50, 32, 32 | The normal map for _borderBottom[1].
+_borderBottom[2] normal | 530, 50, 32, 32 | The normal map for _borderBottom[2].
+_borderBottom[3] normal | 562, 50, 32, 32 | The normal map for _borderBottom[3].
+_leftRight[0] normal | 594, 50, 32, 32 | The normal map for _leftRight[0].
+_leftRight[1] normal | 626, 50, 32, 32 | The normal map for _leftRight[1].
+slider[0] normal | 338, 94, 24, 24 | The normal map for slider[0].
+slider[1] normal | 362, 94, 24, 24 | The normal map for slider[1].
+slider[2] normal | 386, 94, 24, 24 | The normal map for slider[2].
+slider[3] normal | 410, 94, 24, 24 | The normal map for slider[3].
+mouse normal | 338, 130, 24, 24 | The normal map for mouse.
+mouseHov normal | 374, 130, 24, 24 | The normal map for mouseHov.
+up normal | 410, 130, 32, 16 | The normal map for up.
+down normal | 442, 130, 32, 16 | The normal map for down.

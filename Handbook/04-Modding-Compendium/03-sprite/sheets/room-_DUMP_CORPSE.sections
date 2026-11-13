@@ -1,0 +1,60 @@
+sheet[1] | 4, 24, 16, 16 | The rim of the dump on an edge tile whose north-east corner lies on the room's border. One of 4 versions picked at random: these two blocks and their copies turned 90 degrees.
+sheet[2] | 4, 44, 16, 16 | The rim of the dump on an edge tile whose south-east corner lies on the room's border. One of 4 versions picked at random: these two blocks and their copies turned 90 degrees.
+sheet[3] | 4, 4, 16, 16 | The rim of the dump on an edge tile whose north-east and south-east corners lie on the room's border. One of 4 versions picked at random: these two blocks and their copies turned 90 degrees.
+sheet[4] | 76, 44, 16, 16 | The rim of the dump on an edge tile whose south-west corner lies on the room's border. One of 4 versions picked at random: these two blocks and their copies turned 90 degrees.
+sheet[5] | 58, 24, 16, 16 | The rim of the dump on an edge tile whose north-east and south-west corners lie on the room's border. One of 4 versions picked at random: these two blocks and their copies turned 90 degrees.
+sheet[6] | 40, 24, 16, 16 | The rim of the dump on an edge tile whose south-east and south-west corners lie on the room's border. One of 4 versions picked at random: these two blocks and their copies turned 90 degrees.
+sheet[7] | 22, 44, 16, 16 | The rim of the dump on an edge tile whose north-east, south-east and south-west corners lie on the room's border. One of 4 versions picked at random: these two blocks and their copies turned 90 degrees.
+sheet[8] | 76, 24, 16, 16 | The rim of the dump on an edge tile whose north-west corner lies on the room's border. One of 4 versions picked at random: these two blocks and their copies turned 90 degrees.
+sheet[9] | 40, 4, 16, 16 | The rim of the dump on an edge tile whose north-east and north-west corners lie on the room's border. One of 4 versions picked at random: these two blocks and their copies turned 90 degrees.
+sheet[10] | 22, 24, 16, 16 | The rim of the dump on an edge tile whose south-east and north-west corners lie on the room's border. One of 4 versions picked at random: these two blocks and their copies turned 90 degrees.
+sheet[11] | 58, 4, 16, 16 | The rim of the dump on an edge tile whose north-east, south-east and north-west corners lie on the room's border. One of 4 versions picked at random: these two blocks and their copies turned 90 degrees.
+sheet[12] | 76, 4, 16, 16 | The rim of the dump on an edge tile whose south-west and north-west corners lie on the room's border. One of 4 versions picked at random: these two blocks and their copies turned 90 degrees.
+sheet[13] | 22, 4, 16, 16 | The rim of the dump on an edge tile whose north-east, south-west and north-west corners lie on the room's border. One of 4 versions picked at random: these two blocks and their copies turned 90 degrees.
+sheet[14] | 58, 44, 16, 16 | The rim of the dump on an edge tile whose south-east, south-west and north-west corners lie on the room's border. One of 4 versions picked at random: these two blocks and their copies turned 90 degrees.
+sheet[15] | 40, 44, 16, 16 | The rim of the dump on an edge tile with all four corners on the room's border. One of 4 versions picked at random: these two blocks and their copies turned 90 degrees.
+sheet[33] | 100, 24, 16, 16 | The rim of the dump on an edge tile whose north-east corner lies on the room's border. One of 4 versions picked at random: these two blocks and their copies turned 90 degrees.
+sheet[34] | 100, 44, 16, 16 | The rim of the dump on an edge tile whose south-east corner lies on the room's border. One of 4 versions picked at random: these two blocks and their copies turned 90 degrees.
+sheet[35] | 100, 4, 16, 16 | The rim of the dump on an edge tile whose north-east and south-east corners lie on the room's border. One of 4 versions picked at random: these two blocks and their copies turned 90 degrees.
+sheet[36] | 172, 44, 16, 16 | The rim of the dump on an edge tile whose south-west corner lies on the room's border. One of 4 versions picked at random: these two blocks and their copies turned 90 degrees.
+sheet[37] | 154, 24, 16, 16 | The rim of the dump on an edge tile whose north-east and south-west corners lie on the room's border. One of 4 versions picked at random: these two blocks and their copies turned 90 degrees.
+sheet[38] | 136, 24, 16, 16 | The rim of the dump on an edge tile whose south-east and south-west corners lie on the room's border. One of 4 versions picked at random: these two blocks and their copies turned 90 degrees.
+sheet[39] | 118, 44, 16, 16 | The rim of the dump on an edge tile whose north-east, south-east and south-west corners lie on the room's border. One of 4 versions picked at random: these two blocks and their copies turned 90 degrees.
+sheet[40] | 172, 24, 16, 16 | The rim of the dump on an edge tile whose north-west corner lies on the room's border. One of 4 versions picked at random: these two blocks and their copies turned 90 degrees.
+sheet[41] | 136, 4, 16, 16 | The rim of the dump on an edge tile whose north-east and north-west corners lie on the room's border. One of 4 versions picked at random: these two blocks and their copies turned 90 degrees.
+sheet[42] | 118, 24, 16, 16 | The rim of the dump on an edge tile whose south-east and north-west corners lie on the room's border. One of 4 versions picked at random: these two blocks and their copies turned 90 degrees.
+sheet[43] | 154, 4, 16, 16 | The rim of the dump on an edge tile whose north-east, south-east and north-west corners lie on the room's border. One of 4 versions picked at random: these two blocks and their copies turned 90 degrees.
+sheet[44] | 172, 4, 16, 16 | The rim of the dump on an edge tile whose south-west and north-west corners lie on the room's border. One of 4 versions picked at random: these two blocks and their copies turned 90 degrees.
+sheet[45] | 118, 4, 16, 16 | The rim of the dump on an edge tile whose north-east, south-west and north-west corners lie on the room's border. One of 4 versions picked at random: these two blocks and their copies turned 90 degrees.
+sheet[46] | 154, 44, 16, 16 | The rim of the dump on an edge tile whose south-east, south-west and north-west corners lie on the room's border. One of 4 versions picked at random: these two blocks and their copies turned 90 degrees.
+sheet[47] | 136, 44, 16, 16 | The rim of the dump on an edge tile with all four corners on the room's border. One of 4 versions picked at random: these two blocks and their copies turned 90 degrees.
+sheet[1] normal | 196, 24, 16, 16 | The normal map for sheet[1].
+sheet[2] normal | 196, 44, 16, 16 | The normal map for sheet[2].
+sheet[3] normal | 196, 4, 16, 16 | The normal map for sheet[3].
+sheet[4] normal | 268, 44, 16, 16 | The normal map for sheet[4].
+sheet[5] normal | 250, 24, 16, 16 | The normal map for sheet[5].
+sheet[6] normal | 232, 24, 16, 16 | The normal map for sheet[6].
+sheet[7] normal | 214, 44, 16, 16 | The normal map for sheet[7].
+sheet[8] normal | 268, 24, 16, 16 | The normal map for sheet[8].
+sheet[9] normal | 232, 4, 16, 16 | The normal map for sheet[9].
+sheet[10] normal | 214, 24, 16, 16 | The normal map for sheet[10].
+sheet[11] normal | 250, 4, 16, 16 | The normal map for sheet[11].
+sheet[12] normal | 268, 4, 16, 16 | The normal map for sheet[12].
+sheet[13] normal | 214, 4, 16, 16 | The normal map for sheet[13].
+sheet[14] normal | 250, 44, 16, 16 | The normal map for sheet[14].
+sheet[15] normal | 232, 44, 16, 16 | The normal map for sheet[15].
+sheet[33] normal | 292, 24, 16, 16 | The normal map for sheet[33].
+sheet[34] normal | 292, 44, 16, 16 | The normal map for sheet[34].
+sheet[35] normal | 292, 4, 16, 16 | The normal map for sheet[35].
+sheet[36] normal | 364, 44, 16, 16 | The normal map for sheet[36].
+sheet[37] normal | 346, 24, 16, 16 | The normal map for sheet[37].
+sheet[38] normal | 328, 24, 16, 16 | The normal map for sheet[38].
+sheet[39] normal | 310, 44, 16, 16 | The normal map for sheet[39].
+sheet[40] normal | 364, 24, 16, 16 | The normal map for sheet[40].
+sheet[41] normal | 328, 4, 16, 16 | The normal map for sheet[41].
+sheet[42] normal | 310, 24, 16, 16 | The normal map for sheet[42].
+sheet[43] normal | 346, 4, 16, 16 | The normal map for sheet[43].
+sheet[44] normal | 364, 4, 16, 16 | The normal map for sheet[44].
+sheet[45] normal | 310, 4, 16, 16 | The normal map for sheet[45].
+sheet[46] normal | 346, 44, 16, 16 | The normal map for sheet[46].
+sheet[47] normal | 328, 44, 16, 16 | The normal map for sheet[47].

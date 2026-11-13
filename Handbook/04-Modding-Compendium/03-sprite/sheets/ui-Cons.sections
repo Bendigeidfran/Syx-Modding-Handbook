@@ -1,0 +1,600 @@
+TINY.high[0] | 30, 30, 8, 8 | The high style of marking at small size, for a tile of the marked area joined to more of it on no side. Each large style uses one of these instead when the view is zoomed far out.
+TINY.high[1] | 30, 18, 8, 8 | The high style of marking at small size, for a tile of the marked area joined to more of it to the north. Each large style uses one of these instead when the view is zoomed far out.
+TINY.high[2] | 2, 30, 8, 8 | The high style of marking at small size, for a tile of the marked area joined to more of it to the east. Each large style uses one of these instead when the view is zoomed far out.
+TINY.high[3] | 2, 18, 8, 8 | The high style of marking at small size, for a tile of the marked area joined to more of it to the north and east. Each large style uses one of these instead when the view is zoomed far out.
+TINY.high[4] | 30, 2, 8, 8 | The high style of marking at small size, for a tile of the marked area joined to more of it to the south. Each large style uses one of these instead when the view is zoomed far out.
+TINY.high[5] | 30, 10, 8, 8 | The high style of marking at small size, for a tile of the marked area joined to more of it to the north and south. Each large style uses one of these instead when the view is zoomed far out.
+TINY.high[6] | 2, 2, 8, 8 | The high style of marking at small size, for a tile of the marked area joined to more of it to the east and south. Each large style uses one of these instead when the view is zoomed far out.
+TINY.high[7] | 2, 10, 8, 8 | The high style of marking at small size, for a tile of the marked area joined to more of it to the north, east and south. Each large style uses one of these instead when the view is zoomed far out.
+TINY.high[8] | 18, 30, 8, 8 | The high style of marking at small size, for a tile of the marked area joined to more of it to the west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.high[9] | 18, 18, 8, 8 | The high style of marking at small size, for a tile of the marked area joined to more of it to the north and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.high[10] | 10, 30, 8, 8 | The high style of marking at small size, for a tile of the marked area joined to more of it to the east and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.high[11] | 10, 18, 8, 8 | The high style of marking at small size, for a tile of the marked area joined to more of it to the north, east and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.high[12] | 18, 2, 8, 8 | The high style of marking at small size, for a tile of the marked area joined to more of it to the south and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.high[13] | 18, 10, 8, 8 | The high style of marking at small size, for a tile of the marked area joined to more of it to the north, south and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.high[14] | 10, 2, 8, 8 | The high style of marking at small size, for a tile of the marked area joined to more of it to the east, south and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.high[15] | 10, 10, 8, 8 | The high style of marking at small size, for a tile of the marked area joined to more of it on all four sides. Each large style uses one of these instead when the view is zoomed far out.
+TINY.low[0] | 70, 30, 8, 8 | The low style of marking at small size, for a tile of the marked area joined to more of it on no side. Each large style uses one of these instead when the view is zoomed far out.
+TINY.low[1] | 70, 18, 8, 8 | The low style of marking at small size, for a tile of the marked area joined to more of it to the north. Each large style uses one of these instead when the view is zoomed far out.
+TINY.low[2] | 42, 30, 8, 8 | The low style of marking at small size, for a tile of the marked area joined to more of it to the east. Each large style uses one of these instead when the view is zoomed far out.
+TINY.low[3] | 42, 18, 8, 8 | The low style of marking at small size, for a tile of the marked area joined to more of it to the north and east. Each large style uses one of these instead when the view is zoomed far out.
+TINY.low[4] | 70, 2, 8, 8 | The low style of marking at small size, for a tile of the marked area joined to more of it to the south. Each large style uses one of these instead when the view is zoomed far out.
+TINY.low[5] | 70, 10, 8, 8 | The low style of marking at small size, for a tile of the marked area joined to more of it to the north and south. Each large style uses one of these instead when the view is zoomed far out.
+TINY.low[6] | 42, 2, 8, 8 | The low style of marking at small size, for a tile of the marked area joined to more of it to the east and south. Each large style uses one of these instead when the view is zoomed far out.
+TINY.low[7] | 42, 10, 8, 8 | The low style of marking at small size, for a tile of the marked area joined to more of it to the north, east and south. Each large style uses one of these instead when the view is zoomed far out.
+TINY.low[8] | 58, 30, 8, 8 | The low style of marking at small size, for a tile of the marked area joined to more of it to the west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.low[9] | 58, 18, 8, 8 | The low style of marking at small size, for a tile of the marked area joined to more of it to the north and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.low[10] | 50, 30, 8, 8 | The low style of marking at small size, for a tile of the marked area joined to more of it to the east and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.low[11] | 50, 18, 8, 8 | The low style of marking at small size, for a tile of the marked area joined to more of it to the north, east and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.low[12] | 58, 2, 8, 8 | The low style of marking at small size, for a tile of the marked area joined to more of it to the south and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.low[13] | 58, 10, 8, 8 | The low style of marking at small size, for a tile of the marked area joined to more of it to the north, south and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.low[14] | 50, 2, 8, 8 | The low style of marking at small size, for a tile of the marked area joined to more of it to the east, south and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.low[15] | 50, 10, 8, 8 | The low style of marking at small size, for a tile of the marked area joined to more of it on all four sides. Each large style uses one of these instead when the view is zoomed far out.
+TINY.flat[0] | 110, 30, 8, 8 | The flat style of marking at small size, for a tile of the marked area joined to more of it on no side. Each large style uses one of these instead when the view is zoomed far out.
+TINY.flat[1] | 110, 18, 8, 8 | The flat style of marking at small size, for a tile of the marked area joined to more of it to the north. Each large style uses one of these instead when the view is zoomed far out.
+TINY.flat[2] | 82, 30, 8, 8 | The flat style of marking at small size, for a tile of the marked area joined to more of it to the east. Each large style uses one of these instead when the view is zoomed far out.
+TINY.flat[3] | 82, 18, 8, 8 | The flat style of marking at small size, for a tile of the marked area joined to more of it to the north and east. Each large style uses one of these instead when the view is zoomed far out.
+TINY.flat[4] | 110, 2, 8, 8 | The flat style of marking at small size, for a tile of the marked area joined to more of it to the south. Each large style uses one of these instead when the view is zoomed far out.
+TINY.flat[5] | 110, 10, 8, 8 | The flat style of marking at small size, for a tile of the marked area joined to more of it to the north and south. Each large style uses one of these instead when the view is zoomed far out.
+TINY.flat[6] | 82, 2, 8, 8 | The flat style of marking at small size, for a tile of the marked area joined to more of it to the east and south. Each large style uses one of these instead when the view is zoomed far out.
+TINY.flat[7] | 82, 10, 8, 8 | The flat style of marking at small size, for a tile of the marked area joined to more of it to the north, east and south. Each large style uses one of these instead when the view is zoomed far out.
+TINY.flat[8] | 98, 30, 8, 8 | The flat style of marking at small size, for a tile of the marked area joined to more of it to the west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.flat[9] | 98, 18, 8, 8 | The flat style of marking at small size, for a tile of the marked area joined to more of it to the north and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.flat[10] | 90, 30, 8, 8 | The flat style of marking at small size, for a tile of the marked area joined to more of it to the east and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.flat[11] | 90, 18, 8, 8 | The flat style of marking at small size, for a tile of the marked area joined to more of it to the north, east and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.flat[12] | 98, 2, 8, 8 | The flat style of marking at small size, for a tile of the marked area joined to more of it to the south and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.flat[13] | 98, 10, 8, 8 | The flat style of marking at small size, for a tile of the marked area joined to more of it to the north, south and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.flat[14] | 90, 2, 8, 8 | The flat style of marking at small size, for a tile of the marked area joined to more of it to the east, south and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.flat[15] | 90, 10, 8, 8 | The flat style of marking at small size, for a tile of the marked area joined to more of it on all four sides. Each large style uses one of these instead when the view is zoomed far out.
+TINY.outline[0] | 150, 30, 8, 8 | The outline style of marking at small size, for a tile of the marked area joined to more of it on no side. Each large style uses one of these instead when the view is zoomed far out.
+TINY.outline[1] | 150, 18, 8, 8 | The outline style of marking at small size, for a tile of the marked area joined to more of it to the north. Each large style uses one of these instead when the view is zoomed far out.
+TINY.outline[2] | 122, 30, 8, 8 | The outline style of marking at small size, for a tile of the marked area joined to more of it to the east. Each large style uses one of these instead when the view is zoomed far out.
+TINY.outline[3] | 122, 18, 8, 8 | The outline style of marking at small size, for a tile of the marked area joined to more of it to the north and east. Each large style uses one of these instead when the view is zoomed far out.
+TINY.outline[4] | 150, 2, 8, 8 | The outline style of marking at small size, for a tile of the marked area joined to more of it to the south. Each large style uses one of these instead when the view is zoomed far out.
+TINY.outline[5] | 150, 10, 8, 8 | The outline style of marking at small size, for a tile of the marked area joined to more of it to the north and south. Each large style uses one of these instead when the view is zoomed far out.
+TINY.outline[6] | 122, 2, 8, 8 | The outline style of marking at small size, for a tile of the marked area joined to more of it to the east and south. Each large style uses one of these instead when the view is zoomed far out.
+TINY.outline[7] | 122, 10, 8, 8 | The outline style of marking at small size, for a tile of the marked area joined to more of it to the north, east and south. Each large style uses one of these instead when the view is zoomed far out.
+TINY.outline[8] | 138, 30, 8, 8 | The outline style of marking at small size, for a tile of the marked area joined to more of it to the west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.outline[9] | 138, 18, 8, 8 | The outline style of marking at small size, for a tile of the marked area joined to more of it to the north and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.outline[10] | 130, 30, 8, 8 | The outline style of marking at small size, for a tile of the marked area joined to more of it to the east and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.outline[11] | 130, 18, 8, 8 | The outline style of marking at small size, for a tile of the marked area joined to more of it to the north, east and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.outline[12] | 138, 2, 8, 8 | The outline style of marking at small size, for a tile of the marked area joined to more of it to the south and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.outline[13] | 138, 10, 8, 8 | The outline style of marking at small size, for a tile of the marked area joined to more of it to the north, south and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.outline[14] | 130, 2, 8, 8 | The outline style of marking at small size, for a tile of the marked area joined to more of it to the east, south and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.outline[15] | 130, 10, 8, 8 | The outline style of marking at small size, for a tile of the marked area joined to more of it on all four sides. Each large style uses one of these instead when the view is zoomed far out.
+TINY.dashed[0] | 190, 30, 8, 8 | The dashed style of marking at small size, for a tile of the marked area joined to more of it on no side. Each large style uses one of these instead when the view is zoomed far out.
+TINY.dashed[1] | 190, 18, 8, 8 | The dashed style of marking at small size, for a tile of the marked area joined to more of it to the north. Each large style uses one of these instead when the view is zoomed far out.
+TINY.dashed[2] | 162, 30, 8, 8 | The dashed style of marking at small size, for a tile of the marked area joined to more of it to the east. Each large style uses one of these instead when the view is zoomed far out.
+TINY.dashed[3] | 162, 18, 8, 8 | The dashed style of marking at small size, for a tile of the marked area joined to more of it to the north and east. Each large style uses one of these instead when the view is zoomed far out.
+TINY.dashed[4] | 190, 2, 8, 8 | The dashed style of marking at small size, for a tile of the marked area joined to more of it to the south. Each large style uses one of these instead when the view is zoomed far out.
+TINY.dashed[5] | 190, 10, 8, 8 | The dashed style of marking at small size, for a tile of the marked area joined to more of it to the north and south. Each large style uses one of these instead when the view is zoomed far out.
+TINY.dashed[6] | 162, 2, 8, 8 | The dashed style of marking at small size, for a tile of the marked area joined to more of it to the east and south. Each large style uses one of these instead when the view is zoomed far out.
+TINY.dashed[7] | 162, 10, 8, 8 | The dashed style of marking at small size, for a tile of the marked area joined to more of it to the north, east and south. Each large style uses one of these instead when the view is zoomed far out.
+TINY.dashed[8] | 178, 30, 8, 8 | The dashed style of marking at small size, for a tile of the marked area joined to more of it to the west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.dashed[9] | 178, 18, 8, 8 | The dashed style of marking at small size, for a tile of the marked area joined to more of it to the north and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.dashed[10] | 170, 30, 8, 8 | The dashed style of marking at small size, for a tile of the marked area joined to more of it to the east and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.dashed[11] | 170, 18, 8, 8 | The dashed style of marking at small size, for a tile of the marked area joined to more of it to the north, east and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.dashed[12] | 178, 2, 8, 8 | The dashed style of marking at small size, for a tile of the marked area joined to more of it to the south and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.dashed[13] | 178, 10, 8, 8 | The dashed style of marking at small size, for a tile of the marked area joined to more of it to the north, south and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.dashed[14] | 170, 2, 8, 8 | The dashed style of marking at small size, for a tile of the marked area joined to more of it to the east, south and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.dashed[15] | 170, 10, 8, 8 | The dashed style of marking at small size, for a tile of the marked area joined to more of it on all four sides. Each large style uses one of these instead when the view is zoomed far out.
+TINY.full[0] | 230, 30, 8, 8 | The full style of marking at small size, for a tile of the marked area joined to more of it on no side. Each large style uses one of these instead when the view is zoomed far out.
+TINY.full[1] | 230, 18, 8, 8 | The full style of marking at small size, for a tile of the marked area joined to more of it to the north. Each large style uses one of these instead when the view is zoomed far out.
+TINY.full[2] | 202, 30, 8, 8 | The full style of marking at small size, for a tile of the marked area joined to more of it to the east. Each large style uses one of these instead when the view is zoomed far out.
+TINY.full[3] | 202, 18, 8, 8 | The full style of marking at small size, for a tile of the marked area joined to more of it to the north and east. Each large style uses one of these instead when the view is zoomed far out.
+TINY.full[4] | 230, 2, 8, 8 | The full style of marking at small size, for a tile of the marked area joined to more of it to the south. Each large style uses one of these instead when the view is zoomed far out.
+TINY.full[5] | 230, 10, 8, 8 | The full style of marking at small size, for a tile of the marked area joined to more of it to the north and south. Each large style uses one of these instead when the view is zoomed far out.
+TINY.full[6] | 202, 2, 8, 8 | The full style of marking at small size, for a tile of the marked area joined to more of it to the east and south. Each large style uses one of these instead when the view is zoomed far out.
+TINY.full[7] | 202, 10, 8, 8 | The full style of marking at small size, for a tile of the marked area joined to more of it to the north, east and south. Each large style uses one of these instead when the view is zoomed far out.
+TINY.full[8] | 218, 30, 8, 8 | The full style of marking at small size, for a tile of the marked area joined to more of it to the west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.full[9] | 218, 18, 8, 8 | The full style of marking at small size, for a tile of the marked area joined to more of it to the north and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.full[10] | 210, 30, 8, 8 | The full style of marking at small size, for a tile of the marked area joined to more of it to the east and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.full[11] | 210, 18, 8, 8 | The full style of marking at small size, for a tile of the marked area joined to more of it to the north, east and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.full[12] | 218, 2, 8, 8 | The full style of marking at small size, for a tile of the marked area joined to more of it to the south and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.full[13] | 218, 10, 8, 8 | The full style of marking at small size, for a tile of the marked area joined to more of it to the north, south and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.full[14] | 210, 2, 8, 8 | The full style of marking at small size, for a tile of the marked area joined to more of it to the east, south and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.full[15] | 210, 10, 8, 8 | The full style of marking at small size, for a tile of the marked area joined to more of it on all four sides. Each large style uses one of these instead when the view is zoomed far out.
+TINY.dots[0] | 270, 30, 8, 8 | The dots style of marking at small size, for a tile of the marked area joined to more of it on no side. Each large style uses one of these instead when the view is zoomed far out.
+TINY.dots[1] | 270, 18, 8, 8 | The dots style of marking at small size, for a tile of the marked area joined to more of it to the north. Each large style uses one of these instead when the view is zoomed far out.
+TINY.dots[2] | 242, 30, 8, 8 | The dots style of marking at small size, for a tile of the marked area joined to more of it to the east. Each large style uses one of these instead when the view is zoomed far out.
+TINY.dots[3] | 242, 18, 8, 8 | The dots style of marking at small size, for a tile of the marked area joined to more of it to the north and east. Each large style uses one of these instead when the view is zoomed far out.
+TINY.dots[4] | 270, 2, 8, 8 | The dots style of marking at small size, for a tile of the marked area joined to more of it to the south. Each large style uses one of these instead when the view is zoomed far out.
+TINY.dots[5] | 270, 10, 8, 8 | The dots style of marking at small size, for a tile of the marked area joined to more of it to the north and south. Each large style uses one of these instead when the view is zoomed far out.
+TINY.dots[6] | 242, 2, 8, 8 | The dots style of marking at small size, for a tile of the marked area joined to more of it to the east and south. Each large style uses one of these instead when the view is zoomed far out.
+TINY.dots[7] | 242, 10, 8, 8 | The dots style of marking at small size, for a tile of the marked area joined to more of it to the north, east and south. Each large style uses one of these instead when the view is zoomed far out.
+TINY.dots[8] | 258, 30, 8, 8 | The dots style of marking at small size, for a tile of the marked area joined to more of it to the west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.dots[9] | 258, 18, 8, 8 | The dots style of marking at small size, for a tile of the marked area joined to more of it to the north and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.dots[10] | 250, 30, 8, 8 | The dots style of marking at small size, for a tile of the marked area joined to more of it to the east and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.dots[11] | 250, 18, 8, 8 | The dots style of marking at small size, for a tile of the marked area joined to more of it to the north, east and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.dots[12] | 258, 2, 8, 8 | The dots style of marking at small size, for a tile of the marked area joined to more of it to the south and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.dots[13] | 258, 10, 8, 8 | The dots style of marking at small size, for a tile of the marked area joined to more of it to the north, south and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.dots[14] | 250, 2, 8, 8 | The dots style of marking at small size, for a tile of the marked area joined to more of it to the east, south and west. Each large style uses one of these instead when the view is zoomed far out.
+TINY.dots[15] | 250, 10, 8, 8 | The dots style of marking at small size, for a tile of the marked area joined to more of it on all four sides. Each large style uses one of these instead when the view is zoomed far out.
+BIG.outline[0] | 54, 94, 16, 16 | The outline style of marking, for a tile of the marked area joined to more of it on no side. Zoomed far out, TINY.outline is drawn instead.
+BIG.outline[1] | 54, 74, 16, 16 | The outline style of marking, for a tile of the marked area joined to more of it to the north. Zoomed far out, TINY.outline is drawn instead.
+BIG.outline[2] | 2, 94, 16, 16 | The outline style of marking, for a tile of the marked area joined to more of it to the east. Zoomed far out, TINY.outline is drawn instead.
+BIG.outline[3] | 2, 74, 16, 16 | The outline style of marking, for a tile of the marked area joined to more of it to the north and east. Zoomed far out, TINY.outline is drawn instead.
+BIG.outline[4] | 54, 42, 16, 16 | The outline style of marking, for a tile of the marked area joined to more of it to the south. Zoomed far out, TINY.outline is drawn instead.
+BIG.outline[5] | 54, 58, 16, 16 | The outline style of marking, for a tile of the marked area joined to more of it to the north and south. Zoomed far out, TINY.outline is drawn instead.
+BIG.outline[6] | 2, 42, 16, 16 | The outline style of marking, for a tile of the marked area joined to more of it to the east and south. Zoomed far out, TINY.outline is drawn instead.
+BIG.outline[7] | 2, 58, 16, 16 | The outline style of marking, for a tile of the marked area joined to more of it to the north, east and south. Zoomed far out, TINY.outline is drawn instead.
+BIG.outline[8] | 34, 94, 16, 16 | The outline style of marking, for a tile of the marked area joined to more of it to the west. Zoomed far out, TINY.outline is drawn instead.
+BIG.outline[9] | 34, 74, 16, 16 | The outline style of marking, for a tile of the marked area joined to more of it to the north and west. Zoomed far out, TINY.outline is drawn instead.
+BIG.outline[10] | 18, 94, 16, 16 | The outline style of marking, for a tile of the marked area joined to more of it to the east and west. Zoomed far out, TINY.outline is drawn instead.
+BIG.outline[11] | 18, 74, 16, 16 | The outline style of marking, for a tile of the marked area joined to more of it to the north, east and west. Zoomed far out, TINY.outline is drawn instead.
+BIG.outline[12] | 34, 42, 16, 16 | The outline style of marking, for a tile of the marked area joined to more of it to the south and west. Zoomed far out, TINY.outline is drawn instead.
+BIG.outline[13] | 34, 58, 16, 16 | The outline style of marking, for a tile of the marked area joined to more of it to the north, south and west. Zoomed far out, TINY.outline is drawn instead.
+BIG.outline[14] | 18, 42, 16, 16 | The outline style of marking, for a tile of the marked area joined to more of it to the east, south and west. Zoomed far out, TINY.outline is drawn instead.
+BIG.outline[15] | 18, 58, 16, 16 | The outline style of marking, for a tile of the marked area joined to more of it on all four sides. Zoomed far out, TINY.outline is drawn instead.
+BIG.dashed[0] | 126, 94, 16, 16 | The dashed style of marking, for a tile of the marked area joined to more of it on no side. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashed[1] | 126, 74, 16, 16 | The dashed style of marking, for a tile of the marked area joined to more of it to the north. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashed[2] | 74, 94, 16, 16 | The dashed style of marking, for a tile of the marked area joined to more of it to the east. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashed[3] | 74, 74, 16, 16 | The dashed style of marking, for a tile of the marked area joined to more of it to the north and east. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashed[4] | 126, 42, 16, 16 | The dashed style of marking, for a tile of the marked area joined to more of it to the south. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashed[5] | 126, 58, 16, 16 | The dashed style of marking, for a tile of the marked area joined to more of it to the north and south. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashed[6] | 74, 42, 16, 16 | The dashed style of marking, for a tile of the marked area joined to more of it to the east and south. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashed[7] | 74, 58, 16, 16 | The dashed style of marking, for a tile of the marked area joined to more of it to the north, east and south. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashed[8] | 106, 94, 16, 16 | The dashed style of marking, for a tile of the marked area joined to more of it to the west. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashed[9] | 106, 74, 16, 16 | The dashed style of marking, for a tile of the marked area joined to more of it to the north and west. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashed[10] | 90, 94, 16, 16 | The dashed style of marking, for a tile of the marked area joined to more of it to the east and west. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashed[11] | 90, 74, 16, 16 | The dashed style of marking, for a tile of the marked area joined to more of it to the north, east and west. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashed[12] | 106, 42, 16, 16 | The dashed style of marking, for a tile of the marked area joined to more of it to the south and west. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashed[13] | 106, 58, 16, 16 | The dashed style of marking, for a tile of the marked area joined to more of it to the north, south and west. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashed[14] | 90, 42, 16, 16 | The dashed style of marking, for a tile of the marked area joined to more of it to the east, south and west. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashed[15] | 90, 58, 16, 16 | The dashed style of marking, for a tile of the marked area joined to more of it on all four sides. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashedThick[0] | 198, 94, 16, 16 | The dashedThick style of marking, for a tile of the marked area joined to more of it on no side. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashedThick[1] | 198, 74, 16, 16 | The dashedThick style of marking, for a tile of the marked area joined to more of it to the north. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashedThick[2] | 146, 94, 16, 16 | The dashedThick style of marking, for a tile of the marked area joined to more of it to the east. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashedThick[3] | 146, 74, 16, 16 | The dashedThick style of marking, for a tile of the marked area joined to more of it to the north and east. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashedThick[4] | 198, 42, 16, 16 | The dashedThick style of marking, for a tile of the marked area joined to more of it to the south. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashedThick[5] | 198, 58, 16, 16 | The dashedThick style of marking, for a tile of the marked area joined to more of it to the north and south. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashedThick[6] | 146, 42, 16, 16 | The dashedThick style of marking, for a tile of the marked area joined to more of it to the east and south. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashedThick[7] | 146, 58, 16, 16 | The dashedThick style of marking, for a tile of the marked area joined to more of it to the north, east and south. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashedThick[8] | 178, 94, 16, 16 | The dashedThick style of marking, for a tile of the marked area joined to more of it to the west. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashedThick[9] | 178, 74, 16, 16 | The dashedThick style of marking, for a tile of the marked area joined to more of it to the north and west. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashedThick[10] | 162, 94, 16, 16 | The dashedThick style of marking, for a tile of the marked area joined to more of it to the east and west. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashedThick[11] | 162, 74, 16, 16 | The dashedThick style of marking, for a tile of the marked area joined to more of it to the north, east and west. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashedThick[12] | 178, 42, 16, 16 | The dashedThick style of marking, for a tile of the marked area joined to more of it to the south and west. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashedThick[13] | 178, 58, 16, 16 | The dashedThick style of marking, for a tile of the marked area joined to more of it to the north, south and west. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashedThick[14] | 162, 42, 16, 16 | The dashedThick style of marking, for a tile of the marked area joined to more of it to the east, south and west. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashedThick[15] | 162, 58, 16, 16 | The dashedThick style of marking, for a tile of the marked area joined to more of it on all four sides. Zoomed far out, TINY.dashed is drawn instead.
+BIG.solid[0] | 270, 94, 16, 16 | The solid style of marking, for a tile of the marked area joined to more of it on no side. Zoomed far out, TINY.full is drawn instead.
+BIG.solid[1] | 270, 74, 16, 16 | The solid style of marking, for a tile of the marked area joined to more of it to the north. Zoomed far out, TINY.full is drawn instead.
+BIG.solid[2] | 218, 94, 16, 16 | The solid style of marking, for a tile of the marked area joined to more of it to the east. Zoomed far out, TINY.full is drawn instead.
+BIG.solid[3] | 218, 74, 16, 16 | The solid style of marking, for a tile of the marked area joined to more of it to the north and east. Zoomed far out, TINY.full is drawn instead.
+BIG.solid[4] | 270, 42, 16, 16 | The solid style of marking, for a tile of the marked area joined to more of it to the south. Zoomed far out, TINY.full is drawn instead.
+BIG.solid[5] | 270, 58, 16, 16 | The solid style of marking, for a tile of the marked area joined to more of it to the north and south. Zoomed far out, TINY.full is drawn instead.
+BIG.solid[6] | 218, 42, 16, 16 | The solid style of marking, for a tile of the marked area joined to more of it to the east and south. Zoomed far out, TINY.full is drawn instead.
+BIG.solid[7] | 218, 58, 16, 16 | The solid style of marking, for a tile of the marked area joined to more of it to the north, east and south. Zoomed far out, TINY.full is drawn instead.
+BIG.solid[8] | 250, 94, 16, 16 | The solid style of marking, for a tile of the marked area joined to more of it to the west. Zoomed far out, TINY.full is drawn instead.
+BIG.solid[9] | 250, 74, 16, 16 | The solid style of marking, for a tile of the marked area joined to more of it to the north and west. Zoomed far out, TINY.full is drawn instead.
+BIG.solid[10] | 234, 94, 16, 16 | The solid style of marking, for a tile of the marked area joined to more of it to the east and west. Zoomed far out, TINY.full is drawn instead.
+BIG.solid[11] | 234, 74, 16, 16 | The solid style of marking, for a tile of the marked area joined to more of it to the north, east and west. Zoomed far out, TINY.full is drawn instead.
+BIG.solid[12] | 250, 42, 16, 16 | The solid style of marking, for a tile of the marked area joined to more of it to the south and west. Zoomed far out, TINY.full is drawn instead.
+BIG.solid[13] | 250, 58, 16, 16 | The solid style of marking, for a tile of the marked area joined to more of it to the north, south and west. Zoomed far out, TINY.full is drawn instead.
+BIG.solid[14] | 234, 42, 16, 16 | The solid style of marking, for a tile of the marked area joined to more of it to the east, south and west. Zoomed far out, TINY.full is drawn instead.
+BIG.solid[15] | 234, 58, 16, 16 | The solid style of marking, for a tile of the marked area joined to more of it on all four sides. Zoomed far out, TINY.full is drawn instead.
+BIG.dots[0] | 342, 94, 16, 16 | The dots style of marking, for a tile of the marked area joined to more of it on no side. Zoomed far out, TINY.dots is drawn instead.
+BIG.dots[1] | 342, 74, 16, 16 | The dots style of marking, for a tile of the marked area joined to more of it to the north. Zoomed far out, TINY.dots is drawn instead.
+BIG.dots[2] | 290, 94, 16, 16 | The dots style of marking, for a tile of the marked area joined to more of it to the east. Zoomed far out, TINY.dots is drawn instead.
+BIG.dots[3] | 290, 74, 16, 16 | The dots style of marking, for a tile of the marked area joined to more of it to the north and east. Zoomed far out, TINY.dots is drawn instead.
+BIG.dots[4] | 342, 42, 16, 16 | The dots style of marking, for a tile of the marked area joined to more of it to the south. Zoomed far out, TINY.dots is drawn instead.
+BIG.dots[5] | 342, 58, 16, 16 | The dots style of marking, for a tile of the marked area joined to more of it to the north and south. Zoomed far out, TINY.dots is drawn instead.
+BIG.dots[6] | 290, 42, 16, 16 | The dots style of marking, for a tile of the marked area joined to more of it to the east and south. Zoomed far out, TINY.dots is drawn instead.
+BIG.dots[7] | 290, 58, 16, 16 | The dots style of marking, for a tile of the marked area joined to more of it to the north, east and south. Zoomed far out, TINY.dots is drawn instead.
+BIG.dots[8] | 322, 94, 16, 16 | The dots style of marking, for a tile of the marked area joined to more of it to the west. Zoomed far out, TINY.dots is drawn instead.
+BIG.dots[9] | 322, 74, 16, 16 | The dots style of marking, for a tile of the marked area joined to more of it to the north and west. Zoomed far out, TINY.dots is drawn instead.
+BIG.dots[10] | 306, 94, 16, 16 | The dots style of marking, for a tile of the marked area joined to more of it to the east and west. Zoomed far out, TINY.dots is drawn instead.
+BIG.dots[11] | 306, 74, 16, 16 | The dots style of marking, for a tile of the marked area joined to more of it to the north, east and west. Zoomed far out, TINY.dots is drawn instead.
+BIG.dots[12] | 322, 42, 16, 16 | The dots style of marking, for a tile of the marked area joined to more of it to the south and west. Zoomed far out, TINY.dots is drawn instead.
+BIG.dots[13] | 322, 58, 16, 16 | The dots style of marking, for a tile of the marked area joined to more of it to the north, south and west. Zoomed far out, TINY.dots is drawn instead.
+BIG.dots[14] | 306, 42, 16, 16 | The dots style of marking, for a tile of the marked area joined to more of it to the east, south and west. Zoomed far out, TINY.dots is drawn instead.
+BIG.dots[15] | 306, 58, 16, 16 | The dots style of marking, for a tile of the marked area joined to more of it on all four sides. Zoomed far out, TINY.dots is drawn instead.
+BIG.line[0] | 414, 94, 16, 16 | The line style of marking, for a tile of the marked area joined to more of it on no side. Zoomed far out, TINY.dashed is drawn instead.
+BIG.line[1] | 414, 74, 16, 16 | The line style of marking, for a tile of the marked area joined to more of it to the north. Zoomed far out, TINY.dashed is drawn instead.
+BIG.line[2] | 362, 94, 16, 16 | The line style of marking, for a tile of the marked area joined to more of it to the east. Zoomed far out, TINY.dashed is drawn instead.
+BIG.line[3] | 362, 74, 16, 16 | The line style of marking, for a tile of the marked area joined to more of it to the north and east. Zoomed far out, TINY.dashed is drawn instead.
+BIG.line[4] | 414, 42, 16, 16 | The line style of marking, for a tile of the marked area joined to more of it to the south. Zoomed far out, TINY.dashed is drawn instead.
+BIG.line[5] | 414, 58, 16, 16 | The line style of marking, for a tile of the marked area joined to more of it to the north and south. Zoomed far out, TINY.dashed is drawn instead.
+BIG.line[6] | 362, 42, 16, 16 | The line style of marking, for a tile of the marked area joined to more of it to the east and south. Zoomed far out, TINY.dashed is drawn instead.
+BIG.line[7] | 362, 58, 16, 16 | The line style of marking, for a tile of the marked area joined to more of it to the north, east and south. Zoomed far out, TINY.dashed is drawn instead.
+BIG.line[8] | 394, 94, 16, 16 | The line style of marking, for a tile of the marked area joined to more of it to the west. Zoomed far out, TINY.dashed is drawn instead.
+BIG.line[9] | 394, 74, 16, 16 | The line style of marking, for a tile of the marked area joined to more of it to the north and west. Zoomed far out, TINY.dashed is drawn instead.
+BIG.line[10] | 378, 94, 16, 16 | The line style of marking, for a tile of the marked area joined to more of it to the east and west. Zoomed far out, TINY.dashed is drawn instead.
+BIG.line[11] | 378, 74, 16, 16 | The line style of marking, for a tile of the marked area joined to more of it to the north, east and west. Zoomed far out, TINY.dashed is drawn instead.
+BIG.line[12] | 394, 42, 16, 16 | The line style of marking, for a tile of the marked area joined to more of it to the south and west. Zoomed far out, TINY.dashed is drawn instead.
+BIG.line[13] | 394, 58, 16, 16 | The line style of marking, for a tile of the marked area joined to more of it to the north, south and west. Zoomed far out, TINY.dashed is drawn instead.
+BIG.line[14] | 378, 42, 16, 16 | The line style of marking, for a tile of the marked area joined to more of it to the east, south and west. Zoomed far out, TINY.dashed is drawn instead.
+BIG.line[15] | 378, 58, 16, 16 | The line style of marking, for a tile of the marked area joined to more of it on all four sides. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashed_hollow[0] | 54, 166, 16, 16 | The dashed_hollow style of marking, for a tile of the marked area joined to more of it on no side. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashed_hollow[1] | 54, 146, 16, 16 | The dashed_hollow style of marking, for a tile of the marked area joined to more of it to the north. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashed_hollow[2] | 2, 166, 16, 16 | The dashed_hollow style of marking, for a tile of the marked area joined to more of it to the east. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashed_hollow[3] | 2, 146, 16, 16 | The dashed_hollow style of marking, for a tile of the marked area joined to more of it to the north and east. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashed_hollow[4] | 54, 114, 16, 16 | The dashed_hollow style of marking, for a tile of the marked area joined to more of it to the south. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashed_hollow[5] | 54, 130, 16, 16 | The dashed_hollow style of marking, for a tile of the marked area joined to more of it to the north and south. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashed_hollow[6] | 2, 114, 16, 16 | The dashed_hollow style of marking, for a tile of the marked area joined to more of it to the east and south. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashed_hollow[7] | 2, 130, 16, 16 | The dashed_hollow style of marking, for a tile of the marked area joined to more of it to the north, east and south. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashed_hollow[8] | 34, 166, 16, 16 | The dashed_hollow style of marking, for a tile of the marked area joined to more of it to the west. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashed_hollow[9] | 34, 146, 16, 16 | The dashed_hollow style of marking, for a tile of the marked area joined to more of it to the north and west. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashed_hollow[10] | 18, 166, 16, 16 | The dashed_hollow style of marking, for a tile of the marked area joined to more of it to the east and west. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashed_hollow[11] | 18, 146, 16, 16 | The dashed_hollow style of marking, for a tile of the marked area joined to more of it to the north, east and west. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashed_hollow[12] | 34, 114, 16, 16 | The dashed_hollow style of marking, for a tile of the marked area joined to more of it to the south and west. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashed_hollow[13] | 34, 130, 16, 16 | The dashed_hollow style of marking, for a tile of the marked area joined to more of it to the north, south and west. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashed_hollow[14] | 18, 114, 16, 16 | The dashed_hollow style of marking, for a tile of the marked area joined to more of it to the east, south and west. Zoomed far out, TINY.dashed is drawn instead.
+BIG.dashed_hollow[15] | 18, 130, 16, 16 | The dashed_hollow style of marking, for a tile of the marked area joined to more of it on all four sides. Zoomed far out, TINY.dashed is drawn instead.
+BIG.filled[0] | 198, 166, 16, 16 | The filled style of marking, for a tile of the marked area joined to more of it on no side. Zoomed far out, TINY.full is drawn instead.
+BIG.filled[1] | 198, 146, 16, 16 | The filled style of marking, for a tile of the marked area joined to more of it to the north. Zoomed far out, TINY.full is drawn instead.
+BIG.filled[2] | 146, 166, 16, 16 | The filled style of marking, for a tile of the marked area joined to more of it to the east. Zoomed far out, TINY.full is drawn instead.
+BIG.filled[3] | 146, 146, 16, 16 | The filled style of marking, for a tile of the marked area joined to more of it to the north and east. Zoomed far out, TINY.full is drawn instead.
+BIG.filled[4] | 198, 114, 16, 16 | The filled style of marking, for a tile of the marked area joined to more of it to the south. Zoomed far out, TINY.full is drawn instead.
+BIG.filled[5] | 198, 130, 16, 16 | The filled style of marking, for a tile of the marked area joined to more of it to the north and south. Zoomed far out, TINY.full is drawn instead.
+BIG.filled[6] | 146, 114, 16, 16 | The filled style of marking, for a tile of the marked area joined to more of it to the east and south. Zoomed far out, TINY.full is drawn instead.
+BIG.filled[7] | 146, 130, 16, 16 | The filled style of marking, for a tile of the marked area joined to more of it to the north, east and south. Zoomed far out, TINY.full is drawn instead.
+BIG.filled[8] | 178, 166, 16, 16 | The filled style of marking, for a tile of the marked area joined to more of it to the west. Zoomed far out, TINY.full is drawn instead.
+BIG.filled[9] | 178, 146, 16, 16 | The filled style of marking, for a tile of the marked area joined to more of it to the north and west. Zoomed far out, TINY.full is drawn instead.
+BIG.filled[10] | 162, 166, 16, 16 | The filled style of marking, for a tile of the marked area joined to more of it to the east and west. Zoomed far out, TINY.full is drawn instead.
+BIG.filled[11] | 162, 146, 16, 16 | The filled style of marking, for a tile of the marked area joined to more of it to the north, east and west. Zoomed far out, TINY.full is drawn instead.
+BIG.filled[12] | 178, 114, 16, 16 | The filled style of marking, for a tile of the marked area joined to more of it to the south and west. Zoomed far out, TINY.full is drawn instead.
+BIG.filled[13] | 178, 130, 16, 16 | The filled style of marking, for a tile of the marked area joined to more of it to the north, south and west. Zoomed far out, TINY.full is drawn instead.
+BIG.filled[14] | 162, 114, 16, 16 | The filled style of marking, for a tile of the marked area joined to more of it to the east, south and west. Zoomed far out, TINY.full is drawn instead.
+BIG.filled[15] | 162, 130, 16, 16 | The filled style of marking, for a tile of the marked area joined to more of it on all four sides. Zoomed far out, TINY.full is drawn instead.
+BIG.filled_striped[0] | 342, 166, 16, 16 | The filled_striped style of marking, for a tile of the marked area joined to more of it on no side. Zoomed far out, TINY.full is drawn instead.
+BIG.filled_striped[1] | 342, 146, 16, 16 | The filled_striped style of marking, for a tile of the marked area joined to more of it to the north. Zoomed far out, TINY.full is drawn instead.
+BIG.filled_striped[2] | 290, 166, 16, 16 | The filled_striped style of marking, for a tile of the marked area joined to more of it to the east. Zoomed far out, TINY.full is drawn instead.
+BIG.filled_striped[3] | 290, 146, 16, 16 | The filled_striped style of marking, for a tile of the marked area joined to more of it to the north and east. Zoomed far out, TINY.full is drawn instead.
+BIG.filled_striped[4] | 342, 114, 16, 16 | The filled_striped style of marking, for a tile of the marked area joined to more of it to the south. Zoomed far out, TINY.full is drawn instead.
+BIG.filled_striped[5] | 342, 130, 16, 16 | The filled_striped style of marking, for a tile of the marked area joined to more of it to the north and south. Zoomed far out, TINY.full is drawn instead.
+BIG.filled_striped[6] | 290, 114, 16, 16 | The filled_striped style of marking, for a tile of the marked area joined to more of it to the east and south. Zoomed far out, TINY.full is drawn instead.
+BIG.filled_striped[7] | 290, 130, 16, 16 | The filled_striped style of marking, for a tile of the marked area joined to more of it to the north, east and south. Zoomed far out, TINY.full is drawn instead.
+BIG.filled_striped[8] | 322, 166, 16, 16 | The filled_striped style of marking, for a tile of the marked area joined to more of it to the west. Zoomed far out, TINY.full is drawn instead.
+BIG.filled_striped[9] | 322, 146, 16, 16 | The filled_striped style of marking, for a tile of the marked area joined to more of it to the north and west. Zoomed far out, TINY.full is drawn instead.
+BIG.filled_striped[10] | 306, 166, 16, 16 | The filled_striped style of marking, for a tile of the marked area joined to more of it to the east and west. Zoomed far out, TINY.full is drawn instead.
+BIG.filled_striped[11] | 306, 146, 16, 16 | The filled_striped style of marking, for a tile of the marked area joined to more of it to the north, east and west. Zoomed far out, TINY.full is drawn instead.
+BIG.filled_striped[12] | 322, 114, 16, 16 | The filled_striped style of marking, for a tile of the marked area joined to more of it to the south and west. Zoomed far out, TINY.full is drawn instead.
+BIG.filled_striped[13] | 322, 130, 16, 16 | The filled_striped style of marking, for a tile of the marked area joined to more of it to the north, south and west. Zoomed far out, TINY.full is drawn instead.
+BIG.filled_striped[14] | 306, 114, 16, 16 | The filled_striped style of marking, for a tile of the marked area joined to more of it to the east, south and west. Zoomed far out, TINY.full is drawn instead.
+BIG.filled_striped[15] | 306, 130, 16, 16 | The filled_striped style of marking, for a tile of the marked area joined to more of it on all four sides. Zoomed far out, TINY.full is drawn instead.
+BIG.outline[17] | 6, 190, 16, 16 | The notch at a corner of the outline style, used where a marked area turns an inside corner. As painted it's for the north-east corner; the game turns it for the others and combines them. The borders of each faction's territory on the world map draw it.
+BIG.dashed[17] | 28, 190, 16, 16 | The corner notch of the dashed style. As painted it's for the north-east corner. Unverified: no code was found that draws the corners of this style.
+BIG.dashedThick[17] | 50, 190, 16, 16 | The corner notch of the dashedThick style. As painted it's for the north-east corner. Unverified: no code was found that draws the corners of this style.
+BIG.solid[17] | 72, 190, 16, 16 | The corner notch of the solid style. As painted it's for the north-east corner. Unverified: no code was found that draws the corners of this style.
+BIG.dots[17] | 94, 190, 16, 16 | The corner notch of the dots style. As painted it's for the north-east corner. Unverified: no code was found that draws the corners of this style.
+BIG.line[17] | 116, 190, 16, 16 | The corner notch of the line style. As painted it's for the north-east corner. Unverified: no code was found that draws the corners of this style.
+BIG.dashed_hollow[17] | 160, 190, 16, 16 | The notch at a corner of the dashed_hollow style, used where a marked area turns an inside corner. As painted it's for the north-east corner; the game turns it for the others and combines them. The borders of each faction's territory on the world map draw it.
+BIG.filled[17] | 204, 190, 16, 16 | The corner notch of the filled style. As painted it's for the north-east corner. Unverified: no code was found that draws the corners of this style.
+BIG.filled_striped[17] | 248, 190, 16, 16 | The corner notch of the filled_striped style. As painted it's for the north-east corner. Unverified: no code was found that draws the corners of this style.
+ICO.unclear | 6, 218, 16, 16 | Drawn by the code for clearing jobs and for filling in caves.
+ICO.clear | 28, 218, 16, 16 | Drawn by the code for clearing jobs, the tile and landing placers, and the world map's pathing code.
+ICO.cancel | 50, 218, 16, 16 | Drawn by the placer for choosing where to land.
+ICO.arrows | 72, 218, 16, 16 | A direction arrow, as painted and turned three times. Room placers draw it to show which way a piece faces, for example on pumps, the throne and supply rooms.
+ICO.arrows2[0] | 94, 218, 16, 16 | One of two direction arrows, each as painted and turned three times, alternating to make 8. Used on the world map for routes and region links, and in battle for the facing of divisions.
+ICO.arrows2[1] | 116, 218, 16, 16 | One of two direction arrows, each as painted and turned three times, alternating to make 8. Used on the world map for routes and region links, and in battle for the facing of divisions.
+ICO.crosshair | 138, 218, 16, 16 | A target marker, drawn for example over animals marked for hunting and by clearing jobs.
+ICO.smallup | 160, 218, 16, 16 | Loaded, but never drawn.
+ICO.repair | 182, 218, 16, 16 | Drawn by the repair placer and on rooms that need repair.
+ICO.arrows_inward | 204, 218, 16, 16 | Drawn by the room and furniture placers.
+ICO.warning | 226, 218, 16, 16 | Drawn over a job that can't go ahead for now: the resource it needs can't be reached, or for a harvest, the crops aren't ripe.
+ICO.tile | 248, 218, 16, 16 | Drawn only by the pathfinder's test code.
+ICO.scratch | 270, 218, 16, 16 | Drawn by the code for clearing jobs and for the settlement's entry points.
+ICO.arrows_inwards | 292, 218, 16, 16 | Arrows pointing inwards, as painted and turned three times. Drawn by the room and furniture placers.
+ICO.arrows_entity | 314, 218, 16, 16 | The arrow drawn over people and animals in some settlement overlays, pointing the way each one is moving. It's turned to 4 directions, and each turn is used for two of the 8 directions.
+ROT.single | 6, 246, 16, 16 | Loaded, but never drawn. It's loaded in four turns.
+ROT.join | 28, 246, 16, 16 | Loaded, but never drawn. It's loaded in four turns.
+ROT.join_thin | 50, 246, 16, 16 | Loaded, but never drawn. It's loaded in four turns.
+ROT.north_south | 72, 246, 16, 16 | Loaded, but never drawn. It's loaded in four turns.
+ROT.full | 94, 246, 16, 16 | The marker drawn on each tile of a gatehouse while it's being placed and until that tile is built, turned to show which way the tile faces.
+ROT.join_big | 116, 246, 16, 16 | Loaded, but never drawn. It's loaded in four turns.
+fullArrows[0] | 6, 274, 16, 16 | The arrow drawn on some pieces of an execution ground and a guard post while they're placed and until they're built, turned to show which way the piece faces. The game turns it for the other three directions.
+fullArrows[4] | 34, 274, 16, 16 | Loaded, but never drawn. Part of a 2 by 2 arrow; the code only asks for the first four entries, the single arrow's turns.
+fullArrows[5] | 50, 274, 16, 16 | Loaded, but never drawn. Part of a 2 by 2 arrow; the code only asks for the first four entries, the single arrow's turns.
+fullArrows[6] | 34, 290, 16, 16 | Loaded, but never drawn. Part of a 2 by 2 arrow; the code only asks for the first four entries, the single arrow's turns.
+fullArrows[7] | 50, 290, 16, 16 | Loaded, but never drawn. Part of a 2 by 2 arrow; the code only asks for the first four entries, the single arrow's turns.
+fullArrows[20] | 78, 274, 16, 16 | Loaded, but never drawn. Part of a 3 by 3 arrow; the code only asks for the first four entries, the single arrow's turns.
+fullArrows[21] | 94, 274, 16, 16 | Loaded, but never drawn. Part of a 3 by 3 arrow; the code only asks for the first four entries, the single arrow's turns.
+fullArrows[22] | 110, 274, 16, 16 | Loaded, but never drawn. Part of a 3 by 3 arrow; the code only asks for the first four entries, the single arrow's turns.
+fullArrows[23] | 78, 290, 16, 16 | Loaded, but never drawn. Part of a 3 by 3 arrow; the code only asks for the first four entries, the single arrow's turns.
+fullArrows[24] | 94, 290, 16, 16 | Loaded, but never drawn. Part of a 3 by 3 arrow; the code only asks for the first four entries, the single arrow's turns.
+fullArrows[25] | 110, 290, 16, 16 | Loaded, but never drawn. Part of a 3 by 3 arrow; the code only asks for the first four entries, the single arrow's turns.
+fullArrows[26] | 78, 306, 16, 16 | Loaded, but never drawn. Part of a 3 by 3 arrow; the code only asks for the first four entries, the single arrow's turns.
+fullArrows[27] | 94, 306, 16, 16 | Loaded, but never drawn. Part of a 3 by 3 arrow; the code only asks for the first four entries, the single arrow's turns.
+fullArrows[28] | 110, 306, 16, 16 | Loaded, but never drawn. Part of a 3 by 3 arrow; the code only asks for the first four entries, the single arrow's turns.
+TINY.high[0] normal | 534, 30, 8, 8 | The normal map for TINY.high[0].
+TINY.high[1] normal | 534, 18, 8, 8 | The normal map for TINY.high[1].
+TINY.high[2] normal | 506, 30, 8, 8 | The normal map for TINY.high[2].
+TINY.high[3] normal | 506, 18, 8, 8 | The normal map for TINY.high[3].
+TINY.high[4] normal | 534, 2, 8, 8 | The normal map for TINY.high[4].
+TINY.high[5] normal | 534, 10, 8, 8 | The normal map for TINY.high[5].
+TINY.high[6] normal | 506, 2, 8, 8 | The normal map for TINY.high[6].
+TINY.high[7] normal | 506, 10, 8, 8 | The normal map for TINY.high[7].
+TINY.high[8] normal | 522, 30, 8, 8 | The normal map for TINY.high[8].
+TINY.high[9] normal | 522, 18, 8, 8 | The normal map for TINY.high[9].
+TINY.high[10] normal | 514, 30, 8, 8 | The normal map for TINY.high[10].
+TINY.high[11] normal | 514, 18, 8, 8 | The normal map for TINY.high[11].
+TINY.high[12] normal | 522, 2, 8, 8 | The normal map for TINY.high[12].
+TINY.high[13] normal | 522, 10, 8, 8 | The normal map for TINY.high[13].
+TINY.high[14] normal | 514, 2, 8, 8 | The normal map for TINY.high[14].
+TINY.high[15] normal | 514, 10, 8, 8 | The normal map for TINY.high[15].
+TINY.low[0] normal | 574, 30, 8, 8 | The normal map for TINY.low[0].
+TINY.low[1] normal | 574, 18, 8, 8 | The normal map for TINY.low[1].
+TINY.low[2] normal | 546, 30, 8, 8 | The normal map for TINY.low[2].
+TINY.low[3] normal | 546, 18, 8, 8 | The normal map for TINY.low[3].
+TINY.low[4] normal | 574, 2, 8, 8 | The normal map for TINY.low[4].
+TINY.low[5] normal | 574, 10, 8, 8 | The normal map for TINY.low[5].
+TINY.low[6] normal | 546, 2, 8, 8 | The normal map for TINY.low[6].
+TINY.low[7] normal | 546, 10, 8, 8 | The normal map for TINY.low[7].
+TINY.low[8] normal | 562, 30, 8, 8 | The normal map for TINY.low[8].
+TINY.low[9] normal | 562, 18, 8, 8 | The normal map for TINY.low[9].
+TINY.low[10] normal | 554, 30, 8, 8 | The normal map for TINY.low[10].
+TINY.low[11] normal | 554, 18, 8, 8 | The normal map for TINY.low[11].
+TINY.low[12] normal | 562, 2, 8, 8 | The normal map for TINY.low[12].
+TINY.low[13] normal | 562, 10, 8, 8 | The normal map for TINY.low[13].
+TINY.low[14] normal | 554, 2, 8, 8 | The normal map for TINY.low[14].
+TINY.low[15] normal | 554, 10, 8, 8 | The normal map for TINY.low[15].
+TINY.flat[0] normal | 614, 30, 8, 8 | The normal map for TINY.flat[0].
+TINY.flat[1] normal | 614, 18, 8, 8 | The normal map for TINY.flat[1].
+TINY.flat[2] normal | 586, 30, 8, 8 | The normal map for TINY.flat[2].
+TINY.flat[3] normal | 586, 18, 8, 8 | The normal map for TINY.flat[3].
+TINY.flat[4] normal | 614, 2, 8, 8 | The normal map for TINY.flat[4].
+TINY.flat[5] normal | 614, 10, 8, 8 | The normal map for TINY.flat[5].
+TINY.flat[6] normal | 586, 2, 8, 8 | The normal map for TINY.flat[6].
+TINY.flat[7] normal | 586, 10, 8, 8 | The normal map for TINY.flat[7].
+TINY.flat[8] normal | 602, 30, 8, 8 | The normal map for TINY.flat[8].
+TINY.flat[9] normal | 602, 18, 8, 8 | The normal map for TINY.flat[9].
+TINY.flat[10] normal | 594, 30, 8, 8 | The normal map for TINY.flat[10].
+TINY.flat[11] normal | 594, 18, 8, 8 | The normal map for TINY.flat[11].
+TINY.flat[12] normal | 602, 2, 8, 8 | The normal map for TINY.flat[12].
+TINY.flat[13] normal | 602, 10, 8, 8 | The normal map for TINY.flat[13].
+TINY.flat[14] normal | 594, 2, 8, 8 | The normal map for TINY.flat[14].
+TINY.flat[15] normal | 594, 10, 8, 8 | The normal map for TINY.flat[15].
+TINY.outline[0] normal | 654, 30, 8, 8 | The normal map for TINY.outline[0].
+TINY.outline[1] normal | 654, 18, 8, 8 | The normal map for TINY.outline[1].
+TINY.outline[2] normal | 626, 30, 8, 8 | The normal map for TINY.outline[2].
+TINY.outline[3] normal | 626, 18, 8, 8 | The normal map for TINY.outline[3].
+TINY.outline[4] normal | 654, 2, 8, 8 | The normal map for TINY.outline[4].
+TINY.outline[5] normal | 654, 10, 8, 8 | The normal map for TINY.outline[5].
+TINY.outline[6] normal | 626, 2, 8, 8 | The normal map for TINY.outline[6].
+TINY.outline[7] normal | 626, 10, 8, 8 | The normal map for TINY.outline[7].
+TINY.outline[8] normal | 642, 30, 8, 8 | The normal map for TINY.outline[8].
+TINY.outline[9] normal | 642, 18, 8, 8 | The normal map for TINY.outline[9].
+TINY.outline[10] normal | 634, 30, 8, 8 | The normal map for TINY.outline[10].
+TINY.outline[11] normal | 634, 18, 8, 8 | The normal map for TINY.outline[11].
+TINY.outline[12] normal | 642, 2, 8, 8 | The normal map for TINY.outline[12].
+TINY.outline[13] normal | 642, 10, 8, 8 | The normal map for TINY.outline[13].
+TINY.outline[14] normal | 634, 2, 8, 8 | The normal map for TINY.outline[14].
+TINY.outline[15] normal | 634, 10, 8, 8 | The normal map for TINY.outline[15].
+TINY.dashed[0] normal | 694, 30, 8, 8 | The normal map for TINY.dashed[0].
+TINY.dashed[1] normal | 694, 18, 8, 8 | The normal map for TINY.dashed[1].
+TINY.dashed[2] normal | 666, 30, 8, 8 | The normal map for TINY.dashed[2].
+TINY.dashed[3] normal | 666, 18, 8, 8 | The normal map for TINY.dashed[3].
+TINY.dashed[4] normal | 694, 2, 8, 8 | The normal map for TINY.dashed[4].
+TINY.dashed[5] normal | 694, 10, 8, 8 | The normal map for TINY.dashed[5].
+TINY.dashed[6] normal | 666, 2, 8, 8 | The normal map for TINY.dashed[6].
+TINY.dashed[7] normal | 666, 10, 8, 8 | The normal map for TINY.dashed[7].
+TINY.dashed[8] normal | 682, 30, 8, 8 | The normal map for TINY.dashed[8].
+TINY.dashed[9] normal | 682, 18, 8, 8 | The normal map for TINY.dashed[9].
+TINY.dashed[10] normal | 674, 30, 8, 8 | The normal map for TINY.dashed[10].
+TINY.dashed[11] normal | 674, 18, 8, 8 | The normal map for TINY.dashed[11].
+TINY.dashed[12] normal | 682, 2, 8, 8 | The normal map for TINY.dashed[12].
+TINY.dashed[13] normal | 682, 10, 8, 8 | The normal map for TINY.dashed[13].
+TINY.dashed[14] normal | 674, 2, 8, 8 | The normal map for TINY.dashed[14].
+TINY.dashed[15] normal | 674, 10, 8, 8 | The normal map for TINY.dashed[15].
+TINY.full[0] normal | 734, 30, 8, 8 | The normal map for TINY.full[0].
+TINY.full[1] normal | 734, 18, 8, 8 | The normal map for TINY.full[1].
+TINY.full[2] normal | 706, 30, 8, 8 | The normal map for TINY.full[2].
+TINY.full[3] normal | 706, 18, 8, 8 | The normal map for TINY.full[3].
+TINY.full[4] normal | 734, 2, 8, 8 | The normal map for TINY.full[4].
+TINY.full[5] normal | 734, 10, 8, 8 | The normal map for TINY.full[5].
+TINY.full[6] normal | 706, 2, 8, 8 | The normal map for TINY.full[6].
+TINY.full[7] normal | 706, 10, 8, 8 | The normal map for TINY.full[7].
+TINY.full[8] normal | 722, 30, 8, 8 | The normal map for TINY.full[8].
+TINY.full[9] normal | 722, 18, 8, 8 | The normal map for TINY.full[9].
+TINY.full[10] normal | 714, 30, 8, 8 | The normal map for TINY.full[10].
+TINY.full[11] normal | 714, 18, 8, 8 | The normal map for TINY.full[11].
+TINY.full[12] normal | 722, 2, 8, 8 | The normal map for TINY.full[12].
+TINY.full[13] normal | 722, 10, 8, 8 | The normal map for TINY.full[13].
+TINY.full[14] normal | 714, 2, 8, 8 | The normal map for TINY.full[14].
+TINY.full[15] normal | 714, 10, 8, 8 | The normal map for TINY.full[15].
+TINY.dots[0] normal | 774, 30, 8, 8 | The normal map for TINY.dots[0].
+TINY.dots[1] normal | 774, 18, 8, 8 | The normal map for TINY.dots[1].
+TINY.dots[2] normal | 746, 30, 8, 8 | The normal map for TINY.dots[2].
+TINY.dots[3] normal | 746, 18, 8, 8 | The normal map for TINY.dots[3].
+TINY.dots[4] normal | 774, 2, 8, 8 | The normal map for TINY.dots[4].
+TINY.dots[5] normal | 774, 10, 8, 8 | The normal map for TINY.dots[5].
+TINY.dots[6] normal | 746, 2, 8, 8 | The normal map for TINY.dots[6].
+TINY.dots[7] normal | 746, 10, 8, 8 | The normal map for TINY.dots[7].
+TINY.dots[8] normal | 762, 30, 8, 8 | The normal map for TINY.dots[8].
+TINY.dots[9] normal | 762, 18, 8, 8 | The normal map for TINY.dots[9].
+TINY.dots[10] normal | 754, 30, 8, 8 | The normal map for TINY.dots[10].
+TINY.dots[11] normal | 754, 18, 8, 8 | The normal map for TINY.dots[11].
+TINY.dots[12] normal | 762, 2, 8, 8 | The normal map for TINY.dots[12].
+TINY.dots[13] normal | 762, 10, 8, 8 | The normal map for TINY.dots[13].
+TINY.dots[14] normal | 754, 2, 8, 8 | The normal map for TINY.dots[14].
+TINY.dots[15] normal | 754, 10, 8, 8 | The normal map for TINY.dots[15].
+BIG.outline[0] normal | 558, 94, 16, 16 | The normal map for BIG.outline[0].
+BIG.outline[1] normal | 558, 74, 16, 16 | The normal map for BIG.outline[1].
+BIG.outline[2] normal | 506, 94, 16, 16 | The normal map for BIG.outline[2].
+BIG.outline[3] normal | 506, 74, 16, 16 | The normal map for BIG.outline[3].
+BIG.outline[4] normal | 558, 42, 16, 16 | The normal map for BIG.outline[4].
+BIG.outline[5] normal | 558, 58, 16, 16 | The normal map for BIG.outline[5].
+BIG.outline[6] normal | 506, 42, 16, 16 | The normal map for BIG.outline[6].
+BIG.outline[7] normal | 506, 58, 16, 16 | The normal map for BIG.outline[7].
+BIG.outline[8] normal | 538, 94, 16, 16 | The normal map for BIG.outline[8].
+BIG.outline[9] normal | 538, 74, 16, 16 | The normal map for BIG.outline[9].
+BIG.outline[10] normal | 522, 94, 16, 16 | The normal map for BIG.outline[10].
+BIG.outline[11] normal | 522, 74, 16, 16 | The normal map for BIG.outline[11].
+BIG.outline[12] normal | 538, 42, 16, 16 | The normal map for BIG.outline[12].
+BIG.outline[13] normal | 538, 58, 16, 16 | The normal map for BIG.outline[13].
+BIG.outline[14] normal | 522, 42, 16, 16 | The normal map for BIG.outline[14].
+BIG.outline[15] normal | 522, 58, 16, 16 | The normal map for BIG.outline[15].
+BIG.dashed[0] normal | 630, 94, 16, 16 | The normal map for BIG.dashed[0].
+BIG.dashed[1] normal | 630, 74, 16, 16 | The normal map for BIG.dashed[1].
+BIG.dashed[2] normal | 578, 94, 16, 16 | The normal map for BIG.dashed[2].
+BIG.dashed[3] normal | 578, 74, 16, 16 | The normal map for BIG.dashed[3].
+BIG.dashed[4] normal | 630, 42, 16, 16 | The normal map for BIG.dashed[4].
+BIG.dashed[5] normal | 630, 58, 16, 16 | The normal map for BIG.dashed[5].
+BIG.dashed[6] normal | 578, 42, 16, 16 | The normal map for BIG.dashed[6].
+BIG.dashed[7] normal | 578, 58, 16, 16 | The normal map for BIG.dashed[7].
+BIG.dashed[8] normal | 610, 94, 16, 16 | The normal map for BIG.dashed[8].
+BIG.dashed[9] normal | 610, 74, 16, 16 | The normal map for BIG.dashed[9].
+BIG.dashed[10] normal | 594, 94, 16, 16 | The normal map for BIG.dashed[10].
+BIG.dashed[11] normal | 594, 74, 16, 16 | The normal map for BIG.dashed[11].
+BIG.dashed[12] normal | 610, 42, 16, 16 | The normal map for BIG.dashed[12].
+BIG.dashed[13] normal | 610, 58, 16, 16 | The normal map for BIG.dashed[13].
+BIG.dashed[14] normal | 594, 42, 16, 16 | The normal map for BIG.dashed[14].
+BIG.dashed[15] normal | 594, 58, 16, 16 | The normal map for BIG.dashed[15].
+BIG.dashedThick[0] normal | 702, 94, 16, 16 | The normal map for BIG.dashedThick[0].
+BIG.dashedThick[1] normal | 702, 74, 16, 16 | The normal map for BIG.dashedThick[1].
+BIG.dashedThick[2] normal | 650, 94, 16, 16 | The normal map for BIG.dashedThick[2].
+BIG.dashedThick[3] normal | 650, 74, 16, 16 | The normal map for BIG.dashedThick[3].
+BIG.dashedThick[4] normal | 702, 42, 16, 16 | The normal map for BIG.dashedThick[4].
+BIG.dashedThick[5] normal | 702, 58, 16, 16 | The normal map for BIG.dashedThick[5].
+BIG.dashedThick[6] normal | 650, 42, 16, 16 | The normal map for BIG.dashedThick[6].
+BIG.dashedThick[7] normal | 650, 58, 16, 16 | The normal map for BIG.dashedThick[7].
+BIG.dashedThick[8] normal | 682, 94, 16, 16 | The normal map for BIG.dashedThick[8].
+BIG.dashedThick[9] normal | 682, 74, 16, 16 | The normal map for BIG.dashedThick[9].
+BIG.dashedThick[10] normal | 666, 94, 16, 16 | The normal map for BIG.dashedThick[10].
+BIG.dashedThick[11] normal | 666, 74, 16, 16 | The normal map for BIG.dashedThick[11].
+BIG.dashedThick[12] normal | 682, 42, 16, 16 | The normal map for BIG.dashedThick[12].
+BIG.dashedThick[13] normal | 682, 58, 16, 16 | The normal map for BIG.dashedThick[13].
+BIG.dashedThick[14] normal | 666, 42, 16, 16 | The normal map for BIG.dashedThick[14].
+BIG.dashedThick[15] normal | 666, 58, 16, 16 | The normal map for BIG.dashedThick[15].
+BIG.solid[0] normal | 774, 94, 16, 16 | The normal map for BIG.solid[0].
+BIG.solid[1] normal | 774, 74, 16, 16 | The normal map for BIG.solid[1].
+BIG.solid[2] normal | 722, 94, 16, 16 | The normal map for BIG.solid[2].
+BIG.solid[3] normal | 722, 74, 16, 16 | The normal map for BIG.solid[3].
+BIG.solid[4] normal | 774, 42, 16, 16 | The normal map for BIG.solid[4].
+BIG.solid[5] normal | 774, 58, 16, 16 | The normal map for BIG.solid[5].
+BIG.solid[6] normal | 722, 42, 16, 16 | The normal map for BIG.solid[6].
+BIG.solid[7] normal | 722, 58, 16, 16 | The normal map for BIG.solid[7].
+BIG.solid[8] normal | 754, 94, 16, 16 | The normal map for BIG.solid[8].
+BIG.solid[9] normal | 754, 74, 16, 16 | The normal map for BIG.solid[9].
+BIG.solid[10] normal | 738, 94, 16, 16 | The normal map for BIG.solid[10].
+BIG.solid[11] normal | 738, 74, 16, 16 | The normal map for BIG.solid[11].
+BIG.solid[12] normal | 754, 42, 16, 16 | The normal map for BIG.solid[12].
+BIG.solid[13] normal | 754, 58, 16, 16 | The normal map for BIG.solid[13].
+BIG.solid[14] normal | 738, 42, 16, 16 | The normal map for BIG.solid[14].
+BIG.solid[15] normal | 738, 58, 16, 16 | The normal map for BIG.solid[15].
+BIG.dots[0] normal | 846, 94, 16, 16 | The normal map for BIG.dots[0].
+BIG.dots[1] normal | 846, 74, 16, 16 | The normal map for BIG.dots[1].
+BIG.dots[2] normal | 794, 94, 16, 16 | The normal map for BIG.dots[2].
+BIG.dots[3] normal | 794, 74, 16, 16 | The normal map for BIG.dots[3].
+BIG.dots[4] normal | 846, 42, 16, 16 | The normal map for BIG.dots[4].
+BIG.dots[5] normal | 846, 58, 16, 16 | The normal map for BIG.dots[5].
+BIG.dots[6] normal | 794, 42, 16, 16 | The normal map for BIG.dots[6].
+BIG.dots[7] normal | 794, 58, 16, 16 | The normal map for BIG.dots[7].
+BIG.dots[8] normal | 826, 94, 16, 16 | The normal map for BIG.dots[8].
+BIG.dots[9] normal | 826, 74, 16, 16 | The normal map for BIG.dots[9].
+BIG.dots[10] normal | 810, 94, 16, 16 | The normal map for BIG.dots[10].
+BIG.dots[11] normal | 810, 74, 16, 16 | The normal map for BIG.dots[11].
+BIG.dots[12] normal | 826, 42, 16, 16 | The normal map for BIG.dots[12].
+BIG.dots[13] normal | 826, 58, 16, 16 | The normal map for BIG.dots[13].
+BIG.dots[14] normal | 810, 42, 16, 16 | The normal map for BIG.dots[14].
+BIG.dots[15] normal | 810, 58, 16, 16 | The normal map for BIG.dots[15].
+BIG.line[0] normal | 918, 94, 16, 16 | The normal map for BIG.line[0].
+BIG.line[1] normal | 918, 74, 16, 16 | The normal map for BIG.line[1].
+BIG.line[2] normal | 866, 94, 16, 16 | The normal map for BIG.line[2].
+BIG.line[3] normal | 866, 74, 16, 16 | The normal map for BIG.line[3].
+BIG.line[4] normal | 918, 42, 16, 16 | The normal map for BIG.line[4].
+BIG.line[5] normal | 918, 58, 16, 16 | The normal map for BIG.line[5].
+BIG.line[6] normal | 866, 42, 16, 16 | The normal map for BIG.line[6].
+BIG.line[7] normal | 866, 58, 16, 16 | The normal map for BIG.line[7].
+BIG.line[8] normal | 898, 94, 16, 16 | The normal map for BIG.line[8].
+BIG.line[9] normal | 898, 74, 16, 16 | The normal map for BIG.line[9].
+BIG.line[10] normal | 882, 94, 16, 16 | The normal map for BIG.line[10].
+BIG.line[11] normal | 882, 74, 16, 16 | The normal map for BIG.line[11].
+BIG.line[12] normal | 898, 42, 16, 16 | The normal map for BIG.line[12].
+BIG.line[13] normal | 898, 58, 16, 16 | The normal map for BIG.line[13].
+BIG.line[14] normal | 882, 42, 16, 16 | The normal map for BIG.line[14].
+BIG.line[15] normal | 882, 58, 16, 16 | The normal map for BIG.line[15].
+BIG.dashed_hollow[0] normal | 558, 166, 16, 16 | The normal map for BIG.dashed_hollow[0].
+BIG.dashed_hollow[1] normal | 558, 146, 16, 16 | The normal map for BIG.dashed_hollow[1].
+BIG.dashed_hollow[2] normal | 506, 166, 16, 16 | The normal map for BIG.dashed_hollow[2].
+BIG.dashed_hollow[3] normal | 506, 146, 16, 16 | The normal map for BIG.dashed_hollow[3].
+BIG.dashed_hollow[4] normal | 558, 114, 16, 16 | The normal map for BIG.dashed_hollow[4].
+BIG.dashed_hollow[5] normal | 558, 130, 16, 16 | The normal map for BIG.dashed_hollow[5].
+BIG.dashed_hollow[6] normal | 506, 114, 16, 16 | The normal map for BIG.dashed_hollow[6].
+BIG.dashed_hollow[7] normal | 506, 130, 16, 16 | The normal map for BIG.dashed_hollow[7].
+BIG.dashed_hollow[8] normal | 538, 166, 16, 16 | The normal map for BIG.dashed_hollow[8].
+BIG.dashed_hollow[9] normal | 538, 146, 16, 16 | The normal map for BIG.dashed_hollow[9].
+BIG.dashed_hollow[10] normal | 522, 166, 16, 16 | The normal map for BIG.dashed_hollow[10].
+BIG.dashed_hollow[11] normal | 522, 146, 16, 16 | The normal map for BIG.dashed_hollow[11].
+BIG.dashed_hollow[12] normal | 538, 114, 16, 16 | The normal map for BIG.dashed_hollow[12].
+BIG.dashed_hollow[13] normal | 538, 130, 16, 16 | The normal map for BIG.dashed_hollow[13].
+BIG.dashed_hollow[14] normal | 522, 114, 16, 16 | The normal map for BIG.dashed_hollow[14].
+BIG.dashed_hollow[15] normal | 522, 130, 16, 16 | The normal map for BIG.dashed_hollow[15].
+BIG.filled[0] normal | 702, 166, 16, 16 | The normal map for BIG.filled[0].
+BIG.filled[1] normal | 702, 146, 16, 16 | The normal map for BIG.filled[1].
+BIG.filled[2] normal | 650, 166, 16, 16 | The normal map for BIG.filled[2].
+BIG.filled[3] normal | 650, 146, 16, 16 | The normal map for BIG.filled[3].
+BIG.filled[4] normal | 702, 114, 16, 16 | The normal map for BIG.filled[4].
+BIG.filled[5] normal | 702, 130, 16, 16 | The normal map for BIG.filled[5].
+BIG.filled[6] normal | 650, 114, 16, 16 | The normal map for BIG.filled[6].
+BIG.filled[7] normal | 650, 130, 16, 16 | The normal map for BIG.filled[7].
+BIG.filled[8] normal | 682, 166, 16, 16 | The normal map for BIG.filled[8].
+BIG.filled[9] normal | 682, 146, 16, 16 | The normal map for BIG.filled[9].
+BIG.filled[10] normal | 666, 166, 16, 16 | The normal map for BIG.filled[10].
+BIG.filled[11] normal | 666, 146, 16, 16 | The normal map for BIG.filled[11].
+BIG.filled[12] normal | 682, 114, 16, 16 | The normal map for BIG.filled[12].
+BIG.filled[13] normal | 682, 130, 16, 16 | The normal map for BIG.filled[13].
+BIG.filled[14] normal | 666, 114, 16, 16 | The normal map for BIG.filled[14].
+BIG.filled[15] normal | 666, 130, 16, 16 | The normal map for BIG.filled[15].
+BIG.filled_striped[0] normal | 846, 166, 16, 16 | The normal map for BIG.filled_striped[0].
+BIG.filled_striped[1] normal | 846, 146, 16, 16 | The normal map for BIG.filled_striped[1].
+BIG.filled_striped[2] normal | 794, 166, 16, 16 | The normal map for BIG.filled_striped[2].
+BIG.filled_striped[3] normal | 794, 146, 16, 16 | The normal map for BIG.filled_striped[3].
+BIG.filled_striped[4] normal | 846, 114, 16, 16 | The normal map for BIG.filled_striped[4].
+BIG.filled_striped[5] normal | 846, 130, 16, 16 | The normal map for BIG.filled_striped[5].
+BIG.filled_striped[6] normal | 794, 114, 16, 16 | The normal map for BIG.filled_striped[6].
+BIG.filled_striped[7] normal | 794, 130, 16, 16 | The normal map for BIG.filled_striped[7].
+BIG.filled_striped[8] normal | 826, 166, 16, 16 | The normal map for BIG.filled_striped[8].
+BIG.filled_striped[9] normal | 826, 146, 16, 16 | The normal map for BIG.filled_striped[9].
+BIG.filled_striped[10] normal | 810, 166, 16, 16 | The normal map for BIG.filled_striped[10].
+BIG.filled_striped[11] normal | 810, 146, 16, 16 | The normal map for BIG.filled_striped[11].
+BIG.filled_striped[12] normal | 826, 114, 16, 16 | The normal map for BIG.filled_striped[12].
+BIG.filled_striped[13] normal | 826, 130, 16, 16 | The normal map for BIG.filled_striped[13].
+BIG.filled_striped[14] normal | 810, 114, 16, 16 | The normal map for BIG.filled_striped[14].
+BIG.filled_striped[15] normal | 810, 130, 16, 16 | The normal map for BIG.filled_striped[15].
+BIG.outline[17] normal | 510, 190, 16, 16 | The normal map for BIG.outline[17].
+BIG.dashed[17] normal | 532, 190, 16, 16 | The normal map for BIG.dashed[17].
+BIG.dashedThick[17] normal | 554, 190, 16, 16 | The normal map for BIG.dashedThick[17].
+BIG.solid[17] normal | 576, 190, 16, 16 | The normal map for BIG.solid[17].
+BIG.dots[17] normal | 598, 190, 16, 16 | The normal map for BIG.dots[17].
+BIG.line[17] normal | 620, 190, 16, 16 | The normal map for BIG.line[17].
+BIG.dashed_hollow[17] normal | 664, 190, 16, 16 | The normal map for BIG.dashed_hollow[17].
+BIG.filled[17] normal | 708, 190, 16, 16 | The normal map for BIG.filled[17].
+BIG.filled_striped[17] normal | 752, 190, 16, 16 | The normal map for BIG.filled_striped[17].
+ICO.unclear normal | 510, 218, 16, 16 | The normal map for ICO.unclear.
+ICO.clear normal | 532, 218, 16, 16 | The normal map for ICO.clear.
+ICO.cancel normal | 554, 218, 16, 16 | The normal map for ICO.cancel.
+ICO.arrows normal | 576, 218, 16, 16 | The normal map for ICO.arrows.
+ICO.arrows2[0] normal | 598, 218, 16, 16 | The normal map for ICO.arrows2[0].
+ICO.arrows2[1] normal | 620, 218, 16, 16 | The normal map for ICO.arrows2[1].
+ICO.crosshair normal | 642, 218, 16, 16 | The normal map for ICO.crosshair.
+ICO.smallup normal | 664, 218, 16, 16 | The normal map for ICO.smallup.
+ICO.repair normal | 686, 218, 16, 16 | The normal map for ICO.repair.
+ICO.arrows_inward normal | 708, 218, 16, 16 | The normal map for ICO.arrows_inward.
+ICO.warning normal | 730, 218, 16, 16 | The normal map for ICO.warning.
+ICO.tile normal | 752, 218, 16, 16 | The normal map for ICO.tile.
+ICO.scratch normal | 774, 218, 16, 16 | The normal map for ICO.scratch.
+ICO.arrows_inwards normal | 796, 218, 16, 16 | The normal map for ICO.arrows_inwards.
+ICO.arrows_entity normal | 818, 218, 16, 16 | The normal map for ICO.arrows_entity.
+ROT.single normal | 510, 246, 16, 16 | The normal map for ROT.single.
+ROT.join normal | 532, 246, 16, 16 | The normal map for ROT.join.
+ROT.join_thin normal | 554, 246, 16, 16 | The normal map for ROT.join_thin.
+ROT.north_south normal | 576, 246, 16, 16 | The normal map for ROT.north_south.
+ROT.full normal | 598, 246, 16, 16 | The normal map for ROT.full.
+ROT.join_big normal | 620, 246, 16, 16 | The normal map for ROT.join_big.
+fullArrows[0] normal | 510, 274, 16, 16 | The normal map for fullArrows[0].
+fullArrows[4] normal | 538, 274, 16, 16 | The normal map for fullArrows[4].
+fullArrows[5] normal | 554, 274, 16, 16 | The normal map for fullArrows[5].
+fullArrows[6] normal | 538, 290, 16, 16 | The normal map for fullArrows[6].
+fullArrows[7] normal | 554, 290, 16, 16 | The normal map for fullArrows[7].
+fullArrows[20] normal | 582, 274, 16, 16 | The normal map for fullArrows[20].
+fullArrows[21] normal | 598, 274, 16, 16 | The normal map for fullArrows[21].
+fullArrows[22] normal | 614, 274, 16, 16 | The normal map for fullArrows[22].
+fullArrows[23] normal | 582, 290, 16, 16 | The normal map for fullArrows[23].
+fullArrows[24] normal | 598, 290, 16, 16 | The normal map for fullArrows[24].
+fullArrows[25] normal | 614, 290, 16, 16 | The normal map for fullArrows[25].
+fullArrows[26] normal | 582, 306, 16, 16 | The normal map for fullArrows[26].
+fullArrows[27] normal | 598, 306, 16, 16 | The normal map for fullArrows[27].
+fullArrows[28] normal | 614, 306, 16, 16 | The normal map for fullArrows[28].

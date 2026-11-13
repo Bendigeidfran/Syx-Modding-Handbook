@@ -1,0 +1,92 @@
+sfloor[0] | 6, 6, 16, 16 | The throne room's floor at its north-west corner, for the first third of the player's levels (MIR to APPRONTIX in vanilla).
+sfloor[1] | 22, 6, 16, 16 | The throne room's floor at its north side, for the first third of the player's levels (MIR to APPRONTIX in vanilla).
+sfloor[2] | 38, 6, 16, 16 | The throne room's floor at its north-east corner, for the first third of the player's levels (MIR to APPRONTIX in vanilla).
+sfloor[3] | 6, 22, 16, 16 | The throne room's floor at its west side, for the first third of the player's levels (MIR to APPRONTIX in vanilla).
+sfloor[4] | 22, 22, 16, 16 | The throne room's floor at its middle, for the first third of the player's levels (MIR to APPRONTIX in vanilla).
+sfloor[5] | 38, 22, 16, 16 | The throne room's floor at its east side, for the first third of the player's levels (MIR to APPRONTIX in vanilla).
+sfloor[6] | 6, 38, 16, 16 | The throne room's floor at its south-west corner, for the first third of the player's levels (MIR to APPRONTIX in vanilla).
+sfloor[7] | 22, 38, 16, 16 | The throne room's floor at its south side, for the first third of the player's levels (MIR to APPRONTIX in vanilla).
+sfloor[8] | 38, 38, 16, 16 | The throne room's floor at its south-east corner, for the first third of the player's levels (MIR to APPRONTIX in vanilla). While the throne is being built, every finished tile shows this cell.
+sfloor[9] | 6, 66, 16, 16 | The throne room's floor at its north-west corner, for the second third of the player's levels (APPRONTIX_RAY to DAKORI_RAY in vanilla).
+sfloor[10] | 22, 66, 16, 16 | The throne room's floor at its north side, for the second third of the player's levels (APPRONTIX_RAY to DAKORI_RAY in vanilla).
+sfloor[11] | 38, 66, 16, 16 | The throne room's floor at its north-east corner, for the second third of the player's levels (APPRONTIX_RAY to DAKORI_RAY in vanilla).
+sfloor[12] | 6, 82, 16, 16 | The throne room's floor at its west side, for the second third of the player's levels (APPRONTIX_RAY to DAKORI_RAY in vanilla).
+sfloor[13] | 22, 82, 16, 16 | The throne room's floor at its middle, for the second third of the player's levels (APPRONTIX_RAY to DAKORI_RAY in vanilla).
+sfloor[14] | 38, 82, 16, 16 | The throne room's floor at its east side, for the second third of the player's levels (APPRONTIX_RAY to DAKORI_RAY in vanilla).
+sfloor[15] | 6, 98, 16, 16 | The throne room's floor at its south-west corner, for the second third of the player's levels (APPRONTIX_RAY to DAKORI_RAY in vanilla).
+sfloor[16] | 22, 98, 16, 16 | The throne room's floor at its south side, for the second third of the player's levels (APPRONTIX_RAY to DAKORI_RAY in vanilla).
+sfloor[17] | 38, 98, 16, 16 | The throne room's floor at its south-east corner, for the second third of the player's levels (APPRONTIX_RAY to DAKORI_RAY in vanilla). While the throne is being built, every finished tile shows this cell.
+sfloor[18] | 6, 126, 16, 16 | The throne room's floor at its north-west corner, for the last third of the player's levels (SORAX to ASTA_RAY in vanilla).
+sfloor[19] | 22, 126, 16, 16 | The throne room's floor at its north side, for the last third of the player's levels (SORAX to ASTA_RAY in vanilla).
+sfloor[20] | 38, 126, 16, 16 | The throne room's floor at its north-east corner, for the last third of the player's levels (SORAX to ASTA_RAY in vanilla).
+sfloor[21] | 6, 142, 16, 16 | The throne room's floor at its west side, for the last third of the player's levels (SORAX to ASTA_RAY in vanilla).
+sfloor[22] | 22, 142, 16, 16 | The throne room's floor at its middle, for the last third of the player's levels (SORAX to ASTA_RAY in vanilla).
+sfloor[23] | 38, 142, 16, 16 | The throne room's floor at its east side, for the last third of the player's levels (SORAX to ASTA_RAY in vanilla).
+sfloor[24] | 6, 158, 16, 16 | The throne room's floor at its south-west corner, for the last third of the player's levels (SORAX to ASTA_RAY in vanilla).
+sfloor[25] | 22, 158, 16, 16 | The throne room's floor at its south side, for the last third of the player's levels (SORAX to ASTA_RAY in vanilla).
+sfloor[26] | 38, 158, 16, 16 | The throne room's floor at its south-east corner, for the last third of the player's levels (SORAX to ASTA_RAY in vanilla). While the throne is being built, every finished tile shows this cell.
+sfloor[27] | 6, 186, 16, 16 | Loaded, but never drawn. The level picks only the first three blocks.
+sfloor[28] | 22, 186, 16, 16 | Loaded, but never drawn. The level picks only the first three blocks.
+sfloor[29] | 38, 186, 16, 16 | Loaded, but never drawn. The level picks only the first three blocks.
+sfloor[30] | 6, 202, 16, 16 | Loaded, but never drawn. The level picks only the first three blocks.
+sfloor[31] | 22, 202, 16, 16 | Loaded, but never drawn. The level picks only the first three blocks.
+sfloor[32] | 38, 202, 16, 16 | Loaded, but never drawn. The level picks only the first three blocks.
+sfloor[33] | 6, 218, 16, 16 | Loaded, but never drawn. The level picks only the first three blocks.
+sfloor[34] | 22, 218, 16, 16 | Loaded, but never drawn. The level picks only the first three blocks.
+sfloor[35] | 38, 218, 16, 16 | Loaded, but never drawn. The level picks only the first three blocks.
+sthrone[0] | 66, 6, 24, 24 | The throne, drawn on the room's centre tile, for row 0 of 5 of the player's levels (MIR, EMIR and AMARIR in vanilla). As painted it's for a throne room placed 5 tiles wide without turning; the game turns it for the other three ways.
+sthrone[4] | 66, 42, 24, 24 | The throne, drawn on the room's centre tile, for row 1 of 5 of the player's levels (PRONTIX, APPRONTIX and APPRONTIX_RAY in vanilla). As painted it's for a throne room placed 5 tiles wide without turning; the game turns it for the other three ways.
+sthrone[8] | 66, 78, 24, 24 | The throne, drawn on the room's centre tile, for row 2 of 5 of the player's levels (LEGATI, LEGATI_RAY and DAKORI in vanilla). As painted it's for a throne room placed 5 tiles wide without turning; the game turns it for the other three ways.
+sthrone[12] | 66, 114, 24, 24 | The throne, drawn on the room's centre tile, for row 3 of 5 of the player's levels (DAKORI_RAY, SORAX and SORAX_RAY in vanilla). As painted it's for a throne room placed 5 tiles wide without turning; the game turns it for the other three ways.
+sthrone[16] | 66, 150, 24, 24 | The throne, drawn on the room's centre tile, for row 4 of 5 of the player's levels (ASTA and ASTA_RAY in vanilla). As painted it's for a throne room placed 5 tiles wide without turning; the game turns it for the other three ways.
+sthrone[20] | 102, 6, 24, 24 | The shadow of sthrone[0], cast with a height of 12. It's only ever drawn as a shadow, turned with the throne.
+sthrone[24] | 102, 42, 24, 24 | The shadow of sthrone[4], cast with a height of 12. It's only ever drawn as a shadow, turned with the throne.
+sthrone[28] | 102, 78, 24, 24 | The shadow of sthrone[8], cast with a height of 12. It's only ever drawn as a shadow, turned with the throne.
+sthrone[32] | 102, 114, 24, 24 | The shadow of sthrone[12], cast with a height of 12. It's only ever drawn as a shadow, turned with the throne.
+sthrone[36] | 102, 150, 24, 24 | The shadow of sthrone[16], cast with a height of 12. It's only ever drawn as a shadow, turned with the throne.
+sfloor[0] normal | 138, 6, 16, 16 | The normal map for sfloor[0].
+sfloor[1] normal | 154, 6, 16, 16 | The normal map for sfloor[1].
+sfloor[2] normal | 170, 6, 16, 16 | The normal map for sfloor[2].
+sfloor[3] normal | 138, 22, 16, 16 | The normal map for sfloor[3].
+sfloor[4] normal | 154, 22, 16, 16 | The normal map for sfloor[4].
+sfloor[5] normal | 170, 22, 16, 16 | The normal map for sfloor[5].
+sfloor[6] normal | 138, 38, 16, 16 | The normal map for sfloor[6].
+sfloor[7] normal | 154, 38, 16, 16 | The normal map for sfloor[7].
+sfloor[8] normal | 170, 38, 16, 16 | The normal map for sfloor[8].
+sfloor[9] normal | 138, 66, 16, 16 | The normal map for sfloor[9].
+sfloor[10] normal | 154, 66, 16, 16 | The normal map for sfloor[10].
+sfloor[11] normal | 170, 66, 16, 16 | The normal map for sfloor[11].
+sfloor[12] normal | 138, 82, 16, 16 | The normal map for sfloor[12].
+sfloor[13] normal | 154, 82, 16, 16 | The normal map for sfloor[13].
+sfloor[14] normal | 170, 82, 16, 16 | The normal map for sfloor[14].
+sfloor[15] normal | 138, 98, 16, 16 | The normal map for sfloor[15].
+sfloor[16] normal | 154, 98, 16, 16 | The normal map for sfloor[16].
+sfloor[17] normal | 170, 98, 16, 16 | The normal map for sfloor[17].
+sfloor[18] normal | 138, 126, 16, 16 | The normal map for sfloor[18].
+sfloor[19] normal | 154, 126, 16, 16 | The normal map for sfloor[19].
+sfloor[20] normal | 170, 126, 16, 16 | The normal map for sfloor[20].
+sfloor[21] normal | 138, 142, 16, 16 | The normal map for sfloor[21].
+sfloor[22] normal | 154, 142, 16, 16 | The normal map for sfloor[22].
+sfloor[23] normal | 170, 142, 16, 16 | The normal map for sfloor[23].
+sfloor[24] normal | 138, 158, 16, 16 | The normal map for sfloor[24].
+sfloor[25] normal | 154, 158, 16, 16 | The normal map for sfloor[25].
+sfloor[26] normal | 170, 158, 16, 16 | The normal map for sfloor[26].
+sfloor[27] normal | 138, 186, 16, 16 | The normal map for sfloor[27].
+sfloor[28] normal | 154, 186, 16, 16 | The normal map for sfloor[28].
+sfloor[29] normal | 170, 186, 16, 16 | The normal map for sfloor[29].
+sfloor[30] normal | 138, 202, 16, 16 | The normal map for sfloor[30].
+sfloor[31] normal | 154, 202, 16, 16 | The normal map for sfloor[31].
+sfloor[32] normal | 170, 202, 16, 16 | The normal map for sfloor[32].
+sfloor[33] normal | 138, 218, 16, 16 | The normal map for sfloor[33].
+sfloor[34] normal | 154, 218, 16, 16 | The normal map for sfloor[34].
+sfloor[35] normal | 170, 218, 16, 16 | The normal map for sfloor[35].
+sthrone[0] normal | 198, 6, 24, 24 | The normal map for sthrone[0].
+sthrone[4] normal | 198, 42, 24, 24 | The normal map for sthrone[4].
+sthrone[8] normal | 198, 78, 24, 24 | The normal map for sthrone[8].
+sthrone[12] normal | 198, 114, 24, 24 | The normal map for sthrone[12].
+sthrone[16] normal | 198, 150, 24, 24 | The normal map for sthrone[16].
+sthrone[20] normal | 234, 6, 24, 24 | The normal map for sthrone[20].
+sthrone[24] normal | 234, 42, 24, 24 | The normal map for sthrone[24].
+sthrone[28] normal | 234, 78, 24, 24 | The normal map for sthrone[28].
+sthrone[32] normal | 234, 114, 24, 24 | The normal map for sthrone[32].
+sthrone[36] normal | 234, 150, 24, 24 | The normal map for sthrone[36].

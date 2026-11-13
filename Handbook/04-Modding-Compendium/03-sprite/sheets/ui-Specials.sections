@@ -1,0 +1,156 @@
+clockwork[0] | 6, 6, 32, 32 | Part 1 of 3 of the strip behind the clock in the top panel. The strip scrolls as game time passes, with the first part wrapping round. It and the seasons are drawn brighter while the mouse is over the clock.
+clockwork[1] | 38, 6, 32, 32 | Part 2 of 3 of the strip behind the clock in the top panel. The strip scrolls as game time passes, with the first part wrapping round. It and the seasons are drawn brighter while the mouse is over the clock.
+clockwork[2] | 70, 6, 32, 32 | Part 3 of 3 of the strip behind the clock in the top panel. The strip scrolls as game time passes, with the first part wrapping round. It and the seasons are drawn brighter while the mouse is over the clock.
+background | 114, 6, 192, 64 | The background behind the clock and the speed buttons, drawn as one image. The battle view leaves it out.
+selest[0] | 6, 82, 16, 16 | The sun, moving across the clock during the day.
+selest[1] | 22, 82, 16, 16 | The moon, moving across the clock during the night.
+buttons[0] | 38, 82, 16, 16 | The left half of the pause button. It's tinted to show whether it's hovered or selected.
+buttons[1] | 54, 82, 16, 16 | The right half of the pause button. It's tinted to show whether it's hovered or selected.
+buttons[2] | 70, 82, 16, 16 | The left half of the speed 1 button. It's tinted to show whether it's hovered or selected.
+buttons[3] | 86, 82, 16, 16 | The right half of the speed 1 button. It's tinted to show whether it's hovered or selected.
+buttons[4] | 102, 82, 16, 16 | The left half of the speed 2 button. It's tinted to show whether it's hovered or selected.
+buttons[5] | 118, 82, 16, 16 | The right half of the speed 2 button. It's tinted to show whether it's hovered or selected.
+buttons[6] | 134, 82, 16, 16 | The left half of the speed 3 button. It's tinted to show whether it's hovered or selected.
+buttons[7] | 150, 82, 16, 16 | The right half of the speed 3 button. It's tinted to show whether it's hovered or selected.
+buttons[8] | 166, 82, 16, 16 | The left half of the glow drawn behind a speed button that's hovered or selected.
+buttons[9] | 182, 82, 16, 16 | The right half of the glow drawn behind a speed button that's hovered or selected.
+upperPanel[0] | 6, 110, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 27 of 27, row 2 of 2, upside down.
+upperPanel[1] | 30, 110, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 26 of 27, row 2 of 2, upside down.
+upperPanel[2] | 54, 110, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 25 of 27, row 2 of 2, upside down.
+upperPanel[3] | 78, 110, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 24 of 27, row 2 of 2, upside down.
+upperPanel[4] | 102, 110, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 23 of 27, row 2 of 2, upside down.
+upperPanel[5] | 126, 110, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 22 of 27, row 2 of 2, upside down.
+upperPanel[6] | 150, 110, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 21 of 27, row 2 of 2, upside down.
+upperPanel[7] | 174, 110, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 20 of 27, row 2 of 2, upside down.
+upperPanel[8] | 198, 110, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 19 of 27, row 2 of 2, upside down.
+upperPanel[9] | 222, 110, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 18 of 27, row 2 of 2, upside down.
+upperPanel[10] | 246, 110, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 17 of 27, row 2 of 2, upside down.
+upperPanel[11] | 270, 110, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 16 of 27, row 2 of 2, upside down.
+upperPanel[12] | 294, 110, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 15 of 27, row 2 of 2, upside down.
+upperPanel[13] | 318, 110, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 14 of 27, row 2 of 2, upside down.
+upperPanel[14] | 342, 110, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 13 of 27, row 2 of 2, upside down.
+upperPanel[15] | 366, 110, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 12 of 27, row 2 of 2, upside down.
+upperPanel[16] | 390, 110, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 11 of 27, row 2 of 2, upside down.
+upperPanel[17] | 414, 110, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 10 of 27, row 2 of 2, upside down.
+upperPanel[18] | 438, 110, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 9 of 27, row 2 of 2, upside down.
+upperPanel[19] | 462, 110, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 8 of 27, row 2 of 2, upside down.
+upperPanel[20] | 486, 110, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 7 of 27, row 2 of 2, upside down.
+upperPanel[21] | 510, 110, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 6 of 27, row 2 of 2, upside down.
+upperPanel[22] | 534, 110, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 5 of 27, row 2 of 2, upside down.
+upperPanel[23] | 558, 110, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 4 of 27, row 2 of 2, upside down.
+upperPanel[24] | 582, 110, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 3 of 27, row 2 of 2, upside down.
+upperPanel[25] | 606, 110, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 2 of 27, row 2 of 2, upside down.
+upperPanel[26] | 630, 110, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 1 of 27, row 2 of 2, upside down.
+upperPanel[27] | 6, 134, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 27 of 27, row 1 of 2, upside down.
+upperPanel[28] | 30, 134, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 26 of 27, row 1 of 2, upside down.
+upperPanel[29] | 54, 134, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 25 of 27, row 1 of 2, upside down.
+upperPanel[30] | 78, 134, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 24 of 27, row 1 of 2, upside down.
+upperPanel[31] | 102, 134, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 23 of 27, row 1 of 2, upside down.
+upperPanel[32] | 126, 134, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 22 of 27, row 1 of 2, upside down.
+upperPanel[33] | 150, 134, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 21 of 27, row 1 of 2, upside down.
+upperPanel[34] | 174, 134, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 20 of 27, row 1 of 2, upside down.
+upperPanel[35] | 198, 134, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 19 of 27, row 1 of 2, upside down.
+upperPanel[36] | 222, 134, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 18 of 27, row 1 of 2, upside down.
+upperPanel[37] | 246, 134, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 17 of 27, row 1 of 2, upside down.
+upperPanel[38] | 270, 134, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 16 of 27, row 1 of 2, upside down.
+upperPanel[39] | 294, 134, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 15 of 27, row 1 of 2, upside down.
+upperPanel[40] | 318, 134, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 14 of 27, row 1 of 2, upside down.
+upperPanel[41] | 342, 134, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 13 of 27, row 1 of 2, upside down.
+upperPanel[42] | 366, 134, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 12 of 27, row 1 of 2, upside down.
+upperPanel[43] | 390, 134, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 11 of 27, row 1 of 2, upside down.
+upperPanel[44] | 414, 134, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 10 of 27, row 1 of 2, upside down.
+upperPanel[45] | 438, 134, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 9 of 27, row 1 of 2, upside down.
+upperPanel[46] | 462, 134, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 8 of 27, row 1 of 2, upside down.
+upperPanel[47] | 486, 134, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 7 of 27, row 1 of 2, upside down.
+upperPanel[48] | 510, 134, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 6 of 27, row 1 of 2, upside down.
+upperPanel[49] | 534, 134, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 5 of 27, row 1 of 2, upside down.
+upperPanel[50] | 558, 134, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 4 of 27, row 1 of 2, upside down.
+upperPanel[51] | 582, 134, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 3 of 27, row 1 of 2, upside down.
+upperPanel[52] | 606, 134, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 2 of 27, row 1 of 2, upside down.
+upperPanel[53] | 630, 134, 24, 24 | Part of the background of the build panel at the bottom of the settlement view. The whole 27 by 2 strip is shown turned half round, so this cell appears at column 1 of 27, row 1 of 2, upside down.
+seasons[0] | 6, 170, 32, 32 | Part 1 of 8 of the strip of seasons that scrolls through the clock over the course of a year.
+seasons[1] | 38, 170, 32, 32 | Part 2 of 8 of the strip of seasons that scrolls through the clock over the course of a year.
+seasons[2] | 70, 170, 32, 32 | Part 3 of 8 of the strip of seasons that scrolls through the clock over the course of a year.
+seasons[3] | 102, 170, 32, 32 | Part 4 of 8 of the strip of seasons that scrolls through the clock over the course of a year.
+seasons[4] | 134, 170, 32, 32 | Part 5 of 8 of the strip of seasons that scrolls through the clock over the course of a year.
+seasons[5] | 166, 170, 32, 32 | Part 6 of 8 of the strip of seasons that scrolls through the clock over the course of a year.
+seasons[6] | 198, 170, 32, 32 | Part 7 of 8 of the strip of seasons that scrolls through the clock over the course of a year.
+seasons[7] | 230, 170, 32, 32 | Part 8 of 8 of the strip of seasons that scrolls through the clock over the course of a year.
+clockwork[0] normal | 666, 6, 32, 32 | The normal map for clockwork[0].
+clockwork[1] normal | 698, 6, 32, 32 | The normal map for clockwork[1].
+clockwork[2] normal | 730, 6, 32, 32 | The normal map for clockwork[2].
+background normal | 774, 6, 192, 64 | The normal map for background.
+selest[0] normal | 666, 82, 16, 16 | The normal map for selest[0].
+selest[1] normal | 682, 82, 16, 16 | The normal map for selest[1].
+buttons[0] normal | 698, 82, 16, 16 | The normal map for buttons[0].
+buttons[1] normal | 714, 82, 16, 16 | The normal map for buttons[1].
+buttons[2] normal | 730, 82, 16, 16 | The normal map for buttons[2].
+buttons[3] normal | 746, 82, 16, 16 | The normal map for buttons[3].
+buttons[4] normal | 762, 82, 16, 16 | The normal map for buttons[4].
+buttons[5] normal | 778, 82, 16, 16 | The normal map for buttons[5].
+buttons[6] normal | 794, 82, 16, 16 | The normal map for buttons[6].
+buttons[7] normal | 810, 82, 16, 16 | The normal map for buttons[7].
+buttons[8] normal | 826, 82, 16, 16 | The normal map for buttons[8].
+buttons[9] normal | 842, 82, 16, 16 | The normal map for buttons[9].
+upperPanel[0] normal | 666, 110, 24, 24 | The normal map for upperPanel[0].
+upperPanel[1] normal | 690, 110, 24, 24 | The normal map for upperPanel[1].
+upperPanel[2] normal | 714, 110, 24, 24 | The normal map for upperPanel[2].
+upperPanel[3] normal | 738, 110, 24, 24 | The normal map for upperPanel[3].
+upperPanel[4] normal | 762, 110, 24, 24 | The normal map for upperPanel[4].
+upperPanel[5] normal | 786, 110, 24, 24 | The normal map for upperPanel[5].
+upperPanel[6] normal | 810, 110, 24, 24 | The normal map for upperPanel[6].
+upperPanel[7] normal | 834, 110, 24, 24 | The normal map for upperPanel[7].
+upperPanel[8] normal | 858, 110, 24, 24 | The normal map for upperPanel[8].
+upperPanel[9] normal | 882, 110, 24, 24 | The normal map for upperPanel[9].
+upperPanel[10] normal | 906, 110, 24, 24 | The normal map for upperPanel[10].
+upperPanel[11] normal | 930, 110, 24, 24 | The normal map for upperPanel[11].
+upperPanel[12] normal | 954, 110, 24, 24 | The normal map for upperPanel[12].
+upperPanel[13] normal | 978, 110, 24, 24 | The normal map for upperPanel[13].
+upperPanel[14] normal | 1002, 110, 24, 24 | The normal map for upperPanel[14].
+upperPanel[15] normal | 1026, 110, 24, 24 | The normal map for upperPanel[15].
+upperPanel[16] normal | 1050, 110, 24, 24 | The normal map for upperPanel[16].
+upperPanel[17] normal | 1074, 110, 24, 24 | The normal map for upperPanel[17].
+upperPanel[18] normal | 1098, 110, 24, 24 | The normal map for upperPanel[18].
+upperPanel[19] normal | 1122, 110, 24, 24 | The normal map for upperPanel[19].
+upperPanel[20] normal | 1146, 110, 24, 24 | The normal map for upperPanel[20].
+upperPanel[21] normal | 1170, 110, 24, 24 | The normal map for upperPanel[21].
+upperPanel[22] normal | 1194, 110, 24, 24 | The normal map for upperPanel[22].
+upperPanel[23] normal | 1218, 110, 24, 24 | The normal map for upperPanel[23].
+upperPanel[24] normal | 1242, 110, 24, 24 | The normal map for upperPanel[24].
+upperPanel[25] normal | 1266, 110, 24, 24 | The normal map for upperPanel[25].
+upperPanel[26] normal | 1290, 110, 24, 24 | The normal map for upperPanel[26].
+upperPanel[27] normal | 666, 134, 24, 24 | The normal map for upperPanel[27].
+upperPanel[28] normal | 690, 134, 24, 24 | The normal map for upperPanel[28].
+upperPanel[29] normal | 714, 134, 24, 24 | The normal map for upperPanel[29].
+upperPanel[30] normal | 738, 134, 24, 24 | The normal map for upperPanel[30].
+upperPanel[31] normal | 762, 134, 24, 24 | The normal map for upperPanel[31].
+upperPanel[32] normal | 786, 134, 24, 24 | The normal map for upperPanel[32].
+upperPanel[33] normal | 810, 134, 24, 24 | The normal map for upperPanel[33].
+upperPanel[34] normal | 834, 134, 24, 24 | The normal map for upperPanel[34].
+upperPanel[35] normal | 858, 134, 24, 24 | The normal map for upperPanel[35].
+upperPanel[36] normal | 882, 134, 24, 24 | The normal map for upperPanel[36].
+upperPanel[37] normal | 906, 134, 24, 24 | The normal map for upperPanel[37].
+upperPanel[38] normal | 930, 134, 24, 24 | The normal map for upperPanel[38].
+upperPanel[39] normal | 954, 134, 24, 24 | The normal map for upperPanel[39].
+upperPanel[40] normal | 978, 134, 24, 24 | The normal map for upperPanel[40].
+upperPanel[41] normal | 1002, 134, 24, 24 | The normal map for upperPanel[41].
+upperPanel[42] normal | 1026, 134, 24, 24 | The normal map for upperPanel[42].
+upperPanel[43] normal | 1050, 134, 24, 24 | The normal map for upperPanel[43].
+upperPanel[44] normal | 1074, 134, 24, 24 | The normal map for upperPanel[44].
+upperPanel[45] normal | 1098, 134, 24, 24 | The normal map for upperPanel[45].
+upperPanel[46] normal | 1122, 134, 24, 24 | The normal map for upperPanel[46].
+upperPanel[47] normal | 1146, 134, 24, 24 | The normal map for upperPanel[47].
+upperPanel[48] normal | 1170, 134, 24, 24 | The normal map for upperPanel[48].
+upperPanel[49] normal | 1194, 134, 24, 24 | The normal map for upperPanel[49].
+upperPanel[50] normal | 1218, 134, 24, 24 | The normal map for upperPanel[50].
+upperPanel[51] normal | 1242, 134, 24, 24 | The normal map for upperPanel[51].
+upperPanel[52] normal | 1266, 134, 24, 24 | The normal map for upperPanel[52].
+upperPanel[53] normal | 1290, 134, 24, 24 | The normal map for upperPanel[53].
+seasons[0] normal | 666, 170, 32, 32 | The normal map for seasons[0].
+seasons[1] normal | 698, 170, 32, 32 | The normal map for seasons[1].
+seasons[2] normal | 730, 170, 32, 32 | The normal map for seasons[2].
+seasons[3] normal | 762, 170, 32, 32 | The normal map for seasons[3].
+seasons[4] normal | 794, 170, 32, 32 | The normal map for seasons[4].
+seasons[5] normal | 826, 170, 32, 32 | The normal map for seasons[5].
+seasons[6] normal | 858, 170, 32, 32 | The normal map for seasons[6].
+seasons[7] normal | 890, 170, 32, 32 | The normal map for seasons[7].

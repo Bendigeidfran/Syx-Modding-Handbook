@@ -1,0 +1,78 @@
+sheet[0] | 3, 3, 16, 16 | The pump's wheel, frame 1 of 5, on the first and last tiles of its row of three. The last tile uses it turned half round, with the frames running the other way. The game turns it to match how the pump is placed.
+sheet[20] | 3, 19, 16, 16 | The pump's wheel, frame 1 of 5, on the middle tile of its row of three. The game turns it to match how the pump is placed.
+sheet[4] | 25, 3, 16, 16 | The pump's wheel, frame 2 of 5, on the first and last tiles of its row of three. The last tile uses it turned half round, with the frames running the other way. The game turns it to match how the pump is placed.
+sheet[24] | 25, 19, 16, 16 | The pump's wheel, frame 2 of 5, on the middle tile of its row of three. The game turns it to match how the pump is placed.
+sheet[8] | 47, 3, 16, 16 | The pump's wheel, frame 3 of 5, on the first and last tiles of its row of three. The last tile uses it turned half round, with the frames running the other way. The game turns it to match how the pump is placed.
+sheet[28] | 47, 19, 16, 16 | The pump's wheel, frame 3 of 5, on the middle tile of its row of three. The game turns it to match how the pump is placed.
+sheet[12] | 69, 3, 16, 16 | The pump's wheel, frame 4 of 5, on the first and last tiles of its row of three. The last tile uses it turned half round, with the frames running the other way. The game turns it to match how the pump is placed.
+sheet[32] | 69, 19, 16, 16 | The pump's wheel, frame 4 of 5, on the middle tile of its row of three. The game turns it to match how the pump is placed.
+sheet[16] | 91, 3, 16, 16 | The pump's wheel, frame 5 of 5, on the first and last tiles of its row of three. The last tile uses it turned half round, with the frames running the other way. The game turns it to match how the pump is placed.
+sheet[36] | 91, 19, 16, 16 | The pump's wheel, frame 5 of 5, on the middle tile of its row of three. The game turns it to match how the pump is placed.
+sheet[40] | 3, 41, 16, 16 | The shadow of sheet[0], cast with a height of 14. It's only ever drawn as a shadow. The game turns it to match how the pump is placed.
+sheet[60] | 3, 57, 16, 16 | The shadow of sheet[20], cast with a height of 14. It's only ever drawn as a shadow. The game turns it to match how the pump is placed.
+sheet[44] | 25, 41, 16, 16 | The shadow of sheet[4], cast with a height of 14. It's only ever drawn as a shadow. The game turns it to match how the pump is placed.
+sheet[64] | 25, 57, 16, 16 | The shadow of sheet[24], cast with a height of 14. It's only ever drawn as a shadow. The game turns it to match how the pump is placed.
+sheet[48] | 47, 41, 16, 16 | The shadow of sheet[8], cast with a height of 14. It's only ever drawn as a shadow. The game turns it to match how the pump is placed.
+sheet[68] | 47, 57, 16, 16 | The shadow of sheet[28], cast with a height of 14. It's only ever drawn as a shadow. The game turns it to match how the pump is placed.
+sheet[52] | 69, 41, 16, 16 | The shadow of sheet[12], cast with a height of 14. It's only ever drawn as a shadow. The game turns it to match how the pump is placed.
+sheet[72] | 69, 57, 16, 16 | The shadow of sheet[32], cast with a height of 14. It's only ever drawn as a shadow. The game turns it to match how the pump is placed.
+sheet[56] | 91, 41, 16, 16 | The shadow of sheet[16], cast with a height of 14. It's only ever drawn as a shadow. The game turns it to match how the pump is placed.
+sheet[76] | 91, 57, 16, 16 | The shadow of sheet[36], cast with a height of 14. It's only ever drawn as a shadow. The game turns it to match how the pump is placed.
+rim[0] | 6, 82, 16, 16 | The rim of the pump's pool at its top-left corner. It's drawn over the water and casts shadows.
+rim[1] | 22, 82, 16, 16 | The rim of the pump's pool at its top side. It's drawn over the water and casts shadows.
+rim[2] | 38, 82, 16, 16 | The rim of the pump's pool at its top-right corner. It's drawn over the water and casts shadows.
+rim[3] | 6, 98, 16, 16 | The rim of the pump's pool at its left side. It's drawn over the water and casts shadows.
+rim[4] | 22, 98, 16, 16 | The rim of the pump's pool at its middle. It's drawn over the water and casts shadows.
+rim[5] | 38, 98, 16, 16 | The rim of the pump's pool at its right side. It's drawn over the water and casts shadows.
+rim[6] | 6, 114, 16, 16 | The rim of the pump's pool at its bottom-left corner. It's drawn over the water and casts shadows.
+rim[7] | 22, 114, 16, 16 | The rim of the pump's pool at its bottom side. It's drawn over the water and casts shadows.
+rim[8] | 38, 114, 16, 16 | The rim of the pump's pool at its bottom-right corner. It's drawn over the water and casts shadows.
+stencil[0] | 6, 142, 16, 16 | The shape of the water in the pump's pool at its top-left corner. The ground's texture, darkened, and the water are drawn through it. The water grows more opaque as the pool fills.
+stencil[1] | 22, 142, 16, 16 | The shape of the water in the pump's pool at its top side. The ground's texture, darkened, and the water are drawn through it. The water grows more opaque as the pool fills.
+stencil[2] | 38, 142, 16, 16 | The shape of the water in the pump's pool at its top-right corner. The ground's texture, darkened, and the water are drawn through it. The water grows more opaque as the pool fills.
+stencil[3] | 6, 158, 16, 16 | The shape of the water in the pump's pool at its left side. The ground's texture, darkened, and the water are drawn through it. The water grows more opaque as the pool fills.
+stencil[4] | 22, 158, 16, 16 | The shape of the water in the pump's pool at its middle. The ground's texture, darkened, and the water are drawn through it. The water grows more opaque as the pool fills.
+stencil[5] | 38, 158, 16, 16 | The shape of the water in the pump's pool at its right side. The ground's texture, darkened, and the water are drawn through it. The water grows more opaque as the pool fills.
+stencil[6] | 6, 174, 16, 16 | The shape of the water in the pump's pool at its bottom-left corner. The ground's texture, darkened, and the water are drawn through it. The water grows more opaque as the pool fills.
+stencil[7] | 22, 174, 16, 16 | The shape of the water in the pump's pool at its bottom side. The ground's texture, darkened, and the water are drawn through it. The water grows more opaque as the pool fills.
+stencil[8] | 38, 174, 16, 16 | The shape of the water in the pump's pool at its bottom-right corner. The ground's texture, darkened, and the water are drawn through it. The water grows more opaque as the pool fills.
+outlet[0] | 63, 139, 16, 16 | The cover over the pump's canal outlet, drawn over the water there. The game turns it to match how the pump is placed.
+sheet[0] normal | 113, 3, 16, 16 | The normal map for sheet[0].
+sheet[20] normal | 113, 19, 16, 16 | The normal map for sheet[20].
+sheet[4] normal | 135, 3, 16, 16 | The normal map for sheet[4].
+sheet[24] normal | 135, 19, 16, 16 | The normal map for sheet[24].
+sheet[8] normal | 157, 3, 16, 16 | The normal map for sheet[8].
+sheet[28] normal | 157, 19, 16, 16 | The normal map for sheet[28].
+sheet[12] normal | 179, 3, 16, 16 | The normal map for sheet[12].
+sheet[32] normal | 179, 19, 16, 16 | The normal map for sheet[32].
+sheet[16] normal | 201, 3, 16, 16 | The normal map for sheet[16].
+sheet[36] normal | 201, 19, 16, 16 | The normal map for sheet[36].
+sheet[40] normal | 113, 41, 16, 16 | The normal map for sheet[40].
+sheet[60] normal | 113, 57, 16, 16 | The normal map for sheet[60].
+sheet[44] normal | 135, 41, 16, 16 | The normal map for sheet[44].
+sheet[64] normal | 135, 57, 16, 16 | The normal map for sheet[64].
+sheet[48] normal | 157, 41, 16, 16 | The normal map for sheet[48].
+sheet[68] normal | 157, 57, 16, 16 | The normal map for sheet[68].
+sheet[52] normal | 179, 41, 16, 16 | The normal map for sheet[52].
+sheet[72] normal | 179, 57, 16, 16 | The normal map for sheet[72].
+sheet[56] normal | 201, 41, 16, 16 | The normal map for sheet[56].
+sheet[76] normal | 201, 57, 16, 16 | The normal map for sheet[76].
+rim[0] normal | 116, 82, 16, 16 | The normal map for rim[0].
+rim[1] normal | 132, 82, 16, 16 | The normal map for rim[1].
+rim[2] normal | 148, 82, 16, 16 | The normal map for rim[2].
+rim[3] normal | 116, 98, 16, 16 | The normal map for rim[3].
+rim[4] normal | 132, 98, 16, 16 | The normal map for rim[4].
+rim[5] normal | 148, 98, 16, 16 | The normal map for rim[5].
+rim[6] normal | 116, 114, 16, 16 | The normal map for rim[6].
+rim[7] normal | 132, 114, 16, 16 | The normal map for rim[7].
+rim[8] normal | 148, 114, 16, 16 | The normal map for rim[8].
+stencil[0] normal | 116, 142, 16, 16 | The normal map for stencil[0].
+stencil[1] normal | 132, 142, 16, 16 | The normal map for stencil[1].
+stencil[2] normal | 148, 142, 16, 16 | The normal map for stencil[2].
+stencil[3] normal | 116, 158, 16, 16 | The normal map for stencil[3].
+stencil[4] normal | 132, 158, 16, 16 | The normal map for stencil[4].
+stencil[5] normal | 148, 158, 16, 16 | The normal map for stencil[5].
+stencil[6] normal | 116, 174, 16, 16 | The normal map for stencil[6].
+stencil[7] normal | 132, 174, 16, 16 | The normal map for stencil[7].
+stencil[8] normal | 148, 174, 16, 16 | The normal map for stencil[8].
+outlet[0] normal | 173, 139, 16, 16 | The normal map for outlet[0].

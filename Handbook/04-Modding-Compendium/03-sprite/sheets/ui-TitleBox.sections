@@ -1,0 +1,40 @@
+titleBoxes[0][0] | 6, 6, 24, 24 | The 24-pixel title box: its left end, drawn just left of the title. Used for titles up to 16 pixels high.
+titleBoxes[0][1] | 30, 6, 24, 24 | The 24-pixel title box: its middle, repeated across the title. Used for titles up to 16 pixels high.
+titleBoxes[0][2] | 54, 6, 24, 24 | The 24-pixel title box: its right end, drawn just right of the title. Used for titles up to 16 pixels high.
+panelClose[0] | 90, 6, 24, 24 | A window's close button, at the top right of the window.
+panelClose[1] | 114, 6, 24, 24 | A window's close button while the mouse is over it.
+titleBoxes[1][0] | 6, 42, 32, 32 | The 32-pixel title box: its left end, drawn just left of the title. Used for titles 17 to 24 pixels high.
+titleBoxes[1][1] | 38, 42, 32, 32 | The 32-pixel title box: its middle, repeated across the title. Used for titles 17 to 24 pixels high.
+titleBoxes[1][2] | 70, 42, 32, 32 | The 32-pixel title box: its right end, drawn just right of the title. Used for titles 17 to 24 pixels high.
+titleBoxes[2][0] | 6, 86, 24, 24 | The 48-pixel title box, used for titles over 24 pixels high: the top-left quarter of its left end.
+titleBoxes[2][1] | 30, 86, 24, 24 | The 48-pixel title box, used for titles over 24 pixels high: the top-right quarter of its left end.
+titleBoxes[2][2] | 54, 86, 24, 24 | The 48-pixel title box, used for titles over 24 pixels high: the top-left quarter of its middle.
+titleBoxes[2][3] | 78, 86, 24, 24 | The 48-pixel title box, used for titles over 24 pixels high: the top-right quarter of its middle.
+titleBoxes[2][4] | 102, 86, 24, 24 | The 48-pixel title box, used for titles over 24 pixels high: the top-left quarter of its right end.
+titleBoxes[2][5] | 126, 86, 24, 24 | The 48-pixel title box, used for titles over 24 pixels high: the top-right quarter of its right end.
+titleBoxes[2][6] | 6, 110, 24, 24 | The 48-pixel title box, used for titles over 24 pixels high: the bottom-left quarter of its left end.
+titleBoxes[2][7] | 30, 110, 24, 24 | The 48-pixel title box, used for titles over 24 pixels high: the bottom-right quarter of its left end.
+titleBoxes[2][8] | 54, 110, 24, 24 | The 48-pixel title box, used for titles over 24 pixels high: the bottom-left quarter of its middle.
+titleBoxes[2][9] | 78, 110, 24, 24 | The 48-pixel title box, used for titles over 24 pixels high: the bottom-right quarter of its middle.
+titleBoxes[2][10] | 102, 110, 24, 24 | The 48-pixel title box, used for titles over 24 pixels high: the bottom-left quarter of its right end.
+titleBoxes[2][11] | 126, 110, 24, 24 | The 48-pixel title box, used for titles over 24 pixels high: the bottom-right quarter of its right end.
+titleBoxes[0][0] normal | 162, 6, 24, 24 | The normal map for titleBoxes[0][0].
+titleBoxes[0][1] normal | 186, 6, 24, 24 | The normal map for titleBoxes[0][1].
+titleBoxes[0][2] normal | 210, 6, 24, 24 | The normal map for titleBoxes[0][2].
+panelClose[0] normal | 246, 6, 24, 24 | The normal map for panelClose[0].
+panelClose[1] normal | 270, 6, 24, 24 | The normal map for panelClose[1].
+titleBoxes[1][0] normal | 162, 42, 32, 32 | The normal map for titleBoxes[1][0].
+titleBoxes[1][1] normal | 194, 42, 32, 32 | The normal map for titleBoxes[1][1].
+titleBoxes[1][2] normal | 226, 42, 32, 32 | The normal map for titleBoxes[1][2].
+titleBoxes[2][0] normal | 162, 86, 24, 24 | The normal map for titleBoxes[2][0].
+titleBoxes[2][1] normal | 186, 86, 24, 24 | The normal map for titleBoxes[2][1].
+titleBoxes[2][2] normal | 210, 86, 24, 24 | The normal map for titleBoxes[2][2].
+titleBoxes[2][3] normal | 234, 86, 24, 24 | The normal map for titleBoxes[2][3].
+titleBoxes[2][4] normal | 258, 86, 24, 24 | The normal map for titleBoxes[2][4].
+titleBoxes[2][5] normal | 282, 86, 24, 24 | The normal map for titleBoxes[2][5].
+titleBoxes[2][6] normal | 162, 110, 24, 24 | The normal map for titleBoxes[2][6].
+titleBoxes[2][7] normal | 186, 110, 24, 24 | The normal map for titleBoxes[2][7].
+titleBoxes[2][8] normal | 210, 110, 24, 24 | The normal map for titleBoxes[2][8].
+titleBoxes[2][9] normal | 234, 110, 24, 24 | The normal map for titleBoxes[2][9].
+titleBoxes[2][10] normal | 258, 110, 24, 24 | The normal map for titleBoxes[2][10].
+titleBoxes[2][11] normal | 282, 110, 24, 24 | The normal map for titleBoxes[2][11].

@@ -1,0 +1,18 @@
+s1 | 6, 6, 16, 16 | The end piece of a gate one tile wide. As painted it's the northern end; the southern end is the same sprite turned half round. The game turns it to match how the gate is placed.
+s2 | 6, 22, 16, 16 | The middle piece of a gate one tile wide, used in the 3-tile and 4-tile gates. The game turns it to match how the gate is placed.
+s3 | 6, 38, 16, 16 | The second middle piece of the 4-tile gate one tile wide, after s2. The game turns it to match how the gate is placed.
+s1_1 | 34, 6, 16, 16 | The left-hand end piece of a gate two tiles wide. As painted it's at the northern end; the southern end uses s1_2 turned half round in this place. The game turns it to match how the gate is placed.
+s1_2 | 50, 6, 16, 16 | The right-hand end piece of a gate two tiles wide. As painted it's at the northern end; the southern end uses s1_1 turned half round in this place. The game turns it to match how the gate is placed.
+s2_1 | 34, 22, 16, 16 | The left-hand middle piece of a gate two tiles wide. It comes after the end piece and alternates with s3_1 down the gate. The game turns it to match how the gate is placed.
+s2_2 | 50, 22, 16, 16 | The right-hand middle piece of a gate two tiles wide. It comes after the end piece and alternates with s3_2 down the gate. The game turns it to match how the gate is placed.
+s3_1 | 34, 38, 16, 16 | The left-hand middle piece of a gate two tiles wide, alternating with s2_1. The game turns it to match how the gate is placed.
+s3_2 | 50, 38, 16, 16 | The right-hand middle piece of a gate two tiles wide, alternating with s2_2. The game turns it to match how the gate is placed.
+s1 normal | 78, 6, 16, 16 | The normal map for s1.
+s2 normal | 78, 22, 16, 16 | The normal map for s2.
+s3 normal | 78, 38, 16, 16 | The normal map for s3.
+s1_1 normal | 106, 6, 16, 16 | The normal map for s1_1.
+s1_2 normal | 122, 6, 16, 16 | The normal map for s1_2.
+s2_1 normal | 106, 22, 16, 16 | The normal map for s2_1.
+s2_2 normal | 122, 22, 16, 16 | The normal map for s2_2.
+s3_1 normal | 106, 38, 16, 16 | The normal map for s3_1.
+s3_2 normal | 122, 38, 16, 16 | The normal map for s3_2.

@@ -1,0 +1,54 @@
+thin[0] | 6, 6, 24, 24 | The top-left corner of the default window frame.
+thin[1] | 30, 6, 24, 24 | The top edge of the default window frame. Repeated every 24 pixels along that side.
+thin[2] | 54, 6, 24, 24 | The top-right corner of the default window frame.
+thin[3] | 6, 30, 24, 24 | The left edge of the default window frame. Repeated every 24 pixels along that side.
+thin[4] | 30, 30, 24, 24 | The middle of the default window frame. Repeated every 24 pixels to fill the panel.
+thin[5] | 54, 30, 24, 24 | The right edge of the default window frame. Repeated every 24 pixels along that side.
+thin[6] | 6, 54, 24, 24 | The bottom-left corner of the default window frame.
+thin[7] | 30, 54, 24, 24 | The bottom edge of the default window frame. Repeated every 24 pixels along that side.
+thin[8] | 54, 54, 24, 24 | The bottom-right corner of the default window frame.
+butt[0] | 90, 6, 24, 24 | The top-left corner of the frame used, for example, by side panels and popups.
+butt[1] | 114, 6, 24, 24 | The top edge of the frame used, for example, by side panels and popups. Repeated every 24 pixels along that side.
+butt[2] | 138, 6, 24, 24 | The top-right corner of the frame used, for example, by side panels and popups.
+butt[3] | 90, 30, 24, 24 | The left edge of the frame used, for example, by side panels and popups. Repeated every 24 pixels along that side.
+butt[4] | 114, 30, 24, 24 | The middle of the frame used, for example, by side panels and popups. Repeated every 24 pixels to fill the panel.
+butt[5] | 138, 30, 24, 24 | The right edge of the frame used, for example, by side panels and popups. Repeated every 24 pixels along that side.
+butt[6] | 90, 54, 24, 24 | The bottom-left corner of the frame used, for example, by side panels and popups.
+butt[7] | 114, 54, 24, 24 | The bottom edge of the frame used, for example, by side panels and popups. Repeated every 24 pixels along that side.
+butt[8] | 138, 54, 24, 24 | The bottom-right corner of the frame used, for example, by side panels and popups.
+big[0] | 174, 6, 24, 24 | The top-left corner of the large frame used, for example, by messages and yes-or-no questions.
+big[1] | 198, 6, 24, 24 | The top edge of the large frame used, for example, by messages and yes-or-no questions. Repeated every 24 pixels along that side.
+big[2] | 222, 6, 24, 24 | The top-right corner of the large frame used, for example, by messages and yes-or-no questions.
+big[3] | 174, 30, 24, 24 | The left edge of the large frame used, for example, by messages and yes-or-no questions. Repeated every 24 pixels along that side.
+big[4] | 198, 30, 24, 24 | The middle of the large frame used, for example, by messages and yes-or-no questions. Repeated every 24 pixels to fill the panel.
+big[5] | 222, 30, 24, 24 | The right edge of the large frame used, for example, by messages and yes-or-no questions. Repeated every 24 pixels along that side.
+big[6] | 174, 54, 24, 24 | The bottom-left corner of the large frame used, for example, by messages and yes-or-no questions.
+big[7] | 198, 54, 24, 24 | The bottom edge of the large frame used, for example, by messages and yes-or-no questions. Repeated every 24 pixels along that side.
+big[8] | 222, 54, 24, 24 | The bottom-right corner of the large frame used, for example, by messages and yes-or-no questions.
+thin[0] normal | 258, 6, 24, 24 | The normal map for thin[0].
+thin[1] normal | 282, 6, 24, 24 | The normal map for thin[1].
+thin[2] normal | 306, 6, 24, 24 | The normal map for thin[2].
+thin[3] normal | 258, 30, 24, 24 | The normal map for thin[3].
+thin[4] normal | 282, 30, 24, 24 | The normal map for thin[4].
+thin[5] normal | 306, 30, 24, 24 | The normal map for thin[5].
+thin[6] normal | 258, 54, 24, 24 | The normal map for thin[6].
+thin[7] normal | 282, 54, 24, 24 | The normal map for thin[7].
+thin[8] normal | 306, 54, 24, 24 | The normal map for thin[8].
+butt[0] normal | 342, 6, 24, 24 | The normal map for butt[0].
+butt[1] normal | 366, 6, 24, 24 | The normal map for butt[1].
+butt[2] normal | 390, 6, 24, 24 | The normal map for butt[2].
+butt[3] normal | 342, 30, 24, 24 | The normal map for butt[3].
+butt[4] normal | 366, 30, 24, 24 | The normal map for butt[4].
+butt[5] normal | 390, 30, 24, 24 | The normal map for butt[5].
+butt[6] normal | 342, 54, 24, 24 | The normal map for butt[6].
+butt[7] normal | 366, 54, 24, 24 | The normal map for butt[7].
+butt[8] normal | 390, 54, 24, 24 | The normal map for butt[8].
+big[0] normal | 426, 6, 24, 24 | The normal map for big[0].
+big[1] normal | 450, 6, 24, 24 | The normal map for big[1].
+big[2] normal | 474, 6, 24, 24 | The normal map for big[2].
+big[3] normal | 426, 30, 24, 24 | The normal map for big[3].
+big[4] normal | 450, 30, 24, 24 | The normal map for big[4].
+big[5] normal | 474, 30, 24, 24 | The normal map for big[5].
+big[6] normal | 426, 54, 24, 24 | The normal map for big[6].
+big[7] normal | 450, 54, 24, 24 | The normal map for big[7].
+big[8] normal | 474, 54, 24, 24 | The normal map for big[8].

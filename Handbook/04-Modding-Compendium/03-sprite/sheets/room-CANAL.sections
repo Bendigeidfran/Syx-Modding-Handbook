@@ -1,0 +1,132 @@
+edge[0] | 54, 54, 16, 16 | The bank of a canal or culvert tile joined to canal, a culvert or a pump's canal outlet on no side. One of 4 versions picked at random: the first two blocks and their copies turned 90 degrees. It casts a low shadow.
+edge[1] | 54, 34, 16, 16 | The bank of a canal or culvert tile joined to canal, a culvert or a pump's canal outlet to the north. One of 4 versions picked at random: the first two blocks and their copies turned 90 degrees. It casts a low shadow.
+edge[2] | 2, 54, 16, 16 | The bank of a canal or culvert tile joined to canal, a culvert or a pump's canal outlet to the east. One of 4 versions picked at random: the first two blocks and their copies turned 90 degrees. It casts a low shadow.
+edge[3] | 2, 34, 16, 16 | The bank of a canal or culvert tile joined to canal, a culvert or a pump's canal outlet to the north and east. One of 4 versions picked at random: the first two blocks and their copies turned 90 degrees. It casts a low shadow.
+edge[4] | 54, 2, 16, 16 | The bank of a canal or culvert tile joined to canal, a culvert or a pump's canal outlet to the south. One of 4 versions picked at random: the first two blocks and their copies turned 90 degrees. It casts a low shadow.
+edge[5] | 54, 18, 16, 16 | The bank of a canal or culvert tile joined to canal, a culvert or a pump's canal outlet to the north and south. One of 4 versions picked at random: the first two blocks and their copies turned 90 degrees. It casts a low shadow.
+edge[6] | 2, 2, 16, 16 | The bank of a canal or culvert tile joined to canal, a culvert or a pump's canal outlet to the east and south. One of 4 versions picked at random: the first two blocks and their copies turned 90 degrees. It casts a low shadow.
+edge[7] | 2, 18, 16, 16 | The bank of a canal or culvert tile joined to canal, a culvert or a pump's canal outlet to the north, east and south. One of 4 versions picked at random: the first two blocks and their copies turned 90 degrees. It casts a low shadow.
+edge[8] | 34, 54, 16, 16 | The bank of a canal or culvert tile joined to canal, a culvert or a pump's canal outlet to the west. One of 4 versions picked at random: the first two blocks and their copies turned 90 degrees. It casts a low shadow.
+edge[9] | 34, 34, 16, 16 | The bank of a canal or culvert tile joined to canal, a culvert or a pump's canal outlet to the north and west. One of 4 versions picked at random: the first two blocks and their copies turned 90 degrees. It casts a low shadow.
+edge[10] | 18, 54, 16, 16 | The bank of a canal or culvert tile joined to canal, a culvert or a pump's canal outlet to the east and west. One of 4 versions picked at random: the first two blocks and their copies turned 90 degrees. It casts a low shadow.
+edge[11] | 18, 34, 16, 16 | The bank of a canal or culvert tile joined to canal, a culvert or a pump's canal outlet to the north, east and west. One of 4 versions picked at random: the first two blocks and their copies turned 90 degrees. It casts a low shadow.
+edge[12] | 34, 2, 16, 16 | The bank of a canal or culvert tile joined to canal, a culvert or a pump's canal outlet to the south and west. One of 4 versions picked at random: the first two blocks and their copies turned 90 degrees. It casts a low shadow.
+edge[13] | 34, 18, 16, 16 | The bank of a canal or culvert tile joined to canal, a culvert or a pump's canal outlet to the north, south and west. One of 4 versions picked at random: the first two blocks and their copies turned 90 degrees. It casts a low shadow.
+edge[14] | 18, 2, 16, 16 | The bank of a canal or culvert tile joined to canal, a culvert or a pump's canal outlet to the east, south and west. One of 4 versions picked at random: the first two blocks and their copies turned 90 degrees. It casts a low shadow.
+edge[15] | 18, 18, 16, 16 | The bank of a canal or culvert tile joined to canal, a culvert or a pump's canal outlet on all four sides. One of 4 versions picked at random: the first two blocks and their copies turned 90 degrees. It casts a low shadow.
+edge[32] | 126, 54, 16, 16 | The bank of a canal or culvert tile joined to canal, a culvert or a pump's canal outlet on no side. One of 4 versions picked at random: the first two blocks and their copies turned 90 degrees. It casts a low shadow.
+edge[33] | 126, 34, 16, 16 | The bank of a canal or culvert tile joined to canal, a culvert or a pump's canal outlet to the north. One of 4 versions picked at random: the first two blocks and their copies turned 90 degrees. It casts a low shadow.
+edge[34] | 74, 54, 16, 16 | The bank of a canal or culvert tile joined to canal, a culvert or a pump's canal outlet to the east. One of 4 versions picked at random: the first two blocks and their copies turned 90 degrees. It casts a low shadow.
+edge[35] | 74, 34, 16, 16 | The bank of a canal or culvert tile joined to canal, a culvert or a pump's canal outlet to the north and east. One of 4 versions picked at random: the first two blocks and their copies turned 90 degrees. It casts a low shadow.
+edge[36] | 126, 2, 16, 16 | The bank of a canal or culvert tile joined to canal, a culvert or a pump's canal outlet to the south. One of 4 versions picked at random: the first two blocks and their copies turned 90 degrees. It casts a low shadow.
+edge[37] | 126, 18, 16, 16 | The bank of a canal or culvert tile joined to canal, a culvert or a pump's canal outlet to the north and south. One of 4 versions picked at random: the first two blocks and their copies turned 90 degrees. It casts a low shadow.
+edge[38] | 74, 2, 16, 16 | The bank of a canal or culvert tile joined to canal, a culvert or a pump's canal outlet to the east and south. One of 4 versions picked at random: the first two blocks and their copies turned 90 degrees. It casts a low shadow.
+edge[39] | 74, 18, 16, 16 | The bank of a canal or culvert tile joined to canal, a culvert or a pump's canal outlet to the north, east and south. One of 4 versions picked at random: the first two blocks and their copies turned 90 degrees. It casts a low shadow.
+edge[40] | 106, 54, 16, 16 | The bank of a canal or culvert tile joined to canal, a culvert or a pump's canal outlet to the west. One of 4 versions picked at random: the first two blocks and their copies turned 90 degrees. It casts a low shadow.
+edge[41] | 106, 34, 16, 16 | The bank of a canal or culvert tile joined to canal, a culvert or a pump's canal outlet to the north and west. One of 4 versions picked at random: the first two blocks and their copies turned 90 degrees. It casts a low shadow.
+edge[42] | 90, 54, 16, 16 | The bank of a canal or culvert tile joined to canal, a culvert or a pump's canal outlet to the east and west. One of 4 versions picked at random: the first two blocks and their copies turned 90 degrees. It casts a low shadow.
+edge[43] | 90, 34, 16, 16 | The bank of a canal or culvert tile joined to canal, a culvert or a pump's canal outlet to the north, east and west. One of 4 versions picked at random: the first two blocks and their copies turned 90 degrees. It casts a low shadow.
+edge[44] | 106, 2, 16, 16 | The bank of a canal or culvert tile joined to canal, a culvert or a pump's canal outlet to the south and west. One of 4 versions picked at random: the first two blocks and their copies turned 90 degrees. It casts a low shadow.
+edge[45] | 106, 18, 16, 16 | The bank of a canal or culvert tile joined to canal, a culvert or a pump's canal outlet to the north, south and west. One of 4 versions picked at random: the first two blocks and their copies turned 90 degrees. It casts a low shadow.
+edge[46] | 90, 2, 16, 16 | The bank of a canal or culvert tile joined to canal, a culvert or a pump's canal outlet to the east, south and west. One of 4 versions picked at random: the first two blocks and their copies turned 90 degrees. It casts a low shadow.
+edge[47] | 90, 18, 16, 16 | The bank of a canal or culvert tile joined to canal, a culvert or a pump's canal outlet on all four sides. One of 4 versions picked at random: the first two blocks and their copies turned 90 degrees. It casts a low shadow.
+stencil[0] | 54, 126, 16, 16 | The shape of the water on a tile joined to canal, a culvert or a pump's canal outlet on no side. The ground's own texture, darkened, is drawn through it, then the flowing water over that.
+stencil[1] | 54, 106, 16, 16 | The shape of the water on a tile joined to canal, a culvert or a pump's canal outlet to the north. The ground's own texture, darkened, is drawn through it, then the flowing water over that.
+stencil[2] | 2, 126, 16, 16 | The shape of the water on a tile joined to canal, a culvert or a pump's canal outlet to the east. The ground's own texture, darkened, is drawn through it, then the flowing water over that.
+stencil[3] | 2, 106, 16, 16 | The shape of the water on a tile joined to canal, a culvert or a pump's canal outlet to the north and east. The ground's own texture, darkened, is drawn through it, then the flowing water over that.
+stencil[4] | 54, 74, 16, 16 | The shape of the water on a tile joined to canal, a culvert or a pump's canal outlet to the south. The ground's own texture, darkened, is drawn through it, then the flowing water over that.
+stencil[5] | 54, 90, 16, 16 | The shape of the water on a tile joined to canal, a culvert or a pump's canal outlet to the north and south. The ground's own texture, darkened, is drawn through it, then the flowing water over that.
+stencil[6] | 2, 74, 16, 16 | The shape of the water on a tile joined to canal, a culvert or a pump's canal outlet to the east and south. The ground's own texture, darkened, is drawn through it, then the flowing water over that.
+stencil[7] | 2, 90, 16, 16 | The shape of the water on a tile joined to canal, a culvert or a pump's canal outlet to the north, east and south. The ground's own texture, darkened, is drawn through it, then the flowing water over that.
+stencil[8] | 34, 126, 16, 16 | The shape of the water on a tile joined to canal, a culvert or a pump's canal outlet to the west. The ground's own texture, darkened, is drawn through it, then the flowing water over that.
+stencil[9] | 34, 106, 16, 16 | The shape of the water on a tile joined to canal, a culvert or a pump's canal outlet to the north and west. The ground's own texture, darkened, is drawn through it, then the flowing water over that.
+stencil[10] | 18, 126, 16, 16 | The shape of the water on a tile joined to canal, a culvert or a pump's canal outlet to the east and west. The ground's own texture, darkened, is drawn through it, then the flowing water over that.
+stencil[11] | 18, 106, 16, 16 | The shape of the water on a tile joined to canal, a culvert or a pump's canal outlet to the north, east and west. The ground's own texture, darkened, is drawn through it, then the flowing water over that.
+stencil[12] | 34, 74, 16, 16 | The shape of the water on a tile joined to canal, a culvert or a pump's canal outlet to the south and west. The ground's own texture, darkened, is drawn through it, then the flowing water over that.
+stencil[13] | 34, 90, 16, 16 | The shape of the water on a tile joined to canal, a culvert or a pump's canal outlet to the north, south and west. The ground's own texture, darkened, is drawn through it, then the flowing water over that.
+stencil[14] | 18, 74, 16, 16 | The shape of the water on a tile joined to canal, a culvert or a pump's canal outlet to the east, south and west. The ground's own texture, darkened, is drawn through it, then the flowing water over that.
+stencil[15] | 18, 90, 16, 16 | The shape of the water on a tile joined to canal, a culvert or a pump's canal outlet on all four sides. The ground's own texture, darkened, is drawn through it, then the flowing water over that.
+sroad[0] | 126, 126, 16, 16 | Used only on a canal tile with a bridge across it, joined to canal, a culvert or a pump's canal outlet on no side. It takes the place of stencil as the shape the game passes to the renderer's depth limit. The ground and water are still drawn through stencil.
+sroad[1] | 126, 106, 16, 16 | Used only on a canal tile with a bridge across it, joined to canal, a culvert or a pump's canal outlet to the north. It takes the place of stencil as the shape the game passes to the renderer's depth limit. The ground and water are still drawn through stencil.
+sroad[2] | 74, 126, 16, 16 | Used only on a canal tile with a bridge across it, joined to canal, a culvert or a pump's canal outlet to the east. It takes the place of stencil as the shape the game passes to the renderer's depth limit. The ground and water are still drawn through stencil.
+sroad[3] | 74, 106, 16, 16 | Used only on a canal tile with a bridge across it, joined to canal, a culvert or a pump's canal outlet to the north and east. It takes the place of stencil as the shape the game passes to the renderer's depth limit. The ground and water are still drawn through stencil.
+sroad[4] | 126, 74, 16, 16 | Used only on a canal tile with a bridge across it, joined to canal, a culvert or a pump's canal outlet to the south. It takes the place of stencil as the shape the game passes to the renderer's depth limit. The ground and water are still drawn through stencil.
+sroad[5] | 126, 90, 16, 16 | Used only on a canal tile with a bridge across it, joined to canal, a culvert or a pump's canal outlet to the north and south. It takes the place of stencil as the shape the game passes to the renderer's depth limit. The ground and water are still drawn through stencil.
+sroad[6] | 74, 74, 16, 16 | Used only on a canal tile with a bridge across it, joined to canal, a culvert or a pump's canal outlet to the east and south. It takes the place of stencil as the shape the game passes to the renderer's depth limit. The ground and water are still drawn through stencil.
+sroad[7] | 74, 90, 16, 16 | Used only on a canal tile with a bridge across it, joined to canal, a culvert or a pump's canal outlet to the north, east and south. It takes the place of stencil as the shape the game passes to the renderer's depth limit. The ground and water are still drawn through stencil.
+sroad[8] | 106, 126, 16, 16 | Used only on a canal tile with a bridge across it, joined to canal, a culvert or a pump's canal outlet to the west. It takes the place of stencil as the shape the game passes to the renderer's depth limit. The ground and water are still drawn through stencil.
+sroad[9] | 106, 106, 16, 16 | Used only on a canal tile with a bridge across it, joined to canal, a culvert or a pump's canal outlet to the north and west. It takes the place of stencil as the shape the game passes to the renderer's depth limit. The ground and water are still drawn through stencil.
+sroad[10] | 90, 126, 16, 16 | Used only on a canal tile with a bridge across it, joined to canal, a culvert or a pump's canal outlet to the east and west. It takes the place of stencil as the shape the game passes to the renderer's depth limit. The ground and water are still drawn through stencil.
+sroad[11] | 90, 106, 16, 16 | Used only on a canal tile with a bridge across it, joined to canal, a culvert or a pump's canal outlet to the north, east and west. It takes the place of stencil as the shape the game passes to the renderer's depth limit. The ground and water are still drawn through stencil.
+sroad[12] | 106, 74, 16, 16 | Used only on a canal tile with a bridge across it, joined to canal, a culvert or a pump's canal outlet to the south and west. It takes the place of stencil as the shape the game passes to the renderer's depth limit. The ground and water are still drawn through stencil.
+sroad[13] | 106, 90, 16, 16 | Used only on a canal tile with a bridge across it, joined to canal, a culvert or a pump's canal outlet to the north, south and west. It takes the place of stencil as the shape the game passes to the renderer's depth limit. The ground and water are still drawn through stencil.
+sroad[14] | 90, 74, 16, 16 | Used only on a canal tile with a bridge across it, joined to canal, a culvert or a pump's canal outlet to the east, south and west. It takes the place of stencil as the shape the game passes to the renderer's depth limit. The ground and water are still drawn through stencil.
+sroad[15] | 90, 90, 16, 16 | Used only on a canal tile with a bridge across it, joined to canal, a culvert or a pump's canal outlet on all four sides. It takes the place of stencil as the shape the game passes to the renderer's depth limit. The ground and water are still drawn through stencil.
+sbridge[0] | 6, 150, 16, 16 | A bridge across a canal. One of 8 picked at random: these two cells in all four turns, whichever way the bridge runs. It casts a low shadow.
+sbridge[1] | 28, 150, 16, 16 | A bridge across a canal. One of 8 picked at random: these two cells in all four turns, whichever way the bridge runs. It casts a low shadow.
+edge[0] normal | 198, 54, 16, 16 | The normal map for edge[0].
+edge[1] normal | 198, 34, 16, 16 | The normal map for edge[1].
+edge[2] normal | 146, 54, 16, 16 | The normal map for edge[2].
+edge[3] normal | 146, 34, 16, 16 | The normal map for edge[3].
+edge[4] normal | 198, 2, 16, 16 | The normal map for edge[4].
+edge[5] normal | 198, 18, 16, 16 | The normal map for edge[5].
+edge[6] normal | 146, 2, 16, 16 | The normal map for edge[6].
+edge[7] normal | 146, 18, 16, 16 | The normal map for edge[7].
+edge[8] normal | 178, 54, 16, 16 | The normal map for edge[8].
+edge[9] normal | 178, 34, 16, 16 | The normal map for edge[9].
+edge[10] normal | 162, 54, 16, 16 | The normal map for edge[10].
+edge[11] normal | 162, 34, 16, 16 | The normal map for edge[11].
+edge[12] normal | 178, 2, 16, 16 | The normal map for edge[12].
+edge[13] normal | 178, 18, 16, 16 | The normal map for edge[13].
+edge[14] normal | 162, 2, 16, 16 | The normal map for edge[14].
+edge[15] normal | 162, 18, 16, 16 | The normal map for edge[15].
+edge[32] normal | 270, 54, 16, 16 | The normal map for edge[32].
+edge[33] normal | 270, 34, 16, 16 | The normal map for edge[33].
+edge[34] normal | 218, 54, 16, 16 | The normal map for edge[34].
+edge[35] normal | 218, 34, 16, 16 | The normal map for edge[35].
+edge[36] normal | 270, 2, 16, 16 | The normal map for edge[36].
+edge[37] normal | 270, 18, 16, 16 | The normal map for edge[37].
+edge[38] normal | 218, 2, 16, 16 | The normal map for edge[38].
+edge[39] normal | 218, 18, 16, 16 | The normal map for edge[39].
+edge[40] normal | 250, 54, 16, 16 | The normal map for edge[40].
+edge[41] normal | 250, 34, 16, 16 | The normal map for edge[41].
+edge[42] normal | 234, 54, 16, 16 | The normal map for edge[42].
+edge[43] normal | 234, 34, 16, 16 | The normal map for edge[43].
+edge[44] normal | 250, 2, 16, 16 | The normal map for edge[44].
+edge[45] normal | 250, 18, 16, 16 | The normal map for edge[45].
+edge[46] normal | 234, 2, 16, 16 | The normal map for edge[46].
+edge[47] normal | 234, 18, 16, 16 | The normal map for edge[47].
+stencil[0] normal | 198, 126, 16, 16 | The normal map for stencil[0].
+stencil[1] normal | 198, 106, 16, 16 | The normal map for stencil[1].
+stencil[2] normal | 146, 126, 16, 16 | The normal map for stencil[2].
+stencil[3] normal | 146, 106, 16, 16 | The normal map for stencil[3].
+stencil[4] normal | 198, 74, 16, 16 | The normal map for stencil[4].
+stencil[5] normal | 198, 90, 16, 16 | The normal map for stencil[5].
+stencil[6] normal | 146, 74, 16, 16 | The normal map for stencil[6].
+stencil[7] normal | 146, 90, 16, 16 | The normal map for stencil[7].
+stencil[8] normal | 178, 126, 16, 16 | The normal map for stencil[8].
+stencil[9] normal | 178, 106, 16, 16 | The normal map for stencil[9].
+stencil[10] normal | 162, 126, 16, 16 | The normal map for stencil[10].
+stencil[11] normal | 162, 106, 16, 16 | The normal map for stencil[11].
+stencil[12] normal | 178, 74, 16, 16 | The normal map for stencil[12].
+stencil[13] normal | 178, 90, 16, 16 | The normal map for stencil[13].
+stencil[14] normal | 162, 74, 16, 16 | The normal map for stencil[14].
+stencil[15] normal | 162, 90, 16, 16 | The normal map for stencil[15].
+sroad[0] normal | 270, 126, 16, 16 | The normal map for sroad[0].
+sroad[1] normal | 270, 106, 16, 16 | The normal map for sroad[1].
+sroad[2] normal | 218, 126, 16, 16 | The normal map for sroad[2].
+sroad[3] normal | 218, 106, 16, 16 | The normal map for sroad[3].
+sroad[4] normal | 270, 74, 16, 16 | The normal map for sroad[4].
+sroad[5] normal | 270, 90, 16, 16 | The normal map for sroad[5].
+sroad[6] normal | 218, 74, 16, 16 | The normal map for sroad[6].
+sroad[7] normal | 218, 90, 16, 16 | The normal map for sroad[7].
+sroad[8] normal | 250, 126, 16, 16 | The normal map for sroad[8].
+sroad[9] normal | 250, 106, 16, 16 | The normal map for sroad[9].
+sroad[10] normal | 234, 126, 16, 16 | The normal map for sroad[10].
+sroad[11] normal | 234, 106, 16, 16 | The normal map for sroad[11].
+sroad[12] normal | 250, 74, 16, 16 | The normal map for sroad[12].
+sroad[13] normal | 250, 90, 16, 16 | The normal map for sroad[13].
+sroad[14] normal | 234, 74, 16, 16 | The normal map for sroad[14].
+sroad[15] normal | 234, 90, 16, 16 | The normal map for sroad[15].
+sbridge[0] normal | 150, 150, 16, 16 | The normal map for sbridge[0].
+sbridge[1] normal | 172, 150, 16, 16 | The normal map for sbridge[1].
