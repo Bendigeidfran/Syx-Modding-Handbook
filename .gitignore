@@ -2,6 +2,7 @@
 # Everything else in this folder is ignored by default.
 /*
 !/.gitignore
+!/ACCESSIBILITY.md
 !/LICENSE
 !/README.md
 !/mkdocs.yml

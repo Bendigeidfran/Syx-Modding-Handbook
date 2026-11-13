@@ -42,6 +42,7 @@
   }
 
   function hide() {
+    clearTimeout(leaving);
     current = null;
     if (tip) tip.classList.remove("is-open");
   }
@@ -51,17 +52,34 @@
     return el && el.closest ? el.closest(".sheet-part") : null;
   }
 
-  document.addEventListener("mouseover", function (e) {
-    var part = partOf(e);
-    if (part) show(part);
-  });
-  document.addEventListener("mouseout", function (e) {
-    if (partOf(e)) {
+  function onTip(el) {
+    return tip && el && tip.contains(el);
+  }
+
+  // WCAG 1.4.13: the pointer can cross the gap onto the tooltip and stay there
+  // without it closing, so it closes a moment after the pointer leaves both.
+  var leaving = null;
+  function leave() {
+    clearTimeout(leaving);
+    leaving = setTimeout(function () {
       // Keep showing the section that has keyboard or tap focus.
       var focused = document.activeElement;
       if (focused && focused.classList && focused.classList.contains("sheet-part")) show(focused);
       else hide();
+    }, 300);
+  }
+
+  document.addEventListener("mouseover", function (e) {
+    var part = partOf(e);
+    if (part) {
+      clearTimeout(leaving);
+      show(part);
+    } else if (onTip(e.target)) {
+      clearTimeout(leaving);
     }
+  });
+  document.addEventListener("mouseout", function (e) {
+    if ((partOf(e) || onTip(e.target)) && !onTip(e.relatedTarget)) leave();
   });
   document.addEventListener("focusin", function (e) {
     var part = partOf(e);

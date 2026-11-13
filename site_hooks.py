@@ -2,8 +2,12 @@
 
 The handbook keeps the PDF's file layout: a "00-" page is its folder's title
 page. These hooks make MkDocs treat those pages as folder index pages, and name
-each nav section after its title page. They change navigation and URLs only,
-never page content, so the site and the PDF stay identical.
+each nav section after its title page. They change navigation, URLs and
+markup only, never the text of a page, so the site and the PDF stay identical.
+
+Facts tables are written with an empty header row (| | |) and a label in each
+row's first cell. For screen readers, the empty header row is dropped and each
+first cell becomes a row header, so a value is announced with its label.
 
 MkDocs lists a folder's files before its sub-folders, so the nav is set
 explicitly to the PDF's order: a depth-first walk sorted by name, as in
@@ -46,3 +50,22 @@ def on_nav(nav, config, files):
 
     walk(nav.items)
     return nav
+
+
+EMPTY_HEAD = re.compile(r"<thead>\s*<tr>\s*(?:<th[^>]*>\s*</th>\s*)+</tr>\s*</thead>\s*")
+TABLE = re.compile(r"<table>(?:(?!</table>).)*</table>", re.S)
+FIRST_CELL = re.compile(r"(<tr>\s*)<td([^>]*)>(.*?)</td>", re.S)
+
+
+def _facts_table(match):
+    table = match.group(0)
+    if not EMPTY_HEAD.search(table):
+        return table
+    table = EMPTY_HEAD.sub("", table, count=1)
+    return FIRST_CELL.sub(r'\1<th scope="row"\2>\3</th>', table)
+
+
+def on_page_content(content, page, config, files):
+    if "<thead>" not in content:
+        return content
+    return TABLE.sub(_facts_table, content)

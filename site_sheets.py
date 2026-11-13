@@ -10,7 +10,14 @@ The position is in the image's own pixels. The button stays still and covers its
 part of the image while its art lifts, so a section is only ever drawn once. The
 tooltip text goes in attributes, which the search index doesn't read.
 
-These tooltips are only on the site for now. The PDF prints the plain image.
+Below the sheet, a collapsed list gives every section's name, position and
+text. Sprites can be smaller than the 24 px touch target WCAG 2.2 asks for
+(2.5.8), and the list is the equivalent way to reach the same information. It
+also lets screen reader users read the sections in order. The list is left out
+of the search index, as the tooltips are.
+
+These tooltips and the list are only on the site for now. The PDF prints the
+plain image.
 
 A section outside the image or a malformed line is logged as a warning, which
 makes "mkdocs build --strict" fail.
@@ -70,6 +77,24 @@ def _part(src, title, tip, x, y, w, h, width, height):
     )
 
 
+def _row(title, tip, x, y, w, h):
+    return (
+        f'<tr><th scope="row">{html.escape(title)}</th>'
+        f"<td><code>{x}, {y}, {w}, {h}</code></td><td>{html.escape(tip)}</td></tr>"
+    )
+
+
+def _list(sections):
+    rows = "".join(_row(*s) for s in sections)
+    count = len(sections)
+    return (
+        f'<details class="sheet-list" data-search-exclude="1">'
+        f'<summary>All {count} section{"" if count == 1 else "s"} of this sheet</summary>'
+        f'<table><thead><tr><th scope="col">Section</th><th scope="col">Position</th>'
+        f'<th scope="col">What it is</th></tr></thead><tbody>{rows}</tbody></table></details>'
+    )
+
+
 def _sections(path, where, width, height):
     parts = []
     with open(path, encoding="utf-8") as fh:
@@ -113,9 +138,10 @@ def on_page_content(content, page, config, files):
             return match.group(0)
         width, height = size
 
+        sections = _sections(path, where, width, height)
         parts = [
             _part(src, title, tip, x, y, w, h, width, height)
-            for title, tip, x, y, w, h in _sections(path, where, width, height)
+            for title, tip, x, y, w, h in sections
         ]
         # A whole-number zoom keeps the pixels crisp.
         zoom = max(1, min(MAX_ZOOM, MAX_WIDTH // width, MAX_HEIGHT // height))
@@ -123,6 +149,7 @@ def on_page_content(content, page, config, files):
             f'<figure class="sheet" style="width:{width * zoom}px">'
             f'<img alt="{match.group("alt")}" src="{src}" width="{width}" height="{height}">'
             f'{"".join(parts)}</figure>'
+            f"{_list(sections) if sections else ''}"
         )
 
     return IMAGE.sub(build, content)

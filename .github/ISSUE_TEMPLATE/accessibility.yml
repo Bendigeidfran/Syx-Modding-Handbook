@@ -1,0 +1,21 @@
+name: Report an accessibility problem
+description: Something on the site or in the PDF is hard or impossible to use.
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page
+      description: The page's address or title. Write "PDF" if it's in the PDF.
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What were you trying to do, and what went wrong?
+    validations:
+      required: true
+  - type: input
+    id: setup
+    attributes:
+      label: What you use to browse (optional)
+      description: For example a screen reader and its version, zoom, keyboard only, or a high-contrast setting. Only share what you're happy to.

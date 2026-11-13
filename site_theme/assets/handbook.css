@@ -51,9 +51,24 @@
   border-left: 3px solid #b08a4a;
 }
 
-/* Facts tables are written with an empty header row (| | |); don't draw it. */
-.md-typeset table:not([class]) thead:not(:has(th:not(:empty))) {
-  display: none;
+/* Accessibility (WCAG 2.2 AA). */
+
+/* 1.4.1: links in text are underlined, not shown by colour alone. */
+.md-typeset a:not(.headerlink),
+.md-copyright a {
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+/* 1.4.3: Material's footer text is just under 4.5:1. */
+.md-copyright {
+  color: var(--md-footer-fg-color--light);
+}
+
+/* 2.5.8: sidebar and contents links are at least 24px tall. */
+.md-nav__link {
+  min-height: 24px;
+  align-items: center;
 }
 
 /* Interactive sprite sheets (site_sheets.py, sheets.js). */
@@ -85,9 +100,14 @@
   padding: 0;
   border: 0;
   background: none;
-  outline: 1px dashed rgba(176, 138, 74, 0.55);
+  /* 1.4.11: the section outlines and the focus outline are at least 3:1 against the checkered backing. */
+  outline: 1px dashed rgba(122, 79, 18, 0.85);
   outline-offset: -1px;
   cursor: help;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .sheet-part {
+  outline-color: #b08a4a;
 }
 
 /* The art is what lifts. The button stays put, so the hover area doesn't move. */
@@ -115,9 +135,14 @@
 
 .md-typeset .sheet-part:hover .sheet-art,
 .md-typeset .sheet-part:focus .sheet-art {
-  outline: 2px solid #b08a4a;
+  outline: 2px solid #7a4f12;
   transform: translateY(-5px) scale(1.04);
   box-shadow: 0 10px 18px rgba(0, 0, 0, 0.55);
+}
+
+[data-md-color-scheme="slate"] .md-typeset .sheet-part:hover .sheet-art,
+[data-md-color-scheme="slate"] .md-typeset .sheet-part:focus .sheet-art {
+  outline-color: #b08a4a;
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -138,7 +163,6 @@
   font-size: 0.7rem;
   line-height: 1.4;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.45);
-  pointer-events: none;
   visibility: hidden;
 }
 
@@ -154,4 +178,71 @@
 
 .sheet-tip span {
   display: block;
+}
+
+/* The list of a sheet's sections, below the sheet. Material styles every
+   details element as a callout box; this one is plain. */
+.md-typeset details.sheet-list {
+  display: block;
+  margin: 0 0 1.5em;
+  padding: 0;
+  font-size: inherit;
+  color: inherit;
+  background: none;
+  border: 0;
+  box-shadow: none;
+}
+
+.md-typeset details.sheet-list:focus-within {
+  box-shadow: none;
+}
+
+.md-typeset details.sheet-list > summary {
+  display: flex;
+  align-items: center;
+  min-height: 24px;
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+  background: none;
+  cursor: pointer;
+  color: var(--md-typeset-a-color);
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+.md-typeset details.sheet-list > summary::before {
+  position: static;
+  width: auto;
+  height: auto;
+  content: "\25B8";
+  margin-right: 0.4em;
+  background: none;
+  -webkit-mask-image: none;
+  mask-image: none;
+}
+
+.md-typeset details.sheet-list > summary::after {
+  display: none;
+}
+
+.md-typeset details.sheet-list[open] > summary::before {
+  content: "\25BE";
+}
+
+.md-typeset details.sheet-list .md-typeset__scrollwrap {
+  margin: 0.5em 0 0;
+}
+
+.md-typeset details.sheet-list .md-typeset__table {
+  padding: 0;
+}
+
+.md-typeset details.sheet-list > summary::-webkit-details-marker {
+  display: none;
+}
+
+.md-typeset details.sheet-list > summary:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 2px;
 }
