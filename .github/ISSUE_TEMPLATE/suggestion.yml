@@ -1,0 +1,16 @@
+name: Suggest a topic or improvement
+description: Something isn't covered, or a page was hard to follow.
+body:
+  - type: textarea
+    id: goal
+    attributes:
+      label: What were you trying to do?
+    validations:
+      required: true
+  - type: textarea
+    id: stuck
+    attributes:
+      label: Where did the handbook fall short?
+      description: Name the page if there is one, and what was missing or unclear.
+    validations:
+      required: true
