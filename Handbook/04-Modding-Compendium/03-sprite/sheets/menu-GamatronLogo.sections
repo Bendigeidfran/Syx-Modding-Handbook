@@ -1,0 +1,20 @@
+logoGlyps[0] | 6, 6, 48, 80 | The first letter of GAMATRON, G. The picture is 48 by 80 pixels; the next letter is placed 45 pixels further along.
+logoGlyps[0] normal | 782, 6, 48, 80 | The normal map for logoGlyps[0].
+logoGlyps[1] | 66, 6, 64, 80 | The second letter of GAMATRON, A. The picture is 64 by 80 pixels; the next letter is placed 56 pixels further along.
+logoGlyps[1] normal | 842, 6, 64, 80 | The normal map for logoGlyps[1].
+logoGlyps[2] | 142, 6, 64, 80 | The third letter of GAMATRON, M. The picture is 64 by 80 pixels; the next letter is placed 64 pixels further along.
+logoGlyps[2] normal | 918, 6, 64, 80 | The normal map for logoGlyps[2].
+logoGlyps[3] | 218, 6, 64, 80 | The fourth letter of GAMATRON, A. The picture is 64 by 80 pixels; the next letter is placed 55 pixels further along.
+logoGlyps[3] normal | 994, 6, 64, 80 | The normal map for logoGlyps[3].
+logoGlyps[4] | 294, 6, 48, 80 | The fifth letter of GAMATRON, T. The picture is 48 by 80 pixels; the next letter is placed 46 pixels further along.
+logoGlyps[4] normal | 1070, 6, 48, 80 | The normal map for logoGlyps[4].
+logoGlyps[5] | 354, 6, 64, 80 | The sixth letter of GAMATRON, R. The picture is 64 by 80 pixels; the next letter is placed 57 pixels further along.
+logoGlyps[5] normal | 1130, 6, 64, 80 | The normal map for logoGlyps[5].
+logoGlyps[6] | 430, 6, 48, 80 | The seventh letter of GAMATRON, O. The picture is 48 by 80 pixels; the next letter is placed 48 pixels further along.
+logoGlyps[6] normal | 1206, 6, 48, 80 | The normal map for logoGlyps[6].
+logoGlyps[7] | 490, 6, 64, 80 | The eighth letter of GAMATRON, N. The picture is 64 by 80 pixels; the next letter is placed 57 pixels further along.
+logoGlyps[7] normal | 1266, 6, 64, 80 | The normal map for logoGlyps[7].
+logoFlash | 566, 6, 64, 80 | The flash that brightens and fades over each letter's place as the letter appears. The picture is 64 by 80 pixels.
+logoFlash normal | 1342, 6, 64, 80 | The normal map for logoFlash.
+logoPresents | 642, 6, 128, 32 | Meant for the word "presents". Loaded, but never drawn: the game writes the word in its heading font instead. The picture is 128 by 32 pixels.
+logoPresents normal | 1418, 6, 128, 32 | The normal map for logoPresents.

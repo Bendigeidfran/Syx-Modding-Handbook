@@ -32,6 +32,14 @@ A block's picture starts 6 pixels right of its left edge and 6 pixels down. The 
 
 The last block was meant for the word "presents", but the game writes that word in the large heading font instead, and never draws this block.
 
+### Example
+
+This is the vanilla `GamatronLogo.png`. The coloured lines between the blocks are part of the file's border and are never drawn. The flash and the "presents" block are faint white glows, so they barely show against the light background.
+
+Move over a block to see what it is and, for a letter, how far along the next letter is placed. The tooltip gives the left edge, top edge, width and height in pixels.
+
+![The vanilla menu/GamatronLogo.png: the eight letters of GAMATRON, the flash and the "presents" block, with their normal maps in the right half](../sheets/menu-GamatronLogo.png)
+
 ## How it's drawn
 
 The intro plays once each time the game starts, before the main menu. A click or a key press skips it.
