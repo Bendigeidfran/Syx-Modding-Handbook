@@ -29,7 +29,7 @@ Each entry in the block names a stat and contains these tags:
 | `MULTIPLIER` | Multiplies the stat's value before it's used. Values above 1 make the stat easier to satisfy fully. | Decimal, 0 to 100000 | `1` |
 | `EXPONENT` | Applied to the value after `MULTIPLIER`. Above 1, the stat is harder to satisfy; below 1, easier. | Decimal, 0.01 to 10 | `1` |
 | `INVERTED` | If `true`, the stat counts against the race: a value of 0 gives the full amount and a value of 1 gives nothing. | True/false | `false` |
-| `PRIO` | How prominently subjects mention this stat when they voice their opinions, together with the class's number. | Decimal, 0 to 100000 | The game's own priority for the stat |
+| `PRIO` | How prominently subjects mention this stat when they voice their opinions, together with the class's number. | Decimal, 0 to 100000, rounded down to a whole number | The game's own priority for the stat |
 | `DISMISS` | If `true`, the stat only ever adds. It counts towards fulfilment when it's met, but isn't counted in the total possible, so it never counts against the subject. | True/false | `false` |
 | `CHILD` | If `true`, children can use this service too, provided their parent's class can. | True/false | `false` |
 

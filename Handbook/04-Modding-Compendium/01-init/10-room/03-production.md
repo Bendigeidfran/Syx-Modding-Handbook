@@ -68,11 +68,13 @@ INDUSTRIES: [
 
 What the recipe consumes: each entry names a resource by its key, with its rate. This example comes from the vanilla `BATH_NORMAL.txt`.
 
+A canteen must have at least one entry, because its cooks fetch the first entry as fuel, and the game crashes without it. See [CANTEEN](13-service.md#canteen).
+
 | | |
 |---|---|
 | **Type** | Block of decimals, keyed by resource |
 | **Range** | Each value 0 to 10000 |
-| **Required** | No |
+| **Required** | No, except for canteens |
 
 ```text
 IN: {
@@ -86,7 +88,7 @@ What the recipe produces: each entry names a resource by its key. An entry can b
 
 Every resource needs at least one room producing it at a rate above 0, whose ingredients can also be produced, or the game crashes while it's running. See [Every resource needs a producer](../09-resource/01-resource-file.md#every-resource-needs-a-producer).
 
-Whether it's needed depends on the room type. Every recipe in `INDUSTRIES` must have an entry, or the game stops loading with an error. That covers workshops, refiners, pastures and hunters. Farms and orchards must have one too, or the game crashes while loading. Rooms that only consume resources, such as bathhouses, leave it out.
+Whether it's needed depends on the room type. Every recipe in `INDUSTRIES` must have an entry, or the game stops loading with an error. That covers workshops, refiners, pastures and hunters. Farms and orchards must have one too, or the game crashes while loading. Rooms that only consume resources, such as bathhouses, leave it out. A canteen must have no entries at all: any entry crashes the game while it loads.
 
 | | |
 |---|---|

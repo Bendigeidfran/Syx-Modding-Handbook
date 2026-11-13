@@ -52,6 +52,8 @@ RADIUS: 100,
 
 How much access to the service matters to subjects. It's in the same format as an entry in a race's [`STATS`](../07-race/03-stats.md#format) block, and it's the default for races that don't list this service there.
 
+Here `PRIO` defaults to `1`. A race that lists this service without its own `PRIO` takes the value from here.
+
 | | |
 |---|---|
 | **Type** | Block |
@@ -166,6 +168,8 @@ VERB: "Washing up",
 #### MORE
 
 Things subjects say when they want more of this service, as a list of text. Rooms that give access to a service need this.
+
+The list can be empty (`[]`), and then subjects use the game's own default line instead.
 
 | | |
 |---|---|

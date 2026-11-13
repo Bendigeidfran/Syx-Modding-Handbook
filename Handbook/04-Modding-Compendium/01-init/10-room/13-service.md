@@ -257,7 +257,9 @@ The images the room is drawn with. Each name is a required [sprite entry](../../
 
 ## CANTEEN
 
-Its need is fixed to hunger. Its `INDUSTRY` block has `IN` entries for what it consumes as fuel. It has exactly two `ITEMS`, in this order: the cooking station and the tables. It has three statistics. Vanilla gives it a low `SERVICE.USAGE` of `0.125`, which makes subjects less inclined to eat here.
+Its need is fixed to hunger. Its `INDUSTRY` block must have at least one `IN` entry. The first is the fuel its cooks fetch, and without one the game crashes when they go to fetch it. The cooks never fetch any entry after the first. The block must have no `OUT` entries: the game builds a recipe for each, and crashes while loading because a canteen has no production bonus to give it. Vanilla writes `OUT` as an empty block.
+
+It has exactly two `ITEMS`, in this order: the cooking station and the tables. It has three statistics, in this order: services (how many it can serve at once), employees and tables. The game names the first two itself, so it ignores the `NAME` and `DESC` in their `STATS` blocks, though both blocks must still be there. Vanilla gives it a low `SERVICE.USAGE` of `0.125`, which makes subjects less inclined to eat here.
 
 ### WORK
 
@@ -299,7 +301,7 @@ The images the room is drawn with. Each name is a required [sprite entry](../../
 
 ## EATERY
 
-Its need is fixed to hunger. It has exactly one `ITEMS` block, the stall, and two statistics.
+Its need is fixed to hunger. It has exactly one `ITEMS` block, the stall, and two statistics, services (how many it can serve at once) and employees. The game names both itself, so it ignores the `NAME` and `DESC` in their `STATS` blocks, though both blocks must still be there.
 
 The examples come from the vanilla `EATERY_NORMAL.txt`.
 
@@ -649,7 +651,7 @@ The images the room is drawn with. Each name is a required [sprite entry](../../
 
 ## TAVERN
 
-Its need is fixed to thirst, so vanilla's `NEED: THIRST` is ignored. It has exactly three `ITEMS`, in this order: the table, the nicknacks and the carpets. It has two statistics. The colour of the drink in its jugs comes from [init/resource/drinkable](../09-resource/02-drinkable.md).
+Its need is fixed to thirst, so vanilla's `NEED: THIRST` is ignored. It has exactly three `ITEMS`, in this order: the table, the nicknacks and the carpets. It has two statistics, in this order: services (how many it can serve at once) and coziness. The game names the first itself, so it ignores the `NAME` and `DESC` in its `STATS` block, though the block must still be there. It takes the name and description of the second from the text file. The colour of the drink in its jugs comes from [init/resource/drinkable](../09-resource/02-drinkable.md).
 
 ### SPRITES
 
