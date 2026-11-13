@@ -145,6 +145,20 @@
   outline-color: #b08a4a;
 }
 
+/* 1.4.11: the font sheet's characters are white, so it always gets the dark backing
+   (white is 12:1 on it, the outlines #b08a4a 3.8:1). */
+.md-typeset figure.sheet:has(img[src$="font-Medium-crop.png"]),
+.md-typeset figure.sheet:has(img[src$="font-Medium-crop.png"]) .sheet-part:hover,
+.md-typeset figure.sheet:has(img[src$="font-Medium-crop.png"]) .sheet-part:focus {
+  background: repeating-conic-gradient(#2c2820 0% 25%, #3a352b 0% 50%) 0 0 / 16px 16px;
+}
+
+.md-typeset figure.sheet:has(img[src$="font-Medium-crop.png"]) .sheet-part,
+.md-typeset figure.sheet:has(img[src$="font-Medium-crop.png"]) .sheet-part:hover .sheet-art,
+.md-typeset figure.sheet:has(img[src$="font-Medium-crop.png"]) .sheet-part:focus .sheet-art {
+  outline-color: #b08a4a;
+}
+
 @media (prefers-reduced-motion: reduce) {
   .md-typeset .sheet-art {
     transition: none;

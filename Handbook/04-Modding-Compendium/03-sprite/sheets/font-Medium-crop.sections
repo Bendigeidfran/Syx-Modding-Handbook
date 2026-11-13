@@ -1,0 +1,64 @@
+0, 1, 1, 24 | 0, 1, 1, 24 | Marker column for character 0, !. It has 6 pixels that aren't pure green, so the character is drawn 6 pixels lower than one with none.
+1, 1, 24, 24 | 1, 1, 24, 24 | Character 0 in CHARS: !. Its width, measured to its rightmost pixel that isn't empty, is 4 pixels.
+26, 1, 1, 24 | 26, 1, 1, 24 | Marker column for character 1, ". It has 6 pixels that aren't pure green, so the character is drawn 6 pixels lower than one with none.
+27, 1, 24, 24 | 27, 1, 24, 24 | Character 1 in CHARS: ". Its width, measured to its rightmost pixel that isn't empty, is 7 pixels.
+52, 1, 1, 24 | 52, 1, 1, 24 | Marker column for character 2, #. It has 6 pixels that aren't pure green, so the character is drawn 6 pixels lower than one with none.
+53, 1, 24, 24 | 53, 1, 24, 24 | Character 2 in CHARS: #. Its width, measured to its rightmost pixel that isn't empty, is 15 pixels.
+78, 1, 1, 24 | 78, 1, 1, 24 | Marker column for character 3, $. It has 5 pixels that aren't pure green, so the character is drawn 5 pixels lower than one with none.
+79, 1, 24, 24 | 79, 1, 24, 24 | Character 3 in CHARS: $. Its width, measured to its rightmost pixel that isn't empty, is 11 pixels.
+104, 1, 1, 24 | 104, 1, 1, 24 | Marker column for character 4, %. It has 6 pixels that aren't pure green, so the character is drawn 6 pixels lower than one with none.
+105, 1, 24, 24 | 105, 1, 24, 24 | Character 4 in CHARS: %. Its width, measured to its rightmost pixel that isn't empty, is 18 pixels.
+130, 1, 1, 24 | 130, 1, 1, 24 | Marker column for character 5, &. It has 6 pixels that aren't pure green, so the character is drawn 6 pixels lower than one with none.
+131, 1, 24, 24 | 131, 1, 24, 24 | Character 5 in CHARS: &. Its width, measured to its rightmost pixel that isn't empty, is 16 pixels.
+156, 1, 1, 24 | 156, 1, 1, 24 | Marker column for character 6, '. It has 6 pixels that aren't pure green, so the character is drawn 6 pixels lower than one with none.
+157, 1, 24, 24 | 157, 1, 24, 24 | Character 6 in CHARS: '. Its width, measured to its rightmost pixel that isn't empty, is 3 pixels.
+182, 1, 1, 24 | 182, 1, 1, 24 | Marker column for character 7, (. It has 6 pixels that aren't pure green, so the character is drawn 6 pixels lower than one with none.
+183, 1, 24, 24 | 183, 1, 24, 24 | Character 7 in CHARS: (. Its width, measured to its rightmost pixel that isn't empty, is 7 pixels.
+208, 1, 1, 24 | 208, 1, 1, 24 | Marker column for character 8, ). It has 6 pixels that aren't pure green, so the character is drawn 6 pixels lower than one with none.
+209, 1, 24, 24 | 209, 1, 24, 24 | Character 8 in CHARS: ). Its width, measured to its rightmost pixel that isn't empty, is 7 pixels.
+234, 1, 1, 24 | 234, 1, 1, 24 | Marker column for character 9, *. It has 5 pixels that aren't pure green, so the character is drawn 5 pixels lower than one with none.
+235, 1, 24, 24 | 235, 1, 24, 24 | Character 9 in CHARS: *. Its width, measured to its rightmost pixel that isn't empty, is 11 pixels.
+260, 1, 1, 24 | 260, 1, 1, 24 | Marker column for character 10, +. It has 9 pixels that aren't pure green, so the character is drawn 9 pixels lower than one with none.
+261, 1, 24, 24 | 261, 1, 24, 24 | Character 10 in CHARS: +. Its width, measured to its rightmost pixel that isn't empty, is 11 pixels.
+286, 1, 1, 24 | 286, 1, 1, 24 | Marker column for character 11, ,. It has 20 pixels that aren't pure green, so the character is drawn 20 pixels lower than one with none.
+287, 1, 24, 24 | 287, 1, 24, 24 | Character 11 in CHARS: ,. Its width, measured to its rightmost pixel that isn't empty, is 5 pixels.
+312, 1, 1, 24 | 312, 1, 1, 24 | Marker column for character 12, -. It has 15 pixels that aren't pure green, so the character is drawn 15 pixels lower than one with none.
+313, 1, 24, 24 | 313, 1, 24, 24 | Character 12 in CHARS: -. Its width, measured to its rightmost pixel that isn't empty, is 7 pixels.
+338, 1, 1, 24 | 338, 1, 1, 24 | Marker column for character 13, .. It has 20 pixels that aren't pure green, so the character is drawn 20 pixels lower than one with none.
+339, 1, 24, 24 | 339, 1, 24, 24 | Character 13 in CHARS: .. Its width, measured to its rightmost pixel that isn't empty, is 4 pixels.
+364, 1, 1, 24 | 364, 1, 1, 24 | Marker column for character 14, /. It has 6 pixels that aren't pure green, so the character is drawn 6 pixels lower than one with none.
+365, 1, 24, 24 | 365, 1, 24, 24 | Character 14 in CHARS: /. Its width, measured to its rightmost pixel that isn't empty, is 9 pixels.
+390, 1, 1, 24 | 390, 1, 1, 24 | Marker column for character 15, 0. It has 6 pixels that aren't pure green, so the character is drawn 6 pixels lower than one with none.
+391, 1, 24, 24 | 391, 1, 24, 24 | Character 15 in CHARS: 0. Its width, measured to its rightmost pixel that isn't empty, is 12 pixels.
+0, 27, 1, 24 | 0, 27, 1, 24 | Marker column for character 64, a. It has 10 pixels that aren't pure green, so the character is drawn 10 pixels lower than one with none.
+1, 27, 24, 24 | 1, 27, 24, 24 | Character 64 in CHARS: a. Its width, measured to its rightmost pixel that isn't empty, is 11 pixels.
+26, 27, 1, 24 | 26, 27, 1, 24 | Marker column for character 65, b. It has 5 pixels that aren't pure green, so the character is drawn 5 pixels lower than one with none.
+27, 27, 24, 24 | 27, 27, 24, 24 | Character 65 in CHARS: b. Its width, measured to its rightmost pixel that isn't empty, is 12 pixels.
+52, 27, 1, 24 | 52, 27, 1, 24 | Marker column for character 66, c. It has 10 pixels that aren't pure green, so the character is drawn 10 pixels lower than one with none.
+53, 27, 24, 24 | 53, 27, 24, 24 | Character 66 in CHARS: c. Its width, measured to its rightmost pixel that isn't empty, is 10 pixels.
+78, 27, 1, 24 | 78, 27, 1, 24 | Marker column for character 67, d. It has 5 pixels that aren't pure green, so the character is drawn 5 pixels lower than one with none.
+79, 27, 24, 24 | 79, 27, 24, 24 | Character 67 in CHARS: d. Its width, measured to its rightmost pixel that isn't empty, is 12 pixels.
+104, 27, 1, 24 | 104, 27, 1, 24 | Marker column for character 68, e. It has 10 pixels that aren't pure green, so the character is drawn 10 pixels lower than one with none.
+105, 27, 24, 24 | 105, 27, 24, 24 | Character 68 in CHARS: e. Its width, measured to its rightmost pixel that isn't empty, is 11 pixels.
+130, 27, 1, 24 | 130, 27, 1, 24 | Marker column for character 69, f. It has 5 pixels that aren't pure green, so the character is drawn 5 pixels lower than one with none.
+131, 27, 24, 24 | 131, 27, 24, 24 | Character 69 in CHARS: f. Its width, measured to its rightmost pixel that isn't empty, is 10 pixels.
+156, 27, 1, 24 | 156, 27, 1, 24 | Marker column for character 70, g. It has 10 pixels that aren't pure green, so the character is drawn 10 pixels lower than one with none.
+157, 27, 24, 24 | 157, 27, 24, 24 | Character 70 in CHARS: g. Its width, measured to its rightmost pixel that isn't empty, is 13 pixels.
+182, 27, 1, 24 | 182, 27, 1, 24 | Marker column for character 71, h. It has 5 pixels that aren't pure green, so the character is drawn 5 pixels lower than one with none.
+183, 27, 24, 24 | 183, 27, 24, 24 | Character 71 in CHARS: h. Its width, measured to its rightmost pixel that isn't empty, is 12 pixels.
+208, 27, 1, 24 | 208, 27, 1, 24 | Marker column for character 72, i. It has 6 pixels that aren't pure green, so the character is drawn 6 pixels lower than one with none.
+209, 27, 24, 24 | 209, 27, 24, 24 | Character 72 in CHARS: i. Its width, measured to its rightmost pixel that isn't empty, is 4 pixels.
+234, 27, 1, 24 | 234, 27, 1, 24 | Marker column for character 73, j. It has 6 pixels that aren't pure green, so the character is drawn 6 pixels lower than one with none.
+235, 27, 24, 24 | 235, 27, 24, 24 | Character 73 in CHARS: j. Its width, measured to its rightmost pixel that isn't empty, is 5 pixels.
+260, 27, 1, 24 | 260, 27, 1, 24 | Marker column for character 74, k. It has 5 pixels that aren't pure green, so the character is drawn 5 pixels lower than one with none.
+261, 27, 24, 24 | 261, 27, 24, 24 | Character 74 in CHARS: k. Its width, measured to its rightmost pixel that isn't empty, is 12 pixels.
+286, 27, 1, 24 | 286, 27, 1, 24 | Marker column for character 75, l. It has 5 pixels that aren't pure green, so the character is drawn 5 pixels lower than one with none.
+287, 27, 24, 24 | 287, 27, 24, 24 | Character 75 in CHARS: l. Its width, measured to its rightmost pixel that isn't empty, is 4 pixels.
+312, 27, 1, 24 | 312, 27, 1, 24 | Marker column for character 76, m. It has 10 pixels that aren't pure green, so the character is drawn 10 pixels lower than one with none.
+313, 27, 24, 24 | 313, 27, 24, 24 | Character 76 in CHARS: m. Its width, measured to its rightmost pixel that isn't empty, is 19 pixels.
+338, 27, 1, 24 | 338, 27, 1, 24 | Marker column for character 77, n. It has 10 pixels that aren't pure green, so the character is drawn 10 pixels lower than one with none.
+339, 27, 24, 24 | 339, 27, 24, 24 | Character 77 in CHARS: n. Its width, measured to its rightmost pixel that isn't empty, is 12 pixels.
+364, 27, 1, 24 | 364, 27, 1, 24 | Marker column for character 78, o. It has 10 pixels that aren't pure green, so the character is drawn 10 pixels lower than one with none.
+365, 27, 24, 24 | 365, 27, 24, 24 | Character 78 in CHARS: o. Its width, measured to its rightmost pixel that isn't empty, is 12 pixels.
+390, 27, 1, 24 | 390, 27, 1, 24 | Marker column for character 79, p. It has 10 pixels that aren't pure green, so the character is drawn 10 pixels lower than one with none.
+391, 27, 24, 24 | 391, 27, 24, 24 | Character 79 in CHARS: p. Its width, measured to its rightmost pixel that isn't empty, is 12 pixels.
