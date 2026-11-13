@@ -13,7 +13,7 @@ This chapter shows one example of each kind of sheet. The images are unmodified 
 - [sprite/game](03-game.md)
 - [sprite/icon](04-icon.md)
 - [sprite/image](05-image.md)
-- sprite/menu
+- [sprite/menu](06-menu/00-menu.md)
 - [sprite/race](07-race/00-race.md)
 - [sprite/resource](08-resource.md)
 - [sprite/room](09-room/00-room.md)
