@@ -18,6 +18,6 @@ This chapter shows one example of each kind of sheet. The images are unmodified 
 - [sprite/resource](08-resource.md)
 - [sprite/room](09-room/00-room.md)
 - [sprite/settlement](10-settlement/00-settlement.md)
-- sprite/textures
+- [sprite/textures](11-textures.md)
 - [sprite/ui](12-ui/00-ui.md)
 - [sprite/world](13-world/00-world.md)
