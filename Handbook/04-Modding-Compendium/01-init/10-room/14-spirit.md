@@ -130,7 +130,7 @@ The images the room is drawn with. Each name is a required [sprite entry](../../
 
 ## SHRINE
 
-A shrine for one [religion](../08-religion.md). It has no workers. Its need is fixed in the game's code, and its `SERVICE` block only reads `RADIUS`. Its text file only needs `SERVICE.VERB`. It has exactly one `ITEMS` block (at least one per room) and one statistic.
+A shrine for one [religion](../08-religion.md). It has no workers. Its need is fixed in the game's code, and its `SERVICE` block only reads `RADIUS`. Its text file only needs `SERVICE.VERB`. It has exactly one `ITEMS` block (at least one per room) and one statistic, for worshippers. The game takes that statistic's name and description from the text file's `STATS`.
 
 The examples come from the vanilla `SHRINE_AMINION.txt`.
 
@@ -169,7 +169,9 @@ The images the room is drawn with. Each name is a required [sprite entry](../../
 
 ## TEMPLE
 
-A temple for one [religion](../08-religion.md). Its need is fixed in the game's code, and its `SERVICE` block only reads `RADIUS`. Its text file only needs `SERVICE.VERB`. Vanilla's temple text files also have a `RELIGION` block, which the game doesn't read. A temple has exactly five `ITEMS`, in this order: the altar, the decorations, the torch, the relief and the pathway. It has five statistics.
+A temple for one [religion](../08-religion.md). Its need is fixed in the game's code, and its `SERVICE` block only reads `RADIUS`. Its text file only needs `SERVICE.VERB`. Vanilla's temple text files also have a [`RELIGION`](#the-text-file) block, which the game doesn't read. A temple has exactly five `ITEMS`, in this order: the altar, the decorations, the torch, the relief and the pathway.
+
+It has five statistics, in this order: priests, worshippers, decoration, grandeur and space. The game names priests and worshippers itself, so it ignores the `NAME` and `DESC` in their `STATS` blocks, though both blocks must still be there. It takes the names and descriptions of the other three from the text file.
 
 The examples come from the vanilla `TEMPLE_AMINION.txt` unless stated otherwise.
 
@@ -273,7 +275,28 @@ The images the room is drawn with. Each name is a required [sprite entry](../../
 
 ## _DUMP_CORPSE
 
-The corpse dump. It has no `ITEMS` or `SPRITES`, and one statistic. Its text file only needs `SERVICE.VERB`, and vanilla's `SERVICE` block is empty. It has no tags of its own, but it's the only vanilla room that sets [`DEGRADE_RATE`](01-common.md#degrade_rate).
+The corpse dump. It has no `ITEMS` or `SPRITES`, and one statistic. Its text file only needs `SERVICE.VERB`, and the `SERVICE` block in vanilla's room file is empty. It has no tags of its own, but it's the only vanilla room that sets [`DEGRADE_RATE`](01-common.md#degrade_rate).
+
+## The text file
+
+Vanilla's temple text files have one extra block at the top level, which the game never reads. The example comes from the vanilla `TEMPLE_ATHURI.txt`.
+
+### RELIGION
+
+A name and description for the temple's religion. The game never reads this block from a room's text file: a religion's own name and description come from its file in [`assets/text/religion/`](../../02-text/11-religion.md).
+
+| | |
+|---|---|
+| **Type** | Block |
+| **Required** | No |
+| **Effect** | Unread |
+
+```text
+RELIGION: {
+	NAME: "Athurism",
+	DESC: "Followers of Athuri, the greatest of the Astari. Promotes enlightenment and productivity. His temples accept Sithilon offerings",
+},
+```
 
 ## Related
 

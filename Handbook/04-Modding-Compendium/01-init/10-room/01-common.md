@@ -414,7 +414,7 @@ NAME: "Storage",
 
 #### DESC
 
-The item's description.
+The item's description. It can be empty (`""`), as in the vanilla `SHRINE_AMINION.txt`.
 
 | | |
 |---|---|

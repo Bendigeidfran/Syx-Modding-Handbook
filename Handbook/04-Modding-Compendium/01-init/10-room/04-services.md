@@ -181,6 +181,24 @@ MORE: [
 ],
 ```
 
+#### NAME and NAMES
+
+The game never reads these from the text file's `SERVICE` block, though vanilla's temples, shrines, `SCHOOL_NORMAL`, `UNIVERSITY_NORMAL`, `_INN` and `_DUMP_CORPSE` have them. This example comes from the vanilla `TEMPLE_ATHURI.txt`.
+
+| | |
+|---|---|
+| **Type** | Text |
+| **Required** | No |
+| **Effect** | Unread |
+
+```text
+SERVICE: {
+	NAME: "Temple",
+	NAMES: "Temples",
+	VERB: "Worshipping",
+},
+```
+
 ## Related
 
 - [init/room](00-room.md)
