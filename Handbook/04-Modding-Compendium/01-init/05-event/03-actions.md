@@ -510,7 +510,7 @@ Plays ambient sound while the event lasts. Vanilla doesn't use this action.
 
 | Tag | Meaning | Required |
 |---|---|---|
-| `AMBIANCE` | The ambient sound, or a list of them, by name. Ambient sounds will be covered in the audio chapter. | No |
+| `AMBIANCE` | The recording to play, or a list of them, as a [sound path](../../04-audio/00-audio.md#sound-paths) relative to `assets/audio/ambience`. It names the files directly, not an entry in [audio/config/ambience](../../04-audio/02-config/01-ambience.md). If it names several files, they all play together. | No |
 | `CITY` | Play the sound while viewing your settlement. | No. Default `true`. |
 | `WORLD` | Play the sound while viewing the world map. | No. Default `false`. |
 

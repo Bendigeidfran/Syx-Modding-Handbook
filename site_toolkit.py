@@ -11,6 +11,7 @@ any named in PAGE_MAP. Anything the file would get wrong is logged as a warning,
 which makes "mkdocs build --strict" fail.
 """
 import hashlib
+import html
 import json
 import logging
 import os
@@ -187,6 +188,7 @@ PAGE_MAP = {
             "TAVERN": {"location": "assets/init/room/TAVERN_*"},
             "WELL": {"location": "assets/init/room/WELL_*"},
             "_HEARTH": {"location": "assets/init/room/_HEARTH.txt"},
+            "The text file": {"location": "assets/init/room/BATH_*", "text": True},
         },
     },
     "01-init/10-room/14-spirit.md": {
@@ -221,7 +223,9 @@ PAGE_MAP = {
     "03-sprite/03-game.md": {"sections": {"Sprite entries": ""}},
 }
 
-_NAME = r"[A-Z0-9_*]+(?:\.[A-Z0-9_*]+)*"
+# A <KEY>-style placeholder stands for a name built from a key, as table rows already write it.
+_PART = r"(?:[A-Z0-9_*]|<[A-Z]+>)+"
+_NAME = rf"{_PART}(?:\.{_PART})*"
 TAG_HEADING = re.compile(rf"{_NAME}(?:(?:, {_NAME})*(?:,? and {_NAME})?)$")
 LOCATION_ROW = re.compile(r"^\| \*\*Location\*\* \| `([^`]+)`", re.M)
 FACTS_ROW = re.compile(r"\*\*([^*]+)\*\*$")
@@ -282,7 +286,8 @@ class _Page:
         return entry
 
     def _heading(self, level, title):
-        title = title.strip()
+        # A heading writes "<" as "&lt;", and the anchor is made from the unescaped text, as the toc extension does.
+        title = html.unescape(title.strip())
         self.anchor = unique(slugify(title.replace("`", ""), "-"), self.slugs)
         self.slugs.add(self.anchor)
         if level == 2:

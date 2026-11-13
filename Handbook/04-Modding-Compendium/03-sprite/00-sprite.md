@@ -6,7 +6,7 @@ In the game's data, the folder is at `data/assets/sprite`. In a mod, it goes in 
 
 This chapter shows one example of each kind of sheet. The images are unmodified copies from the game. They belong to the game's developer, are shown with the developer's permission and aren't covered by the handbook's CC BY-SA licence.
 
-*Most of this chapter hasn't been written yet.* Its sections follow the game's sub-folders:
+Its sections follow the game's sub-folders:
 
 - [sprite/animal](01-animal.md)
 - [sprite/font](02-font.md)

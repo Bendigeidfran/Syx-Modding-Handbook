@@ -23,6 +23,8 @@ Last tested on 13 November 2026, against Songs of Syx Modding Handbook for v0.71
 - Every page was checked for sideways scrolling at 320 pixels wide.
 - The colour contrast of text that axe couldn't measure automatically was measured separately in both themes.
 - The sprite sheet controls were tested with the mouse and the keyboard in Microsoft Edge.
+- Pages were used with the keyboard alone and zoomed to 200% by hand.
+- The site hasn't yet been tested with a screen reader. Labels, headings and table headers were checked in the page code instead. If you use a screen reader and something doesn't work, please report it (see below).
 
 ## Known limitations
 

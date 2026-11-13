@@ -517,7 +517,7 @@ For rooms whose key starts with `_`, the name has a single underscore: `_HOME` g
 
 ### Sound
 
-A room's sounds aren't set in its file. The game looks them up by name in the files in `assets/audio/config/`: `ROOM_<KEY>` in `ambience/`, and `ROOM_CLICK_<KEY>`, `ROOM_WORK_<KEY>` and `ROOM_SERVICE_<KEY>` in `mono/`. Every room looks up the first two, rooms with workers look up `ROOM_WORK_<KEY>`, and service rooms look up `ROOM_SERVICE_<KEY>`.
+A room's sounds aren't set in its file. The game looks them up by name in the files in `assets/audio/config/`: `ROOM_<KEY>` in `ambience/`, and `ROOM_CLICK_<KEY>`, `ROOM_WORK_<KEY>` and `ROOM_SERVICE_<KEY>` in `mono/`. Every room looks up the first two, rooms with workers look up `ROOM_WORK_<KEY>`, and service rooms look up `ROOM_SERVICE_<KEY>`. See [audio/config/ambience](../../04-audio/02-config/01-ambience.md) and [audio/config/mono](../../04-audio/02-config/03-mono.md).
 
 If an entry is missing, that sound doesn't play and the game carries on. The first missing entry in `mono/` is only reported when Debug is on, and so is the first in `ambience/`. Each one after that is recorded as an error, and the game lists them in an error box when it closes. Animal calls count towards the `mono/` entries.
 

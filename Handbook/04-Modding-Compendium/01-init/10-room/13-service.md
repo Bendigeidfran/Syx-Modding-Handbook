@@ -77,7 +77,9 @@ The images the room is drawn with. Each name is a required [sprite entry](../../
 
 ## BARBER
 
-Its `SERVICE` block reads `NEED`. It has exactly two `ITEMS`, in this order: the booth and the carpet. It has three statistics.
+Its `SERVICE` block reads `NEED`. It has exactly two `ITEMS`, in this order: the booth and the carpet. It has three statistics, in this order: services (how many it can serve at once), employees and quality. The game names the first two itself, so it ignores the `NAME` and `DESC` in their `STATS` blocks, though both blocks must still be there. It takes the name and description of the third from the text file.
+
+The game loads a barber without a `WORK` block, but then it serves nobody: a booth can only be used after a barber has worked at it.
 
 The examples come from the vanilla `BARBER_NORMAL.txt`.
 
@@ -116,7 +118,7 @@ The images the room is drawn with. Each name is a required [sprite entry](../../
 
 ## BATH
 
-Its `SERVICE` block reads `NEED`. Its `INDUSTRY` block has `IN` entries for what it consumes to heat the water, with no output. It has exactly two `ITEMS`, in this order: the basin and the benches. It has two statistics. Its text file needs some extra tags, listed under [The text file](#the-text-file).
+Its `SERVICE` block reads `NEED`. Its `INDUSTRY` block has [`IN`](#industryin) entries for what it consumes to heat the water, and must have no `OUT` entries: the game builds a recipe for each, and crashes while loading because a bathhouse has no production bonus to give it. It has exactly two `ITEMS`, in this order: the basin and the benches. It has two statistics, baths and relaxation, and it takes the names and descriptions of both from the text file. Its text file needs some extra tags, listed under [The text file](#the-text-file).
 
 The examples come from the vanilla `BATH_NORMAL.txt`.
 
@@ -135,6 +137,24 @@ WORK: {
 	SOUND: work->Crank*,
 	USES_TOOL: false,
 	FULFILLMENT: 0.25,
+},
+```
+
+### INDUSTRY.IN
+
+The fuel that heats the water, in the form described on the [production](03-production.md#industryin) page. It must have at least one entry: the ovens fetch the first as fuel, and a built bathhouse crashes the game without it. The `INDUSTRY` block must have no `OUT`.
+
+| | |
+|---|---|
+| **Type** | Block of decimals, keyed by resource |
+| **Range** | 1 or more entries, each value 0 to 10000 |
+| **Required** | Yes |
+
+```text
+INDUSTRY: {
+	IN: {
+		COAL: 1.5,
+	},
 },
 ```
 
@@ -424,7 +444,9 @@ The images the room is drawn with. Each name is a required [sprite entry](../../
 
 ## LAVATORY
 
-Its `SERVICE` block reads `NEED`. It has exactly two `ITEMS`, in this order: the latrine and the basins. It has three statistics.
+Its `SERVICE` block reads `NEED`. It has exactly two `ITEMS`, in this order: the latrine and the basins. It has three statistics, in this order: services (how many it can serve at once), employees and basins. The game names the first two itself, so it ignores the `NAME` and `DESC` in their `STATS` blocks, though both blocks must still be there. It takes the name and description of the third from the text file.
+
+The game loads a lavatory without a `WORK` block, but each latrine then serves only four times: after that it needs cleaning, which only a worker does.
 
 The examples come from the vanilla `LAVATORY_NORMAL.txt`.
 
@@ -697,7 +719,7 @@ The images the room is drawn with. Each name is a required [sprite entry](../../
 
 ## WELL
 
-It has no workers. Its `SERVICE` block reads `NEED`. It has exactly one `ITEMS` block and one statistic.
+It has no workers. Its `SERVICE` block reads `NEED`. It has exactly one `ITEMS` block and one statistic, whose name and description the game takes from the text file.
 
 ### SPRITES
 
@@ -746,7 +768,7 @@ The name of the heating statistic in the room's panel.
 | | |
 |---|---|
 | **Type** | Text |
-| **Required** | Yes, for bathhouses |
+| **Required** | Yes |
 
 ```text
 HEATING: "Heating",
@@ -759,7 +781,7 @@ The description of the heating statistic.
 | | |
 |---|---|
 | **Type** | Text |
-| **Required** | Yes, for bathhouses |
+| **Required** | Yes |
 
 ```text
 HEATING_DESC: "Current Heating of the basins. Make sure coal is nearby",
@@ -772,7 +794,7 @@ The warning shown when the water is too cold.
 | | |
 |---|---|
 | **Type** | Text |
-| **Required** | Yes, for bathhouses |
+| **Required** | Yes |
 
 ```text
 HEATING_PROBLEM: "Low heating decreases the experience!",
@@ -785,7 +807,7 @@ The game must find this tag, but the warning that would use it is switched off i
 | | |
 |---|---|
 | **Type** | Text |
-| **Required** | Yes, for bathhouses |
+| **Required** | Yes |
 | **Effect** | None |
 
 ```text
