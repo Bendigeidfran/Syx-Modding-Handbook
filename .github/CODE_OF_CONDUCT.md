@@ -19,7 +19,7 @@ This handbook exists to help people learn to mod Songs of Syx. Everyone taking p
 
 ## Reporting a problem
 
-Use GitHub's **Report content** option on the comment or issue (the `...` menu in its top corner). Reports go to the repository maintainer, who will review them in private.
+Use GitHub's **Report content** option on the comment or issue (the `...` menu in its top corner). This sends a private report to GitHub. The maintainer also moderates the repository directly and acts on anything that breaks this code of conduct.
 
 ## What happens next
 
